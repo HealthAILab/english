@@ -114,11 +114,13 @@ const els = {
   nextSentenceBtn: document.getElementById("nextSentenceBtn"),
   sampleSentenceBtn: document.getElementById("sampleSentenceBtn"),
   recordSentenceBtn: document.getElementById("recordSentenceBtn"),
+  reciteSentenceBtn: document.getElementById("reciteSentenceBtn"),
   finishReadingBtn: document.getElementById("finishReadingBtn"),
 };
 
 const levelLabels = { primary: "小学版", high: "高中版", read: "读句子" };
 const READ_REQUIRED_ATTEMPTS = 10;
+const RECITE_PASS_SCORE = 60;
 const ASSET_VERSION = "34";
 const GROUP_SIZE_BY_LEVEL = { primary: 10, high: 50 };
 const petLevelNames = [
@@ -302,7 +304,7 @@ function addLevelGroup(reason = "manual", targetLevel = state.level) {
   pet.lastFedAt = Date.now();
   state.pets[targetLevel] = pet;
   saveProgress();
-  if (targetLevel === state.level) renderPet();
+  if (targetLevel === activePetLevel()) renderPet();
 }
 
 function activeWord() {
@@ -1374,15 +1376,21 @@ function activeSentenceProgress(item) {
       attempts: Array.isArray(progress.attempts) && progress.attempts.length ? progress.attempts : [],
       activeAttemptIndex: Number.isFinite(progress.activeAttemptIndex) ? progress.activeAttemptIndex : 0,
       rewarded: Boolean(progress.rewarded),
+      recite: progress.recite || null,
+      reciteRewarded: Boolean(progress.reciteRewarded),
     };
     progress.attempts = [];
     progress.rewarded = false;
+    progress.recite = null;
+    progress.reciteRewarded = false;
     progress.activeAttemptIndex = 0;
   }
   const sentenceProgress = progress.sentences[item.id];
   if (!Array.isArray(sentenceProgress.attempts)) sentenceProgress.attempts = [];
+  if (!("recite" in sentenceProgress)) sentenceProgress.recite = null;
+  if (!("reciteRewarded" in sentenceProgress)) sentenceProgress.reciteRewarded = false;
   if (!Number.isFinite(sentenceProgress.activeAttemptIndex)) {
-    sentenceProgress.activeAttemptIndex = Math.min(sentenceProgress.attempts.length, READ_REQUIRED_ATTEMPTS - 1);
+    sentenceProgress.activeAttemptIndex = sentenceProgress.attempts.length;
   }
   return sentenceProgress;
 }
@@ -1416,7 +1424,7 @@ function rerunReadAttempt(index) {
   if (!item) return;
   cancelActiveReadSession();
   const sentenceProgress = activeSentenceProgress(item);
-  sentenceProgress.activeAttemptIndex = Math.max(0, Math.min(index, READ_REQUIRED_ATTEMPTS - 1));
+  sentenceProgress.activeAttemptIndex = Math.max(0, Math.min(index, sentenceProgress.attempts.length));
   saveProgress();
   renderReadChallenge();
   setTimeout(() => {
@@ -1435,19 +1443,28 @@ function renderReadChallenge() {
     els.readScoreProgress.style.width = "0%";
     els.readFeedback.textContent = "请先加载句子数据。";
     els.readAttempts.innerHTML = "";
+    els.recordSentenceBtn.disabled = false;
+    els.reciteSentenceBtn.disabled = true;
     return;
   }
   const sentenceProgress = activeSentenceProgress(item);
   const attempts = sentenceProgress.attempts;
   const average = attempts.length ? Math.round(attempts.reduce((sum, item) => sum + item.score, 0) / attempts.length) : 0;
+  const readComplete = attempts.length >= READ_REQUIRED_ATTEMPTS;
+  const reciteScore = sentenceProgress.recite?.score;
+  const reciteStatus = sentenceProgress.reciteRewarded
+    ? `背诵通过 ${reciteScore} 分`
+    : readComplete
+      ? "可背诵评分，60分通过"
+      : "完成10遍后可背诵";
   els.readSentenceNo.textContent = `Sentence ${String(item.number).padStart(2, "0")} / ${sentenceChallenges.length}`;
   els.readEnglish.textContent = item.en;
   els.readChinese.textContent = item.zh;
-  els.readAttemptText.textContent = `跟读 ${Math.min(attempts.length, READ_REQUIRED_ATTEMPTS)} / ${READ_REQUIRED_ATTEMPTS} · 当前第 ${Math.min(sentenceProgress.activeAttemptIndex + 1, READ_REQUIRED_ATTEMPTS)} 遍`;
-  els.readAverageText.textContent = attempts.length ? `平均分 ${average}` : "平均分 --";
+  els.readAttemptText.textContent = `跟读 ${attempts.length} / ${READ_REQUIRED_ATTEMPTS} · 当前第 ${sentenceProgress.activeAttemptIndex + 1} 遍`;
+  els.readAverageText.textContent = attempts.length ? `平均分 ${average} · ${reciteStatus}` : `平均分 -- · ${reciteStatus}`;
   els.readScoreProgress.style.width = `${Math.min(100, (attempts.length / READ_REQUIRED_ATTEMPTS) * 100)}%`;
+  els.reciteSentenceBtn.disabled = !readComplete;
   els.readAttempts.innerHTML = attempts
-    .slice(0, READ_REQUIRED_ATTEMPTS)
     .map(
       (attempt, index) => `
         <div class="read-attempt ${index === sentenceProgress.activeAttemptIndex ? "active" : ""}">
@@ -1529,10 +1546,12 @@ async function recordSentenceReading() {
   }
   try {
     els.recordSentenceBtn.disabled = true;
+    els.reciteSentenceBtn.disabled = true;
     els.readFeedback.textContent = "正在准备麦克风。";
     await ensureMicrophoneReady();
   } catch {
     els.recordSentenceBtn.disabled = false;
+    renderReadChallenge();
     els.readFeedback.textContent = "麦克风未授权，无法跟读评分。请在浏览器地址栏允许麦克风。";
     return;
   }
@@ -1566,10 +1585,12 @@ async function recordSentenceReading() {
   const saveAttempt = async () => {
     if (!gotResult) {
       els.readFeedback.textContent = "没有识别到声音。iPad 浏览器语音识别不稳定，请靠近麦克风再试，或改用电脑 Chrome/Edge。";
+      renderReadChallenge();
       return;
     }
     const sentenceProgress = activeSentenceProgress(item);
-    const activeIndex = Math.max(0, Math.min(Number(sentenceProgress.activeAttemptIndex || 0), READ_REQUIRED_ATTEMPTS - 1));
+    const requestedIndex = Number(sentenceProgress.activeAttemptIndex || 0);
+    const activeIndex = Math.max(0, Math.min(requestedIndex, sentenceProgress.attempts.length));
     let audio = "";
     if (audioChunks.length) {
       try {
@@ -1579,10 +1600,7 @@ async function recordSentenceReading() {
       }
     }
     sentenceProgress.attempts[activeIndex] = { score, text: spoken, audio, at: Date.now() };
-    sentenceProgress.attempts = sentenceProgress.attempts.slice(0, READ_REQUIRED_ATTEMPTS);
-    if (activeIndex < READ_REQUIRED_ATTEMPTS - 1) {
-      sentenceProgress.activeAttemptIndex = Math.min(activeIndex + 1, sentenceProgress.attempts.length);
-    }
+    sentenceProgress.activeAttemptIndex = sentenceProgress.attempts.length;
     els.readFeedback.textContent = `第 ${activeIndex + 1} 遍 ${score} 分。`;
     if (sentenceProgress.attempts.length >= READ_REQUIRED_ATTEMPTS && !sentenceProgress.rewarded) {
       sentenceProgress.rewarded = true;
@@ -1650,6 +1668,7 @@ async function recordSentenceReading() {
     }
     els.finishReadingBtn.disabled = true;
     els.recordSentenceBtn.disabled = false;
+    renderReadChallenge();
     try {
       recognition.abort?.();
     } catch {
@@ -1688,6 +1707,7 @@ async function recordSentenceReading() {
     activeReadFinish = null;
     els.finishReadingBtn.disabled = true;
     els.recordSentenceBtn.disabled = false;
+    renderReadChallenge();
     els.readFeedback.textContent = "语音识别启动失败，请重新点击跟读评分。";
     return;
   }
@@ -1723,6 +1743,167 @@ function finishSentenceReading() {
     els.finishReadingBtn.disabled = true;
     els.recordSentenceBtn.disabled = false;
   }
+}
+
+async function recordSentenceRecite() {
+  const item = activeSentenceChallenge();
+  if (!item) return;
+  const sentenceProgress = activeSentenceProgress(item);
+  if (sentenceProgress.attempts.length < READ_REQUIRED_ATTEMPTS) {
+    els.readFeedback.textContent = `请先完成 ${READ_REQUIRED_ATTEMPTS} 遍跟读，再进行背诵评分。`;
+    return;
+  }
+  cancelActiveReadSession();
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if (!SpeechRecognition) {
+    els.readFeedback.textContent = "当前浏览器不支持语音识别，请使用 Chrome 或 Edge。";
+    return;
+  }
+  try {
+    els.recordSentenceBtn.disabled = true;
+    els.reciteSentenceBtn.disabled = true;
+    els.readFeedback.textContent = "正在准备麦克风。";
+    await ensureMicrophoneReady();
+  } catch {
+    els.recordSentenceBtn.disabled = false;
+    renderReadChallenge();
+    els.readFeedback.textContent = "麦克风未授权，无法背诵评分。请在浏览器地址栏允许麦克风。";
+    return;
+  }
+
+  const recognition = new SpeechRecognition();
+  recognition.lang = "en-US";
+  recognition.continuous = true;
+  recognition.interimResults = false;
+  recognition.maxAlternatives = 1;
+  els.readFeedback.textContent = "正在听背诵，请背完后点“已读完”。";
+
+  let spoken = "";
+  let score = 0;
+  let gotResult = false;
+  let finished = false;
+  let cancelled = false;
+  let userFinished = false;
+  let restartCount = 0;
+  let listenTimer = null;
+
+  const saveRecite = () => {
+    if (!gotResult) {
+      els.readFeedback.textContent = "没有识别到背诵内容，请靠近麦克风再试。";
+      renderReadChallenge();
+      return;
+    }
+    const latestProgress = activeSentenceProgress(item);
+    latestProgress.recite = { score, text: spoken, at: Date.now() };
+    if (score >= RECITE_PASS_SCORE && !latestProgress.reciteRewarded) {
+      latestProgress.reciteRewarded = true;
+      addLevelGroup("recite100", "primary");
+      els.readFeedback.textContent = `背诵通过，${score} 分，升级成功。`;
+    } else if (score >= RECITE_PASS_SCORE) {
+      els.readFeedback.textContent = `背诵通过，${score} 分。`;
+    } else {
+      els.readFeedback.textContent = `背诵 ${score} 分，未达 ${RECITE_PASS_SCORE} 分，请再试。`;
+    }
+    saveProgress();
+    renderReadChallenge();
+  };
+
+  recognition.onresult = (event) => {
+    spoken = speechResultText(event);
+    gotResult = Boolean(normalizeSpeechText(spoken).length);
+    score = scoreReading(item.en, spoken);
+  };
+  recognition.onerror = () => {
+    if (cancelled) return;
+    gotResult = false;
+    els.readFeedback.textContent = "背诵识别失败，请再试一次。";
+  };
+  const finishListening = () => {
+    if (finished) return;
+    if (!cancelled && !userFinished && !gotResult && restartCount < 3) {
+      restartCount += 1;
+      els.readFeedback.textContent = "正在听背诵，请继续背，背完后点“已读完”。";
+      setTimeout(() => {
+        try {
+          recognition.start();
+        } catch {
+          userFinished = true;
+          finishListening();
+        }
+      }, 200);
+      return;
+    }
+    finished = true;
+    if (listenTimer) {
+      clearTimeout(listenTimer);
+      listenTimer = null;
+    }
+    if (activeReadRecognition === recognition) activeReadRecognition = null;
+    if (activeReadCancel === cancelThisSession) activeReadCancel = null;
+    if (activeReadFinish === finishThisSession) activeReadFinish = null;
+    els.finishReadingBtn.disabled = true;
+    if (cancelled) {
+      els.recordSentenceBtn.disabled = false;
+      renderReadChallenge();
+      return;
+    }
+    els.recordSentenceBtn.disabled = false;
+    saveRecite();
+  };
+  const cancelThisSession = () => {
+    cancelled = true;
+    if (listenTimer) {
+      clearTimeout(listenTimer);
+      listenTimer = null;
+    }
+    els.finishReadingBtn.disabled = true;
+    els.recordSentenceBtn.disabled = false;
+    renderReadChallenge();
+    try {
+      recognition.abort?.();
+    } catch {
+      try {
+        recognition.stop?.();
+      } catch {
+        // Ignore stale browser speech-recognition sessions.
+      }
+    }
+  };
+  const finishThisSession = () => {
+    userFinished = true;
+    try {
+      recognition.stop();
+    } catch {
+      finishListening();
+    }
+  };
+  recognition.onend = finishListening;
+  activeReadRecognition = recognition;
+  activeReadCancel = cancelThisSession;
+  activeReadFinish = finishThisSession;
+  els.finishReadingBtn.disabled = false;
+  try {
+    recognition.start();
+  } catch {
+    activeReadRecognition = null;
+    activeReadCancel = null;
+    activeReadFinish = null;
+    els.finishReadingBtn.disabled = true;
+    els.recordSentenceBtn.disabled = false;
+    renderReadChallenge();
+    els.readFeedback.textContent = "背诵识别启动失败，请重新点击背诵评分。";
+    return;
+  }
+  listenTimer = setTimeout(() => {
+    if (finished || cancelled) return;
+    userFinished = true;
+    els.readFeedback.textContent = "已自动停止，正在识别背诵。";
+    try {
+      recognition.stop();
+    } catch {
+      finishListening();
+    }
+  }, 30000);
 }
 
 function refreshPractice() {
@@ -1842,6 +2023,7 @@ els.prevSentenceBtn.addEventListener("click", () => changeReadSentence(-1));
 els.nextSentenceBtn.addEventListener("click", () => changeReadSentence(1));
 els.sampleSentenceBtn.addEventListener("click", speakSentenceExample);
 els.recordSentenceBtn.addEventListener("click", recordSentenceReading);
+els.reciteSentenceBtn.addEventListener("click", recordSentenceRecite);
 els.finishReadingBtn.addEventListener("click", finishSentenceReading);
 
 els.petTouchBtn.addEventListener("click", touchPet);
