@@ -949,7 +949,7 @@ window.VOCABULARY = [
     "word": "drink",
     "phonetic": "/drɪŋk/",
     "cn": "喝，饮； 饮料",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "饮食生活",
     "category": "动作行为",
@@ -972,7 +972,7 @@ window.VOCABULARY = [
     "word": "water",
     "phonetic": "/ˈwɔːtər/",
     "cn": "水，水域；给…浇水",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "饮食生活",
     "category": "动作行为",
@@ -995,7 +995,7 @@ window.VOCABULARY = [
     "word": "milk",
     "phonetic": "/mɪlk/",
     "cn": "牛奶；挤奶",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "饮食生活",
     "category": "动作行为",
@@ -1340,7 +1340,7 @@ window.VOCABULARY = [
     "word": "sweet",
     "phonetic": "/swiːt/",
     "cn": "甜的，香的，令人愉快的； 糖果",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "饮食生活",
     "category": "描述评价",
@@ -1547,7 +1547,7 @@ window.VOCABULARY = [
     "word": "dress",
     "phonetic": "/dres/",
     "cn": "连衣裙；穿衣服",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "服装购物",
     "category": "动作行为",
@@ -2260,7 +2260,7 @@ window.VOCABULARY = [
     "word": "pretty",
     "phonetic": "/ˈprɪti/",
     "cn": "漂亮的，美观的；相当",
-    "pos": "形容词/副词",
+    "pos": "形容词",
     "rawPos": "adj.&adv.",
     "scene": "服装购物",
     "category": "描述评价",
@@ -2375,7 +2375,7 @@ window.VOCABULARY = [
     "word": "face",
     "phonetic": "/feɪs/",
     "cn": "脸，面部表情；面对",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "身体健康",
     "category": "动作行为",
@@ -2513,7 +2513,7 @@ window.VOCABULARY = [
     "word": "back",
     "phonetic": "/bæk/",
     "cn": "背，后面；后面的 ；向后",
-    "pos": "名词/形容词/副词",
+    "pos": "名词",
     "rawPos": "n.&adj.&adv.",
     "scene": "身体健康",
     "category": "描述评价",
@@ -2559,7 +2559,7 @@ window.VOCABULARY = [
     "word": "hand",
     "phonetic": "/hænd/",
     "cn": "手；交，递，给",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "身体健康",
     "category": "动作行为",
@@ -2651,7 +2651,7 @@ window.VOCABULARY = [
     "word": "fat",
     "phonetic": "/fæt/",
     "cn": "肥胖的， 肥的； 脂肪，肥肉",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "身体健康",
     "category": "描述评价",
@@ -2766,7 +2766,7 @@ window.VOCABULARY = [
     "word": "well",
     "phonetic": "/wel/",
     "cn": "健康，身体好；好，对，令人满意地",
-    "pos": "形容词/副词",
+    "pos": "形容词",
     "rawPos": "adj.&adv.",
     "scene": "身体健康",
     "category": "描述评价",
@@ -2950,7 +2950,7 @@ window.VOCABULARY = [
     "word": "cough",
     "phonetic": "/kɔːf/",
     "cn": "咳嗽",
-    "pos": "v.＆n",
+    "pos": "名词",
     "rawPos": "v.＆n.",
     "scene": "身体健康",
     "category": "名物概念",
@@ -2996,7 +2996,7 @@ window.VOCABULARY = [
     "word": "feel",
     "phonetic": "/fiːl/",
     "cn": "觉得，感到，摸起来； 感受",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -3203,7 +3203,7 @@ window.VOCABULARY = [
     "word": "best",
     "phonetic": "/best/",
     "cn": "最好的；最，最高程度地 ； 最高标准",
-    "pos": "形容词/副词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&adv.&n.",
     "scene": "情绪品质",
     "category": "描述评价",
@@ -3686,7 +3686,7 @@ window.VOCABULARY = [
     "word": "fun",
     "phonetic": "/fʌn/",
     "cn": "有趣的； 乐趣",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "情绪品质",
     "category": "描述评价",
@@ -3870,7 +3870,7 @@ window.VOCABULARY = [
     "word": "wrong",
     "phonetic": "/rɔːŋ/",
     "cn": "错误的，引起问题（或麻烦）；错误地",
-    "pos": "形容词/副词",
+    "pos": "形容词",
     "rawPos": "adj.&adv.",
     "scene": "情绪品质",
     "category": "描述评价",
@@ -4031,7 +4031,7 @@ window.VOCABULARY = [
     "word": "watch",
     "phonetic": "/wɑːtʃ/",
     "cn": "看，注视，照看，小心； 手表",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "学习课堂",
     "category": "动作行为",
@@ -4100,7 +4100,7 @@ window.VOCABULARY = [
     "word": "sound",
     "phonetic": "/saʊnd/",
     "cn": "听起来好像； 声音，响声",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "学习课堂",
     "category": "动作行为",
@@ -4123,7 +4123,7 @@ window.VOCABULARY = [
     "word": "taste",
     "phonetic": "/teɪst/",
     "cn": "品尝，有…味道； 味道，味觉",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "学习课堂",
     "category": "动作行为",
@@ -4146,7 +4146,7 @@ window.VOCABULARY = [
     "word": "smile",
     "phonetic": "/smaɪl/",
     "cn": "笑，微笑； 微笑，笑容",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4169,7 +4169,7 @@ window.VOCABULARY = [
     "word": "laugh",
     "phonetic": "/læf/",
     "cn": "笑，发笑； 笑，笑声",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4192,7 +4192,7 @@ window.VOCABULARY = [
     "word": "play",
     "phonetic": "/pleɪ/",
     "cn": "玩耍，演奏，参加比赛，播放； 玩耍，戏剧，剧本",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4215,7 +4215,7 @@ window.VOCABULARY = [
     "word": "cry",
     "phonetic": "/kraɪ/",
     "cn": "哭，哭泣； 叫喊，呼喊",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4238,7 +4238,7 @@ window.VOCABULARY = [
     "word": "shout",
     "phonetic": "/ʃaʊt/",
     "cn": "大声说，喊叫，呼叫； 呼喊，喊叫声",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4307,7 +4307,7 @@ window.VOCABULARY = [
     "word": "lie",
     "phonetic": "/laɪ/",
     "cn": "躺，位于，说谎； 谎言，谎话",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4330,7 +4330,7 @@ window.VOCABULARY = [
     "word": "walk",
     "phonetic": "/wɔːk/",
     "cn": "行走；步行；散步",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4353,7 +4353,7 @@ window.VOCABULARY = [
     "word": "climb",
     "phonetic": "/klaɪm/",
     "cn": "攀登，爬； 攀登",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4376,7 +4376,7 @@ window.VOCABULARY = [
     "word": "ride",
     "phonetic": "/raɪd/",
     "cn": "骑，驾驶，乘坐； 短途旅程",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4399,7 +4399,7 @@ window.VOCABULARY = [
     "word": "chase",
     "phonetic": "/tʃeɪs/",
     "cn": "追赶；追捕；追逐",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4445,7 +4445,7 @@ window.VOCABULARY = [
     "word": "fall",
     "phonetic": "/fɔːl/",
     "cn": "摔倒，落下； 摔倒，秋天",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4468,7 +4468,7 @@ window.VOCABULARY = [
     "word": "move",
     "phonetic": "/muːv/",
     "cn": "移动；搬家；行动",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4491,7 +4491,7 @@ window.VOCABULARY = [
     "word": "sleep",
     "phonetic": "/sliːp/",
     "cn": "睡觉",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4606,7 +4606,7 @@ window.VOCABULARY = [
     "word": "open",
     "phonetic": "/ˈoʊpən/",
     "cn": "打开，睁开；开放的",
-    "pos": "动词/形容词",
+    "pos": "动词",
     "rawPos": "v.&adj.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4629,7 +4629,7 @@ window.VOCABULARY = [
     "word": "close",
     "phonetic": "/kloʊz/",
     "cn": "关，关闭，闭上；接近，亲密的，密切的",
-    "pos": "动词/形容词",
+    "pos": "动词",
     "rawPos": "v.&adj.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4652,7 +4652,7 @@ window.VOCABULARY = [
     "word": "touch",
     "phonetic": "/tʌtʃ/",
     "cn": "触摸，碰，接触，感动； 触觉，触，碰",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4790,7 +4790,7 @@ window.VOCABULARY = [
     "word": "pull",
     "phonetic": "/pʊl/",
     "cn": "拉；拽；扯",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -4813,7 +4813,7 @@ window.VOCABULARY = [
     "word": "clap",
     "phonetic": "/klæp/",
     "cn": "拍手；鼓掌",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "动作行为",
     "category": "动作行为",
@@ -5089,7 +5089,7 @@ window.VOCABULARY = [
     "word": "yesterday",
     "phonetic": "/ˈjestərdeɪ/",
     "cn": "在昨天； 昨天，往昔",
-    "pos": "副词/名词",
+    "pos": "副词",
     "rawPos": "adv.&n.",
     "scene": "时间数量",
     "category": "方式程度",
@@ -5112,7 +5112,7 @@ window.VOCABULARY = [
     "word": "today",
     "phonetic": "/təˈdeɪ/",
     "cn": "在今天，当今； 今天",
-    "pos": "副词/名词",
+    "pos": "副词",
     "rawPos": "adv.&n.",
     "scene": "时间数量",
     "category": "方式程度",
@@ -5135,7 +5135,7 @@ window.VOCABULARY = [
     "word": "tomorrow",
     "phonetic": "/təˈmɑːroʊ/",
     "cn": "在明天； 明天",
-    "pos": "副词/名词",
+    "pos": "副词",
     "rawPos": "adv.&n.",
     "scene": "时间数量",
     "category": "方式程度",
@@ -5273,7 +5273,7 @@ window.VOCABULARY = [
     "word": "tonight",
     "phonetic": "/təˈnaɪt/",
     "cn": "在今晚； 今晚",
-    "pos": "副词/名词",
+    "pos": "副词",
     "rawPos": "adv.&n.",
     "scene": "时间数量",
     "category": "方式程度",
@@ -5296,7 +5296,7 @@ window.VOCABULARY = [
     "word": "half",
     "phonetic": "/hæf/",
     "cn": "半数；半，部分地 ； 半，一半",
-    "pos": "限定词/代词/副词/名词",
+    "pos": "代词",
     "rawPos": "det.&pron.&adv.&n.",
     "scene": "时间数量",
     "category": "方式程度",
@@ -5319,7 +5319,7 @@ window.VOCABULARY = [
     "word": "past",
     "phonetic": "/pæst/",
     "cn": "晚于，经过，超过；过去的 ； 过去",
-    "pos": "介词/形容词/名词",
+    "pos": "介词",
     "rawPos": "prep.&adj.&n.",
     "scene": "时间数量",
     "category": "描述评价",
@@ -5388,7 +5388,7 @@ window.VOCABULARY = [
     "word": "A.M./P.M.",
     "phonetic": "/ə em piː em/",
     "cn": "上午/下午",
-    "pos": "缩写",
+    "pos": "名词",
     "rawPos": "abbr.",
     "scene": "通用基础",
     "category": "名物概念",
@@ -5480,7 +5480,7 @@ window.VOCABULARY = [
     "word": "last",
     "phonetic": "/læst/",
     "cn": "上一个的，最后的；持续，持久 ； 最后",
-    "pos": "限定词/动词/副词/名词",
+    "pos": "代词",
     "rawPos": "det.&v.&adv.&n.",
     "scene": "时间数量",
     "category": "动作行为",
@@ -5503,7 +5503,7 @@ window.VOCABULARY = [
     "word": "next",
     "phonetic": "/nekst/",
     "cn": "下一个的，接下来的，紧邻的；紧接着，随后",
-    "pos": "形容词/副词",
+    "pos": "形容词",
     "rawPos": "adj.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -5549,7 +5549,7 @@ window.VOCABULARY = [
     "word": "later",
     "phonetic": "/ˈleɪtər/",
     "cn": "后来，以后；后来的",
-    "pos": "副词/形容词",
+    "pos": "副词",
     "rawPos": "adv.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -5572,7 +5572,7 @@ window.VOCABULARY = [
     "word": "early",
     "phonetic": "/ˈɜːrli/",
     "cn": "早到的，早期的；提前，在早期",
-    "pos": "形容词/副词",
+    "pos": "形容词",
     "rawPos": "adj.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -5595,7 +5595,7 @@ window.VOCABULARY = [
     "word": "late",
     "phonetic": "/leɪt/",
     "cn": "迟到，接近末期的；晚，迟，接近末期",
-    "pos": "形容词/副词",
+    "pos": "形容词",
     "rawPos": "adj.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -5756,7 +5756,7 @@ window.VOCABULARY = [
     "word": "colour",
     "phonetic": "/ˈkʌlər/",
     "cn": "颜色，彩色；为…着色",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -5779,7 +5779,7 @@ window.VOCABULARY = [
     "word": "red",
     "phonetic": "/red/",
     "cn": "红色的； 红色",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -5802,7 +5802,7 @@ window.VOCABULARY = [
     "word": "yellow",
     "phonetic": "/ˈjeloʊ/",
     "cn": "黄色的； 黄色",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -5825,7 +5825,7 @@ window.VOCABULARY = [
     "word": "blue",
     "phonetic": "/bluː/",
     "cn": "蓝色的； 蓝色",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -5848,7 +5848,7 @@ window.VOCABULARY = [
     "word": "green",
     "phonetic": "/ɡriːn/",
     "cn": "绿色的； 绿色",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -5871,7 +5871,7 @@ window.VOCABULARY = [
     "word": "pink",
     "phonetic": "/pɪŋk/",
     "cn": "粉红色的； 粉红色",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -5894,7 +5894,7 @@ window.VOCABULARY = [
     "word": "orange",
     "phonetic": "/ˈɔːrɪndʒ/",
     "cn": "橙色的； 橙色，橙子",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -5917,7 +5917,7 @@ window.VOCABULARY = [
     "word": "black",
     "phonetic": "/blæk/",
     "cn": "黑色的； 黑色",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -5940,7 +5940,7 @@ window.VOCABULARY = [
     "word": "white",
     "phonetic": "/waɪt/",
     "cn": "白色的； 白色",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -5963,7 +5963,7 @@ window.VOCABULARY = [
     "word": "brown",
     "phonetic": "/braʊn/",
     "cn": "棕色的，褐色的； 棕色，褐色",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -5986,7 +5986,7 @@ window.VOCABULARY = [
     "word": "purple",
     "phonetic": "/ˈpɜːrpl/",
     "cn": "紫色的； 紫色",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -6055,7 +6055,7 @@ window.VOCABULARY = [
     "word": "circle",
     "phonetic": "/ˈsɜːrkl/",
     "cn": "圆形，圆圈，圈；把…圈起来",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -6078,7 +6078,7 @@ window.VOCABULARY = [
     "word": "square",
     "phonetic": "/skwer/",
     "cn": "正方形，平方，广场；正方形的",
-    "pos": "名词/形容词",
+    "pos": "名词",
     "rawPos": "n.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -6101,7 +6101,7 @@ window.VOCABULARY = [
     "word": "long",
     "phonetic": "/lɔːŋ/",
     "cn": "长的，长，长时间的；长期地，很久地",
-    "pos": "形容词/副词",
+    "pos": "形容词",
     "rawPos": "adj.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -6170,7 +6170,7 @@ window.VOCABULARY = [
     "word": "straight",
     "phonetic": "/streɪt/",
     "cn": "直的；笔直地",
-    "pos": "形容词/副词",
+    "pos": "形容词",
     "rawPos": "adj.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -6699,7 +6699,7 @@ window.VOCABULARY = [
     "word": "key",
     "phonetic": "/kiː/",
     "cn": "钥匙，关键； 关键的",
-    "pos": "名词/形容词",
+    "pos": "名词",
     "rawPos": "n.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -6952,7 +6952,7 @@ window.VOCABULARY = [
     "word": "travel",
     "phonetic": "/ˈtrævl/",
     "cn": "旅行；游历",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -7021,7 +7021,7 @@ window.VOCABULARY = [
     "word": "visit",
     "phonetic": "/ˈvɪzɪt/",
     "cn": "参观；访问；看望",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -7044,7 +7044,7 @@ window.VOCABULARY = [
     "word": "camp",
     "phonetic": "/kæmp/",
     "cn": "露营； 营地",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -7435,7 +7435,7 @@ window.VOCABULARY = [
     "word": "stop",
     "phonetic": "/stɑːp/",
     "cn": "停下； 停止，车站",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -7481,7 +7481,7 @@ window.VOCABULARY = [
     "word": "show",
     "phonetic": "/ʃoʊ/",
     "cn": "带，领，展示，演出； 节目，演出，展览",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -7573,7 +7573,7 @@ window.VOCABULARY = [
     "word": "return",
     "phonetic": "/rɪˈtɜːrn/",
     "cn": "返回；归还",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -7665,7 +7665,7 @@ window.VOCABULARY = [
     "word": "fish",
     "phonetic": "/fɪʃ/",
     "cn": "鱼肉，鱼；钓鱼，捕鱼",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "自然动物",
     "category": "动作行为",
@@ -7757,7 +7757,7 @@ window.VOCABULARY = [
     "word": "bear",
     "phonetic": "/ber/",
     "cn": "熊，玩具熊；忍受",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -8907,7 +8907,7 @@ window.VOCABULARY = [
     "word": "rain",
     "phonetic": "/reɪn/",
     "cn": "下雨； 雨，雨水",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "自然动物",
     "category": "动作行为",
@@ -8953,7 +8953,7 @@ window.VOCABULARY = [
     "word": "snow",
     "phonetic": "/snoʊ/",
     "cn": "下雪； 雪",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "自然动物",
     "category": "动作行为",
@@ -9022,7 +9022,7 @@ window.VOCABULARY = [
     "word": "light",
     "phonetic": "/laɪt/",
     "cn": "光（线），电灯；点燃，照亮",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "自然动物",
     "category": "动作行为",
@@ -9091,7 +9091,7 @@ window.VOCABULARY = [
     "word": "cold",
     "phonetic": "/koʊld/",
     "cn": "寒冷的，冷的； 感冒，冷",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "自然动物",
     "category": "描述评价",
@@ -9689,7 +9689,7 @@ window.VOCABULARY = [
     "word": "national",
     "phonetic": "/ˈnæʃnəl/",
     "cn": "国家的； （某国的）公民",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -9919,7 +9919,7 @@ window.VOCABULARY = [
     "word": "American",
     "phonetic": "/əˈmerɪkən/",
     "cn": "美洲的，美国的； 美洲人，美国人",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -9965,7 +9965,7 @@ window.VOCABULARY = [
     "word": "French",
     "phonetic": "/frentʃ/",
     "cn": "法国人，法语；法国（人）的，法语的",
-    "pos": "名词/形容词",
+    "pos": "名词",
     "rawPos": "n.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -12081,7 +12081,7 @@ window.VOCABULARY = [
     "word": "study",
     "phonetic": "/ˈstʌdi/",
     "cn": "学习； 学习，书房",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -12173,7 +12173,7 @@ window.VOCABULARY = [
     "word": "test",
     "phonetic": "/test/",
     "cn": "测验；考查",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "学习课堂",
     "category": "动作行为",
@@ -12265,7 +12265,7 @@ window.VOCABULARY = [
     "word": "Chinese",
     "phonetic": "/ˌtʃaɪˈniːz/",
     "cn": "语文，汉语，中国人；中国（人）的",
-    "pos": "名词/形容词",
+    "pos": "名词",
     "rawPos": "n.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -12472,7 +12472,7 @@ window.VOCABULARY = [
     "word": "run",
     "phonetic": "/rʌn/",
     "cn": "跑",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -12495,7 +12495,7 @@ window.VOCABULARY = [
     "word": "jump",
     "phonetic": "/dʒʌmp/",
     "cn": "跳；跳跃",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -12518,7 +12518,7 @@ window.VOCABULARY = [
     "word": "swim",
     "phonetic": "/swɪm/",
     "cn": "游泳",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -12932,7 +12932,7 @@ window.VOCABULARY = [
     "word": "race",
     "phonetic": "/reɪs/",
     "cn": "赛跑；竞赛",
-    "pos": "n.＆v",
+    "pos": "名词",
     "rawPos": "n.＆v.",
     "scene": "通用基础",
     "category": "名物概念",
@@ -13162,7 +13162,7 @@ window.VOCABULARY = [
     "word": "try",
     "phonetic": "/traɪ/",
     "cn": "尝试，设法，努力； 尝试",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -13806,7 +13806,7 @@ window.VOCABULARY = [
     "word": "hello",
     "phonetic": "/həˈloʊ/",
     "cn": "喂；你好",
-    "pos": "int.＆n",
+    "pos": "名词",
     "rawPos": "int.＆n.",
     "scene": "通用基础",
     "category": "名物概念",
@@ -13829,7 +13829,7 @@ window.VOCABULARY = [
     "word": "goodbye",
     "phonetic": "/ˌɡʊdˈbaɪ/",
     "cn": "再见",
-    "pos": "int./名词",
+    "pos": "副词",
     "rawPos": "int.&n.",
     "scene": "通用基础",
     "category": "名物概念",
@@ -13921,7 +13921,7 @@ window.VOCABULARY = [
     "word": "OK",
     "phonetic": "/oʊˈkeɪ/",
     "cn": "好，行； 安然无恙，可以",
-    "pos": "int./形容词/副词",
+    "pos": "副词",
     "rawPos": "int.&adj.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -13944,7 +13944,7 @@ window.VOCABULARY = [
     "word": "yes",
     "phonetic": "/jes/",
     "cn": "是，是的",
-    "pos": "int",
+    "pos": "副词",
     "rawPos": "int.",
     "scene": "通用基础",
     "category": "名物概念",
@@ -13967,7 +13967,7 @@ window.VOCABULARY = [
     "word": "no",
     "phonetic": "/noʊ/",
     "cn": "不，没有，不是；没有，无",
-    "pos": "int",
+    "pos": "副词",
     "rawPos": "int.",
     "scene": "通用基础",
     "category": "名物概念",
@@ -14013,7 +14013,7 @@ window.VOCABULARY = [
     "word": "sorry",
     "phonetic": "/ˈsɑːri/",
     "cn": "对不起；很抱歉",
-    "pos": "int./形容词",
+    "pos": "副词",
     "rawPos": "int.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -14036,7 +14036,7 @@ window.VOCABULARY = [
     "word": "please",
     "phonetic": "/pliːz/",
     "cn": "请，请问；使满意，使愉快",
-    "pos": "int./动词",
+    "pos": "副词",
     "rawPos": "int.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -14059,7 +14059,7 @@ window.VOCABULARY = [
     "word": "welcome",
     "phonetic": "/ˈwelkəm/",
     "cn": "欢迎",
-    "pos": "int.＆v./名词",
+    "pos": "名词",
     "rawPos": "int.＆v.&n.",
     "scene": "通用基础",
     "category": "名物概念",
@@ -14105,7 +14105,7 @@ window.VOCABULARY = [
     "word": "talk",
     "phonetic": "/tɔːk/",
     "cn": "交谈；谈话",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -14243,7 +14243,7 @@ window.VOCABULARY = [
     "word": "answer",
     "phonetic": "/ˈænsər/",
     "cn": "回答； 回答，答案",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -14289,7 +14289,7 @@ window.VOCABULARY = [
     "word": "call",
     "phonetic": "/kɔːl/",
     "cn": "给…打电话； 打电话",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -14519,7 +14519,7 @@ window.VOCABULARY = [
     "word": "dear",
     "phonetic": "/dɪr/",
     "cn": "亲爱的，宝贵的，珍视的； 糟糕，天哪",
-    "pos": "形容词/int",
+    "pos": "形容词",
     "rawPos": "adj.&int.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -14611,7 +14611,7 @@ window.VOCABULARY = [
     "word": "present",
     "phonetic": "/ˈpreznt/",
     "cn": "礼物，目前； 现存的，当前的",
-    "pos": "名词/形容词",
+    "pos": "名词",
     "rawPos": "n.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -14726,7 +14726,7 @@ window.VOCABULARY = [
     "word": "place",
     "phonetic": "/pleɪs/",
     "cn": "地点，地方；放置",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -14772,7 +14772,7 @@ window.VOCABULARY = [
     "word": "downtown",
     "phonetic": "/ˈdaʊntaʊn/",
     "cn": "市中心； 在（往）市中心",
-    "pos": "名词/副词",
+    "pos": "名词",
     "rawPos": "n.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -14956,7 +14956,7 @@ window.VOCABULARY = [
     "word": "shop",
     "phonetic": "/ʃɑːp/",
     "cn": "商店； 购物",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "地点出行",
     "category": "动作行为",
@@ -15117,7 +15117,7 @@ window.VOCABULARY = [
     "word": "park",
     "phonetic": "/pɑːrk/",
     "cn": "公园； 停（车）",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "地点出行",
     "category": "动作行为",
@@ -15508,7 +15508,7 @@ window.VOCABULARY = [
     "word": "far",
     "phonetic": "/fɑːr/",
     "cn": "较远的；远",
-    "pos": "形容词/副词",
+    "pos": "形容词",
     "rawPos": "adj.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -15531,7 +15531,7 @@ window.VOCABULARY = [
     "word": "front",
     "phonetic": "/frʌnt/",
     "cn": "前面的； 前面",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -15554,7 +15554,7 @@ window.VOCABULARY = [
     "word": "left",
     "phonetic": "/left/",
     "cn": "向左； 左，左边； 左边的",
-    "pos": "副词/名词/形容词",
+    "pos": "副词",
     "rawPos": "adv.&n.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -15577,7 +15577,7 @@ window.VOCABULARY = [
     "word": "right",
     "phonetic": "/raɪt/",
     "cn": "向右； 右，右边 ； 对的，正确的，右边的",
-    "pos": "副词/名词/形容词",
+    "pos": "副词",
     "rawPos": "adv.&n.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -15600,7 +15600,7 @@ window.VOCABULARY = [
     "word": "east",
     "phonetic": "/iːst/",
     "cn": "东方； 东方的 ； 向东",
-    "pos": "名词/形容词/副词",
+    "pos": "名词",
     "rawPos": "n.&adj.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -15623,7 +15623,7 @@ window.VOCABULARY = [
     "word": "west",
     "phonetic": "/west/",
     "cn": "西方； 西方的 ； 向西",
-    "pos": "名词/形容词/副词",
+    "pos": "名词",
     "rawPos": "n.&adj.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -15646,7 +15646,7 @@ window.VOCABULARY = [
     "word": "south",
     "phonetic": "/saʊθ/",
     "cn": "南方； 南方的 ； 向南",
-    "pos": "名词/形容词/副词",
+    "pos": "名词",
     "rawPos": "n.&adj.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -15669,7 +15669,7 @@ window.VOCABULARY = [
     "word": "north",
     "phonetic": "/nɔːrθ/",
     "cn": "北方； 北方的 ； 向北",
-    "pos": "名词/形容词/副词",
+    "pos": "名词",
     "rawPos": "n.&adj.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -15692,7 +15692,7 @@ window.VOCABULARY = [
     "word": "top",
     "phonetic": "/tɑːp/",
     "cn": "顶部；最高的",
-    "pos": "名词/形容词",
+    "pos": "名词",
     "rawPos": "n.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -15830,7 +15830,7 @@ window.VOCABULARY = [
     "word": "out",
     "phonetic": "/aʊt/",
     "cn": "（从…里）出来；向外；在室外",
-    "pos": "副词/介词",
+    "pos": "副词",
     "rawPos": "adv.&prep.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -15853,7 +15853,7 @@ window.VOCABULARY = [
     "word": "where",
     "phonetic": "/wer/",
     "cn": "在哪里，到哪里； （在）…的地方",
-    "pos": "副词/连词",
+    "pos": "副词",
     "rawPos": "adv.&conj.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -15899,7 +15899,7 @@ window.VOCABULARY = [
     "word": "dance",
     "phonetic": "/dæns/",
     "cn": "跳舞",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -15945,7 +15945,7 @@ window.VOCABULARY = [
     "word": "paint",
     "phonetic": "/peɪnt/",
     "cn": "用颜料画，刷漆； 油漆",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -15968,7 +15968,7 @@ window.VOCABULARY = [
     "word": "act",
     "phonetic": "/ækt/",
     "cn": "扮演，行动； 行为",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -16336,7 +16336,7 @@ window.VOCABULARY = [
     "word": "love",
     "phonetic": "/lʌv/",
     "cn": "爱，喜欢； 热爱",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -16359,7 +16359,7 @@ window.VOCABULARY = [
     "word": "like",
     "phonetic": "/laɪk/",
     "cn": "喜欢； 像…一样",
-    "pos": "动词/介词",
+    "pos": "动词",
     "rawPos": "v.&prep.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -16589,7 +16589,7 @@ window.VOCABULARY = [
     "word": "matter",
     "phonetic": "/ˈmætər/",
     "cn": "事情，问题； 要紧",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -16704,7 +16704,7 @@ window.VOCABULARY = [
     "word": "end",
     "phonetic": "/end/",
     "cn": "末端，结局； 结束，终止",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -16750,7 +16750,7 @@ window.VOCABULARY = [
     "word": "dream",
     "phonetic": "/driːm/",
     "cn": "梦，梦想，理想； 做梦，梦见，梦想",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -16796,7 +16796,7 @@ window.VOCABULARY = [
     "word": "row",
     "phonetic": "/roʊ/",
     "cn": "一排，一列，一行； 划（船）",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -17509,7 +17509,7 @@ window.VOCABULARY = [
     "word": "my",
     "phonetic": "/maɪ/",
     "cn": "我的",
-    "pos": "限定词",
+    "pos": "代词",
     "rawPos": "det.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -17532,7 +17532,7 @@ window.VOCABULARY = [
     "word": "your",
     "phonetic": "/jʊr/",
     "cn": "你的；你们的",
-    "pos": "限定词",
+    "pos": "代词",
     "rawPos": "det.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -17555,7 +17555,7 @@ window.VOCABULARY = [
     "word": "his",
     "phonetic": "/hɪz/",
     "cn": "他的",
-    "pos": "限定词/代词",
+    "pos": "代词",
     "rawPos": "det.&pron.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -17578,7 +17578,7 @@ window.VOCABULARY = [
     "word": "her",
     "phonetic": "/hər/",
     "cn": "她的；她",
-    "pos": "限定词/代词",
+    "pos": "代词",
     "rawPos": "det.&pron.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -17601,7 +17601,7 @@ window.VOCABULARY = [
     "word": "its",
     "phonetic": "/ɪts/",
     "cn": "它的",
-    "pos": "限定词",
+    "pos": "代词",
     "rawPos": "det.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -17624,7 +17624,7 @@ window.VOCABULARY = [
     "word": "our",
     "phonetic": "/aʊər/",
     "cn": "我们的",
-    "pos": "限定词",
+    "pos": "代词",
     "rawPos": "det.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -17647,7 +17647,7 @@ window.VOCABULARY = [
     "word": "their",
     "phonetic": "/ðer/",
     "cn": "他们的；她们的；它们的",
-    "pos": "限定词",
+    "pos": "代词",
     "rawPos": "det.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -17831,7 +17831,7 @@ window.VOCABULARY = [
     "word": "whose",
     "phonetic": "/huːz/",
     "cn": "谁的",
-    "pos": "限定词/代词",
+    "pos": "代词",
     "rawPos": "det.&pron.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -17854,7 +17854,7 @@ window.VOCABULARY = [
     "word": "this",
     "phonetic": "/ðɪs/",
     "cn": "这；这个",
-    "pos": "限定词/代词",
+    "pos": "代词",
     "rawPos": "det.&pron.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -17877,7 +17877,7 @@ window.VOCABULARY = [
     "word": "that",
     "phonetic": "/ðæt/",
     "cn": "那；那个",
-    "pos": "限定词/代词",
+    "pos": "代词",
     "rawPos": "det.&pron.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -17900,7 +17900,7 @@ window.VOCABULARY = [
     "word": "these",
     "phonetic": "/ðiːz/",
     "cn": "这些",
-    "pos": "限定词/代词",
+    "pos": "代词",
     "rawPos": "det.&pron.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -17923,7 +17923,7 @@ window.VOCABULARY = [
     "word": "those",
     "phonetic": "/ðoʊz/",
     "cn": "那些",
-    "pos": "限定词/代词",
+    "pos": "代词",
     "rawPos": "det.&pron.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -17946,7 +17946,7 @@ window.VOCABULARY = [
     "word": "both",
     "phonetic": "/boʊθ/",
     "cn": "两个；两个都",
-    "pos": "限定词/代词",
+    "pos": "代词",
     "rawPos": "det.&pron.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -17969,7 +17969,7 @@ window.VOCABULARY = [
     "word": "all",
     "phonetic": "/ɔːl/",
     "cn": "所有；全部；一切",
-    "pos": "限定词/代词",
+    "pos": "代词",
     "rawPos": "det.&pron.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -17992,7 +17992,7 @@ window.VOCABULARY = [
     "word": "other",
     "phonetic": "/ˈʌðər/",
     "cn": "另外；其他",
-    "pos": "形容词/代词",
+    "pos": "形容词",
     "rawPos": "adj.&pron.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -18015,7 +18015,7 @@ window.VOCABULARY = [
     "word": "another",
     "phonetic": "/əˈnʌðər/",
     "cn": "又一；另一（事物或人）",
-    "pos": "限定词/代词",
+    "pos": "代词",
     "rawPos": "det.&pron.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -18038,7 +18038,7 @@ window.VOCABULARY = [
     "word": "every",
     "phonetic": "/ˈevri/",
     "cn": "每；每个",
-    "pos": "限定词",
+    "pos": "代词",
     "rawPos": "det.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -18061,7 +18061,7 @@ window.VOCABULARY = [
     "word": "each",
     "phonetic": "/iːtʃ/",
     "cn": "每个；各个；各自",
-    "pos": "限定词/代词",
+    "pos": "代词",
     "rawPos": "det.&pron.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -18199,7 +18199,7 @@ window.VOCABULARY = [
     "word": "everywhere",
     "phonetic": "/ˈevriwer/",
     "cn": "处处；到处",
-    "pos": "副词/代词/连词",
+    "pos": "副词",
     "rawPos": "adv.&pron.&conj.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -18222,7 +18222,7 @@ window.VOCABULARY = [
     "word": "some",
     "phonetic": "/səm/",
     "cn": "有些人，有些事物；一些  ；大约",
-    "pos": "代词/副词",
+    "pos": "代词",
     "rawPos": "pron.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -18245,7 +18245,7 @@ window.VOCABULARY = [
     "word": "any",
     "phonetic": "/ˈeni/",
     "cn": "任一，任何一些；任何的 ；一点儿也（不）",
-    "pos": "代词/副词",
+    "pos": "代词",
     "rawPos": "pron.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -18268,7 +18268,7 @@ window.VOCABULARY = [
     "word": "lot",
     "phonetic": "/lɑːt/",
     "cn": "许多，大量；非常",
-    "pos": "代词/副词",
+    "pos": "代词",
     "rawPos": "pron.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -18291,7 +18291,7 @@ window.VOCABULARY = [
     "word": "few",
     "phonetic": "/fjuː/",
     "cn": "有些，一些；几个，很少",
-    "pos": "代词/形容词",
+    "pos": "代词",
     "rawPos": "pron.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -18314,7 +18314,7 @@ window.VOCABULARY = [
     "word": "many",
     "phonetic": "/ˈmeni/",
     "cn": "许多",
-    "pos": "限定词/代词",
+    "pos": "代词",
     "rawPos": "det.&pron.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -18337,7 +18337,7 @@ window.VOCABULARY = [
     "word": "much",
     "phonetic": "/mʌtʃ/",
     "cn": "许多，大量；很，非常",
-    "pos": "限定词/代词/副词",
+    "pos": "代词",
     "rawPos": "det.&pron.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -18360,7 +18360,7 @@ window.VOCABULARY = [
     "word": "more",
     "phonetic": "/mɔːr/",
     "cn": "更多的，更大的；更，更强，更多",
-    "pos": "限定词/代词/副词",
+    "pos": "代词",
     "rawPos": "det.&pron.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -18383,7 +18383,7 @@ window.VOCABULARY = [
     "word": "less",
     "phonetic": "/les/",
     "cn": "较少的，更少的；较小，较少",
-    "pos": "限定词/代词/副词",
+    "pos": "代词",
     "rawPos": "det.&pron.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -18406,7 +18406,7 @@ window.VOCABULARY = [
     "word": "one",
     "phonetic": "/wʌn/",
     "cn": "一； 一个",
-    "pos": "数词/代词",
+    "pos": "数词",
     "rawPos": "num.&pron.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -19395,7 +19395,7 @@ window.VOCABULARY = [
     "word": "little",
     "phonetic": "/ˈlɪtl/",
     "cn": "小的，年幼的； 少量的 ；不多，少量",
-    "pos": "形容词/代词/副词",
+    "pos": "形容词",
     "rawPos": "adj.&pron.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -19671,7 +19671,7 @@ window.VOCABULARY = [
     "word": "high",
     "phonetic": "/haɪ/",
     "cn": "高的； 在高处，向高处，（成本、价值）高",
-    "pos": "形容词/副词",
+    "pos": "形容词",
     "rawPos": "adj.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -19694,7 +19694,7 @@ window.VOCABULARY = [
     "word": "deep",
     "phonetic": "/diːp/",
     "cn": "深的；深深地，在深处",
-    "pos": "形容词/副词",
+    "pos": "形容词",
     "rawPos": "adj.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -19924,7 +19924,7 @@ window.VOCABULARY = [
     "word": "favourite",
     "phonetic": "/ˈfeɪvərɪt/",
     "cn": "最喜欢的； 特别喜爱的人（或事物）",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -20108,7 +20108,7 @@ window.VOCABULARY = [
     "word": "loud",
     "phonetic": "/laʊd/",
     "cn": "喧闹的，大声的，吵闹的；大声地，喧闹地",
-    "pos": "形容词/副词",
+    "pos": "形容词",
     "rawPos": "adj.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -20177,7 +20177,7 @@ window.VOCABULARY = [
     "word": "slow",
     "phonetic": "/sloʊ/",
     "cn": "慢的；（使）放慢速度",
-    "pos": "形容词/动词",
+    "pos": "形容词",
     "rawPos": "adj.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -20200,7 +20200,7 @@ window.VOCABULARY = [
     "word": "secret",
     "phonetic": "/ˈsiːkrət/",
     "cn": "秘密的，保密的； 秘密",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -20223,7 +20223,7 @@ window.VOCABULARY = [
     "word": "only",
     "phonetic": "/ˈoʊnli/",
     "cn": "仅有的，唯一的；只有，仅",
-    "pos": "形容词/副词",
+    "pos": "形容词",
     "rawPos": "adj.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -20246,7 +20246,7 @@ window.VOCABULARY = [
     "word": "do",
     "phonetic": "/duː/",
     "cn": "做，从事；助动词",
-    "pos": "动词/aux. v",
+    "pos": "动词",
     "rawPos": "v.&aux. v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -20315,7 +20315,7 @@ window.VOCABULARY = [
     "word": "use",
     "phonetic": "/juːz/",
     "cn": "使用",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -20338,7 +20338,7 @@ window.VOCABULARY = [
     "word": "live",
     "phonetic": "/lɪv/",
     "cn": "居住，生存；活的",
-    "pos": "动词/形容词",
+    "pos": "动词",
     "rawPos": "v.&adj.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -20361,7 +20361,7 @@ window.VOCABULARY = [
     "word": "help",
     "phonetic": "/help/",
     "cn": "帮助；援助",
-    "pos": "v.＆n",
+    "pos": "名词",
     "rawPos": "v.＆n.",
     "scene": "通用基础",
     "category": "名物概念",
@@ -20476,7 +20476,7 @@ window.VOCABULARY = [
     "word": "build",
     "phonetic": "/bɪld/",
     "cn": "建筑，建造； 身材",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -20499,7 +20499,7 @@ window.VOCABULARY = [
     "word": "wish",
     "phonetic": "/wɪʃ/",
     "cn": "祝愿，想要，盼望； 愿望，祝愿",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -20522,7 +20522,7 @@ window.VOCABULARY = [
     "word": "hope",
     "phonetic": "/hoʊp/",
     "cn": "希望；期望",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -20568,7 +20568,7 @@ window.VOCABULARY = [
     "word": "need",
     "phonetic": "/niːd/",
     "cn": "需要",
-    "pos": "动词/名词/aux",
+    "pos": "动词",
     "rawPos": "v., n. &aux.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -20775,7 +20775,7 @@ window.VOCABULARY = [
     "word": "change",
     "phonetic": "/tʃeɪndʒ/",
     "cn": "改变；变化",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -20821,7 +20821,7 @@ window.VOCABULARY = [
     "word": "start",
     "phonetic": "/stɑːrt/",
     "cn": "开始",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -20913,7 +20913,7 @@ window.VOCABULARY = [
     "word": "turn",
     "phonetic": "/tɜːrn/",
     "cn": "转弯，（使）转动； （依次轮到的）机会",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -20936,7 +20936,7 @@ window.VOCABULARY = [
     "word": "clean",
     "phonetic": "/kliːn/",
     "cn": "干净的；打扫",
-    "pos": "形容词/动词",
+    "pos": "形容词",
     "rawPos": "adj.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -21005,7 +21005,7 @@ window.VOCABULARY = [
     "word": "hurry",
     "phonetic": "/ˈhɜːri/",
     "cn": "赶快，匆忙； 匆忙，急忙",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -21028,7 +21028,7 @@ window.VOCABULARY = [
     "word": "point",
     "phonetic": "/pɔɪnt/",
     "cn": "点，得分；指向",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -21120,7 +21120,7 @@ window.VOCABULARY = [
     "word": "break",
     "phonetic": "/breɪk/",
     "cn": "（使）破，裂，碎，弄坏，； 休息",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -21143,7 +21143,7 @@ window.VOCABULARY = [
     "word": "hurt",
     "phonetic": "/hɜːrt/",
     "cn": "（使）疼痛，受伤；受伤的",
-    "pos": "动词/形容词",
+    "pos": "动词",
     "rawPos": "v.&adj.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -21166,7 +21166,7 @@ window.VOCABULARY = [
     "word": "worry",
     "phonetic": "/ˈwɜːri/",
     "cn": "担心；担忧",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -21212,7 +21212,7 @@ window.VOCABULARY = [
     "word": "report",
     "phonetic": "/rɪˈpɔːrt/",
     "cn": "报道；汇报；报告",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -21235,7 +21235,7 @@ window.VOCABULARY = [
     "word": "type",
     "phonetic": "/taɪp/",
     "cn": "打字； 类型，种类",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -21557,7 +21557,7 @@ window.VOCABULARY = [
     "word": "just",
     "phonetic": "/dʒʌst/",
     "cn": "正好，仅仅，只是；公正的，合适的",
-    "pos": "副词/形容词",
+    "pos": "副词",
     "rawPos": "adv.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -21626,7 +21626,7 @@ window.VOCABULARY = [
     "word": "still",
     "phonetic": "/stɪl/",
     "cn": "仍然，还；静止的",
-    "pos": "副词/形容词",
+    "pos": "副词",
     "rawPos": "adv.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -21649,7 +21649,7 @@ window.VOCABULARY = [
     "word": "sure",
     "phonetic": "/ʃʊr/",
     "cn": "（表示同意）当然；确信，肯定，必定，无疑",
-    "pos": "副词/形容词",
+    "pos": "副词",
     "rawPos": "adv.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -21925,7 +21925,7 @@ window.VOCABULARY = [
     "word": "can",
     "phonetic": "/kæn/",
     "cn": "可以，能够； 金属罐",
-    "pos": "aux./名词",
+    "pos": "动词",
     "rawPos": "aux.&n.",
     "scene": "通用基础",
     "category": "名物概念",
@@ -21948,7 +21948,7 @@ window.VOCABULARY = [
     "word": "may",
     "phonetic": "/meɪ/",
     "cn": "也许；可能",
-    "pos": "aux",
+    "pos": "动词",
     "rawPos": "aux.",
     "scene": "通用基础",
     "category": "名物概念",
@@ -21971,7 +21971,7 @@ window.VOCABULARY = [
     "word": "would",
     "phonetic": "/wʊd/",
     "cn": "（客气地建议或邀请）",
-    "pos": "aux",
+    "pos": "动词",
     "rawPos": "aux.",
     "scene": "通用基础",
     "category": "名物概念",
@@ -21994,7 +21994,7 @@ window.VOCABULARY = [
     "word": "will",
     "phonetic": "/wɪl/",
     "cn": "（谈及将来），将要； 意志",
-    "pos": "aux./名词",
+    "pos": "动词",
     "rawPos": "aux.&n.",
     "scene": "通用基础",
     "category": "名物概念",
@@ -22017,7 +22017,7 @@ window.VOCABULARY = [
     "word": "shall",
     "phonetic": "/ʃæl/",
     "cn": "（用于第一人称）将要；必定；应该",
-    "pos": "aux",
+    "pos": "动词",
     "rawPos": "aux.",
     "scene": "通用基础",
     "category": "名物概念",
@@ -22040,7 +22040,7 @@ window.VOCABULARY = [
     "word": "must",
     "phonetic": "/mʌst/",
     "cn": "必须；一定",
-    "pos": "aux",
+    "pos": "动词",
     "rawPos": "aux.",
     "scene": "通用基础",
     "category": "名物概念",
@@ -22063,7 +22063,7 @@ window.VOCABULARY = [
     "word": "should",
     "phonetic": "/ʃʊd/",
     "cn": "应该",
-    "pos": "aux",
+    "pos": "动词",
     "rawPos": "aux.",
     "scene": "通用基础",
     "category": "名物概念",
@@ -22086,7 +22086,7 @@ window.VOCABULARY = [
     "word": "in",
     "phonetic": "/ɪn/",
     "cn": "在里面，在内；在…里",
-    "pos": "副词/介词",
+    "pos": "副词",
     "rawPos": "adv.&prep.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -22155,7 +22155,7 @@ window.VOCABULARY = [
     "word": "to",
     "phonetic": "/tu/",
     "cn": "向，朝，往； 不定式符号",
-    "pos": "介词/inf. m",
+    "pos": "介词",
     "rawPos": "prep.&inf. m.",
     "scene": "通用基础",
     "category": "关系连接",
@@ -22201,7 +22201,7 @@ window.VOCABULARY = [
     "word": "by",
     "phonetic": "/baɪ/",
     "cn": "在…之前，在…旁边，由于；经过",
-    "pos": "介词/副词",
+    "pos": "介词",
     "rawPos": "prep.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -22224,7 +22224,7 @@ window.VOCABULARY = [
     "word": "for",
     "phonetic": "/fɔːr/",
     "cn": "给，为了，支持，由于；因为，由于",
-    "pos": "介词/连词",
+    "pos": "介词",
     "rawPos": "prep.&conj.",
     "scene": "通用基础",
     "category": "关系连接",
@@ -22247,7 +22247,7 @@ window.VOCABULARY = [
     "word": "off",
     "phonetic": "/ɔːf/",
     "cn": "从（某处）落下，离开；离开（某处）",
-    "pos": "介词/副词",
+    "pos": "介词",
     "rawPos": "prep.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -22316,7 +22316,7 @@ window.VOCABULARY = [
     "word": "about",
     "phonetic": "/əˈbaʊt/",
     "cn": "关于，对于；大约，到处",
-    "pos": "介词/副词",
+    "pos": "介词",
     "rawPos": "prep.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -22339,7 +22339,7 @@ window.VOCABULARY = [
     "word": "after",
     "phonetic": "/ˈæftər/",
     "cn": "在…之后；后来，以后 ；后来的，以后的",
-    "pos": "介词/连词/副词/形容词",
+    "pos": "介词",
     "rawPos": "prep.&conj.&adv.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -22362,7 +22362,7 @@ window.VOCABULARY = [
     "word": "around",
     "phonetic": "/əˈraʊnd/",
     "cn": "围绕；大约，周围",
-    "pos": "介词/副词",
+    "pos": "介词",
     "rawPos": "prep.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -22385,7 +22385,7 @@ window.VOCABULARY = [
     "word": "under",
     "phonetic": "/ˈʌndər/",
     "cn": "在…下面；在下面",
-    "pos": "介词/副词",
+    "pos": "介词",
     "rawPos": "prep.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -22431,7 +22431,7 @@ window.VOCABULARY = [
     "word": "over",
     "phonetic": "/ˈoʊvər/",
     "cn": "在…上面；结束，大于，穿过",
-    "pos": "介词/副词",
+    "pos": "介词",
     "rawPos": "prep.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -22454,7 +22454,7 @@ window.VOCABULARY = [
     "word": "behind",
     "phonetic": "/bɪˈhaɪnd/",
     "cn": "在…后面；在后面",
-    "pos": "介词/副词",
+    "pos": "介词",
     "rawPos": "prep.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -22477,7 +22477,7 @@ window.VOCABULARY = [
     "word": "near",
     "phonetic": "/nɪr/",
     "cn": "在…附近；附近的",
-    "pos": "介词/形容词",
+    "pos": "介词",
     "rawPos": "prep.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -22546,7 +22546,7 @@ window.VOCABULARY = [
     "word": "up",
     "phonetic": "/ʌp/",
     "cn": "向上，在上面；向，在（较高位置） ；向上的",
-    "pos": "副词/介词/形容词",
+    "pos": "副词",
     "rawPos": "adv.&prep.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -22615,7 +22615,7 @@ window.VOCABULARY = [
     "word": "than",
     "phonetic": "/ðæn/",
     "cn": "比",
-    "pos": "介词/连词",
+    "pos": "介词",
     "rawPos": "prep.&conj.",
     "scene": "通用基础",
     "category": "关系连接",
@@ -22638,7 +22638,7 @@ window.VOCABULARY = [
     "word": "until",
     "phonetic": "/ənˈtɪl/",
     "cn": "直到…为止",
-    "pos": "介词/连词",
+    "pos": "介词",
     "rawPos": "prep.&conj.",
     "scene": "通用基础",
     "category": "关系连接",
@@ -22707,7 +22707,7 @@ window.VOCABULARY = [
     "word": "through",
     "phonetic": "/θruː/",
     "cn": "穿过；通过；从头到尾",
-    "pos": "介词/副词",
+    "pos": "介词",
     "rawPos": "prep.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -22730,7 +22730,7 @@ window.VOCABULARY = [
     "word": "inside",
     "phonetic": "/ˌɪnˈsaɪd/",
     "cn": "在（…）里面； 里面 ；里面的",
-    "pos": "介词/副词/名词/形容词",
+    "pos": "介词",
     "rawPos": "prep.&adv.&n.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -22753,7 +22753,7 @@ window.VOCABULARY = [
     "word": "outside",
     "phonetic": "/ˌaʊtˈsaɪd/",
     "cn": "在…外面； 外部 ；外部的",
-    "pos": "介词/副词/名词/形容词",
+    "pos": "介词",
     "rawPos": "prep.&adv.&n.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -22776,7 +22776,7 @@ window.VOCABULARY = [
     "word": "a/an",
     "phonetic": "/ə ən/",
     "cn": "一（个）",
-    "pos": "冠词",
+    "pos": "代词",
     "rawPos": "art.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -22799,7 +22799,7 @@ window.VOCABULARY = [
     "word": "the",
     "phonetic": "/ðə/",
     "cn": "（放在名词前，特指人、事或物）",
-    "pos": "冠词",
+    "pos": "代词",
     "rawPos": "art.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -22914,7 +22914,7 @@ window.VOCABULARY = [
     "word": "so",
     "phonetic": "/soʊ/",
     "cn": "所以，因此；这么，那么，很",
-    "pos": "连词/副词",
+    "pos": "连词",
     "rawPos": "conj.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -22937,7 +22937,7 @@ window.VOCABULARY = [
     "word": "when",
     "phonetic": "/wen/",
     "cn": "什么时候，何时；当…时",
-    "pos": "副词/代词/连词",
+    "pos": "副词",
     "rawPos": "adv.&pron.&conj.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -22960,7 +22960,7 @@ window.VOCABULARY = [
     "word": "before",
     "phonetic": "/bɪˈfɔːr/",
     "cn": "在…之前；以前，过去",
-    "pos": "介词/连词/副词",
+    "pos": "介词",
     "rawPos": "prep.&conj.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -23052,7 +23052,7 @@ window.VOCABULARY = [
     "word": "anywhere",
     "phonetic": "/ˈeniwer/",
     "cn": "在（或去）任何地方；任何地方",
-    "pos": "副词/代词",
+    "pos": "副词",
     "rawPos": "adv.&pron.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -23121,7 +23121,7 @@ window.VOCABULARY = [
     "word": "awake",
     "phonetic": "/əˈweɪk/",
     "cn": "醒着；（使）醒来",
-    "pos": "形容词/动词",
+    "pos": "形容词",
     "rawPos": "adj.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -23236,7 +23236,7 @@ window.VOCABULARY = [
     "word": "bite",
     "phonetic": "/baɪt/",
     "cn": "咬",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -23259,7 +23259,7 @@ window.VOCABULARY = [
     "word": "board",
     "phonetic": "/bɔːrd/",
     "cn": "板，木板；上船（或火车、飞机、公共汽车等）",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -23466,7 +23466,7 @@ window.VOCABULARY = [
     "word": "chat",
     "phonetic": "/tʃæt/",
     "cn": "聊天；闲谈",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -23489,7 +23489,7 @@ window.VOCABULARY = [
     "word": "check",
     "phonetic": "/tʃek/",
     "cn": "检查",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -23512,7 +23512,7 @@ window.VOCABULARY = [
     "word": "cheer",
     "phonetic": "/tʃɪr/",
     "cn": "欢呼声，喝彩声；欢呼，喝彩",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -23742,7 +23742,7 @@ window.VOCABULARY = [
     "word": "control",
     "phonetic": "/kənˈtroʊl/",
     "cn": "控制，掌管；管理权，控制权",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -23765,7 +23765,7 @@ window.VOCABULARY = [
     "word": "copy",
     "phonetic": "/ˈkɑːpi/",
     "cn": "复制，复印，抄写，作弊；副本，复印件",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -23857,7 +23857,7 @@ window.VOCABULARY = [
     "word": "date",
     "phonetic": "/deɪt/",
     "cn": "日期；约会",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -23880,7 +23880,7 @@ window.VOCABULARY = [
     "word": "dead",
     "phonetic": "/ded/",
     "cn": "死的；死，死者",
-    "pos": "形容词/名词",
+    "pos": "形容词",
     "rawPos": "adj.&n.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -23949,7 +23949,7 @@ window.VOCABULARY = [
     "word": "design",
     "phonetic": "/dɪˈzaɪn/",
     "cn": "设计；构思",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -23995,7 +23995,7 @@ window.VOCABULARY = [
     "word": "drive",
     "phonetic": "/draɪv/",
     "cn": "驾驶，开车；驱车旅行，车道",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -24018,7 +24018,7 @@ window.VOCABULARY = [
     "word": "drop",
     "phonetic": "/drɑːp/",
     "cn": "掉下，（使）落下；滴，水珠，少量",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -24041,7 +24041,7 @@ window.VOCABULARY = [
     "word": "either",
     "phonetic": "/ˈiːðər/",
     "cn": "（两者中的）任何一个；也",
-    "pos": "代词/副词",
+    "pos": "代词",
     "rawPos": "pron.&adv.",
     "scene": "通用基础",
     "category": "方式程度",
@@ -24179,7 +24179,7 @@ window.VOCABULARY = [
     "word": "fail",
     "phonetic": "/feɪl/",
     "cn": "失败，未做到，不及格；（考试）不及格",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -24248,7 +24248,7 @@ window.VOCABULARY = [
     "word": "fight",
     "phonetic": "/faɪt/",
     "cn": "打架；战斗",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -24340,7 +24340,7 @@ window.VOCABULARY = [
     "word": "fit",
     "phonetic": "/fɪt/",
     "cn": "适合，合身；适合的，健壮的",
-    "pos": "动词/形容词",
+    "pos": "动词",
     "rawPos": "v.&adj.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -24363,7 +24363,7 @@ window.VOCABULARY = [
     "word": "flat",
     "phonetic": "/flæt/",
     "cn": "公寓；平坦的",
-    "pos": "名词/形容词",
+    "pos": "名词",
     "rawPos": "n.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -24501,7 +24501,7 @@ window.VOCABULARY = [
     "word": "gold",
     "phonetic": "/ɡoʊld/",
     "cn": "黄金，金色；金色的",
-    "pos": "名词/形容词",
+    "pos": "名词",
     "rawPos": "n.&adj.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -24524,7 +24524,7 @@ window.VOCABULARY = [
     "word": "group",
     "phonetic": "/ɡruːp/",
     "cn": "组，群；（使）成群，把…分组",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -24639,7 +24639,7 @@ window.VOCABULARY = [
     "word": "hit",
     "phonetic": "/hɪt/",
     "cn": "击；打",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -24869,7 +24869,7 @@ window.VOCABULARY = [
     "word": "kick",
     "phonetic": "/kɪk/",
     "cn": "踢",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -25030,7 +25030,7 @@ window.VOCABULARY = [
     "word": "lift",
     "phonetic": "/lɪft/",
     "cn": "提起，举起；电梯",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -25053,7 +25053,7 @@ window.VOCABULARY = [
     "word": "litter",
     "phonetic": "/ˈlɪtər/",
     "cn": "垃圾，废弃物；乱扔，使凌乱",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -25076,7 +25076,7 @@ window.VOCABULARY = [
     "word": "magic",
     "phonetic": "/ˈmædʒɪk/",
     "cn": "魔法，魔术；有魔力的，神奇的",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -25122,7 +25122,7 @@ window.VOCABULARY = [
     "word": "mark",
     "phonetic": "/mɑːrk/",
     "cn": "成绩，分数，等级；做记号，做标记",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -25145,7 +25145,7 @@ window.VOCABULARY = [
     "word": "match",
     "phonetic": "/mætʃ/",
     "cn": "火柴，比赛；相配",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -25283,7 +25283,7 @@ window.VOCABULARY = [
     "word": "most",
     "phonetic": "/moʊst/",
     "cn": "最多，最大；大多数",
-    "pos": "限定词/代词",
+    "pos": "代词",
     "rawPos": "det.&pron.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -25467,7 +25467,7 @@ window.VOCABULARY = [
     "word": "number",
     "phonetic": "/ˈnʌmbər/",
     "cn": "数字，数量；给…编号",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -25513,7 +25513,7 @@ window.VOCABULARY = [
     "word": "own",
     "phonetic": "/oʊn/",
     "cn": "自己的；拥有",
-    "pos": "形容词/代词/动词",
+    "pos": "形容词",
     "rawPos": "adj.&pron.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -25720,7 +25720,7 @@ window.VOCABULARY = [
     "word": "plan",
     "phonetic": "/plæn/",
     "cn": "计划；打算",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -26111,7 +26111,7 @@ window.VOCABULARY = [
     "word": "reply",
     "phonetic": "/rɪˈplaɪ/",
     "cn": "回复",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -26180,7 +26180,7 @@ window.VOCABULARY = [
     "word": "ring",
     "phonetic": "/rɪŋ/",
     "cn": "戒指；给…打电话",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -26203,7 +26203,7 @@ window.VOCABULARY = [
     "word": "round",
     "phonetic": "/raʊnd/",
     "cn": "圆形的，环形的；环绕 ； 到处，转过来",
-    "pos": "形容词/介词/副词",
+    "pos": "形容词",
     "rawPos": "adj.&prep.&adv.",
     "scene": "通用基础",
     "category": "描述评价",
@@ -26433,7 +26433,7 @@ window.VOCABULARY = [
     "word": "several",
     "phonetic": "/ˈsevrəl/",
     "cn": "几个；一些",
-    "pos": "限定词/代词",
+    "pos": "代词",
     "rawPos": "det.&pron.",
     "scene": "通用基础",
     "category": "基础功能词",
@@ -26709,7 +26709,7 @@ window.VOCABULARY = [
     "word": "smoke",
     "phonetic": "/smoʊk/",
     "cn": "烟，吸烟；吸（烟），冒烟",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -26939,7 +26939,7 @@ window.VOCABULARY = [
     "word": "step",
     "phonetic": "/step/",
     "cn": "踏，踩，迈步；步骤，脚步（声），迈步，台阶",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -27077,7 +27077,7 @@ window.VOCABULARY = [
     "word": "surprise",
     "phonetic": "/sərˈpraɪz/",
     "cn": "惊奇，令人惊奇的事；使惊奇",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -27123,7 +27123,7 @@ window.VOCABULARY = [
     "word": "swing",
     "phonetic": "/swɪŋ/",
     "cn": "（使）摆动，摇摆；摆动，挥动，秋千",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -27169,7 +27169,7 @@ window.VOCABULARY = [
     "word": "throw",
     "phonetic": "/θroʊ/",
     "cn": "投；掷；抛",
-    "pos": "动词/名词",
+    "pos": "动词",
     "rawPos": "v.&n.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -27192,7 +27192,7 @@ window.VOCABULARY = [
     "word": "tip",
     "phonetic": "/tɪp/",
     "cn": "尖端，建议，小费；给小费",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -27399,7 +27399,7 @@ window.VOCABULARY = [
     "word": "volunteer",
     "phonetic": "/ˌvɑːlənˈtɪr/",
     "cn": "志愿者；自愿做",
-    "pos": "名词/动词",
+    "pos": "名词",
     "rawPos": "n.&v.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -27445,7 +27445,7 @@ window.VOCABULARY = [
     "word": "waste",
     "phonetic": "/weɪst/",
     "cn": "浪费；废弃的",
-    "pos": "动词/名词/形容词",
+    "pos": "动词",
     "rawPos": "v.&n.&adj.",
     "scene": "通用基础",
     "category": "动作行为",
@@ -27605,12 +27605,13 @@ window.VOCABULARY = [
     "levelLabel": "高中版",
     "word": "the",
     "cn": "定冠词",
-    "pos": "冠词",
+    "pos": "代词",
     "scene": "通用基础",
     "category": "基础功能词",
     "example": "This is the apple.",
     "sentence": "This is ___ apple.",
-    "hint": "选择冠词：定冠词。"
+    "hint": "选择冠词：定冠词。",
+    "rawPos": "冠词"
   },
   {
     "id": "high-611",
@@ -27618,12 +27619,13 @@ window.VOCABULARY = [
     "levelLabel": "高中版",
     "word": "a/an",
     "cn": "一个/一个",
-    "pos": "冠词",
+    "pos": "代词",
     "scene": "通用基础",
     "category": "基础功能词",
     "example": "This is a apple.",
     "sentence": "This is ___ apple.",
-    "hint": "选择冠词：一个/一个。"
+    "hint": "选择冠词：一个/一个。",
+    "rawPos": "冠词"
   },
   {
     "id": "high-612",
@@ -27636,7 +27638,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is to the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：到，向。"
+    "hint": "书的位置：到，向。",
+    "rawPos": "介词"
   },
   {
     "id": "high-613",
@@ -27649,7 +27652,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a is.",
     "sentence": "This is a ___.",
-    "hint": "这是：是。"
+    "hint": "这是：是。",
+    "rawPos": "名词"
   },
   {
     "id": "high-614",
@@ -27662,7 +27666,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I like apples and bananas.",
     "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：和；与。"
+    "hint": "选择连接词：和；与。",
+    "rawPos": "连词"
   },
   {
     "id": "high-615",
@@ -27675,7 +27680,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is of the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：……的（表示所属或位置关系）。"
+    "hint": "书的位置：……的（表示所属或位置关系）。",
+    "rawPos": "介词"
   },
   {
     "id": "high-616",
@@ -27688,7 +27694,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can be.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：得；要。"
+    "hint": "我会/可以：得；要。",
+    "rawPos": "动词"
   },
   {
     "id": "high-617",
@@ -27701,7 +27708,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is in the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：在……里。"
+    "hint": "书的位置：在……里。",
+    "rawPos": "介词"
   },
   {
     "id": "high-618",
@@ -27714,7 +27722,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "it is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：它。"
+    "hint": "选择代词：它。",
+    "rawPos": "代词"
   },
   {
     "id": "high-619",
@@ -27727,7 +27736,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "that is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：那个。"
+    "hint": "选择代词：那个。",
+    "rawPos": "代词"
   },
   {
     "id": "high-620",
@@ -27740,7 +27750,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is for the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：为，给。"
+    "hint": "书的位置：为，给。",
+    "rawPos": "介词"
   },
   {
     "id": "high-621",
@@ -27753,7 +27764,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can have.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：有。"
+    "hint": "我会/可以：有。",
+    "rawPos": "动词"
   },
   {
     "id": "high-622",
@@ -27766,7 +27778,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a do.",
     "sentence": "This is a ___.",
-    "hint": "这是：做，干。"
+    "hint": "这是：做，干。",
+    "rawPos": "名词"
   },
   {
     "id": "high-623",
@@ -27779,7 +27792,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a are.",
     "sentence": "This is a ___.",
-    "hint": "这是：是。"
+    "hint": "这是：是。",
+    "rawPos": "名词"
   },
   {
     "id": "high-624",
@@ -27792,7 +27806,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is with the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：同……一起。"
+    "hint": "书的位置：同……一起。",
+    "rawPos": "介词"
   },
   {
     "id": "high-625",
@@ -27805,7 +27820,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：我。"
+    "hint": "选择代词：我。",
+    "rawPos": "代词"
   },
   {
     "id": "high-626",
@@ -27818,7 +27834,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a am.",
     "sentence": "This is a ___.",
-    "hint": "这是：是（用于I后）。"
+    "hint": "这是：是（用于I后）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-627",
@@ -27831,7 +27848,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "what is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：什么。"
+    "hint": "选择代词：什么。",
+    "rawPos": "代词"
   },
   {
     "id": "high-628",
@@ -27844,7 +27862,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "you is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：你；你们。"
+    "hint": "选择代词：你；你们。",
+    "rawPos": "代词"
   },
   {
     "id": "high-629",
@@ -27857,7 +27876,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is on the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：在……上。"
+    "hint": "书的位置：在……上。",
+    "rawPos": "介词"
   },
   {
     "id": "high-630",
@@ -27870,7 +27890,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is at the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：朝，向。"
+    "hint": "书的位置：朝，向。",
+    "rawPos": "介词"
   },
   {
     "id": "high-631",
@@ -27883,7 +27904,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a not.",
     "sentence": "This is a ___.",
-    "hint": "这是：不，不是，没。"
+    "hint": "这是：不，不是，没。",
+    "rawPos": "名词"
   },
   {
     "id": "high-632",
@@ -27891,12 +27913,13 @@ window.VOCABULARY = [
     "levelLabel": "高中版",
     "word": "will",
     "cn": "（谈及将来）将要",
-    "pos": "情态动词",
+    "pos": "动词",
     "scene": "通用基础",
     "category": "基础功能词",
     "example": "I can will.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：（谈及将来）将要。"
+    "hint": "我会/可以：（谈及将来）将要。",
+    "rawPos": "情态动词"
   },
   {
     "id": "high-633",
@@ -27909,7 +27932,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "they is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：他们。"
+    "hint": "选择代词：他们。",
+    "rawPos": "代词"
   },
   {
     "id": "high-634",
@@ -27922,7 +27946,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is many.",
     "sentence": "It is ___.",
-    "hint": "它是：多的，许多的。"
+    "hint": "它是：多的，许多的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-635",
@@ -27935,7 +27960,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a can'.",
     "sentence": "This is a ___.",
-    "hint": "这是：可以'。"
+    "hint": "这是：可以'。",
+    "rawPos": "名词"
   },
   {
     "id": "high-636",
@@ -27948,7 +27974,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a can^.",
     "sentence": "This is a ___.",
-    "hint": "这是：可以^。"
+    "hint": "这是：可以^。",
+    "rawPos": "名词"
   },
   {
     "id": "high-637",
@@ -27961,7 +27988,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is more.",
     "sentence": "It is ___.",
-    "hint": "它是：更多的。"
+    "hint": "它是：更多的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-638",
@@ -27974,7 +28002,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs much.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：很多地；非常。"
+    "hint": "这里需要表示：很多地；非常。",
+    "rawPos": "副词"
   },
   {
     "id": "high-639",
@@ -27987,7 +28016,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I like apples as bananas.",
     "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：当……时。"
+    "hint": "选择连接词：当……时。",
+    "rawPos": "连词"
   },
   {
     "id": "high-640",
@@ -28000,7 +28030,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "he is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：他。"
+    "hint": "选择代词：他。",
+    "rawPos": "代词"
   },
   {
     "id": "high-641",
@@ -28013,7 +28044,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I like apples but bananas.",
     "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：但是。"
+    "hint": "选择连接词：但是。",
+    "rawPos": "连词"
   },
   {
     "id": "high-642",
@@ -28026,7 +28058,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "we is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：我们。"
+    "hint": "选择代词：我们。",
+    "rawPos": "代词"
   },
   {
     "id": "high-643",
@@ -28039,7 +28072,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is about the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：关于。"
+    "hint": "书的位置：关于。",
+    "rawPos": "介词"
   },
   {
     "id": "high-644",
@@ -28052,7 +28086,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a people.",
     "sentence": "This is a ___.",
-    "hint": "这是：人们。"
+    "hint": "这是：人们。",
+    "rawPos": "名词"
   },
   {
     "id": "high-645",
@@ -28065,7 +28100,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "her is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：她的。"
+    "hint": "选择代词：她的。",
+    "rawPos": "代词"
   },
   {
     "id": "high-646",
@@ -28078,7 +28114,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "this is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：这（个）。"
+    "hint": "选择代词：这（个）。",
+    "rawPos": "代词"
   },
   {
     "id": "high-647",
@@ -28091,7 +28128,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "she is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：她。"
+    "hint": "选择代词：她。",
+    "rawPos": "代词"
   },
   {
     "id": "high-648",
@@ -28104,7 +28142,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a being.",
     "sentence": "This is a ___.",
-    "hint": "这是：存在。"
+    "hint": "这是：存在。",
+    "rawPos": "名词"
   },
   {
     "id": "high-649",
@@ -28117,7 +28156,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is from the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：来自，从……。"
+    "hint": "书的位置：来自，从……。",
+    "rawPos": "介词"
   },
   {
     "id": "high-650",
@@ -28130,7 +28170,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can make.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：制作。"
+    "hint": "我会/可以：制作。",
+    "rawPos": "动词"
   },
   {
     "id": "high-651",
@@ -28143,7 +28184,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a person.",
     "sentence": "This is a ___.",
-    "hint": "这是：人。"
+    "hint": "这是：人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-652",
@@ -28156,7 +28198,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is by the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：在……之前。"
+    "hint": "书的位置：在……之前。",
+    "rawPos": "介词"
   },
   {
     "id": "high-653",
@@ -28169,7 +28212,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "their is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：他们的；她们的；它们的。"
+    "hint": "选择代词：他们的；她们的；它们的。",
+    "rawPos": "代词"
   },
   {
     "id": "high-654",
@@ -28182,7 +28226,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I like apples when bananas.",
     "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：什么时候；何时。"
+    "hint": "选择连接词：什么时候；何时。",
+    "rawPos": "连词"
   },
   {
     "id": "high-655",
@@ -28195,7 +28240,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "my is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：我的。"
+    "hint": "选择代词：我的。",
+    "rawPos": "代词"
   },
   {
     "id": "high-656",
@@ -28208,7 +28254,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "It is good.",
     "sentence": "It is ___.",
-    "hint": "它是：好的；愉快的。"
+    "hint": "它是：好的；愉快的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-657",
@@ -28221,7 +28268,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can say.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：说；讲。"
+    "hint": "我会/可以：说；讲。",
+    "rawPos": "动词"
   },
   {
     "id": "high-658",
@@ -28234,7 +28282,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can go.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：去。"
+    "hint": "我会/可以：去。",
+    "rawPos": "动词"
   },
   {
     "id": "high-659",
@@ -28247,7 +28296,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a how.",
     "sentence": "This is a ___.",
-    "hint": "这是：多少。"
+    "hint": "这是：多少。",
+    "rawPos": "名词"
   },
   {
     "id": "high-660",
@@ -28260,7 +28310,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is out the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：外面。"
+    "hint": "书的位置：外面。",
+    "rawPos": "介词"
   },
   {
     "id": "high-661",
@@ -28273,7 +28324,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "your is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：你(们）的。"
+    "hint": "选择代词：你(们）的。",
+    "rawPos": "代词"
   },
   {
     "id": "high-662",
@@ -28281,12 +28333,13 @@ window.VOCABULARY = [
     "levelLabel": "高中版",
     "word": "would",
     "cn": "客气地建议或邀请",
-    "pos": "情态动词",
+    "pos": "动词",
     "scene": "通用基础",
     "category": "动作行为",
     "example": "I can would.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：客气地建议或邀请。"
+    "hint": "我会/可以：客气地建议或邀请。",
+    "rawPos": "情态动词"
   },
   {
     "id": "high-663",
@@ -28299,7 +28352,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "his is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：他的。"
+    "hint": "选择代词：他的。",
+    "rawPos": "代词"
   },
   {
     "id": "high-664",
@@ -28312,7 +28366,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is well¹.",
     "sentence": "It is ___.",
-    "hint": "它是：好的，健康。"
+    "hint": "它是：好的，健康。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-665",
@@ -28325,7 +28380,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a well².",
     "sentence": "This is a ___.",
-    "hint": "这是：井。"
+    "hint": "这是：井。",
+    "rawPos": "名词"
   },
   {
     "id": "high-666",
@@ -28338,7 +28394,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have one books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：一。"
+    "hint": "数量是：一。",
+    "rawPos": "数词"
   },
   {
     "id": "high-667",
@@ -28351,7 +28408,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can work.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：工作。"
+    "hint": "我会/可以：工作。",
+    "rawPos": "动词"
   },
   {
     "id": "high-668",
@@ -28364,7 +28422,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can get.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：到达。"
+    "hint": "我会/可以：到达。",
+    "rawPos": "动词"
   },
   {
     "id": "high-669",
@@ -28377,7 +28436,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I like apples if bananas.",
     "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：如果。"
+    "hint": "选择连接词：如果。",
+    "rawPos": "连词"
   },
   {
     "id": "high-670",
@@ -28390,7 +28450,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can take.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：学习；上（课）。"
+    "hint": "我会/可以：学习；上（课）。",
+    "rawPos": "动词"
   },
   {
     "id": "high-671",
@@ -28403,7 +28464,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a other.",
     "sentence": "This is a ___.",
-    "hint": "这是：其他。"
+    "hint": "这是：其他。",
+    "rawPos": "名词"
   },
   {
     "id": "high-672",
@@ -28416,7 +28478,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I like apples or bananas.",
     "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：或者。"
+    "hint": "选择连接词：或者。",
+    "rawPos": "连词"
   },
   {
     "id": "high-673",
@@ -28429,7 +28492,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a up.",
     "sentence": "This is a ___.",
-    "hint": "这是：上；向上。"
+    "hint": "这是：上；向上。",
+    "rawPos": "名词"
   },
   {
     "id": "high-674",
@@ -28442,7 +28506,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a year.",
     "sentence": "This is a ___.",
-    "hint": "这是：年。"
+    "hint": "这是：年。",
+    "rawPos": "名词"
   },
   {
     "id": "high-675",
@@ -28455,7 +28520,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "who is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：谁。"
+    "hint": "选择代词：谁。",
+    "rawPos": "代词"
   },
   {
     "id": "high-676",
@@ -28468,7 +28534,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a all.",
     "sentence": "This is a ___.",
-    "hint": "这是：全；完全。"
+    "hint": "这是：全；完全。",
+    "rawPos": "名词"
   },
   {
     "id": "high-677",
@@ -28481,7 +28548,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a some.",
     "sentence": "This is a ___.",
-    "hint": "这是：一些。"
+    "hint": "这是：一些。",
+    "rawPos": "名词"
   },
   {
     "id": "high-678",
@@ -28494,7 +28562,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I like apples than bananas.",
     "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：比。"
+    "hint": "选择连接词：比。",
+    "rawPos": "连词"
   },
   {
     "id": "high-679",
@@ -28507,7 +28576,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "them is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：他（她、它）们。"
+    "hint": "选择代词：他（她、它）们。",
+    "rawPos": "代词"
   },
   {
     "id": "high-680",
@@ -28520,7 +28590,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can help.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：帮助。"
+    "hint": "我会/可以：帮助。",
+    "rawPos": "动词"
   },
   {
     "id": "high-681",
@@ -28533,7 +28604,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a there.",
     "sentence": "This is a ___.",
-    "hint": "这是：在那里。"
+    "hint": "这是：在那里。",
+    "rawPos": "名词"
   },
   {
     "id": "high-682",
@@ -28546,7 +28618,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is new.",
     "sentence": "It is ___.",
-    "hint": "它是：新的。"
+    "hint": "它是：新的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-683",
@@ -28559,7 +28632,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is most.",
     "sentence": "It is ___.",
-    "hint": "它是：最；大多数的。"
+    "hint": "它是：最；大多数的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-684",
@@ -28572,7 +28646,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can find.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：找到。"
+    "hint": "我会/可以：找到。",
+    "rawPos": "动词"
   },
   {
     "id": "high-685",
@@ -28585,7 +28660,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is found.",
     "sentence": "It is ___.",
-    "hint": "它是：（find的过去式）发现；找到。"
+    "hint": "它是：（find的过去式）发现；找到。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-686",
@@ -28598,7 +28674,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I like apples so bananas.",
     "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：这么；那么。"
+    "hint": "选择连接词：这么；那么。",
+    "rawPos": "连词"
   },
   {
     "id": "high-687",
@@ -28611,7 +28688,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can read.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：看；读。"
+    "hint": "我会/可以：看；读。",
+    "rawPos": "动词"
   },
   {
     "id": "high-688",
@@ -28624,7 +28702,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "which is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：哪一个。"
+    "hint": "选择代词：哪一个。",
+    "rawPos": "代词"
   },
   {
     "id": "high-689",
@@ -28632,12 +28711,13 @@ window.VOCABULARY = [
     "levelLabel": "高中版",
     "word": "could",
     "cn": "(can的过去式)能",
-    "pos": "情态动词",
+    "pos": "动词",
     "scene": "通用基础",
     "category": "基础功能词",
     "example": "I can could.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：(can的过去式)能。"
+    "hint": "我会/可以：(can的过去式)能。",
+    "rawPos": "情态动词"
   },
   {
     "id": "high-690",
@@ -28650,7 +28730,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a man.",
     "sentence": "This is a ___.",
-    "hint": "这是：男人。"
+    "hint": "这是：男人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-691",
@@ -28663,7 +28744,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a day.",
     "sentence": "This is a ___.",
-    "hint": "这是：一天；一日。"
+    "hint": "这是：一天；一日。",
+    "rawPos": "名词"
   },
   {
     "id": "high-692",
@@ -28671,12 +28753,13 @@ window.VOCABULARY = [
     "levelLabel": "高中版",
     "word": "may",
     "cn": "五月",
-    "pos": "情态动词",
+    "pos": "动词",
     "scene": "时间数字",
     "category": "基础功能词",
     "example": "I can may.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：五月。"
+    "hint": "我会/可以：五月。",
+    "rawPos": "情态动词"
   },
   {
     "id": "high-693",
@@ -28689,7 +28772,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can use.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使用。"
+    "hint": "我会/可以：使用。",
+    "rawPos": "动词"
   },
   {
     "id": "high-694",
@@ -28702,7 +28786,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can know.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：知道；了解。"
+    "hint": "我会/可以：知道；了解。",
+    "rawPos": "动词"
   },
   {
     "id": "high-695",
@@ -28715,7 +28800,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can come.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：来。"
+    "hint": "我会/可以：来。",
+    "rawPos": "动词"
   },
   {
     "id": "high-696",
@@ -28728,7 +28814,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a child.",
     "sentence": "This is a ___.",
-    "hint": "这是：（复数形式为children）孩子。"
+    "hint": "这是：（复数形式为children）孩子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-697",
@@ -28741,7 +28828,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "our is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：我们的。"
+    "hint": "选择代词：我们的。",
+    "rawPos": "代词"
   },
   {
     "id": "high-698",
@@ -28754,7 +28842,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can like.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：像……那样。"
+    "hint": "我会/可以：像……那样。",
+    "rawPos": "动词"
   },
   {
     "id": "high-699",
@@ -28767,7 +28856,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a why.",
     "sentence": "This is a ___.",
-    "hint": "这是：为什么。"
+    "hint": "这是：为什么。",
+    "rawPos": "名词"
   },
   {
     "id": "high-700",
@@ -28780,7 +28870,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can give.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：给。"
+    "hint": "我会/可以：给。",
+    "rawPos": "动词"
   },
   {
     "id": "high-701",
@@ -28793,7 +28884,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can want.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：要；想要。"
+    "hint": "我会/可以：要；想要。",
+    "rawPos": "动词"
   },
   {
     "id": "high-702",
@@ -28806,7 +28898,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can think.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：想；认为。"
+    "hint": "我会/可以：想；认为。",
+    "rawPos": "动词"
   },
   {
     "id": "high-703",
@@ -28819,7 +28912,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a see.",
     "sentence": "This is a ___.",
-    "hint": "这是：看，看见。"
+    "hint": "这是：看，看见。",
+    "rawPos": "名词"
   },
   {
     "id": "high-704",
@@ -28832,7 +28926,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a way.",
     "sentence": "This is a ___.",
-    "hint": "这是：道路。"
+    "hint": "这是：道路。",
+    "rawPos": "名词"
   },
   {
     "id": "high-705",
@@ -28845,7 +28940,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "me is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：我。"
+    "hint": "选择代词：我。",
+    "rawPos": "代词"
   },
   {
     "id": "high-706",
@@ -28858,7 +28954,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can live.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：住；居住。"
+    "hint": "我会/可以：住；居住。",
+    "rawPos": "动词"
   },
   {
     "id": "high-707",
@@ -28871,7 +28968,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a woman.",
     "sentence": "This is a ___.",
-    "hint": "这是：女人。"
+    "hint": "这是：女人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-708",
@@ -28884,7 +28982,8 @@ window.VOCABULARY = [
     "category": "饮食生活",
     "example": "This is a food.",
     "sentence": "This is a ___.",
-    "hint": "这是：食物。"
+    "hint": "这是：食物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-709",
@@ -28897,7 +28996,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a where.",
     "sentence": "This is a ___.",
-    "hint": "这是：在哪里。"
+    "hint": "这是：在哪里。",
+    "rawPos": "名词"
   },
   {
     "id": "high-710",
@@ -28910,7 +29010,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a book.",
     "sentence": "This is a ___.",
-    "hint": "这是：书。"
+    "hint": "这是：书。",
+    "rawPos": "名词"
   },
   {
     "id": "high-711",
@@ -28923,7 +29024,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a life.",
     "sentence": "This is a ___.",
-    "hint": "这是：生活；生命。"
+    "hint": "这是：生活；生命。",
+    "rawPos": "名词"
   },
   {
     "id": "high-712",
@@ -28936,7 +29038,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is into the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：进入；到……里。"
+    "hint": "书的位置：进入；到……里。",
+    "rawPos": "介词"
   },
   {
     "id": "high-713",
@@ -28949,7 +29052,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is little.",
     "sentence": "It is ___.",
-    "hint": "它是：小的。"
+    "hint": "它是：小的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-714",
@@ -28962,7 +29066,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a no.",
     "sentence": "This is a ___.",
-    "hint": "这是：不。"
+    "hint": "这是：不。",
+    "rawPos": "名词"
   },
   {
     "id": "high-715",
@@ -28975,7 +29080,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a world.",
     "sentence": "This is a ___.",
-    "hint": "这是：世界。"
+    "hint": "这是：世界。",
+    "rawPos": "名词"
   },
   {
     "id": "high-716",
@@ -28988,7 +29094,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I like apples after bananas.",
     "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：在（时间）后。"
+    "hint": "选择连接词：在（时间）后。",
+    "rawPos": "连词"
   },
   {
     "id": "high-717",
@@ -29001,7 +29108,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a just.",
     "sentence": "This is a ___.",
-    "hint": "这是：稍等一会儿。"
+    "hint": "这是：稍等一会儿。",
+    "rawPos": "名词"
   },
   {
     "id": "high-718",
@@ -29014,7 +29122,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can need.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：需要。"
+    "hint": "我会/可以：需要。",
+    "rawPos": "动词"
   },
   {
     "id": "high-719",
@@ -29027,7 +29136,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can feel.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：觉得；感到。"
+    "hint": "我会/可以：觉得；感到。",
+    "rawPos": "动词"
   },
   {
     "id": "high-720",
@@ -29040,7 +29150,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "us is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：我们。"
+    "hint": "选择代词：我们。",
+    "rawPos": "代词"
   },
   {
     "id": "high-721",
@@ -29053,7 +29164,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a now.",
     "sentence": "This is a ___.",
-    "hint": "这是：现在；立刻。"
+    "hint": "这是：现在；立刻。",
+    "rawPos": "名词"
   },
   {
     "id": "high-722",
@@ -29066,7 +29178,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is thought.",
     "sentence": "It is ___.",
-    "hint": "它是：(think的过去式）想。"
+    "hint": "它是：(think的过去式）想。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-723",
@@ -29079,7 +29192,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is finding.",
     "sentence": "It is ___.",
-    "hint": "它是：发现；发现物；调查(或研究)的结果。"
+    "hint": "它是：发现；发现物；调查(或研究)的结果。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-724",
@@ -29092,7 +29206,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can change.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：改变。"
+    "hint": "我会/可以：改变。",
+    "rawPos": "动词"
   },
   {
     "id": "high-725",
@@ -29105,7 +29220,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "these is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：这些。"
+    "hint": "选择代词：这些。",
+    "rawPos": "代词"
   },
   {
     "id": "high-726",
@@ -29113,12 +29229,13 @@ window.VOCABULARY = [
     "levelLabel": "高中版",
     "word": "should",
     "cn": "（常用于纠正别人）应该，应当",
-    "pos": "情态动词",
+    "pos": "动词",
     "scene": "通用基础",
     "category": "人物关系",
     "example": "I can should.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：（常用于纠正别人）应该，应当。"
+    "hint": "我会/可以：（常用于纠正别人）应该，应当。",
+    "rawPos": "情态动词"
   },
   {
     "id": "high-727",
@@ -29131,7 +29248,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is long.",
     "sentence": "It is ___.",
-    "hint": "它是：长的。"
+    "hint": "它是：长的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-728",
@@ -29144,7 +29262,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can start.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：开始。"
+    "hint": "我会/可以：开始。",
+    "rawPos": "动词"
   },
   {
     "id": "high-729",
@@ -29157,7 +29276,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a evening.",
     "sentence": "This is a ___.",
-    "hint": "这是：晚上；傍晚。"
+    "hint": "这是：晚上；傍晚。",
+    "rawPos": "名词"
   },
   {
     "id": "high-730",
@@ -29170,7 +29290,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "I can study.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：书房。"
+    "hint": "我会/可以：书房。",
+    "rawPos": "动词"
   },
   {
     "id": "high-731",
@@ -29183,7 +29304,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a even.",
     "sentence": "This is a ___.",
-    "hint": "这是：甚至。"
+    "hint": "这是：甚至。",
+    "rawPos": "名词"
   },
   {
     "id": "high-732",
@@ -29196,7 +29318,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs only.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：只，仅仅。"
+    "hint": "这里需要表示：只，仅仅。",
+    "rawPos": "副词"
   },
   {
     "id": "high-733",
@@ -29209,7 +29332,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can show.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：展览。"
+    "hint": "我会/可以：展览。",
+    "rawPos": "动词"
   },
   {
     "id": "high-734",
@@ -29222,7 +29346,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a also.",
     "sentence": "This is a ___.",
-    "hint": "这是：还；也。"
+    "hint": "这是：还；也。",
+    "rawPos": "名词"
   },
   {
     "id": "high-735",
@@ -29235,7 +29360,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can look.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：看；瞧。"
+    "hint": "我会/可以：看；瞧。",
+    "rawPos": "动词"
   },
   {
     "id": "high-736",
@@ -29248,7 +29374,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a talk.",
     "sentence": "This is a ___.",
-    "hint": "这是：说话。"
+    "hint": "这是：说话。",
+    "rawPos": "名词"
   },
   {
     "id": "high-737",
@@ -29261,7 +29388,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I like apples before bananas.",
     "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：在……之前。"
+    "hint": "选择连接词：在……之前。",
+    "rawPos": "连词"
   },
   {
     "id": "high-738",
@@ -29274,7 +29402,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a word.",
     "sentence": "This is a ___.",
-    "hint": "这是：单词。"
+    "hint": "这是：单词。",
+    "rawPos": "名词"
   },
   {
     "id": "high-739",
@@ -29287,7 +29416,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is still.",
     "sentence": "It is ___.",
-    "hint": "它是：静止的。"
+    "hint": "它是：静止的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-740",
@@ -29300,7 +29430,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a author.",
     "sentence": "This is a ___.",
-    "hint": "这是：作者，作家。"
+    "hint": "这是：作者，作家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-741",
@@ -29313,7 +29444,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a call.",
     "sentence": "This is a ___.",
-    "hint": "这是：打电话给……。"
+    "hint": "这是：打电话给……。",
+    "rawPos": "名词"
   },
   {
     "id": "high-742",
@@ -29326,7 +29458,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a student.",
     "sentence": "This is a ___.",
-    "hint": "这是：学生。"
+    "hint": "这是：学生。",
+    "rawPos": "名词"
   },
   {
     "id": "high-743",
@@ -29339,7 +29472,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "its is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：（指事物、动物或幼儿）它的；他的；她的。"
+    "hint": "选择代词：（指事物、动物或幼儿）它的；他的；她的。",
+    "rawPos": "代词"
   },
   {
     "id": "high-744",
@@ -29352,7 +29486,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is over the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：结束。"
+    "hint": "书的位置：结束。",
+    "rawPos": "介词"
   },
   {
     "id": "high-745",
@@ -29365,7 +29500,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can keep.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：保持某种状态。"
+    "hint": "我会/可以：保持某种状态。",
+    "rawPos": "动词"
   },
   {
     "id": "high-746",
@@ -29378,7 +29514,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "those is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：那些。"
+    "hint": "选择代词：那些。",
+    "rawPos": "代词"
   },
   {
     "id": "high-747",
@@ -29391,7 +29528,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a paragraph.",
     "sentence": "This is a ___.",
-    "hint": "这是：段落。"
+    "hint": "这是：段落。",
+    "rawPos": "名词"
   },
   {
     "id": "high-748",
@@ -29404,7 +29542,8 @@ window.VOCABULARY = [
     "category": "场所方位",
     "example": "This is a home.",
     "sentence": "This is a ___.",
-    "hint": "这是：家；家庭。"
+    "hint": "这是：家；家庭。",
+    "rawPos": "名词"
   },
   {
     "id": "high-749",
@@ -29417,7 +29556,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is feeling.",
     "sentence": "It is ___.",
-    "hint": "它是：（内心和感官的）感觉，感触，情绪。"
+    "hint": "它是：（内心和感官的）感觉，感触，情绪。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-750",
@@ -29430,7 +29570,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "him is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：（用作宾语或表语）他。"
+    "hint": "选择代词：（用作宾语或表语）他。",
+    "rawPos": "代词"
   },
   {
     "id": "high-751",
@@ -29443,7 +29584,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I like apples because bananas.",
     "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：因为。"
+    "hint": "选择连接词：因为。",
+    "rawPos": "连词"
   },
   {
     "id": "high-752",
@@ -29456,7 +29598,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a become.",
     "sentence": "This is a ___.",
-    "hint": "这是：开始变得；变成。"
+    "hint": "这是：开始变得；变成。",
+    "rawPos": "名词"
   },
   {
     "id": "high-753",
@@ -29469,7 +29612,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a then.",
     "sentence": "This is a ___.",
-    "hint": "这是：然后；那时。"
+    "hint": "这是：然后；那时。",
+    "rawPos": "名词"
   },
   {
     "id": "high-754",
@@ -29482,7 +29626,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I like apples while bananas.",
     "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：一段时间。"
+    "hint": "选择连接词：一段时间。",
+    "rawPos": "连词"
   },
   {
     "id": "high-755",
@@ -29495,7 +29640,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can leave.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：离开。"
+    "hint": "我会/可以：离开。",
+    "rawPos": "动词"
   },
   {
     "id": "high-756",
@@ -29508,7 +29654,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can learn.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：学；学习；学会。"
+    "hint": "我会/可以：学；学习；学会。",
+    "rawPos": "动词"
   },
   {
     "id": "high-757",
@@ -29521,7 +29668,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can ask.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：问。"
+    "hint": "我会/可以：问。",
+    "rawPos": "动词"
   },
   {
     "id": "high-758",
@@ -29534,7 +29682,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "It is old.",
     "sentence": "It is ___.",
-    "hint": "它是：老的；年纪大的。"
+    "hint": "它是：老的；年纪大的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-759",
@@ -29547,7 +29696,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs family.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：家；家庭。"
+    "hint": "这里需要表示：家；家庭。",
+    "rawPos": "副词"
   },
   {
     "id": "high-760",
@@ -29560,7 +29710,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a thing.",
     "sentence": "This is a ___.",
-    "hint": "这是：事情。"
+    "hint": "这是：事情。",
+    "rawPos": "名词"
   },
   {
     "id": "high-761",
@@ -29573,7 +29724,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a speaker.",
     "sentence": "This is a ___.",
-    "hint": "这是：演讲者，发言人。"
+    "hint": "这是：演讲者，发言人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-762",
@@ -29586,7 +29738,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a back.",
     "sentence": "This is a ___.",
-    "hint": "这是：回来。"
+    "hint": "这是：回来。",
+    "rawPos": "名词"
   },
   {
     "id": "high-763",
@@ -29599,7 +29752,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a car.",
     "sentence": "This is a ___.",
-    "hint": "这是：小汽车。"
+    "hint": "这是：小汽车。",
+    "rawPos": "名词"
   },
   {
     "id": "high-764",
@@ -29612,7 +29766,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs place.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地方。"
+    "hint": "这里需要表示：地方。",
+    "rawPos": "副词"
   },
   {
     "id": "high-765",
@@ -29625,7 +29780,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can meet.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：集会；开会。"
+    "hint": "我会/可以：集会；开会。",
+    "rawPos": "动词"
   },
   {
     "id": "high-766",
@@ -29638,7 +29794,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can tell.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：告诉。"
+    "hint": "我会/可以：告诉。",
+    "rawPos": "动词"
   },
   {
     "id": "high-767",
@@ -29651,7 +29808,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a follow.",
     "sentence": "This is a ___.",
-    "hint": "这是：跟着。"
+    "hint": "这是：跟着。",
+    "rawPos": "名词"
   },
   {
     "id": "high-768",
@@ -29664,7 +29822,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a each.",
     "sentence": "This is a ___.",
-    "hint": "这是：每人，每个，每件。"
+    "hint": "这是：每人，每个，每件。",
+    "rawPos": "名词"
   },
   {
     "id": "high-769",
@@ -29677,7 +29836,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is mean.",
     "sentence": "It is ___.",
-    "hint": "它是：吝啬的。"
+    "hint": "它是：吝啬的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-770",
@@ -29690,7 +29850,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is big.",
     "sentence": "It is ___.",
-    "hint": "它是：大的。"
+    "hint": "它是：大的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-771",
@@ -29703,7 +29864,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a friend.",
     "sentence": "This is a ___.",
-    "hint": "这是：朋友。"
+    "hint": "这是：朋友。",
+    "rawPos": "名词"
   },
   {
     "id": "high-772",
@@ -29716,7 +29878,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "It is young.",
     "sentence": "It is ___.",
-    "hint": "它是：年轻的；岁数不大的。"
+    "hint": "它是：年轻的；岁数不大的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-773",
@@ -29729,7 +29892,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is small.",
     "sentence": "It is ___.",
-    "hint": "它是：小的。"
+    "hint": "它是：小的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-774",
@@ -29742,7 +29906,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a too.",
     "sentence": "This is a ___.",
-    "hint": "这是：太；过于。"
+    "hint": "这是：太；过于。",
+    "rawPos": "名词"
   },
   {
     "id": "high-775",
@@ -29755,7 +29920,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a down.",
     "sentence": "This is a ___.",
-    "hint": "这是：减少；降低。"
+    "hint": "这是：减少；降低。",
+    "rawPos": "名词"
   },
   {
     "id": "high-776",
@@ -29768,7 +29934,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is last.",
     "sentence": "It is ___.",
-    "hint": "它是：上一个的；刚过去的。"
+    "hint": "它是：上一个的；刚过去的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-777",
@@ -29781,7 +29948,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a saying.",
     "sentence": "This is a ___.",
-    "hint": "这是：谚语；格言。"
+    "hint": "这是：谚语；格言。",
+    "rawPos": "名词"
   },
   {
     "id": "high-778",
@@ -29794,7 +29962,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can try.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：试；尝试。"
+    "hint": "我会/可以：试；尝试。",
+    "rawPos": "动词"
   },
   {
     "id": "high-779",
@@ -29807,7 +29976,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can play.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：踢；玩；参加（体育运动）。"
+    "hint": "我会/可以：踢；玩；参加（体育运动）。",
+    "rawPos": "动词"
   },
   {
     "id": "high-780",
@@ -29815,12 +29985,13 @@ window.VOCABULARY = [
     "levelLabel": "高中版",
     "word": "might",
     "cn": "可能；可以",
-    "pos": "情态动词",
+    "pos": "动词",
     "scene": "通用基础",
     "category": "动作行为",
     "example": "I can might.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：可能；可以。"
+    "hint": "我会/可以：可能；可以。",
+    "rawPos": "情态动词"
   },
   {
     "id": "high-781",
@@ -29833,7 +30004,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can write.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：写。"
+    "hint": "我会/可以：写。",
+    "rawPos": "动词"
   },
   {
     "id": "high-782",
@@ -29846,7 +30018,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a something.",
     "sentence": "This is a ___.",
-    "hint": "这是：某事；某物。"
+    "hint": "这是：某事；某物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-783",
@@ -29859,7 +30032,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can grow.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：种。"
+    "hint": "我会/可以：种。",
+    "rawPos": "动词"
   },
   {
     "id": "high-784",
@@ -29872,7 +30046,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is high.",
     "sentence": "It is ___.",
-    "hint": "它是：高的。"
+    "hint": "它是：高的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-785",
@@ -29885,7 +30060,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "I have two books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：二。"
+    "hint": "数量是：二。",
+    "rawPos": "数词"
   },
   {
     "id": "high-786",
@@ -29898,7 +30074,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a very.",
     "sentence": "This is a ___.",
-    "hint": "这是：很，非常。"
+    "hint": "这是：很，非常。",
+    "rawPos": "名词"
   },
   {
     "id": "high-787",
@@ -29911,7 +30088,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is own.",
     "sentence": "It is ___.",
-    "hint": "它是：自己的。"
+    "hint": "它是：自己的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-788",
@@ -29924,7 +30102,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a mother.",
     "sentence": "This is a ___.",
-    "hint": "这是：母亲；妈妈。"
+    "hint": "这是：母亲；妈妈。",
+    "rawPos": "名词"
   },
   {
     "id": "high-789",
@@ -29937,7 +30116,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a problem.",
     "sentence": "This is a ___.",
-    "hint": "这是：问题。"
+    "hint": "这是：问题。",
+    "rawPos": "名词"
   },
   {
     "id": "high-790",
@@ -29950,7 +30130,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is through the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：通过。"
+    "hint": "书的位置：通过。",
+    "rawPos": "介词"
   },
   {
     "id": "high-791",
@@ -29963,7 +30144,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can eat.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：吃。"
+    "hint": "我会/可以：吃。",
+    "rawPos": "动词"
   },
   {
     "id": "high-792",
@@ -29976,7 +30158,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a great.",
     "sentence": "This is a ___.",
-    "hint": "这是：好极了。"
+    "hint": "这是：好极了。",
+    "rawPos": "名词"
   },
   {
     "id": "high-793",
@@ -29989,7 +30172,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs probably.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：很可能；大概。"
+    "hint": "这里需要表示：很可能；大概。",
+    "rawPos": "副词"
   },
   {
     "id": "high-794",
@@ -30002,7 +30186,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a few.",
     "sentence": "This is a ___.",
-    "hint": "这是：不多；很少。"
+    "hint": "这是：不多；很少。",
+    "rawPos": "名词"
   },
   {
     "id": "high-795",
@@ -30015,7 +30200,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can begin.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：开始。"
+    "hint": "我会/可以：开始。",
+    "rawPos": "动词"
   },
   {
     "id": "high-796",
@@ -30028,7 +30214,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "I can drive.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：驾车送（某人）；驾驶。"
+    "hint": "我会/可以：驾车送（某人）；驾驶。",
+    "rawPos": "动词"
   },
   {
     "id": "high-797",
@@ -30041,7 +30228,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can put.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：放；安置。"
+    "hint": "我会/可以：放；安置。",
+    "rawPos": "动词"
   },
   {
     "id": "high-798",
@@ -30054,7 +30242,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can turn.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：顺序。"
+    "hint": "我会/可以：顺序。",
+    "rawPos": "动词"
   },
   {
     "id": "high-799",
@@ -30067,7 +30256,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a plant.",
     "sentence": "This is a ___.",
-    "hint": "这是：植物。"
+    "hint": "这是：植物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-800",
@@ -30080,7 +30270,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can job.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：工作。"
+    "hint": "我会/可以：工作。",
+    "rawPos": "动词"
   },
   {
     "id": "high-801",
@@ -30093,7 +30284,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is between the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：在........中间。"
+    "hint": "书的位置：在........中间。",
+    "rawPos": "介词"
   },
   {
     "id": "high-802",
@@ -30106,7 +30298,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a kid.",
     "sentence": "This is a ___.",
-    "hint": "这是：小孩，儿童。"
+    "hint": "这是：小孩，儿童。",
+    "rawPos": "名词"
   },
   {
     "id": "high-803",
@@ -30119,7 +30312,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is around the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：遍及；围绕。"
+    "hint": "书的位置：遍及；围绕。",
+    "rawPos": "介词"
   },
   {
     "id": "high-804",
@@ -30132,7 +30326,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a late.",
     "sentence": "This is a ___.",
-    "hint": "这是：晚；迟。"
+    "hint": "这是：晚；迟。",
+    "rawPos": "名词"
   },
   {
     "id": "high-805",
@@ -30145,7 +30340,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a interest.",
     "sentence": "This is a ___.",
-    "hint": "这是：兴趣。"
+    "hint": "这是：兴趣。",
+    "rawPos": "名词"
   },
   {
     "id": "high-806",
@@ -30158,7 +30354,8 @@ window.VOCABULARY = [
     "category": "场所方位",
     "example": "This is a city.",
     "sentence": "This is a ___.",
-    "hint": "这是：城市。"
+    "hint": "这是：城市。",
+    "rawPos": "名词"
   },
   {
     "id": "high-807",
@@ -30171,7 +30368,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a however.",
     "sentence": "This is a ___.",
-    "hint": "这是：然而；不过。"
+    "hint": "这是：然而；不过。",
+    "rawPos": "名词"
   },
   {
     "id": "high-808",
@@ -30184,7 +30382,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a age.",
     "sentence": "This is a ___.",
-    "hint": "这是：年龄。"
+    "hint": "这是：年龄。",
+    "rawPos": "名词"
   },
   {
     "id": "high-809",
@@ -30197,7 +30396,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can off.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：（机器、设备等）不再工作；离开；不上学，不工作。"
+    "hint": "我会/可以：（机器、设备等）不再工作；离开；不上学，不工作。",
+    "rawPos": "动词"
   },
   {
     "id": "high-810",
@@ -30210,7 +30410,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a hour.",
     "sentence": "This is a ___.",
-    "hint": "这是：小时。"
+    "hint": "这是：小时。",
+    "rawPos": "名词"
   },
   {
     "id": "high-811",
@@ -30223,7 +30424,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a parent.",
     "sentence": "This is a ___.",
-    "hint": "这是：父亲；母亲。"
+    "hint": "这是：父亲；母亲。",
+    "rawPos": "名词"
   },
   {
     "id": "high-812",
@@ -30236,7 +30438,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can visit.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：拜访。"
+    "hint": "我会/可以：拜访。",
+    "rawPos": "动词"
   },
   {
     "id": "high-813",
@@ -30249,7 +30452,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a college.",
     "sentence": "This is a ___.",
-    "hint": "这是：大学；高等专科学校。"
+    "hint": "这是：大学；高等专科学校。",
+    "rawPos": "名词"
   },
   {
     "id": "high-814",
@@ -30262,7 +30466,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is important.",
     "sentence": "It is ___.",
-    "hint": "它是：重要的。"
+    "hint": "它是：重要的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-815",
@@ -30275,7 +30480,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can used.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使用（use的过去时形式）。"
+    "hint": "我会/可以：使用（use的过去时形式）。",
+    "rawPos": "动词"
   },
   {
     "id": "high-816",
@@ -30288,7 +30494,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can move.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：迁居。"
+    "hint": "我会/可以：迁居。",
+    "rawPos": "动词"
   },
   {
     "id": "high-817",
@@ -30301,7 +30508,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can love.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：（写信结尾的热情问候语）爱你的。"
+    "hint": "我会/可以：（写信结尾的热情问候语）爱你的。",
+    "rawPos": "动词"
   },
   {
     "id": "high-818",
@@ -30314,7 +30522,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can run.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：跑。"
+    "hint": "我会/可以：跑。",
+    "rawPos": "动词"
   },
   {
     "id": "high-819",
@@ -30327,7 +30536,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs early.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：早到的。"
+    "hint": "这里需要表示：早到的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-820",
@@ -30340,7 +30550,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can build.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：（过去式为built）建造。"
+    "hint": "我会/可以：（过去式为built）建造。",
+    "rawPos": "动词"
   },
   {
     "id": "high-821",
@@ -30353,7 +30564,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a such.",
     "sentence": "This is a ___.",
-    "hint": "这是：如此。"
+    "hint": "这是：如此。",
+    "rawPos": "名词"
   },
   {
     "id": "high-822",
@@ -30366,7 +30578,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a team.",
     "sentence": "This is a ___.",
-    "hint": "这是：队。"
+    "hint": "这是：队。",
+    "rawPos": "名词"
   },
   {
     "id": "high-823",
@@ -30379,7 +30592,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can share.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：分享。"
+    "hint": "我会/可以：分享。",
+    "rawPos": "动词"
   },
   {
     "id": "high-824",
@@ -30392,7 +30606,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a offer.",
     "sentence": "This is a ___.",
-    "hint": "这是：主动提出；自愿给予。"
+    "hint": "这是：主动提出；自愿给予。",
+    "rawPos": "名词"
   },
   {
     "id": "high-825",
@@ -30405,7 +30620,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a idea.",
     "sentence": "This is a ___.",
-    "hint": "这是：想法；主意。"
+    "hint": "这是：想法；主意。",
+    "rawPos": "名词"
   },
   {
     "id": "high-826",
@@ -30418,7 +30634,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can develop.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：发展；壮大。"
+    "hint": "我会/可以：发展；壮大。",
+    "rawPos": "动词"
   },
   {
     "id": "high-827",
@@ -30431,7 +30648,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a train.",
     "sentence": "This is a ___.",
-    "hint": "这是：火车。"
+    "hint": "这是：火车。",
+    "rawPos": "名词"
   },
   {
     "id": "high-828",
@@ -30444,7 +30662,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can hear.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：听见。"
+    "hint": "我会/可以：听见。",
+    "rawPos": "动词"
   },
   {
     "id": "high-829",
@@ -30457,7 +30676,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have often books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：时常；常常。"
+    "hint": "数量是：时常；常常。",
+    "rawPos": "数词"
   },
   {
     "id": "high-830",
@@ -30470,7 +30690,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have money books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：钱。"
+    "hint": "数量是：钱。",
+    "rawPos": "数词"
   },
   {
     "id": "high-831",
@@ -30483,7 +30704,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a every.",
     "sentence": "This is a ___.",
-    "hint": "这是：每一个，每个。"
+    "hint": "这是：每一个，每个。",
+    "rawPos": "名词"
   },
   {
     "id": "high-832",
@@ -30496,7 +30718,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can set.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：一套；一副；一组。"
+    "hint": "我会/可以：一套；一副；一组。",
+    "rawPos": "动词"
   },
   {
     "id": "high-833",
@@ -30509,7 +30732,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can end.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：结尾；结束。"
+    "hint": "我会/可以：结尾；结束。",
+    "rawPos": "动词"
   },
   {
     "id": "high-834",
@@ -30522,7 +30746,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can walk.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：行走。"
+    "hint": "我会/可以：行走。",
+    "rawPos": "动词"
   },
   {
     "id": "high-835",
@@ -30535,7 +30760,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a never.",
     "sentence": "This is a ___.",
-    "hint": "这是：从不。"
+    "hint": "这是：从不。",
+    "rawPos": "名词"
   },
   {
     "id": "high-836",
@@ -30548,7 +30774,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can stop.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：停下。"
+    "hint": "我会/可以：停下。",
+    "rawPos": "动词"
   },
   {
     "id": "high-837",
@@ -30561,7 +30788,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a week.",
     "sentence": "This is a ___.",
-    "hint": "这是：星期。"
+    "hint": "这是：星期。",
+    "rawPos": "名词"
   },
   {
     "id": "high-838",
@@ -30574,7 +30802,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a building.",
     "sentence": "This is a ___.",
-    "hint": "这是：建筑物；房子；楼房。"
+    "hint": "这是：建筑物；房子；楼房。",
+    "rawPos": "名词"
   },
   {
     "id": "high-839",
@@ -30587,7 +30816,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a music.",
     "sentence": "This is a ___.",
-    "hint": "这是：音乐。"
+    "hint": "这是：音乐。",
+    "rawPos": "名词"
   },
   {
     "id": "high-840",
@@ -30600,7 +30830,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can lose.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：失去。"
+    "hint": "我会/可以：失去。",
+    "rawPos": "动词"
   },
   {
     "id": "high-841",
@@ -30613,7 +30844,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can wait.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：等待。"
+    "hint": "我会/可以：等待。",
+    "rawPos": "动词"
   },
   {
     "id": "high-842",
@@ -30626,7 +30858,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a water.",
     "sentence": "This is a ___.",
-    "hint": "这是：水。"
+    "hint": "这是：水。",
+    "rawPos": "名词"
   },
   {
     "id": "high-843",
@@ -30639,7 +30872,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a story.",
     "sentence": "This is a ___.",
-    "hint": "这是：故事。"
+    "hint": "这是：故事。",
+    "rawPos": "名词"
   },
   {
     "id": "high-844",
@@ -30652,7 +30886,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is human.",
     "sentence": "It is ___.",
-    "hint": "它是：人的。"
+    "hint": "它是：人的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-845",
@@ -30665,7 +30900,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a setting.",
     "sentence": "This is a ___.",
-    "hint": "这是：背景。"
+    "hint": "这是：背景。",
+    "rawPos": "名词"
   },
   {
     "id": "high-846",
@@ -30678,7 +30914,8 @@ window.VOCABULARY = [
     "category": "场所方位",
     "example": "This is a country.",
     "sentence": "This is a ___.",
-    "hint": "这是：国家。"
+    "hint": "这是：国家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-847",
@@ -30691,7 +30928,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a writing.",
     "sentence": "This is a ___.",
-    "hint": "这是：写。"
+    "hint": "这是：写。",
+    "rawPos": "名词"
   },
   {
     "id": "high-848",
@@ -30704,7 +30942,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is social.",
     "sentence": "It is ___.",
-    "hint": "它是：社会的。"
+    "hint": "它是：社会的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-849",
@@ -30717,7 +30956,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a night.",
     "sentence": "This is a ___.",
-    "hint": "这是：夜晚。"
+    "hint": "这是：夜晚。",
+    "rawPos": "名词"
   },
   {
     "id": "high-850",
@@ -30730,7 +30970,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is different.",
     "sentence": "It is ___.",
-    "hint": "它是：不同的。"
+    "hint": "它是：不同的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-851",
@@ -30743,7 +30984,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a part.",
     "sentence": "This is a ___.",
-    "hint": "这是：角色。"
+    "hint": "这是：角色。",
+    "rawPos": "名词"
   },
   {
     "id": "high-852",
@@ -30756,7 +30998,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a plan.",
     "sentence": "This is a ___.",
-    "hint": "这是：计划。"
+    "hint": "这是：计划。",
+    "rawPos": "名词"
   },
   {
     "id": "high-853",
@@ -30769,7 +31012,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a stay.",
     "sentence": "This is a ___.",
-    "hint": "这是：保持。"
+    "hint": "这是：保持。",
+    "rawPos": "名词"
   },
   {
     "id": "high-854",
@@ -30782,7 +31026,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "It is next.",
     "sentence": "It is ___.",
-    "hint": "它是：下一个的；紧接着的；接下来的。"
+    "hint": "它是：下一个的；紧接着的；接下来的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-855",
@@ -30795,7 +31040,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a passage.",
     "sentence": "This is a ___.",
-    "hint": "这是：章节；段落。"
+    "hint": "这是：章节；段落。",
+    "rawPos": "名词"
   },
   {
     "id": "high-856",
@@ -30808,7 +31054,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a another.",
     "sentence": "This is a ___.",
-    "hint": "这是：另一个。"
+    "hint": "这是：另一个。",
+    "rawPos": "名词"
   },
   {
     "id": "high-857",
@@ -30821,7 +31068,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a lot.",
     "sentence": "This is a ___.",
-    "hint": "这是：大量；许多。"
+    "hint": "这是：大量；许多。",
+    "rawPos": "名词"
   },
   {
     "id": "high-858",
@@ -30834,7 +31082,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a experience.",
     "sentence": "This is a ___.",
-    "hint": "这是：经验；经历。"
+    "hint": "这是：经验；经历。",
+    "rawPos": "名词"
   },
   {
     "id": "high-859",
@@ -30847,7 +31096,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs hard.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：努力地；辛苦地；难的。"
+    "hint": "这里需要表示：努力地；辛苦地；难的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-860",
@@ -30860,7 +31110,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a teacher.",
     "sentence": "This is a ___.",
-    "hint": "这是：教师。"
+    "hint": "这是：教师。",
+    "rawPos": "名词"
   },
   {
     "id": "high-861",
@@ -30873,7 +31124,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a course.",
     "sentence": "This is a ___.",
-    "hint": "这是：课程。"
+    "hint": "这是：课程。",
+    "rawPos": "名词"
   },
   {
     "id": "high-862",
@@ -30886,7 +31138,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a question.",
     "sentence": "This is a ___.",
-    "hint": "这是：疑问，问题。"
+    "hint": "这是：疑问，问题。",
+    "rawPos": "名词"
   },
   {
     "id": "high-863",
@@ -30899,7 +31152,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tour.",
     "sentence": "This is a ___.",
-    "hint": "这是：游览，观光。"
+    "hint": "这是：游览，观光。",
+    "rawPos": "名词"
   },
   {
     "id": "high-864",
@@ -30912,7 +31166,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can bring.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：带来。"
+    "hint": "我会/可以：带来。",
+    "rawPos": "动词"
   },
   {
     "id": "high-865",
@@ -30925,7 +31180,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "This is a seem.",
     "sentence": "This is a ___.",
-    "hint": "这是：似乎，好像。"
+    "hint": "这是：似乎，好像。",
+    "rawPos": "名词"
   },
   {
     "id": "high-866",
@@ -30938,7 +31194,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a left.",
     "sentence": "This is a ___.",
-    "hint": "这是：左。"
+    "hint": "这是：左。",
+    "rawPos": "名词"
   },
   {
     "id": "high-867",
@@ -30951,7 +31208,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is any.",
     "sentence": "It is ___.",
-    "hint": "它是：任何的；任一的。"
+    "hint": "它是：任何的；任一的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-868",
@@ -30964,7 +31222,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a group.",
     "sentence": "This is a ___.",
-    "hint": "这是：组。"
+    "hint": "这是：组。",
+    "rawPos": "名词"
   },
   {
     "id": "high-869",
@@ -30977,7 +31236,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can understand.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：了解；懂得。"
+    "hint": "我会/可以：了解；懂得。",
+    "rawPos": "动词"
   },
   {
     "id": "high-870",
@@ -30990,7 +31250,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a lead.",
     "sentence": "This is a ___.",
-    "hint": "这是：领导。"
+    "hint": "这是：领导。",
+    "rawPos": "名词"
   },
   {
     "id": "high-871",
@@ -31003,7 +31264,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a research.",
     "sentence": "This is a ___.",
-    "hint": "这是：调查；研究。"
+    "hint": "这是：调查；研究。",
+    "rawPos": "名词"
   },
   {
     "id": "high-872",
@@ -31016,7 +31278,8 @@ window.VOCABULARY = [
     "category": "场所方位",
     "example": "This is a house.",
     "sentence": "This is a ___.",
-    "hint": "这是：房屋；房子；住宅。"
+    "hint": "这是：房屋；房子；住宅。",
+    "rawPos": "名词"
   },
   {
     "id": "high-873",
@@ -31029,7 +31292,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "This is a enjoy.",
     "sentence": "This is a ___.",
-    "hint": "这是：享受……乐趣；喜爱。"
+    "hint": "这是：享受……乐趣；喜爱。",
+    "rawPos": "名词"
   },
   {
     "id": "high-874",
@@ -31042,7 +31306,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can break.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：休息。"
+    "hint": "我会/可以：休息。",
+    "rawPos": "动词"
   },
   {
     "id": "high-875",
@@ -31055,7 +31320,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can provide.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：提供，供给。"
+    "hint": "我会/可以：提供，供给。",
+    "rawPos": "动词"
   },
   {
     "id": "high-876",
@@ -31068,7 +31334,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is large.",
     "sentence": "It is ___.",
-    "hint": "它是：大的。"
+    "hint": "它是：大的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-877",
@@ -31081,7 +31348,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I like apples since bananas.",
     "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：因为；既然。"
+    "hint": "选择连接词：因为；既然。",
+    "rawPos": "连词"
   },
   {
     "id": "high-878",
@@ -31094,7 +31362,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a information.",
     "sentence": "This is a ___.",
-    "hint": "这是：信息。"
+    "hint": "这是：信息。",
+    "rawPos": "名词"
   },
   {
     "id": "high-879",
@@ -31107,7 +31376,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a month.",
     "sentence": "This is a ___.",
-    "hint": "这是：月份。"
+    "hint": "这是：月份。",
+    "rawPos": "名词"
   },
   {
     "id": "high-880",
@@ -31120,7 +31390,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a art.",
     "sentence": "This is a ___.",
-    "hint": "这是：艺术。"
+    "hint": "这是：艺术。",
+    "rawPos": "名词"
   },
   {
     "id": "high-881",
@@ -31133,7 +31404,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a company.",
     "sentence": "This is a ___.",
-    "hint": "这是：公司。"
+    "hint": "这是：公司。",
+    "rawPos": "名词"
   },
   {
     "id": "high-882",
@@ -31146,7 +31418,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is public.",
     "sentence": "It is ___.",
-    "hint": "它是：公共的；公然的。"
+    "hint": "它是：公共的；公然的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-883",
@@ -31159,7 +31432,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can shop.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：去买东西；购物。"
+    "hint": "我会/可以：去买东西；购物。",
+    "rawPos": "动词"
   },
   {
     "id": "high-884",
@@ -31172,7 +31446,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a happen.",
     "sentence": "This is a ___.",
-    "hint": "这是：发生。"
+    "hint": "这是：发生。",
+    "rawPos": "名词"
   },
   {
     "id": "high-885",
@@ -31185,7 +31460,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a scientist.",
     "sentence": "This is a ___.",
-    "hint": "这是：科学家。"
+    "hint": "这是：科学家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-886",
@@ -31198,7 +31474,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "I can open.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：打开。"
+    "hint": "我会/可以：打开。",
+    "rawPos": "动词"
   },
   {
     "id": "high-887",
@@ -31211,7 +31488,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is free.",
     "sentence": "It is ___.",
-    "hint": "它是：空闲的。"
+    "hint": "它是：空闲的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-888",
@@ -31224,7 +31502,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a minute.",
     "sentence": "This is a ___.",
-    "hint": "这是：分钟。"
+    "hint": "这是：分钟。",
+    "rawPos": "名词"
   },
   {
     "id": "high-889",
@@ -31237,7 +31516,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs local.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：当地的；本地的。"
+    "hint": "这里需要表示：当地的；本地的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-890",
@@ -31250,7 +31530,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can save.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：储蓄；节省。"
+    "hint": "我会/可以：储蓄；节省。",
+    "rawPos": "动词"
   },
   {
     "id": "high-891",
@@ -31263,7 +31544,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a away.",
     "sentence": "This is a ___.",
-    "hint": "这是：离开，远离。"
+    "hint": "这是：离开，远离。",
+    "rawPos": "名词"
   },
   {
     "id": "high-892",
@@ -31276,7 +31558,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can decide.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：决定。"
+    "hint": "我会/可以：决定。",
+    "rawPos": "动词"
   },
   {
     "id": "high-893",
@@ -31289,7 +31572,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is bad.",
     "sentence": "It is ___.",
-    "hint": "它是：邪恶的；坏的。"
+    "hint": "它是：邪恶的；坏的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-894",
@@ -31302,7 +31586,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "I can spend.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：花费。"
+    "hint": "我会/可以：花费。",
+    "rawPos": "动词"
   },
   {
     "id": "high-895",
@@ -31315,7 +31600,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can create.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：创造；创建。"
+    "hint": "我会/可以：创造；创建。",
+    "rawPos": "动词"
   },
   {
     "id": "high-896",
@@ -31328,7 +31614,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a class.",
     "sentence": "This is a ___.",
-    "hint": "这是：班级。"
+    "hint": "这是：班级。",
+    "rawPos": "名词"
   },
   {
     "id": "high-897",
@@ -31341,7 +31628,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can pay.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：付款，交款。"
+    "hint": "我会/可以：付款，交款。",
+    "rawPos": "动词"
   },
   {
     "id": "high-898",
@@ -31354,7 +31642,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can fall.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：落下。"
+    "hint": "我会/可以：落下。",
+    "rawPos": "动词"
   },
   {
     "id": "high-899",
@@ -31367,7 +31656,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a text.",
     "sentence": "This is a ___.",
-    "hint": "这是：课文；文本。"
+    "hint": "这是：课文；文本。",
+    "rawPos": "名词"
   },
   {
     "id": "high-900",
@@ -31380,7 +31670,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can sleep.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：睡。"
+    "hint": "我会/可以：睡。",
+    "rawPos": "动词"
   },
   {
     "id": "high-901",
@@ -31393,7 +31684,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a library.",
     "sentence": "This is a ___.",
-    "hint": "这是：图书馆。"
+    "hint": "这是：图书馆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-902",
@@ -31406,7 +31698,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a test.",
     "sentence": "This is a ___.",
-    "hint": "这是：测验。"
+    "hint": "这是：测验。",
+    "rawPos": "名词"
   },
   {
     "id": "high-903",
@@ -31414,12 +31707,13 @@ window.VOCABULARY = [
     "levelLabel": "高中版",
     "word": "must",
     "cn": "必须",
-    "pos": "情态动词",
+    "pos": "动词",
     "scene": "通用基础",
     "category": "基础功能词",
     "example": "I can must.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：必须。"
+    "hint": "我会/可以：必须。",
+    "rawPos": "情态动词"
   },
   {
     "id": "high-904",
@@ -31432,7 +31726,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a mind.",
     "sentence": "This is a ___.",
-    "hint": "这是：头脑，思想。"
+    "hint": "这是：头脑，思想。",
+    "rawPos": "名词"
   },
   {
     "id": "high-905",
@@ -31445,7 +31740,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a business.",
     "sentence": "This is a ___.",
-    "hint": "这是：生意；商业。"
+    "hint": "这是：生意；商业。",
+    "rawPos": "名词"
   },
   {
     "id": "high-906",
@@ -31458,7 +31754,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a saving.",
     "sentence": "This is a ___.",
-    "hint": "这是：节省物。"
+    "hint": "这是：节省物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-907",
@@ -31471,7 +31768,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a meaning.",
     "sentence": "This is a ___.",
-    "hint": "这是：意思，含义。"
+    "hint": "这是：意思，含义。",
+    "rawPos": "名词"
   },
   {
     "id": "high-908",
@@ -31484,7 +31782,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a conversation.",
     "sentence": "This is a ___.",
-    "hint": "这是：交谈；谈话。"
+    "hint": "这是：交谈；谈话。",
+    "rawPos": "名词"
   },
   {
     "id": "high-909",
@@ -31497,7 +31796,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is without the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：没有。"
+    "hint": "书的位置：没有。",
+    "rawPos": "介词"
   },
   {
     "id": "high-910",
@@ -31510,7 +31810,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is during the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：在……期间。"
+    "hint": "书的位置：在……期间。",
+    "rawPos": "介词"
   },
   {
     "id": "high-911",
@@ -31523,7 +31824,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a report.",
     "sentence": "This is a ___.",
-    "hint": "这是：报告。"
+    "hint": "这是：报告。",
+    "rawPos": "名词"
   },
   {
     "id": "high-912",
@@ -31536,7 +31838,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have phone books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：电话。"
+    "hint": "数量是：电话。",
+    "rawPos": "数词"
   },
   {
     "id": "high-913",
@@ -31549,7 +31852,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is same.",
     "sentence": "It is ___.",
-    "hint": "它是：相同的；同样的。"
+    "hint": "它是：相同的；同样的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-914",
@@ -31562,7 +31866,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can hope.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：希望。"
+    "hint": "我会/可以：希望。",
+    "rawPos": "动词"
   },
   {
     "id": "high-915",
@@ -31575,7 +31880,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs area.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地域；地区。"
+    "hint": "这里需要表示：地域；地区。",
+    "rawPos": "副词"
   },
   {
     "id": "high-916",
@@ -31588,7 +31894,8 @@ window.VOCABULARY = [
     "category": "场所方位",
     "example": "This is a room.",
     "sentence": "This is a ___.",
-    "hint": "这是：房间。"
+    "hint": "这是：房间。",
+    "rawPos": "名词"
   },
   {
     "id": "high-917",
@@ -31601,7 +31908,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a once.",
     "sentence": "This is a ___.",
-    "hint": "这是：从前。"
+    "hint": "这是：从前。",
+    "rawPos": "名词"
   },
   {
     "id": "high-918",
@@ -31614,7 +31922,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a effort.",
     "sentence": "This is a ___.",
-    "hint": "这是：努力；尽力。"
+    "hint": "这是：努力；尽力。",
+    "rawPos": "名词"
   },
   {
     "id": "high-919",
@@ -31627,7 +31936,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can speak.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：会说；会讲（某种语言)；用（某种语言)说话。"
+    "hint": "我会/可以：会说；会讲（某种语言)；用（某种语言)说话。",
+    "rawPos": "动词"
   },
   {
     "id": "high-920",
@@ -31640,7 +31950,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a sound.",
     "sentence": "This is a ___.",
-    "hint": "这是：听起来好像。"
+    "hint": "这是：听起来好像。",
+    "rawPos": "名词"
   },
   {
     "id": "high-921",
@@ -31653,7 +31964,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can stand.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：站立；起立。"
+    "hint": "我会/可以：站立；起立。",
+    "rawPos": "动词"
   },
   {
     "id": "high-922",
@@ -31666,7 +31978,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is right.",
     "sentence": "It is ___.",
-    "hint": "它是：正确的，对的。"
+    "hint": "它是：正确的，对的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-923",
@@ -31679,7 +31992,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is special.",
     "sentence": "It is ___.",
-    "hint": "它是：特殊的；特别的。"
+    "hint": "它是：特殊的；特别的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-924",
@@ -31692,7 +32006,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can buy.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：买。"
+    "hint": "我会/可以：买。",
+    "rawPos": "动词"
   },
   {
     "id": "high-925",
@@ -31705,7 +32020,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a data.",
     "sentence": "This is a ___.",
-    "hint": "这是：数据。"
+    "hint": "这是：数据。",
+    "rawPos": "名词"
   },
   {
     "id": "high-926",
@@ -31718,7 +32034,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a face.",
     "sentence": "This is a ___.",
-    "hint": "这是：脸。"
+    "hint": "这是：脸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-927",
@@ -31731,7 +32048,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can improve.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：改进，改善。"
+    "hint": "我会/可以：改进，改善。",
+    "rawPos": "动词"
   },
   {
     "id": "high-928",
@@ -31744,7 +32062,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can suggest.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：建议；提议。"
+    "hint": "我会/可以：建议；提议。",
+    "rawPos": "动词"
   },
   {
     "id": "high-929",
@@ -31757,7 +32076,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a project.",
     "sentence": "This is a ___.",
-    "hint": "这是：课题。"
+    "hint": "这是：课题。",
+    "rawPos": "名词"
   },
   {
     "id": "high-930",
@@ -31770,7 +32090,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a today.",
     "sentence": "This is a ___.",
-    "hint": "这是：今天。"
+    "hint": "这是：今天。",
+    "rawPos": "名词"
   },
   {
     "id": "high-931",
@@ -31783,7 +32104,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a restaurant.",
     "sentence": "This is a ___.",
-    "hint": "这是：餐馆。"
+    "hint": "这是：餐馆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-932",
@@ -31796,7 +32118,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is easy.",
     "sentence": "It is ___.",
-    "hint": "它是：容易的。"
+    "hint": "它是：容易的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-933",
@@ -31809,7 +32132,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a street.",
     "sentence": "This is a ___.",
-    "hint": "这是：大街；街道。"
+    "hint": "这是：大街；街道。",
+    "rawPos": "名词"
   },
   {
     "id": "high-934",
@@ -31822,7 +32146,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a hotel.",
     "sentence": "This is a ___.",
-    "hint": "这是：旅馆。"
+    "hint": "这是：旅馆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-935",
@@ -31835,7 +32160,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cause.",
     "sentence": "This is a ___.",
-    "hint": "这是：造成；引起。"
+    "hint": "这是：造成；引起。",
+    "rawPos": "名词"
   },
   {
     "id": "high-936",
@@ -31848,7 +32174,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a support.",
     "sentence": "This is a ___.",
-    "hint": "这是：支持。"
+    "hint": "这是：支持。",
+    "rawPos": "名词"
   },
   {
     "id": "high-937",
@@ -31861,7 +32188,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a allow.",
     "sentence": "This is a ___.",
-    "hint": "这是：允许，准许。"
+    "hint": "这是：允许，准许。",
+    "rawPos": "名词"
   },
   {
     "id": "high-938",
@@ -31874,7 +32202,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a top.",
     "sentence": "This is a ___.",
-    "hint": "这是：上边，上面。"
+    "hint": "这是：上边，上面。",
+    "rawPos": "名词"
   },
   {
     "id": "high-939",
@@ -31887,7 +32216,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can watch.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：看。"
+    "hint": "我会/可以：看。",
+    "rawPos": "动词"
   },
   {
     "id": "high-940",
@@ -31900,7 +32230,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a garden.",
     "sentence": "This is a ___.",
-    "hint": "这是：花园；菜园。"
+    "hint": "这是：花园；菜园。",
+    "rawPos": "名词"
   },
   {
     "id": "high-941",
@@ -31913,7 +32244,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a brain.",
     "sentence": "This is a ___.",
-    "hint": "这是：大脑。"
+    "hint": "这是：大脑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-942",
@@ -31926,7 +32258,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a result.",
     "sentence": "This is a ___.",
-    "hint": "这是：成绩；结果。"
+    "hint": "这是：成绩；结果。",
+    "rawPos": "名词"
   },
   {
     "id": "high-943",
@@ -31939,7 +32272,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a hand.",
     "sentence": "This is a ___.",
-    "hint": "这是：手。"
+    "hint": "这是：手。",
+    "rawPos": "名词"
   },
   {
     "id": "high-944",
@@ -31952,7 +32286,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a control.",
     "sentence": "This is a ___.",
-    "hint": "这是：控制，管理。"
+    "hint": "这是：控制，管理。",
+    "rawPos": "名词"
   },
   {
     "id": "high-945",
@@ -31965,7 +32300,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can close.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：关上。"
+    "hint": "我会/可以：关上。",
+    "rawPos": "动词"
   },
   {
     "id": "high-946",
@@ -31978,7 +32314,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a power.",
     "sentence": "This is a ___.",
-    "hint": "这是：权力；力量。"
+    "hint": "这是：权力；力量。",
+    "rawPos": "名词"
   },
   {
     "id": "high-947",
@@ -31991,7 +32328,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can remember.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：记得；记起。"
+    "hint": "我会/可以：记得；记起。",
+    "rawPos": "动词"
   },
   {
     "id": "high-948",
@@ -32004,7 +32342,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a risk.",
     "sentence": "This is a ___.",
-    "hint": "这是：风险；危险；冒险。"
+    "hint": "这是：风险；危险；冒险。",
+    "rawPos": "名词"
   },
   {
     "id": "high-949",
@@ -32017,7 +32356,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a skill.",
     "sentence": "This is a ___.",
-    "hint": "这是：技艺；技巧。"
+    "hint": "这是：技艺；技巧。",
+    "rawPos": "名词"
   },
   {
     "id": "high-950",
@@ -32030,7 +32370,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is purpose.",
     "sentence": "It is ___.",
-    "hint": "它是：目的；目标。"
+    "hint": "它是：目的；目标。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-951",
@@ -32043,7 +32384,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can believe.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：认为，相信。"
+    "hint": "我会/可以：认为，相信。",
+    "rawPos": "动词"
   },
   {
     "id": "high-952",
@@ -32056,7 +32398,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is kind.",
     "sentence": "It is ___.",
-    "hint": "它是：善良的，仁慈的，亲切的，和蔼的。"
+    "hint": "它是：善良的，仁慈的，亲切的，和蔼的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-953",
@@ -32069,7 +32412,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a office.",
     "sentence": "This is a ___.",
-    "hint": "这是：办公室。"
+    "hint": "这是：办公室。",
+    "rawPos": "名词"
   },
   {
     "id": "high-954",
@@ -32082,7 +32426,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is far.",
     "sentence": "It is ___.",
-    "hint": "它是：较远的。"
+    "hint": "它是：较远的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-955",
@@ -32095,7 +32440,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a always.",
     "sentence": "This is a ___.",
-    "hint": "这是：总是；一直。"
+    "hint": "这是：总是；一直。",
+    "rawPos": "名词"
   },
   {
     "id": "high-956",
@@ -32108,7 +32454,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is enough.",
     "sentence": "It is ___.",
-    "hint": "它是：足够的，充足的。"
+    "hint": "它是：足够的，充足的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-957",
@@ -32121,7 +32468,8 @@ window.VOCABULARY = [
     "category": "交通旅行",
     "example": "This is a trip.",
     "sentence": "This is a ___.",
-    "hint": "这是：旅行，远足。"
+    "hint": "这是：旅行，远足。",
+    "rawPos": "名词"
   },
   {
     "id": "high-958",
@@ -32134,7 +32482,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a exercise.",
     "sentence": "This is a ___.",
-    "hint": "这是：活动；运动。"
+    "hint": "这是：活动；运动。",
+    "rawPos": "名词"
   },
   {
     "id": "high-959",
@@ -32147,7 +32496,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can require.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：需要；要求。"
+    "hint": "我会/可以：需要；要求。",
+    "rawPos": "动词"
   },
   {
     "id": "high-960",
@@ -32160,7 +32510,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a summer.",
     "sentence": "This is a ___.",
-    "hint": "这是：夏天。"
+    "hint": "这是：夏天。",
+    "rawPos": "名词"
   },
   {
     "id": "high-961",
@@ -32173,7 +32524,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a design.",
     "sentence": "This is a ___.",
-    "hint": "这是：设计；设计方案；构思。"
+    "hint": "这是：设计；设计方案；构思。",
+    "rawPos": "名词"
   },
   {
     "id": "high-962",
@@ -32186,7 +32538,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a relationship.",
     "sentence": "This is a ___.",
-    "hint": "这是：关系；联系。"
+    "hint": "这是：关系；联系。",
+    "rawPos": "名词"
   },
   {
     "id": "high-963",
@@ -32199,7 +32552,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a history.",
     "sentence": "This is a ___.",
-    "hint": "这是：历史。"
+    "hint": "这是：历史。",
+    "rawPos": "名词"
   },
   {
     "id": "high-964",
@@ -32212,7 +32566,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a p.m..",
     "sentence": "This is a ___.",
-    "hint": "这是：午后；下午。"
+    "hint": "这是：午后；下午。",
+    "rawPos": "名词"
   },
   {
     "id": "high-965",
@@ -32225,7 +32580,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ago.",
     "sentence": "This is a ___.",
-    "hint": "这是：以前。"
+    "hint": "这是：以前。",
+    "rawPos": "名词"
   },
   {
     "id": "high-966",
@@ -32238,7 +32594,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs quickly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：迅速地。"
+    "hint": "这里需要表示：迅速地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-967",
@@ -32251,7 +32608,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a here.",
     "sentence": "This is a ___.",
-    "hint": "这是：这儿。"
+    "hint": "这是：这儿。",
+    "rawPos": "名词"
   },
   {
     "id": "high-968",
@@ -32264,7 +32622,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs online.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：在线地；在线的。"
+    "hint": "这里需要表示：在线地；在线的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-969",
@@ -32277,7 +32636,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a Mr.",
     "sentence": "This is a ___.",
-    "hint": "这是：先生。"
+    "hint": "这是：先生。",
+    "rawPos": "名词"
   },
   {
     "id": "high-970",
@@ -32290,7 +32650,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a means.",
     "sentence": "This is a ___.",
-    "hint": "这是：手段，方法。"
+    "hint": "这是：手段，方法。",
+    "rawPos": "名词"
   },
   {
     "id": "high-971",
@@ -32303,7 +32664,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a activity.",
     "sentence": "This is a ___.",
-    "hint": "这是：活动。"
+    "hint": "这是：活动。",
+    "rawPos": "名词"
   },
   {
     "id": "high-972",
@@ -32316,7 +32678,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a order.",
     "sentence": "This is a ___.",
-    "hint": "这是：点（食物、饮料）。"
+    "hint": "这是：点（食物、饮料）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-973",
@@ -32329,7 +32692,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a let.",
     "sentence": "This is a ___.",
-    "hint": "这是：让；允许。"
+    "hint": "这是：让；允许。",
+    "rawPos": "名词"
   },
   {
     "id": "high-974",
@@ -32342,7 +32706,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can return.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：返回。"
+    "hint": "我会/可以：返回。",
+    "rawPos": "动词"
   },
   {
     "id": "high-975",
@@ -32355,7 +32720,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fire.",
     "sentence": "This is a ___.",
-    "hint": "这是：火。"
+    "hint": "这是：火。",
+    "rawPos": "名词"
   },
   {
     "id": "high-976",
@@ -32368,7 +32734,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a time.",
     "sentence": "This is a ___.",
-    "hint": "这是：时间。"
+    "hint": "这是：时间。",
+    "rawPos": "名词"
   },
   {
     "id": "high-977",
@@ -32381,7 +32748,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a morning.",
     "sentence": "This is a ___.",
-    "hint": "这是：早晨。"
+    "hint": "这是：早晨。",
+    "rawPos": "名词"
   },
   {
     "id": "high-978",
@@ -32394,7 +32762,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a again.",
     "sentence": "This is a ___.",
-    "hint": "这是：再一次，又一次。"
+    "hint": "这是：再一次，又一次。",
+    "rawPos": "名词"
   },
   {
     "id": "high-979",
@@ -32407,7 +32776,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a together.",
     "sentence": "This is a ___.",
-    "hint": "这是：一起。"
+    "hint": "这是：一起。",
+    "rawPos": "名词"
   },
   {
     "id": "high-980",
@@ -32420,7 +32790,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a reduce.",
     "sentence": "This is a ___.",
-    "hint": "这是：减少。"
+    "hint": "这是：减少。",
+    "rawPos": "名词"
   },
   {
     "id": "high-981",
@@ -32433,7 +32804,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can answer.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：回答。"
+    "hint": "我会/可以：回答。",
+    "rawPos": "动词"
   },
   {
     "id": "high-982",
@@ -32446,7 +32818,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can drink.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：喝；饮。"
+    "hint": "我会/可以：喝；饮。",
+    "rawPos": "动词"
   },
   {
     "id": "high-983",
@@ -32459,7 +32832,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs likely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：可能的。"
+    "hint": "这里需要表示：可能的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-984",
@@ -32472,7 +32846,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs really.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：（表示兴趣或惊讶）真的。"
+    "hint": "这里需要表示：（表示兴趣或惊讶）真的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-985",
@@ -32485,7 +32860,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a tree.",
     "sentence": "This is a ___.",
-    "hint": "这是：树；树木；乔木。"
+    "hint": "这是：树；树木；乔木。",
+    "rawPos": "名词"
   },
   {
     "id": "high-986",
@@ -32498,7 +32874,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a science.",
     "sentence": "This is a ___.",
-    "hint": "这是：科学。"
+    "hint": "这是：科学。",
+    "rawPos": "名词"
   },
   {
     "id": "high-987",
@@ -32511,7 +32888,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a reason.",
     "sentence": "This is a ___.",
-    "hint": "这是：原因；理由。"
+    "hint": "这是：原因；理由。",
+    "rawPos": "名词"
   },
   {
     "id": "high-988",
@@ -32524,7 +32902,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a success.",
     "sentence": "This is a ___.",
-    "hint": "这是：成功。"
+    "hint": "这是：成功。",
+    "rawPos": "名词"
   },
   {
     "id": "high-989",
@@ -32537,7 +32916,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a museum.",
     "sentence": "This is a ___.",
-    "hint": "这是：博物馆。"
+    "hint": "这是：博物馆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-990",
@@ -32550,7 +32930,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have everyone books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：每人。"
+    "hint": "数量是：每人。",
+    "rawPos": "数词"
   },
   {
     "id": "high-991",
@@ -32563,7 +32944,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a station.",
     "sentence": "This is a ___.",
-    "hint": "这是：车站。"
+    "hint": "这是：车站。",
+    "rawPos": "名词"
   },
   {
     "id": "high-992",
@@ -32576,7 +32958,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is goal.",
     "sentence": "It is ___.",
-    "hint": "它是：（进球）得分。"
+    "hint": "它是：（进球）得分。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-993",
@@ -32589,7 +32972,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can hold.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：拿着；握着。"
+    "hint": "我会/可以：拿着；握着。",
+    "rawPos": "动词"
   },
   {
     "id": "high-994",
@@ -32602,7 +32986,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can include.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：包括；包含。"
+    "hint": "我会/可以：包括；包含。",
+    "rawPos": "动词"
   },
   {
     "id": "high-995",
@@ -32615,7 +33000,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a form.",
     "sentence": "This is a ___.",
-    "hint": "这是：形体；形状。"
+    "hint": "这是：形体；形状。",
+    "rawPos": "名词"
   },
   {
     "id": "high-996",
@@ -32628,7 +33014,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can explain.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：解释。"
+    "hint": "我会/可以：解释。",
+    "rawPos": "动词"
   },
   {
     "id": "high-997",
@@ -32641,7 +33028,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can cook.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：厨师。"
+    "hint": "我会/可以：厨师。",
+    "rawPos": "动词"
   },
   {
     "id": "high-998",
@@ -32654,7 +33042,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can teach.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：教。"
+    "hint": "我会/可以：教。",
+    "rawPos": "动词"
   },
   {
     "id": "high-999",
@@ -32667,7 +33056,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a underline.",
     "sentence": "This is a ___.",
-    "hint": "这是：在（词语等下） 画线；画底线标出。"
+    "hint": "这是：在（词语等下） 画线；画底线标出。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1000",
@@ -32680,7 +33070,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can raise.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：举起。"
+    "hint": "我会/可以：举起。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1001",
@@ -32693,7 +33084,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a rule.",
     "sentence": "This is a ___.",
-    "hint": "这是：规则。"
+    "hint": "这是：规则。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1002",
@@ -32706,7 +33098,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a name.",
     "sentence": "This is a ___.",
-    "hint": "这是：名字。"
+    "hint": "这是：名字。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1003",
@@ -32719,7 +33112,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a event.",
     "sentence": "This is a ___.",
-    "hint": "这是：活动（指演出、体育比赛、聚会等）。"
+    "hint": "这是：活动（指演出、体育比赛、聚会等）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1004",
@@ -32732,7 +33126,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a matter.",
     "sentence": "This is a ___.",
-    "hint": "这是：要紧；有关系。"
+    "hint": "这是：要紧；有关系。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1005",
@@ -32745,7 +33140,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a university.",
     "sentence": "This is a ___.",
-    "hint": "这是：大学。"
+    "hint": "这是：大学。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1006",
@@ -32758,7 +33154,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a air.",
     "sentence": "This is a ___.",
-    "hint": "这是：天空；空气。"
+    "hint": "这是：天空；空气。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1007",
@@ -32771,7 +33168,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a heart.",
     "sentence": "This is a ___.",
-    "hint": "这是：心（形)。"
+    "hint": "这是：心（形)。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1008",
@@ -32784,7 +33182,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a both.",
     "sentence": "This is a ___.",
-    "hint": "这是：两个都。"
+    "hint": "这是：两个都。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1009",
@@ -32797,7 +33196,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a themselves.",
     "sentence": "This is a ___.",
-    "hint": "这是：他们自己；她们自己；它们自己。"
+    "hint": "这是：他们自己；她们自己；它们自己。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1010",
@@ -32810,7 +33210,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a sure.",
     "sentence": "This is a ___.",
-    "hint": "这是：（表示同意）当然。"
+    "hint": "这是：（表示同意）当然。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1011",
@@ -32823,7 +33224,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is able.",
     "sentence": "It is ___.",
-    "hint": "它是：聪明能干的。"
+    "hint": "它是：聪明能干的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1012",
@@ -32836,7 +33238,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a expect.",
     "sentence": "This is a ___.",
-    "hint": "这是：预料；期待。"
+    "hint": "这是：预料；期待。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1013",
@@ -32849,7 +33252,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a encourage.",
     "sentence": "This is a ___.",
-    "hint": "这是：鼓励。"
+    "hint": "这是：鼓励。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1014",
@@ -32862,7 +33266,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is sad.",
     "sentence": "It is ___.",
-    "hint": "它是：难过的。"
+    "hint": "它是：难过的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1015",
@@ -32875,7 +33280,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a health.",
     "sentence": "This is a ___.",
-    "hint": "这是：健康。"
+    "hint": "这是：健康。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1016",
@@ -32888,7 +33294,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chance.",
     "sentence": "This is a ___.",
-    "hint": "这是：机会,机遇,有利时机。"
+    "hint": "这是：机会,机遇,有利时机。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1017",
@@ -32901,7 +33308,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a paper.",
     "sentence": "This is a ___.",
-    "hint": "这是：纸。"
+    "hint": "这是：纸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1018",
@@ -32914,7 +33322,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a type.",
     "sentence": "This is a ___.",
-    "hint": "这是：打字。"
+    "hint": "这是：打字。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1019",
@@ -32927,7 +33336,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is animal.",
     "sentence": "It is ___.",
-    "hint": "它是：兽；动物。"
+    "hint": "它是：兽；动物。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1020",
@@ -32940,7 +33350,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a yourself.",
     "sentence": "This is a ___.",
-    "hint": "这是：你自己。"
+    "hint": "这是：你自己。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1021",
@@ -32953,7 +33364,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is under the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：在……下面。"
+    "hint": "书的位置：在……下面。",
+    "rawPos": "介词"
   },
   {
     "id": "high-1022",
@@ -32966,7 +33378,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a myself.",
     "sentence": "This is a ___.",
-    "hint": "这是：我自己。"
+    "hint": "这是：我自己。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1023",
@@ -32979,7 +33392,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a media.",
     "sentence": "This is a ___.",
-    "hint": "这是：传播媒介,传播工具。"
+    "hint": "这是：传播媒介,传播工具。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1024",
@@ -32992,7 +33406,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is medium.",
     "sentence": "It is ___.",
-    "hint": "它是：中等的，中间的。"
+    "hint": "它是：中等的，中间的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1025",
@@ -33005,7 +33420,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a bird.",
     "sentence": "This is a ___.",
-    "hint": "这是：鸟。"
+    "hint": "这是：鸟。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1026",
@@ -33018,7 +33434,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a park.",
     "sentence": "This is a ___.",
-    "hint": "这是：公园。"
+    "hint": "这是：公园。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1027",
@@ -33031,7 +33448,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a centre.",
     "sentence": "This is a ___.",
-    "hint": "这是：中心。"
+    "hint": "这是：中心。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1028",
@@ -33044,7 +33462,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dream.",
     "sentence": "This is a ___.",
-    "hint": "这是：梦。"
+    "hint": "这是：梦。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1029",
@@ -33057,7 +33476,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can development.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：发育，成长，发展。"
+    "hint": "我会/可以：发育，成长，发展。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1030",
@@ -33070,7 +33490,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a education.",
     "sentence": "This is a ___.",
-    "hint": "这是：教育。"
+    "hint": "这是：教育。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1031",
@@ -33083,7 +33504,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a energy.",
     "sentence": "This is a ___.",
-    "hint": "这是：能源。"
+    "hint": "这是：能源。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1032",
@@ -33096,7 +33518,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a increase.",
     "sentence": "This is a ___.",
-    "hint": "这是：增加；增长。"
+    "hint": "这是：增加；增长。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1033",
@@ -33109,7 +33532,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is real.",
     "sentence": "It is ___.",
-    "hint": "它是：真实的。"
+    "hint": "它是：真实的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1034",
@@ -33122,7 +33546,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a painting.",
     "sentence": "This is a ___.",
-    "hint": "这是：画作，绘画。"
+    "hint": "这是：画作，绘画。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1035",
@@ -33135,7 +33560,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a baby.",
     "sentence": "This is a ___.",
-    "hint": "这是：婴儿小弟弟。"
+    "hint": "这是：婴儿小弟弟。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1036",
@@ -33148,7 +33574,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a party.",
     "sentence": "This is a ___.",
-    "hint": "这是：聚会；派对。"
+    "hint": "这是：聚会；派对。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1037",
@@ -33161,7 +33588,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can choose.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：选择（过去式是chose）。"
+    "hint": "我会/可以：选择（过去式是chose）。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1038",
@@ -33174,7 +33602,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a challenge.",
     "sentence": "This is a ___.",
-    "hint": "这是：挑战；考验。"
+    "hint": "这是：挑战；考验。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1039",
@@ -33187,7 +33616,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a herself.",
     "sentence": "This is a ___.",
-    "hint": "这是：她自己。"
+    "hint": "这是：她自己。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1040",
@@ -33200,7 +33630,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "It is first.",
     "sentence": "It is ___.",
-    "hint": "它是：第一（的）。"
+    "hint": "它是：第一（的）。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1041",
@@ -33213,7 +33644,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs mainly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：主要地；首要地。"
+    "hint": "这里需要表示：主要地；首要地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1042",
@@ -33226,7 +33658,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a soon.",
     "sentence": "This is a ___.",
-    "hint": "这是：不久，很快。"
+    "hint": "这是：不久，很快。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1043",
@@ -33239,7 +33672,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a almost.",
     "sentence": "This is a ___.",
-    "hint": "这是：几乎，差不多。"
+    "hint": "这是：几乎，差不多。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1044",
@@ -33252,7 +33686,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a introduce.",
     "sentence": "This is a ___.",
-    "hint": "这是：介绍，引见。"
+    "hint": "这是：介绍，引见。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1045",
@@ -33265,7 +33700,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs apply.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：涂，施于。"
+    "hint": "这里需要表示：涂，施于。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1046",
@@ -33278,7 +33714,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is plastic.",
     "sentence": "It is ___.",
-    "hint": "它是：塑料制的；塑料的。"
+    "hint": "它是：塑料制的；塑料的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1047",
@@ -33291,7 +33728,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a quality.",
     "sentence": "This is a ___.",
-    "hint": "这是：质量；品质。"
+    "hint": "这是：质量；品质。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1048",
@@ -33304,7 +33742,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a government.",
     "sentence": "This is a ___.",
-    "hint": "这是：政府；内阁。"
+    "hint": "这是：政府；内阁。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1049",
@@ -33317,7 +33756,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a culture.",
     "sentence": "This is a ___.",
-    "hint": "这是：文化。"
+    "hint": "这是：文化。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1050",
@@ -33330,7 +33770,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a driver.",
     "sentence": "This is a ___.",
-    "hint": "这是：司机。"
+    "hint": "这是：司机。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1051",
@@ -33343,7 +33784,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a training.",
     "sentence": "This is a ___.",
-    "hint": "这是：训练；培训。"
+    "hint": "这是：训练；培训。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1052",
@@ -33356,7 +33798,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is white.",
     "sentence": "It is ___.",
-    "hint": "它是：白色；白色的。"
+    "hint": "它是：白色；白色的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1053",
@@ -33369,7 +33812,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a paint.",
     "sentence": "This is a ___.",
-    "hint": "这是：给……刷油漆。"
+    "hint": "这是：给……刷油漆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1054",
@@ -33382,7 +33826,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a practice.",
     "sentence": "This is a ___.",
-    "hint": "这是：练习。"
+    "hint": "这是：练习。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1055",
@@ -33395,7 +33840,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a please.",
     "sentence": "This is a ___.",
-    "hint": "这是：请。"
+    "hint": "这是：请。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1056",
@@ -33408,7 +33854,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have someone books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：某人。"
+    "hint": "数量是：某人。",
+    "rawPos": "数词"
   },
   {
     "id": "high-1057",
@@ -33421,7 +33868,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a though.",
     "sentence": "This is a ___.",
-    "hint": "这是：不过；可是；然而。"
+    "hint": "这是：不过；可是；然而。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1058",
@@ -33434,7 +33882,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can send.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：邮寄；发送。"
+    "hint": "我会/可以：邮寄；发送。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1059",
@@ -33447,7 +33896,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a rise.",
     "sentence": "This is a ___.",
-    "hint": "这是：升起。"
+    "hint": "这是：升起。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1060",
@@ -33460,7 +33910,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a continue.",
     "sentence": "This is a ___.",
-    "hint": "这是：继续。"
+    "hint": "这是：继续。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1061",
@@ -33473,7 +33924,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can carry.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：（过去式为carried）拿；携带；搬运。"
+    "hint": "我会/可以：（过去式为carried）拿；携带；搬运。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1062",
@@ -33486,7 +33938,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bear.",
     "sentence": "This is a ___.",
-    "hint": "这是：熊。"
+    "hint": "这是：熊。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1063",
@@ -33499,7 +33952,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a produce.",
     "sentence": "This is a ___.",
-    "hint": "这是：生产。"
+    "hint": "这是：生产。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1064",
@@ -33512,7 +33966,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is thinking.",
     "sentence": "It is ___.",
-    "hint": "它是：思想的；理性的。"
+    "hint": "它是：思想的；理性的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1065",
@@ -33525,7 +33980,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a performance.",
     "sentence": "This is a ___.",
-    "hint": "这是：演出。"
+    "hint": "这是：演出。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1066",
@@ -33538,7 +33994,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a stranger.",
     "sentence": "This is a ___.",
-    "hint": "这是：陌生人。"
+    "hint": "这是：陌生人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1067",
@@ -33551,7 +34008,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can choice.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：选择。"
+    "hint": "我会/可以：选择。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1068",
@@ -33564,7 +34022,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a population.",
     "sentence": "This is a ___.",
-    "hint": "这是：人口；人口数量。"
+    "hint": "这是：人口；人口数量。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1069",
@@ -33577,7 +34036,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a adult.",
     "sentence": "This is a ___.",
-    "hint": "这是：成年人。"
+    "hint": "这是：成年人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1070",
@@ -33590,7 +34050,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a light.",
     "sentence": "This is a ___.",
-    "hint": "这是：电灯。"
+    "hint": "这是：电灯。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1071",
@@ -33603,7 +34064,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a base.",
     "sentence": "This is a ___.",
-    "hint": "这是：根据；根基；总部。"
+    "hint": "这是：根据；根基；总部。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1072",
@@ -33616,7 +34078,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a town.",
     "sentence": "This is a ___.",
-    "hint": "这是：城镇；城市。"
+    "hint": "这是：城镇；城市。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1073",
@@ -33629,7 +34092,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a Internet.",
     "sentence": "This is a ___.",
-    "hint": "这是：互联网。"
+    "hint": "这是：互联网。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1074",
@@ -33642,7 +34106,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a head.",
     "sentence": "This is a ___.",
-    "hint": "这是：头。"
+    "hint": "这是：头。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1075",
@@ -33655,7 +34120,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a service.",
     "sentence": "This is a ___.",
-    "hint": "这是：服务；公共服务事业（或系统）；维修保养。"
+    "hint": "这是：服务；公共服务事业（或系统）；维修保养。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1076",
@@ -33668,7 +34134,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can cost.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：花费；价钱为。"
+    "hint": "我会/可以：花费；价钱为。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1077",
@@ -33681,7 +34148,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a beginning.",
     "sentence": "This is a ___.",
-    "hint": "这是：开头；开端。"
+    "hint": "这是：开头；开端。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1078",
@@ -33694,7 +34162,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a view.",
     "sentence": "This is a ___.",
-    "hint": "这是：观点，想法。"
+    "hint": "这是：观点，想法。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1079",
@@ -33707,7 +34176,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is warm.",
     "sentence": "It is ___.",
-    "hint": "它是：温暖的；暖和的。"
+    "hint": "它是：温暖的；暖和的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1080",
@@ -33720,7 +34190,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a mountain.",
     "sentence": "This is a ___.",
-    "hint": "这是：高山；山岳。"
+    "hint": "这是：高山；山岳。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1081",
@@ -33733,7 +34204,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "This is a sense.",
     "sentence": "This is a ___.",
-    "hint": "这是：感觉到；意识到。"
+    "hint": "这是：感觉到；意识到。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1082",
@@ -33746,7 +34218,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a state.",
     "sentence": "This is a ___.",
-    "hint": "这是：州。"
+    "hint": "这是：州。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1083",
@@ -33759,7 +34232,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a present.",
     "sentence": "This is a ___.",
-    "hint": "这是：礼物。"
+    "hint": "这是：礼物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1084",
@@ -33772,7 +34246,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can check.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：检查。"
+    "hint": "我会/可以：检查。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1085",
@@ -33785,7 +34260,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cheque.",
     "sentence": "This is a ___.",
-    "hint": "这是：支票。"
+    "hint": "这是：支票。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1086",
@@ -33798,7 +34274,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can fly.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：放（风筝等）。"
+    "hint": "我会/可以：放（风筝等）。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1087",
@@ -33811,7 +34288,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can sit.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：坐。"
+    "hint": "我会/可以：坐。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1088",
@@ -33824,7 +34302,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can avoid.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：避免；回避。"
+    "hint": "我会/可以：避免；回避。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1089",
@@ -33837,7 +34316,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can pass.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：给，传递；通过。"
+    "hint": "我会/可以：给，传递；通过。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1090",
@@ -33850,7 +34330,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a step.",
     "sentence": "This is a ___.",
-    "hint": "这是：踏；踩。"
+    "hint": "这是：踏；踩。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1091",
@@ -33863,7 +34344,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can catch.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：抓住。"
+    "hint": "我会/可以：抓住。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1092",
@@ -33876,7 +34358,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a realise.",
     "sentence": "This is a ___.",
-    "hint": "这是：了解；意识到。"
+    "hint": "这是：了解；意识到。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1093",
@@ -33889,7 +34372,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a message.",
     "sentence": "This is a ___.",
-    "hint": "这是：信息，消息。"
+    "hint": "这是：信息，消息。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1094",
@@ -33902,7 +34386,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fact.",
     "sentence": "This is a ___.",
-    "hint": "这是：事实；真相。"
+    "hint": "这是：事实；真相。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1095",
@@ -33915,7 +34400,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a news.",
     "sentence": "This is a ___.",
-    "hint": "这是：新闻。"
+    "hint": "这是：新闻。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1096",
@@ -33928,7 +34414,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a computer.",
     "sentence": "This is a ___.",
-    "hint": "这是：计算机。"
+    "hint": "这是：计算机。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1097",
@@ -33941,7 +34428,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a movie.",
     "sentence": "This is a ___.",
-    "hint": "这是：电影。"
+    "hint": "这是：电影。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1098",
@@ -33954,7 +34442,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a system.",
     "sentence": "This is a ___.",
-    "hint": "这是：系统。"
+    "hint": "这是：系统。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1099",
@@ -33967,7 +34456,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a reader.",
     "sentence": "This is a ___.",
-    "hint": "这是：读者。"
+    "hint": "这是：读者。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1100",
@@ -33980,7 +34470,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a self.",
     "sentence": "This is a ___.",
-    "hint": "这是：自己。"
+    "hint": "这是：自己。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1101",
@@ -33993,7 +34484,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a sometimes.",
     "sentence": "This is a ___.",
-    "hint": "这是：有时。"
+    "hint": "这是：有时。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1102",
@@ -34006,7 +34498,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a towards.",
     "sentence": "This is a ___.",
-    "hint": "这是：向。"
+    "hint": "这是：向。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1103",
@@ -34019,7 +34512,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can wear.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：戴。"
+    "hint": "我会/可以：戴。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1104",
@@ -34032,7 +34526,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is deal.",
     "sentence": "It is ___.",
-    "hint": "它是：协议；交易。"
+    "hint": "它是：协议；交易。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1105",
@@ -34045,7 +34540,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a appear.",
     "sentence": "This is a ___.",
-    "hint": "这是：出现。"
+    "hint": "这是：出现。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1106",
@@ -34058,7 +34554,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a sell.",
     "sentence": "This is a ___.",
-    "hint": "这是：卖。"
+    "hint": "这是：卖。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1107",
@@ -34071,7 +34568,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can reach.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：抵达。"
+    "hint": "我会/可以：抵达。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1108",
@@ -34084,7 +34582,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a title.",
     "sentence": "This is a ___.",
-    "hint": "这是：标题；题目。"
+    "hint": "这是：标题；题目。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1109",
@@ -34097,7 +34596,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a graph.",
     "sentence": "This is a ___.",
-    "hint": "这是：图表。"
+    "hint": "这是：图表。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1110",
@@ -34110,7 +34610,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bag.",
     "sentence": "This is a ___.",
-    "hint": "这是：包。"
+    "hint": "这是：包。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1111",
@@ -34123,7 +34624,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is possible.",
     "sentence": "It is ___.",
-    "hint": "它是：可能存在或发生的；可能的。"
+    "hint": "它是：可能存在或发生的；可能的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1112",
@@ -34136,7 +34638,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is available.",
     "sentence": "It is ___.",
-    "hint": "它是：有空的；可获得的。"
+    "hint": "它是：有空的；可获得的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1113",
@@ -34149,7 +34652,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is difficult.",
     "sentence": "It is ___.",
-    "hint": "它是：困难的。"
+    "hint": "它是：困难的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1114",
@@ -34162,7 +34666,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is fun.",
     "sentence": "It is ___.",
-    "hint": "它是：有趣的。"
+    "hint": "它是：有趣的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1115",
@@ -34175,7 +34680,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is True.",
     "sentence": "It is ___.",
-    "hint": "它是：真正的；真的。"
+    "hint": "它是：真正的；真的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1116",
@@ -34188,7 +34694,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a stress.",
     "sentence": "This is a ___.",
-    "hint": "这是：精神压力；心理负担。"
+    "hint": "这是：精神压力；心理负担。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1117",
@@ -34201,7 +34708,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a Miss.",
     "sentence": "This is a ___.",
-    "hint": "这是：小姐；女士。"
+    "hint": "这是：小姐；女士。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1118",
@@ -34214,7 +34722,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a half.",
     "sentence": "This is a ___.",
-    "hint": "这是：一半。"
+    "hint": "这是：一半。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1119",
@@ -34227,7 +34736,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a least.",
     "sentence": "This is a ___.",
-    "hint": "这是：最少（小）。"
+    "hint": "这是：最少（小）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1120",
@@ -34240,7 +34750,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a percent.",
     "sentence": "This is a ___.",
-    "hint": "这是：百分之……。"
+    "hint": "这是：百分之……。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1121",
@@ -34253,7 +34764,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is second.",
     "sentence": "It is ___.",
-    "hint": "它是：第二（的）。"
+    "hint": "它是：第二（的）。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1122",
@@ -34266,7 +34778,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a process.",
     "sentence": "This is a ___.",
-    "hint": "这是：步骤，过程。"
+    "hint": "这是：步骤，过程。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1123",
@@ -34279,7 +34792,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a future.",
     "sentence": "This is a ___.",
-    "hint": "这是：未来。"
+    "hint": "这是：未来。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1124",
@@ -34292,7 +34806,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a model.",
     "sentence": "This is a ___.",
-    "hint": "这是：模型。"
+    "hint": "这是：模型。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1125",
@@ -34305,7 +34820,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a box.",
     "sentence": "This is a ___.",
-    "hint": "这是：盒；箱。"
+    "hint": "这是：盒；箱。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1126",
@@ -34318,7 +34834,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dad.",
     "sentence": "This is a ___.",
-    "hint": "这是：（口语）爸爸；爹爹。"
+    "hint": "这是：（口语）爸爸；爹爹。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1127",
@@ -34331,7 +34848,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a eye.",
     "sentence": "This is a ___.",
-    "hint": "这是：眼睛。"
+    "hint": "这是：眼睛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1128",
@@ -34344,7 +34862,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a nature.",
     "sentence": "This is a ___.",
-    "hint": "这是：自然界；大自然。"
+    "hint": "这是：自然界；大自然。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1129",
@@ -34357,7 +34876,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fish.",
     "sentence": "This is a ___.",
-    "hint": "这是：鱼肉；鱼。"
+    "hint": "这是：鱼肉；鱼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1130",
@@ -34370,7 +34890,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can travel.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：（尤指长途）旅行。"
+    "hint": "我会/可以：（尤指长途）旅行。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1131",
@@ -34383,7 +34904,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a game.",
     "sentence": "This is a ___.",
-    "hint": "这是：游戏。"
+    "hint": "这是：游戏。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1132",
@@ -34396,7 +34918,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a case.",
     "sentence": "This is a ___.",
-    "hint": "这是：情况；实情。"
+    "hint": "这是：情况；实情。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1133",
@@ -34409,7 +34932,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a meeting.",
     "sentence": "This is a ___.",
-    "hint": "这是：会议。"
+    "hint": "这是：会议。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1134",
@@ -34422,7 +34946,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a side.",
     "sentence": "This is a ___.",
-    "hint": "这是：方面；侧面。"
+    "hint": "这是：方面；侧面。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1135",
@@ -34435,7 +34960,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a sign.",
     "sentence": "This is a ___.",
-    "hint": "这是：标志,指示牌。"
+    "hint": "这是：标志,指示牌。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1136",
@@ -34448,7 +34974,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a yet.",
     "sentence": "This is a ___.",
-    "hint": "这是：还。"
+    "hint": "这是：还。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1137",
@@ -34461,7 +34988,8 @@ window.VOCABULARY = [
     "category": "交通旅行",
     "example": "This is a bike.",
     "sentence": "This is a ___.",
-    "hint": "这是：自行车；脚踏车。"
+    "hint": "这是：自行车；脚踏车。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1138",
@@ -34474,7 +35002,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is green.",
     "sentence": "It is ___.",
-    "hint": "它是：绿色；绿色的。"
+    "hint": "它是：绿色；绿色的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1139",
@@ -34487,7 +35016,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a door.",
     "sentence": "This is a ___.",
-    "hint": "这是：门。"
+    "hint": "这是：门。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1140",
@@ -34500,7 +35030,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a school.",
     "sentence": "This is a ___.",
-    "hint": "这是：学校。"
+    "hint": "这是：学校。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1141",
@@ -34513,7 +35044,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a customer.",
     "sentence": "This is a ___.",
-    "hint": "这是：顾客；客户。"
+    "hint": "这是：顾客；客户。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1142",
@@ -34526,7 +35058,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a farmer.",
     "sentence": "This is a ___.",
-    "hint": "这是：农民。"
+    "hint": "这是：农民。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1143",
@@ -34539,7 +35072,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a farm.",
     "sentence": "This is a ___.",
-    "hint": "这是：农场。"
+    "hint": "这是：农场。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1144",
@@ -34552,7 +35086,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a explore.",
     "sentence": "This is a ___.",
-    "hint": "这是：搜索。"
+    "hint": "这是：搜索。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1145",
@@ -34565,7 +35100,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a discover.",
     "sentence": "This is a ___.",
-    "hint": "这是：发现；发觉。"
+    "hint": "这是：发现；发觉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1146",
@@ -34578,7 +35114,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is arrive.",
     "sentence": "It is ___.",
-    "hint": "它是：到达。"
+    "hint": "它是：到达。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1147",
@@ -34591,7 +35128,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is receive.",
     "sentence": "It is ___.",
-    "hint": "它是：收到。"
+    "hint": "它是：收到。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1148",
@@ -34604,7 +35142,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a remain.",
     "sentence": "This is a ___.",
-    "hint": "这是：保持不变；剩余。"
+    "hint": "这是：保持不变；剩余。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1149",
@@ -34617,7 +35156,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can pick.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：摘；采集。"
+    "hint": "我会/可以：摘；采集。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1150",
@@ -34630,7 +35170,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can prepare.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：准备。"
+    "hint": "我会/可以：准备。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1151",
@@ -34643,7 +35184,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fill.",
     "sentence": "This is a ___.",
-    "hint": "这是：填满。"
+    "hint": "这是：填满。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1152",
@@ -34656,7 +35198,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is meal.",
     "sentence": "It is ___.",
-    "hint": "它是：一餐。"
+    "hint": "它是：一餐。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1153",
@@ -34669,7 +35212,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a shopping.",
     "sentence": "This is a ___.",
-    "hint": "这是：购物。"
+    "hint": "这是：购物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1154",
@@ -34682,7 +35226,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a rest.",
     "sentence": "This is a ___.",
-    "hint": "这是：休息。"
+    "hint": "这是：休息。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1155",
@@ -34695,7 +35240,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a benefit.",
     "sentence": "This is a ___.",
-    "hint": "这是：利益。"
+    "hint": "这是：利益。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1156",
@@ -34708,7 +35254,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a surprise.",
     "sentence": "This is a ___.",
-    "hint": "这是：惊喜。"
+    "hint": "这是：惊喜。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1157",
@@ -34721,7 +35268,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a shirt.",
     "sentence": "This is a ___.",
-    "hint": "这是：（尤指男士）衬衫。"
+    "hint": "这是：（尤指男士）衬衫。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1158",
@@ -34734,7 +35282,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a space.",
     "sentence": "This is a ___.",
-    "hint": "这是：太空。"
+    "hint": "这是：太空。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1159",
@@ -34747,7 +35296,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a experiment.",
     "sentence": "This is a ___.",
-    "hint": "这是：实验。"
+    "hint": "这是：实验。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1160",
@@ -34760,7 +35310,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs actually.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：真实地；事实上。"
+    "hint": "这里需要表示：真实地；事实上。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1161",
@@ -34773,7 +35324,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I like apples until bananas.",
     "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：直到。"
+    "hint": "选择连接词：直到。",
+    "rawPos": "连词"
   },
   {
     "id": "high-1162",
@@ -34786,7 +35338,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a ever.",
     "sentence": "This is a ___.",
-    "hint": "这是：永远；曾经。"
+    "hint": "这是：永远；曾经。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1163",
@@ -34799,7 +35352,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is several.",
     "sentence": "It is ___.",
-    "hint": "它是：几个。"
+    "hint": "它是：几个。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1164",
@@ -34812,7 +35366,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a within.",
     "sentence": "This is a ___.",
-    "hint": "这是：在内部。"
+    "hint": "这是：在内部。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1165",
@@ -34825,7 +35380,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is poor.",
     "sentence": "It is ___.",
-    "hint": "它是：可怜的；贪穷的。"
+    "hint": "它是：可怜的；贪穷的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1166",
@@ -34838,7 +35394,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a newspaper.",
     "sentence": "This is a ___.",
-    "hint": "这是：报纸。"
+    "hint": "这是：报纸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1167",
@@ -34851,7 +35408,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a theatre.",
     "sentence": "This is a ___.",
-    "hint": "这是：剧场。"
+    "hint": "这是：剧场。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1168",
@@ -34864,7 +35422,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a film.",
     "sentence": "This is a ___.",
-    "hint": "这是：电影；薄层。"
+    "hint": "这是：电影；薄层。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1169",
@@ -34877,7 +35436,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a lie.",
     "sentence": "This is a ___.",
-    "hint": "这是：谎言；说谎。"
+    "hint": "这是：谎言；说谎。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1170",
@@ -34890,7 +35450,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a guide.",
     "sentence": "This is a ___.",
-    "hint": "这是：导游，向导。"
+    "hint": "这是：导游，向导。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1171",
@@ -34903,7 +35464,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a record.",
     "sentence": "This is a ___.",
-    "hint": "这是：录制。"
+    "hint": "这是：录制。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1172",
@@ -34916,7 +35478,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can excite.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使激动；使兴奋。"
+    "hint": "我会/可以：使激动；使兴奋。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1173",
@@ -34929,7 +35492,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a focus.",
     "sentence": "This is a ___.",
-    "hint": "这是：集中；聚集。"
+    "hint": "这是：集中；聚集。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1174",
@@ -34942,7 +35506,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a thank.",
     "sentence": "This is a ___.",
-    "hint": "这是：谢谢。"
+    "hint": "这是：谢谢。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1175",
@@ -34955,7 +35520,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a silence.",
     "sentence": "This is a ___.",
-    "hint": "这是：沉默；缄默；无声。"
+    "hint": "这是：沉默；缄默；无声。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1176",
@@ -34968,7 +35534,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a hall.",
     "sentence": "This is a ___.",
-    "hint": "这是：大厅。"
+    "hint": "这是：大厅。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1177",
@@ -34981,7 +35548,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a term.",
     "sentence": "This is a ___.",
-    "hint": "这是：学期。"
+    "hint": "这是：学期。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1178",
@@ -34994,7 +35562,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ocean.",
     "sentence": "This is a ___.",
-    "hint": "这是：海洋。"
+    "hint": "这是：海洋。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1179",
@@ -35007,7 +35576,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a influence.",
     "sentence": "This is a ___.",
-    "hint": "这是：影响。"
+    "hint": "这是：影响。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1180",
@@ -35020,7 +35590,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a volunteer.",
     "sentence": "This is a ___.",
-    "hint": "这是：志愿者。"
+    "hint": "这是：志愿者。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1181",
@@ -35033,7 +35604,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a nothing.",
     "sentence": "This is a ___.",
-    "hint": "这是：没有什么。"
+    "hint": "这是：没有什么。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1182",
@@ -35046,7 +35618,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a memory.",
     "sentence": "This is a ___.",
-    "hint": "这是：记忆。"
+    "hint": "这是：记忆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1183",
@@ -35059,7 +35632,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a situation.",
     "sentence": "This is a ___.",
-    "hint": "这是：形势，情况。"
+    "hint": "这是：形势，情况。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1184",
@@ -35072,7 +35646,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a father.",
     "sentence": "This is a ___.",
-    "hint": "这是：父亲；爸爸。"
+    "hint": "这是：父亲；爸爸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1185",
@@ -35085,7 +35660,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a girl.",
     "sentence": "This is a ___.",
-    "hint": "这是：女孩。"
+    "hint": "这是：女孩。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1186",
@@ -35098,7 +35674,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a bill.",
     "sentence": "This is a ___.",
-    "hint": "这是：账单。"
+    "hint": "这是：账单。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1187",
@@ -35111,7 +35688,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is average.",
     "sentence": "It is ___.",
-    "hint": "它是：一般的；平均的。"
+    "hint": "它是：一般的；平均的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1188",
@@ -35124,7 +35702,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is low.",
     "sentence": "It is ___.",
-    "hint": "它是：低的；矮的。"
+    "hint": "它是：低的；矮的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1189",
@@ -35137,7 +35716,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a ill.",
     "sentence": "This is a ___.",
-    "hint": "这是：有病；不舒服。"
+    "hint": "这是：有病；不舒服。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1190",
@@ -35150,7 +35730,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a already.",
     "sentence": "This is a ___.",
-    "hint": "这是：已经。"
+    "hint": "这是：已经。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1191",
@@ -35163,7 +35744,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is national.",
     "sentence": "It is ___.",
-    "hint": "它是：国家的。"
+    "hint": "它是：国家的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1192",
@@ -35176,7 +35758,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a instead.",
     "sentence": "This is a ___.",
-    "hint": "这是：代替；反而；却。"
+    "hint": "这是：代替；反而；却。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1193",
@@ -35189,7 +35772,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is among the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：在（其）中；……之一。"
+    "hint": "书的位置：在（其）中；……之一。",
+    "rawPos": "介词"
   },
   {
     "id": "high-1194",
@@ -35202,7 +35786,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is interesting.",
     "sentence": "It is ___.",
-    "hint": "它是：有趣的。"
+    "hint": "它是：有趣的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1195",
@@ -35215,7 +35800,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is happy.",
     "sentence": "It is ___.",
-    "hint": "它是：高兴的。"
+    "hint": "它是：高兴的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1196",
@@ -35228,7 +35814,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is strong.",
     "sentence": "It is ___.",
-    "hint": "它是：强壮的。"
+    "hint": "它是：强壮的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1197",
@@ -35241,7 +35828,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is smart.",
     "sentence": "It is ___.",
-    "hint": "它是：聪明的。"
+    "hint": "它是：聪明的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1198",
@@ -35254,7 +35842,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a market.",
     "sentence": "This is a ___.",
-    "hint": "这是：市场。"
+    "hint": "这是：市场。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1199",
@@ -35267,7 +35856,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a foot.",
     "sentence": "This is a ___.",
-    "hint": "这是：脚。"
+    "hint": "这是：脚。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1200",
@@ -35280,7 +35870,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have attention books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：注意。"
+    "hint": "数量是：注意。",
+    "rawPos": "数词"
   },
   {
     "id": "high-1201",
@@ -35293,7 +35884,8 @@ window.VOCABULARY = [
     "category": "交通旅行",
     "example": "This is a bus.",
     "sentence": "This is a ___.",
-    "hint": "这是：公共汽车。"
+    "hint": "这是：公共汽车。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1202",
@@ -35306,7 +35898,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can task.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：任务；工作。"
+    "hint": "我会/可以：任务；工作。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1203",
@@ -35319,7 +35912,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a afternoon.",
     "sentence": "This is a ___.",
-    "hint": "这是：下午。"
+    "hint": "这是：下午。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1204",
@@ -35332,7 +35926,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a store.",
     "sentence": "This is a ___.",
-    "hint": "这是：商店。"
+    "hint": "这是：商店。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1205",
@@ -35345,7 +35940,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a professor.",
     "sentence": "This is a ___.",
-    "hint": "这是：教授。"
+    "hint": "这是：教授。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1206",
@@ -35358,7 +35954,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can collect.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：收集。"
+    "hint": "我会/可以：收集。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1207",
@@ -35371,7 +35968,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs lower.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：（low的比较级）更低地。"
+    "hint": "这里需要表示：（low的比较级）更低地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1208",
@@ -35384,7 +35982,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a perform.",
     "sentence": "This is a ___.",
-    "hint": "这是：表演。"
+    "hint": "这是：表演。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1209",
@@ -35397,7 +35996,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is across the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：横过，穿过。"
+    "hint": "书的位置：横过，穿过。",
+    "rawPos": "介词"
   },
   {
     "id": "high-1210",
@@ -35410,7 +36010,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a concern.",
     "sentence": "This is a ___.",
-    "hint": "这是：担心；忧虑。"
+    "hint": "这是：担心；忧虑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1211",
@@ -35423,7 +36024,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is safe.",
     "sentence": "It is ___.",
-    "hint": "它是：安全的。"
+    "hint": "它是：安全的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1212",
@@ -35436,7 +36038,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is common.",
     "sentence": "It is ___.",
-    "hint": "它是：普通的；常见的。"
+    "hint": "它是：普通的；常见的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1213",
@@ -35449,7 +36052,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs usually.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：通常地；惯常地。"
+    "hint": "这里需要表示：通常地；惯常地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1214",
@@ -35462,7 +36066,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is recent.",
     "sentence": "It is ___.",
-    "hint": "它是：最近的；近代的。"
+    "hint": "它是：最近的；近代的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1215",
@@ -35475,7 +36080,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is near the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：距离近。"
+    "hint": "书的位置：距离近。",
+    "rawPos": "介词"
   },
   {
     "id": "high-1216",
@@ -35488,7 +36094,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs finally.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：最后；最终。"
+    "hint": "这里需要表示：最后；最终。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1217",
@@ -35501,7 +36108,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a inspire.",
     "sentence": "This is a ___.",
-    "hint": "这是：激励，鼓舞。"
+    "hint": "这是：激励，鼓舞。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1218",
@@ -35514,7 +36122,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a recommend.",
     "sentence": "This is a ___.",
-    "hint": "这是：推荐。"
+    "hint": "这是：推荐。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1219",
@@ -35527,7 +36136,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a desire.",
     "sentence": "This is a ___.",
-    "hint": "这是：愿望。"
+    "hint": "这是：愿望。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1220",
@@ -35540,7 +36150,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is born.",
     "sentence": "It is ___.",
-    "hint": "它是：出生的。"
+    "hint": "它是：出生的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1221",
@@ -35553,7 +36164,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a son.",
     "sentence": "This is a ___.",
-    "hint": "这是：儿子。"
+    "hint": "这是：儿子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1222",
@@ -35566,7 +36178,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a husband.",
     "sentence": "This is a ___.",
-    "hint": "这是：丈夫。"
+    "hint": "这是：丈夫。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1223",
@@ -35579,7 +36192,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a neighbour.",
     "sentence": "This is a ___.",
-    "hint": "这是：邻居。"
+    "hint": "这是：邻居。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1224",
@@ -35592,7 +36206,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a engineer.",
     "sentence": "This is a ___.",
-    "hint": "这是：工程师。"
+    "hint": "这是：工程师。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1225",
@@ -35605,7 +36220,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a voice.",
     "sentence": "This is a ___.",
-    "hint": "这是：嗓音。"
+    "hint": "这是：嗓音。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1226",
@@ -35618,7 +36234,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ability.",
     "sentence": "This is a ___.",
-    "hint": "这是：能力。"
+    "hint": "这是：能力。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1227",
@@ -35631,7 +36248,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a behaviour.",
     "sentence": "This is a ___.",
-    "hint": "这是：行为，举止；特性。"
+    "hint": "这是：行为，举止；特性。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1228",
@@ -35644,7 +36262,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a approach.",
     "sentence": "This is a ___.",
-    "hint": "这是：靠近。"
+    "hint": "这是：靠近。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1229",
@@ -35657,7 +36276,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a attitude.",
     "sentence": "This is a ___.",
-    "hint": "这是：态度。"
+    "hint": "这是：态度。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1230",
@@ -35670,7 +36290,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a communication.",
     "sentence": "This is a ___.",
-    "hint": "这是：交流；沟通。"
+    "hint": "这是：交流；沟通。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1231",
@@ -35683,7 +36304,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a lesson.",
     "sentence": "This is a ___.",
-    "hint": "这是：课。"
+    "hint": "这是：课。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1232",
@@ -35696,7 +36318,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is programme.",
     "sentence": "It is ___.",
-    "hint": "它是：[电视或广播的]节目。"
+    "hint": "它是：[电视或广播的]节目。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1233",
@@ -35709,7 +36332,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a opportunity.",
     "sentence": "This is a ___.",
-    "hint": "这是：机会。"
+    "hint": "这是：机会。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1234",
@@ -35722,7 +36346,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a product.",
     "sentence": "This is a ___.",
-    "hint": "这是：产品；制品。"
+    "hint": "这是：产品；制品。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1235",
@@ -35735,7 +36360,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a force.",
     "sentence": "This is a ___.",
-    "hint": "这是：力；力量。"
+    "hint": "这是：力；力量。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1236",
@@ -35748,7 +36374,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a amount.",
     "sentence": "This is a ___.",
-    "hint": "这是：量；数量。"
+    "hint": "这是：量；数量。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1237",
@@ -35761,7 +36388,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can dance.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：跳舞。"
+    "hint": "我会/可以：跳舞。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1238",
@@ -35774,7 +36402,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a repair.",
     "sentence": "This is a ___.",
-    "hint": "这是：修理；修补。"
+    "hint": "这是：修理；修补。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1239",
@@ -35787,7 +36416,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs best.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：最；最高程度地。"
+    "hint": "这里需要表示：最；最高程度地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1240",
@@ -35800,7 +36430,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a past.",
     "sentence": "This is a ___.",
-    "hint": "这是：经过。"
+    "hint": "这是：经过。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1241",
@@ -35813,7 +36444,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a key.",
     "sentence": "This is a ___.",
-    "hint": "这是：钥匙。"
+    "hint": "这是：钥匙。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1242",
@@ -35826,7 +36458,8 @@ window.VOCABULARY = [
     "category": "饮食生活",
     "example": "This is a price.",
     "sentence": "This is a ___.",
-    "hint": "这是：价格。"
+    "hint": "这是：价格。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1243",
@@ -35839,7 +36472,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a join.",
     "sentence": "This is a ___.",
-    "hint": "这是：加入。"
+    "hint": "这是：加入。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1244",
@@ -35852,7 +36486,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can win.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：获胜。"
+    "hint": "我会/可以：获胜。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1245",
@@ -35865,7 +36500,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is popular.",
     "sentence": "It is ___.",
-    "hint": "它是：受欢迎的。"
+    "hint": "它是：受欢迎的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1246",
@@ -35878,7 +36514,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can clear.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：清澈的。"
+    "hint": "我会/可以：清澈的。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1247",
@@ -35891,7 +36528,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is personal.",
     "sentence": "It is ___.",
-    "hint": "它是：个人的。"
+    "hint": "它是：个人的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1248",
@@ -35904,7 +36542,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a anything.",
     "sentence": "This is a ___.",
-    "hint": "这是：任何事物。"
+    "hint": "这是：任何事物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1249",
@@ -35917,7 +36556,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a weekend.",
     "sentence": "This is a ___.",
-    "hint": "这是：周末。"
+    "hint": "这是：周末。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1250",
@@ -35930,7 +36570,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is natural.",
     "sentence": "It is ___.",
-    "hint": "它是：自然的。"
+    "hint": "它是：自然的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1251",
@@ -35943,7 +36584,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs badly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：差地，不好。"
+    "hint": "这里需要表示：差地，不好。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1252",
@@ -35956,7 +36598,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is outside the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：在户外。"
+    "hint": "书的位置：在户外。",
+    "rawPos": "介词"
   },
   {
     "id": "high-1253",
@@ -35969,7 +36612,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "I have three books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：三。"
+    "hint": "数量是：三。",
+    "rawPos": "数词"
   },
   {
     "id": "high-1254",
@@ -35982,7 +36626,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a boy.",
     "sentence": "This is a ___.",
-    "hint": "这是：男孩。"
+    "hint": "这是：男孩。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1255",
@@ -35995,7 +36640,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a ticket.",
     "sentence": "This is a ___.",
-    "hint": "这是：票。"
+    "hint": "这是：票。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1256",
@@ -36008,7 +36654,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can decision.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：决定；抉择。"
+    "hint": "我会/可以：决定；抉择。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1257",
@@ -36021,7 +36668,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a interview.",
     "sentence": "This is a ___.",
-    "hint": "这是：采访；面试。"
+    "hint": "这是：采访；面试。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1258",
@@ -36034,7 +36682,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can clean.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：打扫。"
+    "hint": "我会/可以：打扫。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1259",
@@ -36047,7 +36696,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is tired.",
     "sentence": "It is ___.",
-    "hint": "它是：疲倦的。"
+    "hint": "它是：疲倦的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1260",
@@ -36060,7 +36710,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is fresh.",
     "sentence": "It is ___.",
-    "hint": "它是：新鲜的；刚摘的。"
+    "hint": "它是：新鲜的；刚摘的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1261",
@@ -36073,7 +36724,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a picture.",
     "sentence": "This is a ___.",
-    "hint": "这是：图画。"
+    "hint": "这是：图画。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1262",
@@ -36086,7 +36738,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can attract.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：吸引；使喜爱。"
+    "hint": "我会/可以：吸引；使喜爱。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1263",
@@ -36099,7 +36752,8 @@ window.VOCABULARY = [
     "category": "交通旅行",
     "example": "This is a journey.",
     "sentence": "This is a ___.",
-    "hint": "这是：旅程；旅行。"
+    "hint": "这是：旅程；旅行。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1264",
@@ -36112,7 +36766,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a holiday.",
     "sentence": "This is a ___.",
-    "hint": "这是：假日。"
+    "hint": "这是：假日。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1265",
@@ -36125,7 +36780,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a colour.",
     "sentence": "This is a ___.",
-    "hint": "这是：颜色。"
+    "hint": "这是：颜色。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1266",
@@ -36138,7 +36794,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a smile.",
     "sentence": "This is a ___.",
-    "hint": "这是：微笑；笑容。"
+    "hint": "这是：微笑；笑容。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1267",
@@ -36151,7 +36808,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a smell.",
     "sentence": "This is a ___.",
-    "hint": "这是：闻。"
+    "hint": "这是：闻。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1268",
@@ -36164,7 +36822,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a print.",
     "sentence": "This is a ___.",
-    "hint": "这是：打印。"
+    "hint": "这是：打印。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1269",
@@ -36177,7 +36836,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a camera.",
     "sentence": "This is a ___.",
-    "hint": "这是：照相机。"
+    "hint": "这是：照相机。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1270",
@@ -36190,7 +36850,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a writer.",
     "sentence": "This is a ___.",
-    "hint": "这是：作家。"
+    "hint": "这是：作家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1271",
@@ -36203,7 +36864,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a opinion.",
     "sentence": "This is a ___.",
-    "hint": "这是：意见；想法；看法。"
+    "hint": "这是：意见；想法；看法。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1272",
@@ -36216,7 +36878,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a personality.",
     "sentence": "This is a ___.",
-    "hint": "这是：性格。"
+    "hint": "这是：性格。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1273",
@@ -36229,7 +36892,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is famous.",
     "sentence": "It is ___.",
-    "hint": "它是：著名的。"
+    "hint": "它是：著名的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1274",
@@ -36242,7 +36906,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a confuse.",
     "sentence": "This is a ___.",
-    "hint": "这是：混淆。"
+    "hint": "这是：混淆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1275",
@@ -36255,7 +36920,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is strange.",
     "sentence": "It is ___.",
-    "hint": "它是：奇怪的。"
+    "hint": "它是：奇怪的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1276",
@@ -36268,7 +36934,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a clothes.",
     "sentence": "This is a ___.",
-    "hint": "这是：衣服；服装。"
+    "hint": "这是：衣服；服装。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1277",
@@ -36281,7 +36948,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a season.",
     "sentence": "This is a ___.",
-    "hint": "这是：季节。"
+    "hint": "这是：季节。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1278",
@@ -36294,7 +36962,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs ground.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地面。"
+    "hint": "这里需要表示：地面。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1279",
@@ -36307,7 +36976,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is global.",
     "sentence": "It is ___.",
-    "hint": "它是：全球的，世界的。"
+    "hint": "它是：全球的，世界的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1280",
@@ -36320,7 +36990,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a e-mail.",
     "sentence": "This is a ___.",
-    "hint": "这是：电子邮件。"
+    "hint": "这是：电子邮件。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1281",
@@ -36333,7 +37004,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a website.",
     "sentence": "This is a ___.",
-    "hint": "这是：网站。"
+    "hint": "这是：网站。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1282",
@@ -36346,7 +37018,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a list.",
     "sentence": "This is a ___.",
-    "hint": "这是：列表；清单。"
+    "hint": "这是：列表；清单。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1283",
@@ -36359,7 +37032,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a direction.",
     "sentence": "This is a ___.",
-    "hint": "这是：方向；方位。"
+    "hint": "这是：方向；方位。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1284",
@@ -36372,7 +37046,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a camp.",
     "sentence": "This is a ___.",
-    "hint": "这是：野营。"
+    "hint": "这是：野营。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1285",
@@ -36385,7 +37060,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a reward.",
     "sentence": "This is a ___.",
-    "hint": "这是：报酬，奖金。"
+    "hint": "这是：报酬，奖金。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1286",
@@ -36398,7 +37074,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a gift.",
     "sentence": "This is a ___.",
-    "hint": "这是：礼物，赠品。"
+    "hint": "这是：礼物，赠品。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1287",
@@ -36411,7 +37088,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a earn.",
     "sentence": "This is a ___.",
-    "hint": "这是：挣钱；挣得，赢得。"
+    "hint": "这是：挣钱；挣得，赢得。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1288",
@@ -36424,7 +37102,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is rich.",
     "sentence": "It is ___.",
-    "hint": "它是：富有的，有钱的。"
+    "hint": "它是：富有的，有钱的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1289",
@@ -36437,7 +37116,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is extra.",
     "sentence": "It is ___.",
-    "hint": "它是：额外的；另外的。"
+    "hint": "它是：额外的；另外的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1290",
@@ -36450,7 +37130,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a else.",
     "sentence": "This is a ___.",
-    "hint": "这是：另外；其他。"
+    "hint": "这是：另外；其他。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1291",
@@ -36463,7 +37144,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sport.",
     "sentence": "This is a ___.",
-    "hint": "这是：体育运动。"
+    "hint": "这是：体育运动。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1292",
@@ -36476,7 +37158,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a promote.",
     "sentence": "This is a ___.",
-    "hint": "这是：促进。"
+    "hint": "这是：促进。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1293",
@@ -36489,7 +37172,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is healthy.",
     "sentence": "It is ___.",
-    "hint": "它是：健康的。"
+    "hint": "它是：健康的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1294",
@@ -36502,7 +37186,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a race.",
     "sentence": "This is a ___.",
-    "hint": "这是：赛跑。"
+    "hint": "这是：赛跑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1295",
@@ -36515,7 +37200,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a manager.",
     "sentence": "This is a ___.",
-    "hint": "这是：经理。"
+    "hint": "这是：经理。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1296",
@@ -36528,7 +37214,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a worker.",
     "sentence": "This is a ___.",
-    "hint": "这是：工人。"
+    "hint": "这是：工人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1297",
@@ -36541,7 +37228,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a firm.",
     "sentence": "This is a ___.",
-    "hint": "这是：商行，公司。"
+    "hint": "这是：商行，公司。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1298",
@@ -36554,7 +37242,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have tend books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：倾向。"
+    "hint": "数量是：倾向。",
+    "rawPos": "数词"
   },
   {
     "id": "high-1299",
@@ -36567,7 +37256,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can compare.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：比较。"
+    "hint": "我会/可以：比较。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1300",
@@ -36580,7 +37270,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a complete.",
     "sentence": "This is a ___.",
-    "hint": "这是：完成。"
+    "hint": "这是：完成。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1301",
@@ -36593,7 +37284,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can accept.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：接受。"
+    "hint": "我会/可以：接受。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1302",
@@ -36606,7 +37298,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a stick.",
     "sentence": "This is a ___.",
-    "hint": "这是：枝条。"
+    "hint": "这是：枝条。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1303",
@@ -36619,7 +37312,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a conduct.",
     "sentence": "This is a ___.",
-    "hint": "这是：实施；执行。"
+    "hint": "这是：实施；执行。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1304",
@@ -36632,7 +37326,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a value.",
     "sentence": "This is a ___.",
-    "hint": "这是：重视；珍视。"
+    "hint": "这是：重视；珍视。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1305",
@@ -36645,7 +37340,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is waste.",
     "sentence": "It is ___.",
-    "hint": "它是：废弃的；浪费的。"
+    "hint": "它是：废弃的；浪费的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1306",
@@ -36658,7 +37354,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is short.",
     "sentence": "It is ___.",
-    "hint": "它是：矮的；短的。"
+    "hint": "它是：矮的；短的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1307",
@@ -36671,7 +37368,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is against the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：和……比赛。"
+    "hint": "书的位置：和……比赛。",
+    "rawPos": "介词"
   },
   {
     "id": "high-1308",
@@ -36684,7 +37382,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a ice.",
     "sentence": "This is a ___.",
-    "hint": "这是：冰。"
+    "hint": "这是：冰。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1309",
@@ -36697,7 +37396,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a certain.",
     "sentence": "This is a ___.",
-    "hint": "这是：某种；某事；某人。"
+    "hint": "这是：某种；某事；某人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1310",
@@ -36710,7 +37410,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a topic.",
     "sentence": "This is a ___.",
-    "hint": "这是：话题，主题。"
+    "hint": "这是：话题，主题。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1311",
@@ -36723,7 +37424,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a rather.",
     "sentence": "This is a ___.",
-    "hint": "这是：相当；相反。"
+    "hint": "这是：相当；相反。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1312",
@@ -36736,7 +37438,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs especially.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：尤其；特别；格外。"
+    "hint": "这里需要表示：尤其；特别；格外。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1313",
@@ -36749,7 +37452,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a environment.",
     "sentence": "This is a ___.",
-    "hint": "这是：环境。"
+    "hint": "这是：环境。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1314",
@@ -36762,7 +37466,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a prevent.",
     "sentence": "This is a ___.",
-    "hint": "这是：阻止；阻挠。"
+    "hint": "这是：阻止；阻挠。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1315",
@@ -36775,7 +37480,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have attend books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：出席；参加。"
+    "hint": "数量是：出席；参加。",
+    "rawPos": "数词"
   },
   {
     "id": "high-1316",
@@ -36788,7 +37494,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a according to.",
     "sentence": "This is a ___.",
-    "hint": "这是：依照；按照。"
+    "hint": "这是：依照；按照。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1317",
@@ -36801,7 +37508,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a visitor.",
     "sentence": "This is a ___.",
-    "hint": "这是：游人，游客。"
+    "hint": "这是：游人，游客。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1318",
@@ -36814,7 +37522,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a invite.",
     "sentence": "This is a ___.",
-    "hint": "这是：邀请。"
+    "hint": "这是：邀请。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1319",
@@ -36827,7 +37536,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can consider.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：注视；仔细考虑。"
+    "hint": "我会/可以：注视；仔细考虑。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1320",
@@ -36840,7 +37550,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a later.",
     "sentence": "This is a ___.",
-    "hint": "这是：后来。"
+    "hint": "这是：后来。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1321",
@@ -36853,7 +37564,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a effect.",
     "sentence": "This is a ___.",
-    "hint": "这是：影响；效果。"
+    "hint": "这是：影响；效果。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1322",
@@ -36866,7 +37578,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a mail.",
     "sentence": "This is a ___.",
-    "hint": "这是：邮寄；发电子邮件。"
+    "hint": "这是：邮寄；发电子邮件。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1323",
@@ -36879,7 +37592,8 @@ window.VOCABULARY = [
     "category": "饮食生活",
     "example": "This is a level.",
     "sentence": "This is a ___.",
-    "hint": "这是：标准；水平。"
+    "hint": "这是：标准；水平。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1324",
@@ -36892,7 +37606,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a dog.",
     "sentence": "This is a ___.",
-    "hint": "这是：狗。"
+    "hint": "这是：狗。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1325",
@@ -36905,7 +37620,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tourist.",
     "sentence": "This is a ___.",
-    "hint": "这是：游客。"
+    "hint": "这是：游客。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1326",
@@ -36918,7 +37634,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a whether.",
     "sentence": "This is a ___.",
-    "hint": "这是：不管……（还是）； 或者……(或者)； 是否。"
+    "hint": "这是：不管……（还是）； 或者……(或者)； 是否。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1327",
@@ -36931,7 +37648,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a quite.",
     "sentence": "This is a ___.",
-    "hint": "这是：很；相当。"
+    "hint": "这是：很；相当。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1328",
@@ -36944,7 +37662,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a act.",
     "sentence": "This is a ___.",
-    "hint": "这是：扮演。"
+    "hint": "这是：扮演。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1329",
@@ -36957,7 +37676,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a feed.",
     "sentence": "This is a ___.",
-    "hint": "这是：给……食物；喂养。"
+    "hint": "这是：给……食物；喂养。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1330",
@@ -36970,7 +37690,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is cold.",
     "sentence": "It is ___.",
-    "hint": "它是：寒冷的。"
+    "hint": "它是：寒冷的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1331",
@@ -36983,7 +37704,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can cut.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：剪。"
+    "hint": "我会/可以：剪。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1332",
@@ -36996,7 +37718,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a relax.",
     "sentence": "This is a ___.",
-    "hint": "这是：放松。"
+    "hint": "这是：放松。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1333",
@@ -37009,7 +37732,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a post.",
     "sentence": "This is a ___.",
-    "hint": "这是：邮政，邮递；邮寄。"
+    "hint": "这是：邮政，邮递；邮寄。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1334",
@@ -37022,7 +37746,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a schedule.",
     "sentence": "This is a ___.",
-    "hint": "这是：时间表，计划表。"
+    "hint": "这是：时间表，计划表。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1335",
@@ -37035,7 +37760,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tradition.",
     "sentence": "This is a ___.",
-    "hint": "这是：传统。"
+    "hint": "这是：传统。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1336",
@@ -37048,7 +37774,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a affect.",
     "sentence": "This is a ___.",
-    "hint": "这是：影响。"
+    "hint": "这是：影响。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1337",
@@ -37061,7 +37788,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is behind the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：在（或向）……后面。"
+    "hint": "书的位置：在（或向）……后面。",
+    "rawPos": "介词"
   },
   {
     "id": "high-1338",
@@ -37074,7 +37802,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a climate.",
     "sentence": "This is a ___.",
-    "hint": "这是：气候。"
+    "hint": "这是：气候。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1339",
@@ -37087,7 +37816,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a spread.",
     "sentence": "This is a ___.",
-    "hint": "这是：传播；展开。"
+    "hint": "这是：传播；展开。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1340",
@@ -37100,7 +37830,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a discuss.",
     "sentence": "This is a ___.",
-    "hint": "这是：讨论；商量。"
+    "hint": "这是：讨论；商量。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1341",
@@ -37113,7 +37844,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a mistake.",
     "sentence": "This is a ___.",
-    "hint": "这是：错误。"
+    "hint": "这是：错误。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1342",
@@ -37126,7 +37858,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a club.",
     "sentence": "This is a ___.",
-    "hint": "这是：俱乐部。"
+    "hint": "这是：俱乐部。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1343",
@@ -37139,7 +37872,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a mile.",
     "sentence": "This is a ___.",
-    "hint": "这是：英里。"
+    "hint": "这是：英里。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1344",
@@ -37152,7 +37886,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a connection.",
     "sentence": "This is a ___.",
-    "hint": "这是：电话连接；计算机网络连接。"
+    "hint": "这是：电话连接；计算机网络连接。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1345",
@@ -37165,7 +37900,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is medical.",
     "sentence": "It is ___.",
-    "hint": "它是：医疗的；医学的。"
+    "hint": "它是：医疗的；医学的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1346",
@@ -37178,7 +37914,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a poem.",
     "sentence": "This is a ___.",
-    "hint": "这是：诗。"
+    "hint": "这是：诗。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1347",
@@ -37191,7 +37928,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a replace.",
     "sentence": "This is a ___.",
-    "hint": "这是：替换；取代。"
+    "hint": "这是：替换；取代。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1348",
@@ -37204,7 +37942,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is modern.",
     "sentence": "It is ___.",
-    "hint": "它是：现代的。"
+    "hint": "它是：现代的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1349",
@@ -37217,7 +37956,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a weather.",
     "sentence": "This is a ___.",
-    "hint": "这是：天气。"
+    "hint": "这是：天气。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1350",
@@ -37230,7 +37970,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can listen.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：听。"
+    "hint": "我会/可以：听。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1351",
@@ -37243,7 +37984,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a method.",
     "sentence": "This is a ___.",
-    "hint": "这是：方法；措施。"
+    "hint": "这是：方法；措施。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1352",
@@ -37256,7 +37998,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a everything.",
     "sentence": "This is a ___.",
-    "hint": "这是：每件事(物)；一切。"
+    "hint": "这是：每件事(物)；一切。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1353",
@@ -37269,7 +38012,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is serious.",
     "sentence": "It is ___.",
-    "hint": "它是：严肃的。"
+    "hint": "它是：严肃的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1354",
@@ -37282,7 +38026,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a rate.",
     "sentence": "This is a ___.",
-    "hint": "这是：速度，速率。"
+    "hint": "这是：速度，速率。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1355",
@@ -37295,7 +38040,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is main.",
     "sentence": "It is ___.",
-    "hint": "它是：主要的。"
+    "hint": "它是：主要的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1356",
@@ -37308,7 +38054,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is dinner.",
     "sentence": "It is ___.",
-    "hint": "它是：（中午或晚上吃的）正餐。"
+    "hint": "它是：（中午或晚上吃的）正餐。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1357",
@@ -37321,7 +38068,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can serve.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：接待；服务；提供。"
+    "hint": "我会/可以：接待；服务；提供。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1358",
@@ -37334,7 +38082,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is major.",
     "sentence": "It is ___.",
-    "hint": "它是：主要的。"
+    "hint": "它是：主要的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1359",
@@ -37347,7 +38096,8 @@ window.VOCABULARY = [
     "category": "饮食生活",
     "example": "This is a lunch.",
     "sentence": "This is a ___.",
-    "hint": "这是：午饭。"
+    "hint": "这是：午饭。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1360",
@@ -37360,7 +38110,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have anyone books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：任何人。"
+    "hint": "数量是：任何人。",
+    "rawPos": "数词"
   },
   {
     "id": "high-1361",
@@ -37373,7 +38124,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is traditional.",
     "sentence": "It is ___.",
-    "hint": "它是：传统的。"
+    "hint": "它是：传统的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1362",
@@ -37386,7 +38138,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a describe.",
     "sentence": "This is a ___.",
-    "hint": "这是：描述。"
+    "hint": "这是：描述。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1363",
@@ -37399,7 +38152,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a smoke.",
     "sentence": "This is a ___.",
-    "hint": "这是：吸烟。"
+    "hint": "这是：吸烟。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1364",
@@ -37412,7 +38166,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a action.",
     "sentence": "This is a ___.",
-    "hint": "这是：动作。"
+    "hint": "这是：动作。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1365",
@@ -37425,7 +38180,8 @@ window.VOCABULARY = [
     "category": "场所方位",
     "example": "This is a expert.",
     "sentence": "This is a ___.",
-    "hint": "这是：专家。"
+    "hint": "这是：专家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1366",
@@ -37438,7 +38194,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a collection.",
     "sentence": "This is a ___.",
-    "hint": "这是：收藏品。"
+    "hint": "这是：收藏品。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1367",
@@ -37451,7 +38208,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a anger.",
     "sentence": "This is a ___.",
-    "hint": "这是：怒；怒火；怒气。"
+    "hint": "这是：怒；怒火；怒气。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1368",
@@ -37464,7 +38222,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a apartment.",
     "sentence": "This is a ___.",
-    "hint": "这是：公寓。"
+    "hint": "这是：公寓。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1369",
@@ -37477,7 +38236,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is table.",
     "sentence": "It is ___.",
-    "hint": "它是：桌子。"
+    "hint": "它是：桌子。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1370",
@@ -37490,7 +38250,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a classroom.",
     "sentence": "This is a ___.",
-    "hint": "这是：教室。"
+    "hint": "这是：教室。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1371",
@@ -37503,7 +38264,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is simple.",
     "sentence": "It is ___.",
-    "hint": "它是：简单的。"
+    "hint": "它是：简单的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1372",
@@ -37516,7 +38278,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have ten books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：十。"
+    "hint": "数量是：十。",
+    "rawPos": "数词"
   },
   {
     "id": "high-1373",
@@ -37529,7 +38292,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have four books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：四。"
+    "hint": "数量是：四。",
+    "rawPos": "数词"
   },
   {
     "id": "high-1374",
@@ -37542,7 +38306,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a artist.",
     "sentence": "This is a ___.",
-    "hint": "这是：画家；艺术家。"
+    "hint": "这是：画家；艺术家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1375",
@@ -37555,7 +38320,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a front.",
     "sentence": "This is a ___.",
-    "hint": "这是：正面。"
+    "hint": "这是：正面。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1376",
@@ -37568,7 +38334,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is better.",
     "sentence": "It is ___.",
-    "hint": "它是：(well的比较级)更好的。"
+    "hint": "它是：(well的比较级)更好的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1377",
@@ -37581,7 +38348,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is direct.",
     "sentence": "It is ___.",
-    "hint": "它是：直接的；直率的。"
+    "hint": "它是：直接的；直率的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1378",
@@ -37594,7 +38362,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs daily.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：日常的；每日的。"
+    "hint": "这里需要表示：日常的；每日的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1379",
@@ -37607,7 +38376,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a member.",
     "sentence": "This is a ___.",
-    "hint": "这是：成员。"
+    "hint": "这是：成员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1380",
@@ -37620,7 +38390,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a gain.",
     "sentence": "This is a ___.",
-    "hint": "这是：收获。"
+    "hint": "这是：收获。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1381",
@@ -37633,7 +38404,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is nice.",
     "sentence": "It is ___.",
-    "hint": "它是：好的。"
+    "hint": "它是：好的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1382",
@@ -37646,7 +38418,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is less.",
     "sentence": "It is ___.",
-    "hint": "它是：更少。"
+    "hint": "它是：更少。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1383",
@@ -37659,7 +38432,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a size.",
     "sentence": "This is a ___.",
-    "hint": "这是：尺码；号。"
+    "hint": "这是：尺码；号。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1384",
@@ -37672,7 +38446,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is similar.",
     "sentence": "It is ___.",
-    "hint": "它是：相像的；类似的。"
+    "hint": "它是：相像的；类似的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1385",
@@ -37685,7 +38460,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs suddenly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：突然。"
+    "hint": "这里需要表示：突然。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1386",
@@ -37698,7 +38474,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a mention.",
     "sentence": "This is a ___.",
-    "hint": "这是：提到；说到。"
+    "hint": "这是：提到；说到。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1387",
@@ -37711,7 +38488,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a whatever.",
     "sentence": "This is a ___.",
-    "hint": "这是：任何；每一。"
+    "hint": "这是：任何；每一。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1388",
@@ -37724,7 +38502,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a inter.",
     "sentence": "This is a ___.",
-    "hint": "这是：埋葬。"
+    "hint": "这是：埋葬。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1389",
@@ -37737,7 +38516,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is cool.",
     "sentence": "It is ___.",
-    "hint": "它是：凉的；凉爽的。"
+    "hint": "它是：凉的；凉爽的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1390",
@@ -37750,7 +38530,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can protect.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：保护。"
+    "hint": "我会/可以：保护。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1391",
@@ -37763,7 +38544,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a prove.",
     "sentence": "This is a ___.",
-    "hint": "这是：证明，证实。"
+    "hint": "这是：证明，证实。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1392",
@@ -37776,7 +38558,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can pull.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：拉；拽。"
+    "hint": "我会/可以：拉；拽。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1393",
@@ -37789,7 +38572,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a law.",
     "sentence": "This is a ___.",
-    "hint": "这是：法律；法规。"
+    "hint": "这是：法律；法规。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1394",
@@ -37802,7 +38586,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs land.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：着陆；陆地。"
+    "hint": "这里需要表示：着陆；陆地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1395",
@@ -37815,7 +38600,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a hearing.",
     "sentence": "This is a ___.",
-    "hint": "这是：听力，听觉。"
+    "hint": "这是：听力，听觉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1396",
@@ -37828,7 +38614,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can connect.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：（使）连接；与……有联系。"
+    "hint": "我会/可以：（使）连接；与……有联系。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1397",
@@ -37841,7 +38628,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a jazz.",
     "sentence": "This is a ___.",
-    "hint": "这是：爵士音乐,爵士舞曲。"
+    "hint": "这是：爵士音乐,爵士舞曲。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1398",
@@ -37854,7 +38642,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a die.",
     "sentence": "This is a ___.",
-    "hint": "这是：死；死亡。"
+    "hint": "这是：死；死亡。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1399",
@@ -37867,7 +38656,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a bridge.",
     "sentence": "This is a ___.",
-    "hint": "这是：桥。"
+    "hint": "这是：桥。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1400",
@@ -37880,7 +38670,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is international.",
     "sentence": "It is ___.",
-    "hint": "它是：国际的。"
+    "hint": "它是：国际的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1401",
@@ -37893,7 +38684,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs easily.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：容易地。"
+    "hint": "这里需要表示：容易地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1402",
@@ -37906,7 +38698,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a piece.",
     "sentence": "This is a ___.",
-    "hint": "这是：碎片；碎块。"
+    "hint": "这是：碎片；碎块。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1403",
@@ -37919,7 +38712,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a worry.",
     "sentence": "This is a ___.",
-    "hint": "这是：担心；担忧。"
+    "hint": "这是：担心；担忧。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1404",
@@ -37932,7 +38726,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a note.",
     "sentence": "This is a ___.",
-    "hint": "这是：笔记。"
+    "hint": "这是：笔记。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1405",
@@ -37945,7 +38740,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a industry.",
     "sentence": "This is a ___.",
-    "hint": "这是：工业；行业。"
+    "hint": "这是：工业；行业。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1406",
@@ -37958,7 +38754,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a refer.",
     "sentence": "This is a ___.",
-    "hint": "这是：提到，谈及。"
+    "hint": "这是：提到，谈及。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1407",
@@ -37971,7 +38768,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can slow.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：（使）放慢速度；慢的。"
+    "hint": "我会/可以：（使）放慢速度；慢的。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1408",
@@ -37984,7 +38782,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a range.",
     "sentence": "This is a ___.",
-    "hint": "这是：（在一定范围内）变化。"
+    "hint": "这是：（在一定范围内）变化。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1409",
@@ -37997,7 +38796,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a century.",
     "sentence": "This is a ___.",
-    "hint": "这是：百年；世纪。"
+    "hint": "这是：百年；世纪。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1410",
@@ -38010,7 +38810,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is beautiful.",
     "sentence": "It is ___.",
-    "hint": "它是：美丽的。"
+    "hint": "它是：美丽的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1411",
@@ -38023,7 +38824,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a hit.",
     "sentence": "This is a ___.",
-    "hint": "这是：击；打。"
+    "hint": "这是：击；打。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1412",
@@ -38036,7 +38838,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is positive.",
     "sentence": "It is ___.",
-    "hint": "它是：积极乐观的；自信的。"
+    "hint": "它是：积极乐观的；自信的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1413",
@@ -38049,7 +38852,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a suffer.",
     "sentence": "This is a ___.",
-    "hint": "这是：受苦,受难。"
+    "hint": "这是：受苦,受难。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1414",
@@ -38062,7 +38866,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a application.",
     "sentence": "This is a ___.",
-    "hint": "这是：应用程序。"
+    "hint": "这是：应用程序。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1415",
@@ -38075,7 +38880,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a novel.",
     "sentence": "This is a ___.",
-    "hint": "这是：（长篇）小说。"
+    "hint": "这是：（长篇）小说。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1416",
@@ -38088,7 +38894,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a difference.",
     "sentence": "This is a ___.",
-    "hint": "这是：差别；差异。"
+    "hint": "这是：差别；差异。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1417",
@@ -38101,7 +38908,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a condition.",
     "sentence": "This is a ___.",
-    "hint": "这是：条件；状况。"
+    "hint": "这是：条件；状况。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1418",
@@ -38114,7 +38922,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a decline.",
     "sentence": "This is a ___.",
-    "hint": "这是：减少。"
+    "hint": "这是：减少。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1419",
@@ -38127,7 +38936,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a trend.",
     "sentence": "This is a ___.",
-    "hint": "这是：趋势。"
+    "hint": "这是：趋势。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1420",
@@ -38140,7 +38950,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a limit.",
     "sentence": "This is a ___.",
-    "hint": "这是：限制；限定。"
+    "hint": "这是：限制；限定。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1421",
@@ -38153,7 +38964,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "whose is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：谁的。"
+    "hint": "选择代词：谁的。",
+    "rawPos": "代词"
   },
   {
     "id": "high-1422",
@@ -38166,7 +38978,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a talent.",
     "sentence": "This is a ___.",
-    "hint": "这是：才能；天赋。"
+    "hint": "这是：才能；天赋。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1423",
@@ -38179,7 +38992,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a amaze.",
     "sentence": "This is a ___.",
-    "hint": "这是：令人惊奇。"
+    "hint": "这是：令人惊奇。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1424",
@@ -38192,7 +39006,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a seek.",
     "sentence": "This is a ___.",
-    "hint": "这是：寻找。"
+    "hint": "这是：寻找。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1425",
@@ -38205,7 +39020,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a praise.",
     "sentence": "This is a ___.",
-    "hint": "这是：赞扬；称赞。"
+    "hint": "这是：赞扬；称赞。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1426",
@@ -38218,7 +39034,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a breakfast.",
     "sentence": "This is a ___.",
-    "hint": "这是：早餐；早饭。"
+    "hint": "这是：早餐；早饭。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1427",
@@ -38231,7 +39048,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wonder.",
     "sentence": "This is a ___.",
-    "hint": "这是：想知道；琢磨。"
+    "hint": "这是：想知道；琢磨。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1428",
@@ -38244,7 +39062,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can involve.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：(使)参加；包含。"
+    "hint": "我会/可以：(使)参加；包含。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1429",
@@ -38257,7 +39076,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can climb.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：攀，爬。"
+    "hint": "我会/可以：攀，爬。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1430",
@@ -38270,7 +39090,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is dark.",
     "sentence": "It is ___.",
-    "hint": "它是：深色的；黑暗的。"
+    "hint": "它是：深色的；黑暗的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1431",
@@ -38283,7 +39104,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a role.",
     "sentence": "This is a ___.",
-    "hint": "这是：角色。"
+    "hint": "这是：角色。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1432",
@@ -38296,7 +39118,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a notice.",
     "sentence": "This is a ___.",
-    "hint": "这是：通知；通告；注意。"
+    "hint": "这是：通知；通告；注意。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1433",
@@ -38309,7 +39132,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a touch.",
     "sentence": "This is a ___.",
-    "hint": "这是：触摸。"
+    "hint": "这是：触摸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1434",
@@ -38322,7 +39146,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a photo.",
     "sentence": "This is a ___.",
-    "hint": "这是：照片；相片。"
+    "hint": "这是：照片；相片。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1435",
@@ -38335,7 +39160,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a daughter.",
     "sentence": "This is a ___.",
-    "hint": "这是：女儿。"
+    "hint": "这是：女儿。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1436",
@@ -38348,7 +39174,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is manage.",
     "sentence": "It is ___.",
-    "hint": "它是：完成（困难的事）；应付（困难局面）。"
+    "hint": "它是：完成（困难的事）；应付（困难局面）。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1437",
@@ -38361,7 +39188,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a hide.",
     "sentence": "This is a ___.",
-    "hint": "这是：隐藏。"
+    "hint": "这是：隐藏。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1438",
@@ -38374,7 +39202,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a advance.",
     "sentence": "This is a ___.",
-    "hint": "这是：推进;前进。"
+    "hint": "这是：推进;前进。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1439",
@@ -38387,7 +39216,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is patient.",
     "sentence": "It is ___.",
-    "hint": "它是：耐心的。"
+    "hint": "它是：耐心的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1440",
@@ -38400,7 +39230,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a track.",
     "sentence": "This is a ___.",
-    "hint": "这是：跑道。"
+    "hint": "这是：跑道。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1441",
@@ -38413,7 +39244,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a star.",
     "sentence": "This is a ___.",
-    "hint": "这是：星，恒星。"
+    "hint": "这是：星，恒星。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1442",
@@ -38426,7 +39258,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is sick.",
     "sentence": "It is ___.",
-    "hint": "它是：有病的。"
+    "hint": "它是：有病的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1443",
@@ -38439,7 +39272,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a recognise.",
     "sentence": "This is a ___.",
-    "hint": "这是：认出。"
+    "hint": "这是：认出。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1444",
@@ -38452,7 +39286,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can determine.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：决定。"
+    "hint": "我会/可以：决定。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1445",
@@ -38465,7 +39300,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can achieve.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：达到；完成；成功。"
+    "hint": "我会/可以：达到；完成；成功。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1446",
@@ -38478,7 +39314,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a knowledge.",
     "sentence": "This is a ___.",
-    "hint": "这是：知识；学问。"
+    "hint": "这是：知识；学问。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1447",
@@ -38491,7 +39328,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a safety.",
     "sentence": "This is a ___.",
-    "hint": "这是：安全。"
+    "hint": "这是：安全。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1448",
@@ -38504,7 +39342,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a depend.",
     "sentence": "This is a ___.",
-    "hint": "这是：依靠；依赖。"
+    "hint": "这是：依靠；依赖。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1449",
@@ -38517,7 +39356,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a generation.",
     "sentence": "This is a ___.",
-    "hint": "这是：一代(人)。"
+    "hint": "这是：一代(人)。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1450",
@@ -38530,7 +39370,8 @@ window.VOCABULARY = [
     "category": "饮食生活",
     "example": "This is a fruit.",
     "sentence": "This is a ___.",
-    "hint": "这是：水果。"
+    "hint": "这是：水果。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1451",
@@ -38543,7 +39384,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a audience.",
     "sentence": "This is a ___.",
-    "hint": "这是：观众，听众。"
+    "hint": "这是：观众，听众。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1452",
@@ -38556,7 +39398,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a war.",
     "sentence": "This is a ___.",
-    "hint": "这是：战争。"
+    "hint": "这是：战争。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1453",
@@ -38569,7 +39412,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a confidence.",
     "sentence": "This is a ___.",
-    "hint": "这是：自信。"
+    "hint": "这是：自信。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1454",
@@ -38582,7 +39426,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a apple.",
     "sentence": "This is a ___.",
-    "hint": "这是：苹果。"
+    "hint": "这是：苹果。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1455",
@@ -38595,7 +39440,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a damage.",
     "sentence": "This is a ___.",
-    "hint": "这是：损害；损坏。"
+    "hint": "这是：损害；损坏。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1456",
@@ -38608,7 +39454,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a enter.",
     "sentence": "This is a ___.",
-    "hint": "这是：进来；进去。"
+    "hint": "这是：进来；进去。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1457",
@@ -38621,7 +39468,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a drop.",
     "sentence": "This is a ___.",
-    "hint": "这是：滴状物；降低。"
+    "hint": "这是：滴状物；降低。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1458",
@@ -38634,7 +39482,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a humour.",
     "sentence": "This is a ___.",
-    "hint": "这是：幽默。"
+    "hint": "这是：幽默。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1459",
@@ -38647,7 +39496,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is worth.",
     "sentence": "It is ___.",
-    "hint": "它是：值得；有……价值（的）。"
+    "hint": "它是：值得；有……价值（的）。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1460",
@@ -38660,7 +39510,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a character.",
     "sentence": "This is a ___.",
-    "hint": "这是：人物；角色。"
+    "hint": "这是：人物；角色。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1461",
@@ -38673,7 +39524,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a measure.",
     "sentence": "This is a ___.",
-    "hint": "这是：措施，方法。"
+    "hint": "这是：措施，方法。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1462",
@@ -38686,7 +39538,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a per.",
     "sentence": "This is a ___.",
-    "hint": "这是：每，每一。"
+    "hint": "这是：每，每一。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1463",
@@ -38699,7 +39552,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a childhood.",
     "sentence": "This is a ___.",
-    "hint": "这是：童年；幼年。"
+    "hint": "这是：童年；幼年。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1464",
@@ -38712,7 +39566,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cat.",
     "sentence": "This is a ___.",
-    "hint": "这是：猫。"
+    "hint": "这是：猫。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1465",
@@ -38725,7 +39580,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a wife.",
     "sentence": "This is a ___.",
-    "hint": "这是：妻子。"
+    "hint": "这是：妻子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1466",
@@ -38738,7 +39594,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a beyond.",
     "sentence": "This is a ___.",
-    "hint": "这是：超出；除……之外。"
+    "hint": "这是：超出；除……之外。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1467",
@@ -38751,7 +39608,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a link.",
     "sentence": "This is a ___.",
-    "hint": "这是：链接。"
+    "hint": "这是：链接。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1468",
@@ -38764,7 +39622,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can prefer.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：选择；宁愿要。"
+    "hint": "我会/可以：选择；宁愿要。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1469",
@@ -38777,7 +39636,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is nuclear.",
     "sentence": "It is ___.",
-    "hint": "它是：核能的。"
+    "hint": "它是：核能的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1470",
@@ -38790,7 +39650,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is worried.",
     "sentence": "It is ___.",
-    "hint": "它是：担心的；发愁的。"
+    "hint": "它是：担心的；发愁的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1471",
@@ -38803,7 +39664,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is nervous.",
     "sentence": "It is ___.",
-    "hint": "它是：紧张不安的。"
+    "hint": "它是：紧张不安的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1472",
@@ -38816,7 +39678,8 @@ window.VOCABULARY = [
     "category": "饮食生活",
     "example": "This is a shock.",
     "sentence": "This is a ___.",
-    "hint": "这是：吃惊，震惊。"
+    "hint": "这是：吃惊，震惊。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1473",
@@ -38829,7 +39692,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a birth.",
     "sentence": "This is a ___.",
-    "hint": "这是：出生；诞生。"
+    "hint": "这是：出生；诞生。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1474",
@@ -38842,7 +39706,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a species.",
     "sentence": "This is a ___.",
-    "hint": "这是：物种；种类。"
+    "hint": "这是：物种；种类。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1475",
@@ -38855,7 +39720,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a coffee.",
     "sentence": "This is a ___.",
-    "hint": "这是：咖啡。"
+    "hint": "这是：咖啡。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1476",
@@ -38868,7 +39734,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a taste.",
     "sentence": "This is a ___.",
-    "hint": "这是：品尝。"
+    "hint": "这是：品尝。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1477",
@@ -38881,7 +39748,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is western.",
     "sentence": "It is ___.",
-    "hint": "它是：西方的。"
+    "hint": "它是：西方的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1478",
@@ -38894,7 +39762,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a lack.",
     "sentence": "This is a ___.",
-    "hint": "这是：缺乏。"
+    "hint": "这是：缺乏。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1479",
@@ -38907,7 +39776,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a hire.",
     "sentence": "This is a ___.",
-    "hint": "这是：租用；雇用。"
+    "hint": "这是：租用；雇用。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1480",
@@ -38920,7 +39790,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a detail.",
     "sentence": "This is a ___.",
-    "hint": "这是：详情；全部细节。"
+    "hint": "这是：详情；全部细节。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1481",
@@ -38933,7 +39804,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have six books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：六。"
+    "hint": "数量是：六。",
+    "rawPos": "数词"
   },
   {
     "id": "high-1482",
@@ -38946,7 +39818,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a article.",
     "sentence": "This is a ___.",
-    "hint": "这是：文章。"
+    "hint": "这是：文章。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1483",
@@ -38959,7 +39832,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a style.",
     "sentence": "This is a ___.",
-    "hint": "这是：样式；款式。"
+    "hint": "这是：样式；款式。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1484",
@@ -38972,7 +39846,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is professional.",
     "sentence": "It is ___.",
-    "hint": "它是：职业的；专业的。"
+    "hint": "它是：职业的；专业的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1485",
@@ -38985,7 +39860,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a march.",
     "sentence": "This is a ___.",
-    "hint": "这是：三月。"
+    "hint": "这是：三月。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1486",
@@ -38998,7 +39874,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is red.",
     "sentence": "It is ___.",
-    "hint": "它是：红色：红色的。"
+    "hint": "它是：红色：红色的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1487",
@@ -39011,7 +39888,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a kill.",
     "sentence": "This is a ___.",
-    "hint": "这是：杀死。"
+    "hint": "这是：杀死。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1488",
@@ -39024,7 +39902,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fee.",
     "sentence": "This is a ___.",
-    "hint": "这是：费用。"
+    "hint": "这是：费用。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1489",
@@ -39037,7 +39916,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a colleague.",
     "sentence": "This is a ___.",
-    "hint": "这是：同事,同僚。"
+    "hint": "这是：同事,同僚。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1490",
@@ -39050,7 +39930,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a death.",
     "sentence": "This is a ___.",
-    "hint": "这是：死；死亡。"
+    "hint": "这是：死；死亡。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1491",
@@ -39063,7 +39944,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is necessary.",
     "sentence": "It is ___.",
-    "hint": "它是：必需的；必要的。"
+    "hint": "它是：必需的；必要的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1492",
@@ -39076,7 +39958,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a field.",
     "sentence": "This is a ___.",
-    "hint": "这是：田。"
+    "hint": "这是：田。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1493",
@@ -39089,7 +39972,8 @@ window.VOCABULARY = [
     "category": "交通旅行",
     "example": "It is busy.",
     "sentence": "It is ___.",
-    "hint": "它是：忙的。"
+    "hint": "它是：忙的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1494",
@@ -39102,7 +39986,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a seat.",
     "sentence": "This is a ___.",
-    "hint": "这是：座位。"
+    "hint": "这是：座位。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1495",
@@ -39115,7 +40000,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can ride.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：骑；乘。"
+    "hint": "我会/可以：骑；乘。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1496",
@@ -39128,7 +40014,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is material.",
     "sentence": "It is ___.",
-    "hint": "它是：材料；原料。"
+    "hint": "它是：材料；原料。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1497",
@@ -39141,7 +40028,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a blank.",
     "sentence": "This is a ___.",
-    "hint": "这是：空白；空白处，空格。"
+    "hint": "这是：空白；空白处，空格。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1498",
@@ -39154,7 +40042,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a moment.",
     "sentence": "This is a ___.",
-    "hint": "这是：片刻；瞬间。"
+    "hint": "这是：片刻；瞬间。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1499",
@@ -39167,7 +40056,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is whole.",
     "sentence": "It is ___.",
-    "hint": "它是：整个的。"
+    "hint": "它是：整个的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1500",
@@ -39180,7 +40070,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can trouble.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：（使）烦恼，麻烦。"
+    "hint": "我会/可以：（使）烦恼，麻烦。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1501",
@@ -39193,7 +40084,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is fit.",
     "sentence": "It is ___.",
-    "hint": "它是：健壮的。"
+    "hint": "它是：健壮的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1502",
@@ -39206,7 +40098,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a society.",
     "sentence": "This is a ___.",
-    "hint": "这是：社会。"
+    "hint": "这是：社会。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1503",
@@ -39219,7 +40112,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is deep.",
     "sentence": "It is ___.",
-    "hint": "它是：深的。"
+    "hint": "它是：深的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1504",
@@ -39232,7 +40126,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a figure.",
     "sentence": "This is a ___.",
-    "hint": "这是：身形；数字。"
+    "hint": "这是：身形；数字。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1505",
@@ -39245,7 +40140,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a bite.",
     "sentence": "This is a ___.",
-    "hint": "这是：咬。"
+    "hint": "这是：咬。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1506",
@@ -39258,7 +40154,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a gather.",
     "sentence": "This is a ___.",
-    "hint": "这是：集合。"
+    "hint": "这是：集合。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1507",
@@ -39271,7 +40168,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a variety.",
     "sentence": "This is a ___.",
-    "hint": "这是：种类；变化，多样性。"
+    "hint": "这是：种类；变化，多样性。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1508",
@@ -39284,7 +40182,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a below.",
     "sentence": "This is a ___.",
-    "hint": "这是：在……下面；到……下面。"
+    "hint": "这是：在……下面；到……下面。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1509",
@@ -39297,7 +40196,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a forest.",
     "sentence": "This is a ___.",
-    "hint": "这是：森林。"
+    "hint": "这是：森林。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1510",
@@ -39310,7 +40210,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is yes.",
     "sentence": "It is ___.",
-    "hint": "它是：是，是的。"
+    "hint": "它是：是，是的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1511",
@@ -39323,7 +40224,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a flight.",
     "sentence": "This is a ___.",
-    "hint": "这是：航班；飞行。"
+    "hint": "这是：航班；飞行。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1512",
@@ -39336,7 +40238,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pressure.",
     "sentence": "This is a ___.",
-    "hint": "这是：压力。"
+    "hint": "这是：压力。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1513",
@@ -39349,7 +40252,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a concert.",
     "sentence": "This is a ___.",
-    "hint": "这是：音乐会。"
+    "hint": "这是：音乐会。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1514",
@@ -39362,7 +40266,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a sight.",
     "sentence": "This is a ___.",
-    "hint": "这是：视力。"
+    "hint": "这是：视力。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1515",
@@ -39375,7 +40280,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a speed.",
     "sentence": "This is a ___.",
-    "hint": "这是：速度。"
+    "hint": "这是：速度。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1516",
@@ -39388,7 +40294,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a basket.",
     "sentence": "This is a ___.",
-    "hint": "这是：篮；筐。"
+    "hint": "这是：篮；筐。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1517",
@@ -39401,7 +40308,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a player.",
     "sentence": "This is a ___.",
-    "hint": "这是：运动员。"
+    "hint": "这是：运动员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1518",
@@ -39414,7 +40322,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a alarm.",
     "sentence": "This is a ___.",
-    "hint": "这是：闹钟。"
+    "hint": "这是：闹钟。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1519",
@@ -39427,7 +40336,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is chemical.",
     "sentence": "It is ___.",
-    "hint": "它是：化学物质。"
+    "hint": "它是：化学物质。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1520",
@@ -39440,7 +40350,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a carbon.",
     "sentence": "This is a ___.",
-    "hint": "这是：<化>碳。"
+    "hint": "这是：<化>碳。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1521",
@@ -39453,7 +40364,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can disappoint.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使失望。"
+    "hint": "我会/可以：使失望。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1522",
@@ -39466,7 +40378,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a nation.",
     "sentence": "This is a ___.",
-    "hint": "这是：国家；民族。"
+    "hint": "这是：国家；民族。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1523",
@@ -39479,7 +40392,8 @@ window.VOCABULARY = [
     "category": "饮食生活",
     "example": "This is a milk.",
     "sentence": "This is a ___.",
-    "hint": "这是：牛奶。"
+    "hint": "这是：牛奶。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1524",
@@ -39492,7 +40406,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is fat.",
     "sentence": "It is ___.",
-    "hint": "它是：胖的；肥的。"
+    "hint": "它是：胖的；肥的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1525",
@@ -39505,7 +40420,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a contribute.",
     "sentence": "This is a ___.",
-    "hint": "这是：捐助，援助。"
+    "hint": "这是：捐助，援助。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1526",
@@ -39518,7 +40434,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a award.",
     "sentence": "This is a ___.",
-    "hint": "这是：奖状；奖品。"
+    "hint": "这是：奖状；奖品。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1527",
@@ -39531,7 +40448,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a lay.",
     "sentence": "This is a ___.",
-    "hint": "这是：产（蛋，卵）。"
+    "hint": "这是：产（蛋，卵）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1528",
@@ -39544,7 +40462,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have intend books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：计划；打算。"
+    "hint": "数量是：计划；打算。",
+    "rawPos": "数词"
   },
   {
     "id": "high-1529",
@@ -39557,7 +40476,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a organise.",
     "sentence": "This is a ___.",
-    "hint": "这是：组织。"
+    "hint": "这是：组织。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1530",
@@ -39570,7 +40490,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a police.",
     "sentence": "This is a ___.",
-    "hint": "这是：警方；警察部门。"
+    "hint": "这是：警方；警察部门。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1531",
@@ -39583,7 +40504,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a doctor.",
     "sentence": "This is a ___.",
-    "hint": "这是：医生。"
+    "hint": "这是：医生。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1532",
@@ -39596,7 +40518,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is quick.",
     "sentence": "It is ___.",
-    "hint": "它是：迅速的，快的。"
+    "hint": "它是：迅速的，快的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1533",
@@ -39609,7 +40532,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a imagine.",
     "sentence": "This is a ___.",
-    "hint": "这是：想象；设想。"
+    "hint": "这是：想象；设想。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1534",
@@ -39622,7 +40546,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cover.",
     "sentence": "This is a ___.",
-    "hint": "这是：遮盖；覆盖。"
+    "hint": "这是：遮盖；覆盖。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1535",
@@ -39635,7 +40560,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a account.",
     "sentence": "This is a ___.",
-    "hint": "这是：账目。"
+    "hint": "这是：账目。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1536",
@@ -39648,7 +40574,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is economic.",
     "sentence": "It is ___.",
-    "hint": "它是：经济的。"
+    "hint": "它是：经济的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1537",
@@ -39661,7 +40588,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a department.",
     "sentence": "This is a ___.",
-    "hint": "这是：部门。"
+    "hint": "这是：部门。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1538",
@@ -39674,7 +40602,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a section.",
     "sentence": "This is a ___.",
-    "hint": "这是：部分。"
+    "hint": "这是：部分。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1539",
@@ -39687,7 +40616,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a theory.",
     "sentence": "This is a ___.",
-    "hint": "这是：理论；学说。"
+    "hint": "这是：理论；学说。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1540",
@@ -39700,7 +40630,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a line.",
     "sentence": "This is a ___.",
-    "hint": "这是：线。"
+    "hint": "这是：线。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1541",
@@ -39713,7 +40644,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can finish.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：完成；做好。"
+    "hint": "我会/可以：完成；做好。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1542",
@@ -39726,7 +40658,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a advantage.",
     "sentence": "This is a ___.",
-    "hint": "这是：优点；有利条件。"
+    "hint": "这是：优点；有利条件。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1543",
@@ -39739,7 +40672,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is wonderful.",
     "sentence": "It is ___.",
-    "hint": "它是：极好的；了不起的。"
+    "hint": "它是：极好的；了不起的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1544",
@@ -39752,7 +40686,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a agree.",
     "sentence": "This is a ___.",
-    "hint": "这是：同意。"
+    "hint": "这是：同意。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1545",
@@ -39765,7 +40700,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is survival.",
     "sentence": "It is ___.",
-    "hint": "它是：生存；存活；幸存。"
+    "hint": "它是：生存；存活；幸存。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1546",
@@ -39778,7 +40714,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a guest.",
     "sentence": "This is a ___.",
-    "hint": "这是：客人。"
+    "hint": "这是：客人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1547",
@@ -39791,7 +40728,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a host.",
     "sentence": "This is a ___.",
-    "hint": "这是：主人；东道主。"
+    "hint": "这是：主人；东道主。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1548",
@@ -39804,7 +40742,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cleaner.",
     "sentence": "This is a ___.",
-    "hint": "这是：清洁工。"
+    "hint": "这是：清洁工。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1549",
@@ -39817,7 +40756,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fear.",
     "sentence": "This is a ___.",
-    "hint": "这是：害怕。"
+    "hint": "这是：害怕。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1550",
@@ -39830,7 +40770,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a owner.",
     "sentence": "This is a ___.",
-    "hint": "这是：物主；主人。"
+    "hint": "这是：物主；主人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1551",
@@ -39843,7 +40784,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a habit.",
     "sentence": "This is a ___.",
-    "hint": "这是：习惯。"
+    "hint": "这是：习惯。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1552",
@@ -39856,7 +40798,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a above.",
     "sentence": "This is a ___.",
-    "hint": "这是：在（或向）……上面。"
+    "hint": "这是：在（或向）……上面。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1553",
@@ -39869,7 +40812,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a perhaps.",
     "sentence": "This is a ___.",
-    "hint": "这是：可能；大概；也许。"
+    "hint": "这是：可能；大概；也许。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1554",
@@ -39882,7 +40826,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs recently.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：不久前，最近。"
+    "hint": "这里需要表示：不久前，最近。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1555",
@@ -39895,7 +40840,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a disease.",
     "sentence": "This is a ___.",
-    "hint": "这是：病；疾病。"
+    "hint": "这是：病；疾病。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1556",
@@ -39908,7 +40854,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is hospital.",
     "sentence": "It is ___.",
-    "hint": "它是：医院。"
+    "hint": "它是：医院。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1557",
@@ -39921,7 +40868,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bank.",
     "sentence": "This is a ___.",
-    "hint": "这是：银行。"
+    "hint": "这是：银行。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1558",
@@ -39934,7 +40882,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pound.",
     "sentence": "This is a ___.",
-    "hint": "这是：英镑。"
+    "hint": "这是：英镑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1559",
@@ -39947,7 +40896,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is regular.",
     "sentence": "It is ___.",
-    "hint": "它是：定期的，有规律的。"
+    "hint": "它是：定期的，有规律的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1560",
@@ -39960,7 +40910,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is successful.",
     "sentence": "It is ___.",
-    "hint": "它是：获得成功的；有成就的。"
+    "hint": "它是：获得成功的；有成就的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1561",
@@ -39973,7 +40924,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pollution.",
     "sentence": "This is a ___.",
-    "hint": "这是：污染；污染物。"
+    "hint": "这是：污染；污染物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1562",
@@ -39986,7 +40938,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a traffic.",
     "sentence": "This is a ___.",
-    "hint": "这是：交通。"
+    "hint": "这是：交通。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1563",
@@ -39999,7 +40952,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have weight books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：体重；重量。"
+    "hint": "数量是：体重；重量。",
+    "rawPos": "数词"
   },
   {
     "id": "high-1564",
@@ -40012,7 +40966,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pack.",
     "sentence": "This is a ___.",
-    "hint": "这是：收拾（行李）。"
+    "hint": "这是：收拾（行李）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1565",
@@ -40025,7 +40980,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a standard.",
     "sentence": "This is a ___.",
-    "hint": "这是：标准；水平。"
+    "hint": "这是：标准；水平。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1566",
@@ -40038,7 +40994,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a spring.",
     "sentence": "This is a ___.",
-    "hint": "这是：春天。"
+    "hint": "这是：春天。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1567",
@@ -40051,7 +41008,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a publish.",
     "sentence": "This is a ___.",
-    "hint": "这是：出版。"
+    "hint": "这是：出版。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1568",
@@ -40064,7 +41022,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a throw.",
     "sentence": "This is a ___.",
-    "hint": "这是：扔；抛。"
+    "hint": "这是：扔；抛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1569",
@@ -40077,7 +41036,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a beat.",
     "sentence": "This is a ___.",
-    "hint": "这是：敲打；打败。"
+    "hint": "这是：敲打；打败。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1570",
@@ -40090,7 +41050,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a function.",
     "sentence": "This is a ___.",
-    "hint": "这是：作用，功能，职能。"
+    "hint": "这是：作用，功能，职能。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1571",
@@ -40103,7 +41064,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a date.",
     "sentence": "This is a ___.",
-    "hint": "这是：日期，日子。"
+    "hint": "这是：日期，日子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1572",
@@ -40116,7 +41078,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have alone books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：独自。"
+    "hint": "数量是：独自。",
+    "rawPos": "数词"
   },
   {
     "id": "high-1573",
@@ -40129,7 +41092,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a express.",
     "sentence": "This is a ___.",
-    "hint": "这是：表示；表达。"
+    "hint": "这是：表示；表达。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1574",
@@ -40142,7 +41106,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can adapt.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使适应；改编。"
+    "hint": "我会/可以：使适应；改编。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1575",
@@ -40155,7 +41120,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have stone books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：石头。"
+    "hint": "数量是：石头。",
+    "rawPos": "数词"
   },
   {
     "id": "high-1576",
@@ -40168,7 +41134,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a grade.",
     "sentence": "This is a ___.",
-    "hint": "这是：年级。"
+    "hint": "这是：年级。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1577",
@@ -40181,7 +41148,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a warn.",
     "sentence": "This is a ___.",
-    "hint": "这是：警告；告诫。"
+    "hint": "这是：警告；告诫。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1578",
@@ -40194,7 +41162,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a village.",
     "sentence": "This is a ___.",
-    "hint": "这是：村庄；村镇。"
+    "hint": "这是：村庄；村镇。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1579",
@@ -40207,7 +41176,8 @@ window.VOCABULARY = [
     "category": "交通旅行",
     "example": "This is a neighbourhood.",
     "sentence": "This is a ___.",
-    "hint": "这是：街坊；附近。"
+    "hint": "这是：街坊；附近。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1580",
@@ -40220,7 +41190,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a organisation.",
     "sentence": "This is a ___.",
-    "hint": "这是：组织。"
+    "hint": "这是：组织。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1581",
@@ -40233,7 +41204,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is unique.",
     "sentence": "It is ___.",
-    "hint": "它是：独特的。"
+    "hint": "它是：独特的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1582",
@@ -40246,7 +41218,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pleasure.",
     "sentence": "This is a ___.",
-    "hint": "这是：快乐。"
+    "hint": "这是：快乐。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1583",
@@ -40259,7 +41232,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a loss.",
     "sentence": "This is a ___.",
-    "hint": "这是：丧失；损失；丢失。"
+    "hint": "这是：丧失；损失；丢失。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1584",
@@ -40272,7 +41246,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sale.",
     "sentence": "This is a ___.",
-    "hint": "这是：特价销售；大减价。"
+    "hint": "这是：特价销售；大减价。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1585",
@@ -40285,7 +41260,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is various.",
     "sentence": "It is ___.",
-    "hint": "它是：各种各样的；多姿多彩的。"
+    "hint": "它是：各种各样的；多姿多彩的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1586",
@@ -40298,7 +41274,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a motivation.",
     "sentence": "This is a ___.",
-    "hint": "这是：动力；激发积极性。"
+    "hint": "这是：动力；激发积极性。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1587",
@@ -40311,7 +41288,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs reply.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：回答，答复。"
+    "hint": "这里需要表示：回答，答复。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1588",
@@ -40324,7 +41302,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a object.",
     "sentence": "This is a ___.",
-    "hint": "这是：物体；物品。"
+    "hint": "这是：物体；物品。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1589",
@@ -40337,7 +41316,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a search.",
     "sentence": "This is a ___.",
-    "hint": "这是：查找；寻找。"
+    "hint": "这是：查找；寻找。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1590",
@@ -40350,7 +41330,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a phrase.",
     "sentence": "This is a ___.",
-    "hint": "这是：短语，词组。"
+    "hint": "这是：短语，词组。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1591",
@@ -40363,7 +41344,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is complex.",
     "sentence": "It is ___.",
-    "hint": "它是：复杂的。"
+    "hint": "它是：复杂的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1592",
@@ -40376,7 +41358,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ready.",
     "sentence": "This is a ___.",
-    "hint": "这是：准备好。"
+    "hint": "这是：准备好。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1593",
@@ -40389,7 +41372,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "It is expensive.",
     "sentence": "It is ___.",
-    "hint": "它是：昂贵的；花钱多的。"
+    "hint": "它是：昂贵的；花钱多的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1594",
@@ -40402,7 +41386,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a growth.",
     "sentence": "This is a ___.",
-    "hint": "这是：成长。"
+    "hint": "这是：成长。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1595",
@@ -40415,7 +41400,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a decade.",
     "sentence": "This is a ___.",
-    "hint": "这是：十年。"
+    "hint": "这是：十年。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1596",
@@ -40428,7 +41414,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bee.",
     "sentence": "This is a ___.",
-    "hint": "这是：蜜蜂。"
+    "hint": "这是：蜜蜂。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1597",
@@ -40441,7 +41428,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a language.",
     "sentence": "This is a ___.",
-    "hint": "这是：语言。"
+    "hint": "这是：语言。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1598",
@@ -40454,7 +41442,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tool.",
     "sentence": "This is a ___.",
-    "hint": "这是：工具。"
+    "hint": "这是：工具。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1599",
@@ -40467,7 +41456,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is medal.",
     "sentence": "It is ___.",
-    "hint": "它是：奖牌；勋章。"
+    "hint": "它是：奖牌；勋章。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1600",
@@ -40480,7 +41470,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a bit.",
     "sentence": "This is a ___.",
-    "hint": "这是：一点；小块。"
+    "hint": "这是：一点；小块。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1601",
@@ -40493,7 +41484,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a remove.",
     "sentence": "This is a ___.",
-    "hint": "这是：去除。"
+    "hint": "这是：去除。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1602",
@@ -40506,7 +41498,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a thousand.",
     "sentence": "This is a ___.",
-    "hint": "这是：一千。"
+    "hint": "这是：一千。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1603",
@@ -40519,7 +41512,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a career.",
     "sentence": "This is a ___.",
-    "hint": "这是：事业。"
+    "hint": "这是：事业。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1604",
@@ -40532,7 +41526,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a observe.",
     "sentence": "This is a ___.",
-    "hint": "这是：观察，观测。"
+    "hint": "这是：观察，观测。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1605",
@@ -40545,7 +41540,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a letter.",
     "sentence": "This is a ___.",
-    "hint": "这是：信。"
+    "hint": "这是：信。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1606",
@@ -40558,7 +41554,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a consumer.",
     "sentence": "This is a ___.",
-    "hint": "这是：消费者。"
+    "hint": "这是：消费者。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1607",
@@ -40571,7 +41568,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can demand.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：需要。"
+    "hint": "我会/可以：需要。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1608",
@@ -40584,7 +41582,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a difficulty.",
     "sentence": "This is a ___.",
-    "hint": "这是：困难；难题。"
+    "hint": "这是：困难；难题。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1609",
@@ -40597,7 +41596,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fur.",
     "sentence": "This is a ___.",
-    "hint": "这是：毛皮。"
+    "hint": "这是：毛皮。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1610",
@@ -40610,7 +41610,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a adventure.",
     "sentence": "This is a ___.",
-    "hint": "这是：冒险（经历）。"
+    "hint": "这是：冒险（经历）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1611",
@@ -40623,7 +41624,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a competition.",
     "sentence": "This is a ___.",
-    "hint": "这是：竞赛。"
+    "hint": "这是：竞赛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1612",
@@ -40636,7 +41638,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a coach.",
     "sentence": "This is a ___.",
-    "hint": "这是：教练。"
+    "hint": "这是：教练。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1613",
@@ -40649,7 +41652,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a doubt.",
     "sentence": "This is a ___.",
-    "hint": "这是：疑惑；疑问。"
+    "hint": "这是：疑惑；疑问。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1614",
@@ -40662,7 +41666,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a shape.",
     "sentence": "This is a ___.",
-    "hint": "这是：形状。"
+    "hint": "这是：形状。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1615",
@@ -40675,7 +41680,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I like apples although bananas.",
     "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：虽然；尽管；即使。"
+    "hint": "选择连接词：虽然；尽管；即使。",
+    "rawPos": "连词"
   },
   {
     "id": "high-1616",
@@ -40688,7 +41694,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is inside the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：往……的里面。"
+    "hint": "书的位置：往……的里面。",
+    "rawPos": "介词"
   },
   {
     "id": "high-1617",
@@ -40701,7 +41708,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a web.",
     "sentence": "This is a ___.",
-    "hint": "这是：网络。"
+    "hint": "这是：网络。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1618",
@@ -40714,7 +41722,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can user.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使用者；用户。"
+    "hint": "我会/可以：使用者；用户。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1619",
@@ -40727,7 +41736,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can relate.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使有联系。"
+    "hint": "我会/可以：使有联系。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1620",
@@ -40740,7 +41750,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a vacation.",
     "sentence": "This is a ___.",
-    "hint": "这是：假期。"
+    "hint": "这是：假期。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1621",
@@ -40753,7 +41764,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a classmate.",
     "sentence": "This is a ___.",
-    "hint": "这是：同班同学。"
+    "hint": "这是：同班同学。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1622",
@@ -40766,7 +41778,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a evidence.",
     "sentence": "This is a ___.",
-    "hint": "这是：证据。"
+    "hint": "这是：证据。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1623",
@@ -40779,7 +41792,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is unless.",
     "sentence": "It is ___.",
-    "hint": "它是：除非；如果不。"
+    "hint": "它是：除非；如果不。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1624",
@@ -40792,7 +41806,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a request.",
     "sentence": "This is a ___.",
-    "hint": "这是：要求；请求。"
+    "hint": "这是：要求；请求。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1625",
@@ -40805,7 +41820,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can wish.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：希望；祝愿。"
+    "hint": "我会/可以：希望；祝愿。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1626",
@@ -40818,7 +41834,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a maybe.",
     "sentence": "This is a ___.",
-    "hint": "这是：也许。"
+    "hint": "这是：也许。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1627",
@@ -40831,7 +41848,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a window.",
     "sentence": "This is a ___.",
-    "hint": "这是：窗户。"
+    "hint": "这是：窗户。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1628",
@@ -40844,7 +41862,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can push.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：推。"
+    "hint": "我会/可以：推。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1629",
@@ -40857,7 +41876,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a south.",
     "sentence": "This is a ___.",
-    "hint": "这是：南。"
+    "hint": "这是：南。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1630",
@@ -40870,7 +41890,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a magazine.",
     "sentence": "This is a ___.",
-    "hint": "这是：杂志。"
+    "hint": "这是：杂志。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1631",
@@ -40883,7 +41904,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a uniform.",
     "sentence": "This is a ___.",
-    "hint": "这是：制服。"
+    "hint": "这是：制服。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1632",
@@ -40896,7 +41918,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is suitable.",
     "sentence": "It is ___.",
-    "hint": "它是：合适的，适宜的。"
+    "hint": "它是：合适的，适宜的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1633",
@@ -40909,7 +41932,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a brother.",
     "sentence": "This is a ___.",
-    "hint": "这是：兄；弟。"
+    "hint": "这是：兄；弟。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1634",
@@ -40922,7 +41946,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a moon.",
     "sentence": "This is a ___.",
-    "hint": "这是：月亮。"
+    "hint": "这是：月亮。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1635",
@@ -40935,7 +41960,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a himself.",
     "sentence": "This is a ___.",
-    "hint": "这是：他自己。"
+    "hint": "这是：他自己。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1636",
@@ -40948,7 +41974,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a production.",
     "sentence": "This is a ___.",
-    "hint": "这是：生产,制造。"
+    "hint": "这是：生产,制造。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1637",
@@ -40961,7 +41988,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a employee.",
     "sentence": "This is a ___.",
-    "hint": "这是：雇员。"
+    "hint": "这是：雇员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1638",
@@ -40974,7 +42002,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a o'clock.",
     "sentence": "This is a ___.",
-    "hint": "这是：（表示整点）……点钟。"
+    "hint": "这是：（表示整点）……点钟。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1639",
@@ -40987,7 +42016,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a president.",
     "sentence": "This is a ___.",
-    "hint": "这是：总统。"
+    "hint": "这是：总统。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1640",
@@ -41000,7 +42030,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is probable.",
     "sentence": "It is ___.",
-    "hint": "它是：可能的。"
+    "hint": "它是：可能的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1641",
@@ -41013,7 +42044,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a actor.",
     "sentence": "This is a ___.",
-    "hint": "这是：演员。"
+    "hint": "这是：演员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1642",
@@ -41026,7 +42058,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a participant.",
     "sentence": "This is a ___.",
-    "hint": "这是：参与者。"
+    "hint": "这是：参与者。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1643",
@@ -41039,7 +42072,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a community.",
     "sentence": "This is a ___.",
-    "hint": "这是：社区。"
+    "hint": "这是：社区。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1644",
@@ -41052,7 +42086,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a rock.",
     "sentence": "This is a ___.",
-    "hint": "这是：摇滚。"
+    "hint": "这是：摇滚。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1645",
@@ -41065,7 +42100,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a promise.",
     "sentence": "This is a ___.",
-    "hint": "这是：承诺；诺言。"
+    "hint": "这是：承诺；诺言。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1646",
@@ -41078,7 +42114,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is individual.",
     "sentence": "It is ___.",
-    "hint": "它是：个人。"
+    "hint": "它是：个人。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1647",
@@ -41091,7 +42128,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a river.",
     "sentence": "This is a ___.",
-    "hint": "这是：河；江。"
+    "hint": "这是：河；江。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1648",
@@ -41104,7 +42142,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a rating.",
     "sentence": "This is a ___.",
-    "hint": "这是：评级，等级。"
+    "hint": "这是：评级，等级。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1649",
@@ -41117,7 +42156,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a gold.",
     "sentence": "This is a ___.",
-    "hint": "这是：金子。"
+    "hint": "这是：金子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1650",
@@ -41130,7 +42170,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can satisfy.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使满意；使满足。"
+    "hint": "我会/可以：使满意；使满足。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1651",
@@ -41143,7 +42184,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a number.",
     "sentence": "This is a ___.",
-    "hint": "这是：数字。"
+    "hint": "这是：数字。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1652",
@@ -41156,7 +42198,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a attack.",
     "sentence": "This is a ___.",
-    "hint": "这是：袭击；损害。"
+    "hint": "这是：袭击；损害。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1653",
@@ -41169,7 +42212,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is confused.",
     "sentence": "It is ___.",
-    "hint": "它是：困惑的。"
+    "hint": "它是：困惑的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1654",
@@ -41182,7 +42226,8 @@ window.VOCABULARY = [
     "category": "交通旅行",
     "example": "This is a block.",
     "sentence": "This is a ___.",
-    "hint": "这是：街区。"
+    "hint": "这是：街区。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1655",
@@ -41195,7 +42240,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a path.",
     "sentence": "This is a ___.",
-    "hint": "这是：小路；小径。"
+    "hint": "这是：小路；小径。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1656",
@@ -41208,7 +42254,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is active.",
     "sentence": "It is ___.",
-    "hint": "它是：积极的；活跃的。"
+    "hint": "它是：积极的；活跃的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1657",
@@ -41221,7 +42268,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is specific.",
     "sentence": "It is ___.",
-    "hint": "它是：具体的。"
+    "hint": "它是：具体的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1658",
@@ -41234,7 +42282,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a birthday.",
     "sentence": "This is a ___.",
-    "hint": "这是：生日。"
+    "hint": "这是：生日。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1659",
@@ -41247,7 +42296,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a roll.",
     "sentence": "This is a ___.",
-    "hint": "这是：摇摆。"
+    "hint": "这是：摇摆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1660",
@@ -41260,7 +42310,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a winter.",
     "sentence": "This is a ___.",
-    "hint": "这是：冬天。"
+    "hint": "这是：冬天。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1661",
@@ -41273,7 +42324,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is wild.",
     "sentence": "It is ___.",
-    "hint": "它是：野生环境；野生的。"
+    "hint": "它是：野生环境；野生的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1662",
@@ -41286,7 +42338,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a hill.",
     "sentence": "This is a ___.",
-    "hint": "这是：山丘；小山。"
+    "hint": "这是：山丘；小山。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1663",
@@ -41299,7 +42352,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a chicken.",
     "sentence": "This is a ___.",
-    "hint": "这是：鸡肉。"
+    "hint": "这是：鸡肉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1664",
@@ -41312,7 +42366,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a treat.",
     "sentence": "This is a ___.",
-    "hint": "这是：招待。"
+    "hint": "这是：招待。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1665",
@@ -41325,7 +42380,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a lecture.",
     "sentence": "This is a ___.",
-    "hint": "这是：演讲。"
+    "hint": "这是：演讲。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1666",
@@ -41338,7 +42394,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a upon.",
     "sentence": "This is a ___.",
-    "hint": "这是：在……上面。"
+    "hint": "这是：在……上面。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1667",
@@ -41351,7 +42408,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is wide.",
     "sentence": "It is ___.",
-    "hint": "它是：宽阔的。"
+    "hint": "它是：宽阔的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1668",
@@ -41364,7 +42422,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a disaster.",
     "sentence": "This is a ___.",
-    "hint": "这是：灾难；不幸，祸患。"
+    "hint": "这是：灾难；不幸，祸患。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1669",
@@ -41377,7 +42436,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is potential.",
     "sentence": "It is ___.",
-    "hint": "它是：潜在的。"
+    "hint": "它是：潜在的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1670",
@@ -41390,7 +42450,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can jump.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：跳。"
+    "hint": "我会/可以：跳。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1671",
@@ -41403,7 +42464,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a annoy.",
     "sentence": "This is a ___.",
-    "hint": "这是：惹恼。"
+    "hint": "这是：惹恼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1672",
@@ -41416,7 +42478,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is aim.",
     "sentence": "It is ___.",
-    "hint": "它是：目的，目标。"
+    "hint": "它是：目的，目标。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1673",
@@ -41429,7 +42492,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a possibility.",
     "sentence": "This is a ___.",
-    "hint": "这是：机会，契机；可能（性）。"
+    "hint": "这是：机会，契机；可能（性）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1674",
@@ -41442,7 +42506,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is valuable.",
     "sentence": "It is ___.",
-    "hint": "它是：贵重的；很有用的；宝贵的。"
+    "hint": "它是：贵重的；很有用的；宝贵的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1675",
@@ -41455,7 +42520,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a shoe.",
     "sentence": "This is a ___.",
-    "hint": "这是：鞋。"
+    "hint": "这是：鞋。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1676",
@@ -41468,7 +42534,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a deliver.",
     "sentence": "This is a ___.",
-    "hint": "这是：传送。"
+    "hint": "这是：传送。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1677",
@@ -41481,7 +42548,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is movement.",
     "sentence": "It is ___.",
-    "hint": "它是：动作；（交响乐的）乐章。"
+    "hint": "它是：动作；（交响乐的）乐章。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1678",
@@ -41494,7 +42562,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a director.",
     "sentence": "This is a ___.",
-    "hint": "这是：导演；部门负责人。"
+    "hint": "这是：导演；部门负责人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1679",
@@ -41507,7 +42576,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a regard.",
     "sentence": "This is a ___.",
-    "hint": "这是：将……认为；把……视为；看待。"
+    "hint": "这是：将……认为；把……视为；看待。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1680",
@@ -41520,7 +42590,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a couple.",
     "sentence": "This is a ___.",
-    "hint": "这是：(尤指)夫妻;两人；两件事物。"
+    "hint": "这是：(尤指)夫妻;两人；两件事物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1681",
@@ -41533,7 +42604,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is single.",
     "sentence": "It is ___.",
-    "hint": "它是：单一的；单独的。"
+    "hint": "它是：单一的；单独的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1682",
@@ -41546,7 +42618,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a throughout.",
     "sentence": "This is a ___.",
-    "hint": "这是：遍及；贯穿。"
+    "hint": "这是：遍及；贯穿。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1683",
@@ -41559,7 +42632,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a airport.",
     "sentence": "This is a ___.",
-    "hint": "这是：机场。"
+    "hint": "这是：机场。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1684",
@@ -41572,7 +42646,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a transport.",
     "sentence": "This is a ___.",
-    "hint": "这是：运输业；交通。"
+    "hint": "这是：运输业；交通。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1685",
@@ -41585,7 +42660,8 @@ window.VOCABULARY = [
     "category": "交通旅行",
     "example": "This is a bicycle.",
     "sentence": "This is a ___.",
-    "hint": "这是：自行车。"
+    "hint": "这是：自行车。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1686",
@@ -41598,7 +42674,8 @@ window.VOCABULARY = [
     "category": "交通旅行",
     "example": "This is a cycle.",
     "sentence": "This is a ___.",
-    "hint": "这是：骑自行车。"
+    "hint": "这是：骑自行车。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1687",
@@ -41611,7 +42688,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fix.",
     "sentence": "This is a ___.",
-    "hint": "这是：修理。"
+    "hint": "这是：修理。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1688",
@@ -41624,7 +42702,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a basketball.",
     "sentence": "This is a ___.",
-    "hint": "这是：篮球。"
+    "hint": "这是：篮球。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1689",
@@ -41637,7 +42716,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is willing.",
     "sentence": "It is ___.",
-    "hint": "它是：愿意的，心甘情愿的。"
+    "hint": "它是：愿意的，心甘情愿的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1690",
@@ -41650,7 +42730,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a significant.",
     "sentence": "This is a ___.",
-    "hint": "这是：重要性,意义。"
+    "hint": "这是：重要性,意义。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1691",
@@ -41663,7 +42744,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sister.",
     "sentence": "This is a ___.",
-    "hint": "这是：姐；妹。"
+    "hint": "这是：姐；妹。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1692",
@@ -41676,7 +42758,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a degree.",
     "sentence": "This is a ___.",
-    "hint": "这是：度；度数。"
+    "hint": "这是：度；度数。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1693",
@@ -41689,7 +42772,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wave.",
     "sentence": "This is a ___.",
-    "hint": "这是：挥手。"
+    "hint": "这是：挥手。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1694",
@@ -41702,7 +42786,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is curious.",
     "sentence": "It is ___.",
-    "hint": "它是：好奇的。"
+    "hint": "它是：好奇的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1695",
@@ -41715,7 +42800,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is hot.",
     "sentence": "It is ___.",
-    "hint": "它是：热的；烫的。"
+    "hint": "它是：热的；烫的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1696",
@@ -41728,7 +42814,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is anxious.",
     "sentence": "It is ___.",
-    "hint": "它是：焦虑的。"
+    "hint": "它是：焦虑的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1697",
@@ -41741,7 +42828,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a crowd.",
     "sentence": "This is a ___.",
-    "hint": "这是：人群。"
+    "hint": "这是：人群。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1698",
@@ -41754,7 +42842,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a appreciate.",
     "sentence": "This is a ___.",
-    "hint": "这是：感激；感谢。"
+    "hint": "这是：感激；感谢。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1699",
@@ -41767,7 +42856,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is huge.",
     "sentence": "It is ___.",
-    "hint": "它是：巨大的；极多的。"
+    "hint": "它是：巨大的；极多的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1700",
@@ -41780,7 +42870,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a card.",
     "sentence": "This is a ___.",
-    "hint": "这是：贺卡；明信片。"
+    "hint": "这是：贺卡；明信片。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1701",
@@ -41793,7 +42884,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a discovery.",
     "sentence": "This is a ___.",
-    "hint": "这是：发现；发觉。"
+    "hint": "这是：发现；发觉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1702",
@@ -41806,7 +42898,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a gallery.",
     "sentence": "This is a ___.",
-    "hint": "这是：画廊，美术馆。"
+    "hint": "这是：画廊，美术馆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1703",
@@ -41819,7 +42912,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a point.",
     "sentence": "This is a ___.",
-    "hint": "这是：指；指向。"
+    "hint": "这是：指；指向。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1704",
@@ -41832,7 +42926,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a responsibility.",
     "sentence": "This is a ___.",
-    "hint": "这是：责任。"
+    "hint": "这是：责任。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1705",
@@ -41845,7 +42940,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a advise.",
     "sentence": "This is a ___.",
-    "hint": "这是：劝告；建议。"
+    "hint": "这是：劝告；建议。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1706",
@@ -41858,7 +42954,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs simply.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：仅仅；只；不过。"
+    "hint": "这里需要表示：仅仅；只；不过。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1707",
@@ -41871,7 +42968,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a mark.",
     "sentence": "This is a ___.",
-    "hint": "这是：分数。"
+    "hint": "这是：分数。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1708",
@@ -41884,7 +42982,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a importance.",
     "sentence": "This is a ___.",
-    "hint": "这是：重要性；重要。"
+    "hint": "这是：重要性；重要。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1709",
@@ -41897,7 +42996,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a machine.",
     "sentence": "This is a ___.",
-    "hint": "这是：机器。"
+    "hint": "这是：机器。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1710",
@@ -41910,7 +43010,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wrong.",
     "sentence": "This is a ___.",
-    "hint": "这是：有毛病。"
+    "hint": "这是：有毛病。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1711",
@@ -41923,7 +43024,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is comfortable.",
     "sentence": "It is ___.",
-    "hint": "它是：舒服的。"
+    "hint": "它是：舒服的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1712",
@@ -41936,7 +43038,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs hardly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：几乎不。"
+    "hint": "这里需要表示：几乎不。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1713",
@@ -41949,7 +43052,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dollar.",
     "sentence": "This is a ___.",
-    "hint": "这是：元。"
+    "hint": "这是：元。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1714",
@@ -41962,7 +43066,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a song.",
     "sentence": "This is a ___.",
-    "hint": "这是：歌曲。"
+    "hint": "这是：歌曲。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1715",
@@ -41975,7 +43080,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a lake.",
     "sentence": "This is a ___.",
-    "hint": "这是：湖；湖泊。"
+    "hint": "这是：湖；湖泊。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1716",
@@ -41988,7 +43094,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a round.",
     "sentence": "This is a ___.",
-    "hint": "这是：围绕着。"
+    "hint": "这是：围绕着。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1717",
@@ -42001,7 +43108,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a football.",
     "sentence": "This is a ___.",
-    "hint": "这是：足球运动员。"
+    "hint": "这是：足球运动员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1718",
@@ -42014,7 +43122,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is powerful.",
     "sentence": "It is ___.",
-    "hint": "它是：强有力的；力量大的。"
+    "hint": "它是：强有力的；力量大的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1719",
@@ -42027,7 +43136,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pattern.",
     "sentence": "This is a ___.",
-    "hint": "这是：模式；方式。"
+    "hint": "这是：模式；方式。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1720",
@@ -42040,7 +43150,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ahead.",
     "sentence": "This is a ___.",
-    "hint": "这是：向前。"
+    "hint": "这是：向前。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1721",
@@ -42053,7 +43164,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a balance.",
     "sentence": "This is a ___.",
-    "hint": "这是：平衡；平稳。"
+    "hint": "这是：平衡；平稳。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1722",
@@ -42066,7 +43178,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a forward.",
     "sentence": "This is a ___.",
-    "hint": "这是：转寄；发送。"
+    "hint": "这是：转寄；发送。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1723",
@@ -42079,7 +43192,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cup.",
     "sentence": "This is a ___.",
-    "hint": "这是：杯。"
+    "hint": "这是：杯。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1724",
@@ -42092,7 +43206,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a surface.",
     "sentence": "This is a ___.",
-    "hint": "这是：表面；表层。"
+    "hint": "这是：表面；表层。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1725",
@@ -42105,7 +43220,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is heavy.",
     "sentence": "It is ___.",
-    "hint": "它是：大的；重的。"
+    "hint": "它是：大的；重的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1726",
@@ -42118,7 +43234,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is teenager.",
     "sentence": "It is ___.",
-    "hint": "它是：(13—19岁的)青少年。"
+    "hint": "它是：(13—19岁的)青少年。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1727",
@@ -42131,7 +43248,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a master.",
     "sentence": "This is a ___.",
-    "hint": "这是：师父；主人。"
+    "hint": "这是：师父；主人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1728",
@@ -42144,7 +43262,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a kitchen.",
     "sentence": "This is a ___.",
-    "hint": "这是：厨房。"
+    "hint": "这是：厨房。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1729",
@@ -42157,7 +43276,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a charge.",
     "sentence": "This is a ___.",
-    "hint": "这是：主管；掌管。"
+    "hint": "这是：主管；掌管。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1730",
@@ -42170,7 +43290,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is private.",
     "sentence": "It is ___.",
-    "hint": "它是：私人的。"
+    "hint": "它是：私人的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1731",
@@ -42183,7 +43304,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is sharp.",
     "sentence": "It is ___.",
-    "hint": "它是：锋利的。"
+    "hint": "它是：锋利的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1732",
@@ -42196,7 +43318,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a prize.",
     "sentence": "This is a ___.",
-    "hint": "这是：奖（品）。"
+    "hint": "这是：奖（品）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1733",
@@ -42209,7 +43332,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is official.",
     "sentence": "It is ___.",
-    "hint": "它是：裁判。"
+    "hint": "它是：裁判。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1734",
@@ -42222,7 +43346,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a handle.",
     "sentence": "This is a ___.",
-    "hint": "这是：柄,把手。"
+    "hint": "这是：柄,把手。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1735",
@@ -42235,7 +43360,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a board.",
     "sentence": "This is a ___.",
-    "hint": "这是：布告牌；木板。"
+    "hint": "这是：布告牌；木板。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1736",
@@ -42248,7 +43374,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a strength.",
     "sentence": "This is a ___.",
-    "hint": "这是：长处；力量。"
+    "hint": "这是：长处；力量。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1737",
@@ -42261,7 +43388,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a speech.",
     "sentence": "This is a ___.",
-    "hint": "这是：演说；讲演。"
+    "hint": "这是：演说；讲演。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1738",
@@ -42274,7 +43402,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a oil.",
     "sentence": "This is a ___.",
-    "hint": "这是：油。"
+    "hint": "这是：油。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1739",
@@ -42287,7 +43416,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cry.",
     "sentence": "This is a ___.",
-    "hint": "这是：哭。"
+    "hint": "这是：哭。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1740",
@@ -42300,7 +43430,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a rush.",
     "sentence": "This is a ___.",
-    "hint": "这是：仓促；急促。"
+    "hint": "这是：仓促；急促。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1741",
@@ -42313,7 +43444,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a mix.",
     "sentence": "This is a ___.",
-    "hint": "这是：混合。"
+    "hint": "这是：混合。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1742",
@@ -42326,7 +43458,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can staff.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：工作人员，全体职员；五线谱。"
+    "hint": "我会/可以：工作人员，全体职员；五线谱。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1743",
@@ -42339,7 +43472,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a disappear.",
     "sentence": "This is a ___.",
-    "hint": "这是：消失。"
+    "hint": "这是：消失。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1744",
@@ -42352,7 +43486,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a exist.",
     "sentence": "This is a ___.",
-    "hint": "这是：存在；生存。"
+    "hint": "这是：存在；生存。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1745",
@@ -42365,7 +43500,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sea.",
     "sentence": "This is a ___.",
-    "hint": "这是：大海。"
+    "hint": "这是：大海。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1746",
@@ -42378,7 +43514,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is survive.",
     "sentence": "It is ___.",
-    "hint": "它是：生存；存活。"
+    "hint": "它是：生存；存活。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1747",
@@ -42391,7 +43528,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a associate.",
     "sentence": "This is a ___.",
-    "hint": "这是：联想到。"
+    "hint": "这是：联想到。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1748",
@@ -42404,7 +43542,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a flower.",
     "sentence": "This is a ___.",
-    "hint": "这是：花；花朵。"
+    "hint": "这是：花；花朵。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1749",
@@ -42417,7 +43556,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs extremely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：极其。"
+    "hint": "这里需要表示：极其。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1750",
@@ -42430,7 +43570,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a winner.",
     "sentence": "This is a ___.",
-    "hint": "这是：胜利者，赢家。"
+    "hint": "这是：胜利者，赢家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1751",
@@ -42443,7 +43584,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a admit.",
     "sentence": "This is a ___.",
-    "hint": "这是：承认；赞同。"
+    "hint": "这是：承认；赞同。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1752",
@@ -42456,7 +43598,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is fine.",
     "sentence": "It is ___.",
-    "hint": "它是：好的。"
+    "hint": "它是：好的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1753",
@@ -42469,7 +43612,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a taxi.",
     "sentence": "This is a ___.",
-    "hint": "这是：出租汽车。"
+    "hint": "这是：出租汽车。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1754",
@@ -42482,7 +43626,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is confident.",
     "sentence": "It is ___.",
-    "hint": "它是：有信心的。"
+    "hint": "它是：有信心的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1755",
@@ -42495,7 +43640,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can count.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：数数。"
+    "hint": "我会/可以：数数。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1756",
@@ -42508,7 +43654,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a awareness.",
     "sentence": "This is a ___.",
-    "hint": "这是：知道。"
+    "hint": "这是：知道。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1757",
@@ -42521,7 +43668,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs regularly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：有规律地， 定期地。"
+    "hint": "这里需要表示：有规律地， 定期地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1758",
@@ -42534,7 +43682,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a suit.",
     "sentence": "This is a ___.",
-    "hint": "这是：适合。"
+    "hint": "这是：适合。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1759",
@@ -42547,7 +43696,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs nearly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：差不多，将近。"
+    "hint": "这里需要表示：差不多，将近。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1760",
@@ -42560,7 +43710,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can hurt.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：（使）受伤。"
+    "hint": "我会/可以：（使）受伤。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1761",
@@ -42573,7 +43724,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a freeze.",
     "sentence": "This is a ___.",
-    "hint": "这是：冻死；冻僵；结冰。"
+    "hint": "这是：冻死；冻僵；结冰。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1762",
@@ -42586,7 +43738,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wake.",
     "sentence": "This is a ___.",
-    "hint": "这是：醒来。"
+    "hint": "这是：醒来。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1763",
@@ -42599,7 +43752,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a failure.",
     "sentence": "This is a ___.",
-    "hint": "这是：失败者。"
+    "hint": "这是：失败者。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1764",
@@ -42612,7 +43766,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a review.",
     "sentence": "This is a ___.",
-    "hint": "这是：回顾；复习。"
+    "hint": "这是：回顾；复习。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1765",
@@ -42625,7 +43780,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a site.",
     "sentence": "This is a ___.",
-    "hint": "这是：场所；网站。"
+    "hint": "这是：场所；网站。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1766",
@@ -42638,7 +43794,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a repeat.",
     "sentence": "This is a ___.",
-    "hint": "这是：重复；重做。"
+    "hint": "这是：重复；重做。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1767",
@@ -42651,7 +43808,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a addition.",
     "sentence": "This is a ___.",
-    "hint": "这是：加。"
+    "hint": "这是：加。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1768",
@@ -42664,7 +43822,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is fast.",
     "sentence": "It is ___.",
-    "hint": "它是：快的。"
+    "hint": "它是：快的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1769",
@@ -42677,7 +43836,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is quiet.",
     "sentence": "It is ___.",
-    "hint": "它是：安静的。"
+    "hint": "它是：安静的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1770",
@@ -42690,7 +43850,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is scientific.",
     "sentence": "It is ___.",
-    "hint": "它是：科学的。"
+    "hint": "它是：科学的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1771",
@@ -42703,7 +43864,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a warning.",
     "sentence": "This is a ___.",
-    "hint": "这是：警告，警示。"
+    "hint": "这是：警告，警示。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1772",
@@ -42716,7 +43878,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is calm.",
     "sentence": "It is ___.",
-    "hint": "它是：镇静的；沉着的。"
+    "hint": "它是：镇静的；沉着的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1773",
@@ -42729,7 +43892,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is intelligent.",
     "sentence": "It is ___.",
-    "hint": "它是：有才智的；聪明的。"
+    "hint": "它是：有才智的；聪明的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1774",
@@ -42742,7 +43906,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is central.",
     "sentence": "It is ___.",
-    "hint": "它是：中心的。"
+    "hint": "它是：中心的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1775",
@@ -42755,7 +43920,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a supermarket.",
     "sentence": "This is a ___.",
-    "hint": "这是：超市。"
+    "hint": "这是：超市。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1776",
@@ -42768,7 +43934,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a candy.",
     "sentence": "This is a ___.",
-    "hint": "这是：糖果。"
+    "hint": "这是：糖果。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1777",
@@ -42781,7 +43948,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs generally.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：一般地,通常。"
+    "hint": "这里需要表示：一般地,通常。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1778",
@@ -42794,7 +43962,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chat.",
     "sentence": "This is a ___.",
-    "hint": "这是：聊天。"
+    "hint": "这是：聊天。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1779",
@@ -42807,7 +43976,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is target.",
     "sentence": "It is ___.",
-    "hint": "它是：目标；(攻击的)对象。"
+    "hint": "它是：目标；(攻击的)对象。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1780",
@@ -42820,7 +43990,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a boss.",
     "sentence": "This is a ___.",
-    "hint": "这是：老板；领导。"
+    "hint": "这是：老板；领导。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1781",
@@ -42833,7 +44004,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a operation.",
     "sentence": "This is a ___.",
-    "hint": "这是：手术。"
+    "hint": "这是：手术。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1782",
@@ -42846,7 +44018,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a secret.",
     "sentence": "This is a ___.",
-    "hint": "这是：秘密。"
+    "hint": "这是：秘密。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1783",
@@ -42859,7 +44032,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "whom is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：谁（宾格）。"
+    "hint": "选择代词：谁（宾格）。",
+    "rawPos": "代词"
   },
   {
     "id": "high-1784",
@@ -42872,7 +44046,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cross.",
     "sentence": "This is a ___.",
-    "hint": "这是：横过。"
+    "hint": "这是：横过。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1785",
@@ -42885,7 +44060,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is mental.",
     "sentence": "It is ___.",
-    "hint": "它是：精神的。"
+    "hint": "它是：精神的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1786",
@@ -42898,7 +44074,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is impossible.",
     "sentence": "It is ___.",
-    "hint": "它是：不可能存在或发生的；不可能的。"
+    "hint": "它是：不可能存在或发生的；不可能的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1787",
@@ -42911,7 +44088,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a hole.",
     "sentence": "This is a ___.",
-    "hint": "这是：洞。"
+    "hint": "这是：洞。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1788",
@@ -42924,7 +44102,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is boring.",
     "sentence": "It is ___.",
-    "hint": "它是：单调的；乏味的。"
+    "hint": "它是：单调的；乏味的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1789",
@@ -42937,7 +44116,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a argument.",
     "sentence": "This is a ___.",
-    "hint": "这是：争论；争辩；争吵。"
+    "hint": "这是：争论；争辩；争吵。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1790",
@@ -42950,7 +44130,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a excuse.",
     "sentence": "This is a ___.",
-    "hint": "这是：原谅。"
+    "hint": "这是：原谅。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1791",
@@ -42963,7 +44144,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have frighten books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：惊恐。"
+    "hint": "数量是：惊恐。",
+    "rawPos": "数词"
   },
   {
     "id": "high-1792",
@@ -42976,7 +44158,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a garbage.",
     "sentence": "This is a ___.",
-    "hint": "这是：垃圾。"
+    "hint": "这是：垃圾。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1793",
@@ -42989,7 +44172,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a heat.",
     "sentence": "This is a ___.",
-    "hint": "这是：热；高温。"
+    "hint": "这是：热；高温。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1794",
@@ -43002,7 +44186,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "This is a curiosity.",
     "sentence": "This is a ___.",
-    "hint": "这是：好奇心。"
+    "hint": "这是：好奇心。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1795",
@@ -43015,7 +44200,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a image.",
     "sentence": "This is a ___.",
-    "hint": "这是：形象。"
+    "hint": "这是：形象。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1796",
@@ -43028,7 +44214,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is cultural.",
     "sentence": "It is ___.",
-    "hint": "它是：文化的。"
+    "hint": "它是：文化的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1797",
@@ -43041,7 +44228,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a evaluation.",
     "sentence": "This is a ___.",
-    "hint": "这是：评价。"
+    "hint": "这是：评价。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1798",
@@ -43054,7 +44242,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a designer.",
     "sentence": "This is a ___.",
-    "hint": "这是：设计师。"
+    "hint": "这是：设计师。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1799",
@@ -43067,7 +44256,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a reflect.",
     "sentence": "This is a ___.",
-    "hint": "这是：倒映；反思，反省。"
+    "hint": "这是：倒映；反思，反省。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1800",
@@ -43080,7 +44270,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a graduate.",
     "sentence": "This is a ___.",
-    "hint": "这是：毕业；获得学位。"
+    "hint": "这是：毕业；获得学位。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1801",
@@ -43093,7 +44284,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a press.",
     "sentence": "This is a ___.",
-    "hint": "这是：按。"
+    "hint": "这是：按。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1802",
@@ -43106,7 +44298,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can draw.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：画。"
+    "hint": "我会/可以：画。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1803",
@@ -43119,7 +44312,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a uncle.",
     "sentence": "This is a ___.",
-    "hint": "这是：舅父；叔父；伯父；姑父；姨父。"
+    "hint": "这是：舅父；叔父；伯父；姑父；姨父。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1804",
@@ -43132,7 +44326,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a ensure.",
     "sentence": "This is a ___.",
-    "hint": "这是：确保。"
+    "hint": "这是：确保。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1805",
@@ -43145,7 +44340,8 @@ window.VOCABULARY = [
     "category": "场所方位",
     "example": "It is homeless.",
     "sentence": "It is ___.",
-    "hint": "它是：无家的。"
+    "hint": "它是：无家的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1806",
@@ -43158,7 +44354,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a recycle.",
     "sentence": "This is a ___.",
-    "hint": "这是：回收利用；再利用。"
+    "hint": "这是：回收利用；再利用。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1807",
@@ -43171,7 +44368,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a progress.",
     "sentence": "This is a ___.",
-    "hint": "这是：进步；进展。"
+    "hint": "这是：进步；进展。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1808",
@@ -43184,7 +44382,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a period.",
     "sentence": "This is a ___.",
-    "hint": "这是：一段时间；时期。"
+    "hint": "这是：一段时间；时期。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1809",
@@ -43197,7 +44396,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a thus.",
     "sentence": "This is a ___.",
-    "hint": "这是：因此。"
+    "hint": "这是：因此。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1810",
@@ -43210,7 +44410,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is excellent.",
     "sentence": "It is ___.",
-    "hint": "它是：杰出的，优秀的。"
+    "hint": "它是：杰出的，优秀的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1811",
@@ -43223,7 +44424,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fair.",
     "sentence": "This is a ___.",
-    "hint": "这是：庙会。"
+    "hint": "这是：庙会。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1812",
@@ -43236,7 +44438,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a detector.",
     "sentence": "This is a ___.",
-    "hint": "这是：探测器。"
+    "hint": "这是：探测器。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1813",
@@ -43249,7 +44452,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a statement.",
     "sentence": "This is a ___.",
-    "hint": "这是：说法；陈述。"
+    "hint": "这是：说法；陈述。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1814",
@@ -43262,7 +44466,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fight.",
     "sentence": "This is a ___.",
-    "hint": "这是：打架。"
+    "hint": "这是：打架。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1815",
@@ -43275,7 +44480,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a Mrs.",
     "sentence": "This is a ___.",
-    "hint": "这是：夫人。"
+    "hint": "这是：夫人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1816",
@@ -43288,7 +44494,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can forget.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：忘记。"
+    "hint": "我会/可以：忘记。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1817",
@@ -43301,7 +44508,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is middle.",
     "sentence": "It is ___.",
-    "hint": "它是：中间的；中等的。"
+    "hint": "它是：中间的；中等的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1818",
@@ -43314,7 +44522,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a either.",
     "sentence": "This is a ___.",
-    "hint": "这是：也。"
+    "hint": "这是：也。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1819",
@@ -43327,7 +44536,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is proud.",
     "sentence": "It is ___.",
-    "hint": "它是：自豪的；骄傲的。"
+    "hint": "它是：自豪的；骄傲的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1820",
@@ -43340,7 +44550,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a joy.",
     "sentence": "This is a ___.",
-    "hint": "这是：乐趣。"
+    "hint": "这是：乐趣。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1821",
@@ -43353,7 +44564,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a homework.",
     "sentence": "This is a ___.",
-    "hint": "这是：作业。"
+    "hint": "这是：作业。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1822",
@@ -43366,7 +44578,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wall.",
     "sentence": "This is a ___.",
-    "hint": "这是：墙壁。"
+    "hint": "这是：墙壁。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1823",
@@ -43379,7 +44592,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a policy.",
     "sentence": "This is a ___.",
-    "hint": "这是：政策，方针。"
+    "hint": "这是：政策，方针。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1824",
@@ -43392,7 +44606,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a wildlife.",
     "sentence": "This is a ___.",
-    "hint": "这是：野生动物。"
+    "hint": "这是：野生动物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1825",
@@ -43405,7 +44620,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a accident.",
     "sentence": "This is a ___.",
-    "hint": "这是：事故，意外事件。"
+    "hint": "这是：事故，意外事件。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1826",
@@ -43418,7 +44634,8 @@ window.VOCABULARY = [
     "category": "饮食生活",
     "example": "This is a flood.",
     "sentence": "This is a ___.",
-    "hint": "这是：水灾。"
+    "hint": "这是：水灾。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1827",
@@ -43431,7 +44648,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a medicine.",
     "sentence": "This is a ___.",
-    "hint": "这是：药。"
+    "hint": "这是：药。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1828",
@@ -43444,7 +44662,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is useful.",
     "sentence": "It is ___.",
-    "hint": "它是：有用的。"
+    "hint": "它是：有用的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1829",
@@ -43457,7 +44676,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a urge.",
     "sentence": "This is a ___.",
-    "hint": "这是：力劝，怂恿。"
+    "hint": "这是：力劝，怂恿。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1830",
@@ -43470,7 +44690,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bed.",
     "sentence": "This is a ___.",
-    "hint": "这是：床。"
+    "hint": "这是：床。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1831",
@@ -43483,7 +44704,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wind.",
     "sentence": "This is a ___.",
-    "hint": "这是：风。"
+    "hint": "这是：风。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1832",
@@ -43496,7 +44718,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a access.",
     "sentence": "This is a ___.",
-    "hint": "这是：通道,入口。"
+    "hint": "这是：通道,入口。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1833",
@@ -43509,7 +44732,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs supply.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：供应。"
+    "hint": "这里需要表示：供应。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1834",
@@ -43522,7 +44746,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a hunt.",
     "sentence": "This is a ___.",
-    "hint": "这是：猎取。"
+    "hint": "这是：猎取。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1835",
@@ -43535,7 +44760,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a struggle.",
     "sentence": "This is a ___.",
-    "hint": "这是：奋斗；努力；争取。"
+    "hint": "这是：奋斗；努力；争取。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1836",
@@ -43548,7 +44774,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a toy.",
     "sentence": "This is a ___.",
-    "hint": "这是：玩具。"
+    "hint": "这是：玩具。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1837",
@@ -43561,7 +44788,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is vegetable.",
     "sentence": "It is ___.",
-    "hint": "它是：蔬菜。"
+    "hint": "它是：蔬菜。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1838",
@@ -43574,7 +44802,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a egg.",
     "sentence": "This is a ___.",
-    "hint": "这是：蛋。"
+    "hint": "这是：蛋。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1839",
@@ -43587,7 +44816,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a admission.",
     "sentence": "This is a ___.",
-    "hint": "这是：准许进入。"
+    "hint": "这是：准许进入。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1840",
@@ -43600,7 +44830,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs immediately.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：立即地，马上地。"
+    "hint": "这里需要表示：立即地，马上地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1841",
@@ -43613,7 +44844,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is basic.",
     "sentence": "It is ___.",
-    "hint": "它是：基本的；基础的。"
+    "hint": "它是：基本的；基础的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1842",
@@ -43626,7 +44858,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs earth.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地球；世界。"
+    "hint": "这里需要表示：地球；世界。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1843",
@@ -43639,7 +44872,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a combine.",
     "sentence": "This is a ___.",
-    "hint": "这是：结合。"
+    "hint": "这是：结合。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1844",
@@ -43652,7 +44886,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a yesterday.",
     "sentence": "This is a ___.",
-    "hint": "这是：昨天。"
+    "hint": "这是：昨天。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1845",
@@ -43665,7 +44900,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is super.",
     "sentence": "It is ___.",
-    "hint": "它是：超级的。"
+    "hint": "它是：超级的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1846",
@@ -43678,7 +44914,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a otherwise.",
     "sentence": "This is a ___.",
-    "hint": "这是：否则。"
+    "hint": "这是：否则。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1847",
@@ -43691,7 +44928,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a rescue.",
     "sentence": "This is a ___.",
-    "hint": "这是：营救。"
+    "hint": "这是：营救。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1848",
@@ -43704,7 +44942,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a match.",
     "sentence": "This is a ___.",
-    "hint": "这是：比赛。"
+    "hint": "这是：比赛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1849",
@@ -43717,7 +44956,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ball.",
     "sentence": "This is a ___.",
-    "hint": "这是：球。"
+    "hint": "这是：球。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1850",
@@ -43730,7 +44970,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a succeed.",
     "sentence": "This is a ___.",
-    "hint": "这是：实现目标；成功。"
+    "hint": "这是：实现目标；成功。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1851",
@@ -43743,7 +44984,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sort.",
     "sentence": "This is a ___.",
-    "hint": "这是：分类；整理。"
+    "hint": "这是：分类；整理。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1852",
@@ -43756,7 +44998,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a adaptation.",
     "sentence": "This is a ___.",
-    "hint": "这是：改编本。"
+    "hint": "这是：改编本。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1853",
@@ -43769,7 +45012,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a beauty.",
     "sentence": "This is a ___.",
-    "hint": "这是：美，美丽。"
+    "hint": "这是：美，美丽。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1854",
@@ -43782,7 +45026,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a comb.",
     "sentence": "This is a ___.",
-    "hint": "这是：梳。"
+    "hint": "这是：梳。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1855",
@@ -43795,7 +45040,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can pleasant.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使人愉快的。"
+    "hint": "我会/可以：使人愉快的。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1856",
@@ -43808,7 +45054,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is tough.",
     "sentence": "It is ___.",
-    "hint": "它是：强硬的。"
+    "hint": "它是：强硬的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1857",
@@ -43821,7 +45068,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs particularly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：尤其，特别地。"
+    "hint": "这里需要表示：尤其，特别地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1858",
@@ -43834,7 +45082,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a athletic.",
     "sentence": "This is a ___.",
-    "hint": "这是：运动型。"
+    "hint": "这是：运动型。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1859",
@@ -43847,7 +45096,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a panda.",
     "sentence": "This is a ___.",
-    "hint": "这是：大熊猫。"
+    "hint": "这是：大熊猫。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1860",
@@ -43860,7 +45110,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a escalator.",
     "sentence": "This is a ___.",
-    "hint": "这是：自动扶梯。"
+    "hint": "这是：自动扶梯。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1861",
@@ -43873,7 +45124,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is bright.",
     "sentence": "It is ___.",
-    "hint": "它是：明亮的；鲜艳的。"
+    "hint": "它是：明亮的；鲜艳的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1862",
@@ -43886,7 +45138,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a circle.",
     "sentence": "This is a ___.",
-    "hint": "这是：圈出；圈住。"
+    "hint": "这是：圈出；圈住。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1863",
@@ -43899,7 +45152,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a athlete.",
     "sentence": "This is a ___.",
-    "hint": "这是：运动员。"
+    "hint": "这是：运动员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1864",
@@ -43912,7 +45166,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a peace.",
     "sentence": "This is a ___.",
-    "hint": "这是：和平。"
+    "hint": "这是：和平。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1865",
@@ -43925,7 +45180,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a studio.",
     "sentence": "This is a ___.",
-    "hint": "这是：录制室；录音室。"
+    "hint": "这是：录制室；录音室。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1866",
@@ -43938,7 +45194,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a indicate.",
     "sentence": "This is a ___.",
-    "hint": "这是：象征；暗示。"
+    "hint": "这是：象征；暗示。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1867",
@@ -43951,7 +45208,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a soup.",
     "sentence": "This is a ___.",
-    "hint": "这是：汤。"
+    "hint": "这是：汤。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1868",
@@ -43964,7 +45222,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "He runs friendly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：友好的。"
+    "hint": "这里需要表示：友好的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1869",
@@ -43977,7 +45236,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a emergency.",
     "sentence": "This is a ___.",
-    "hint": "这是：紧急情况，突发事件。"
+    "hint": "这是：紧急情况，突发事件。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1870",
@@ -43990,7 +45250,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs examine.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：（仔细地）检查；检验。"
+    "hint": "这里需要表示：（仔细地）检查；检验。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1871",
@@ -44003,7 +45264,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a June.",
     "sentence": "This is a ___.",
-    "hint": "这是：六月。"
+    "hint": "这是：六月。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1872",
@@ -44016,7 +45278,8 @@ window.VOCABULARY = [
     "category": "场所方位",
     "example": "This is a electricity.",
     "sentence": "This is a ___.",
-    "hint": "这是：电；电能。"
+    "hint": "这是：电；电能。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1873",
@@ -44029,7 +45292,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs tube.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地铁。"
+    "hint": "这里需要表示：地铁。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1874",
@@ -44042,7 +45306,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a vehicle.",
     "sentence": "This is a ___.",
-    "hint": "这是：交通工具；车辆。"
+    "hint": "这是：交通工具；车辆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1875",
@@ -44055,7 +45320,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is signal.",
     "sentence": "It is ___.",
-    "hint": "它是：信号。"
+    "hint": "它是：信号。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1876",
@@ -44068,7 +45334,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a keyboard.",
     "sentence": "This is a ___.",
-    "hint": "这是：键盘。"
+    "hint": "这是：键盘。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1877",
@@ -44081,7 +45348,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chair.",
     "sentence": "This is a ___.",
-    "hint": "这是：椅子。"
+    "hint": "这是：椅子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1878",
@@ -44094,7 +45362,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a desk.",
     "sentence": "This is a ___.",
-    "hint": "这是：书桌。"
+    "hint": "这是：书桌。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1879",
@@ -44107,7 +45376,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is environmental.",
     "sentence": "It is ___.",
-    "hint": "它是：自然环境的；有关环境的。"
+    "hint": "它是：自然环境的；有关环境的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1880",
@@ -44120,7 +45390,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "He runs elderly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：年老的，上了年纪的。"
+    "hint": "这里需要表示：年老的，上了年纪的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1881",
@@ -44133,7 +45404,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is creative.",
     "sentence": "It is ___.",
-    "hint": "它是：有创造力的；创造性的。"
+    "hint": "它是：有创造力的；创造性的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1882",
@@ -44146,7 +45418,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a creativity.",
     "sentence": "This is a ___.",
-    "hint": "这是：创造力；独创性。"
+    "hint": "这是：创造力；独创性。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1883",
@@ -44159,7 +45432,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a rain.",
     "sentence": "This is a ___.",
-    "hint": "这是：雨；下雨。"
+    "hint": "这是：雨；下雨。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1884",
@@ -44172,7 +45446,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is lucky.",
     "sentence": "It is ___.",
-    "hint": "它是：幸运的。"
+    "hint": "它是：幸运的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1885",
@@ -44185,7 +45460,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a laugh.",
     "sentence": "This is a ___.",
-    "hint": "这是：笑。"
+    "hint": "这是：笑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1886",
@@ -44198,7 +45474,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can refuse.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：拒绝。"
+    "hint": "我会/可以：拒绝。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1887",
@@ -44211,7 +45488,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a lifestyle.",
     "sentence": "This is a ___.",
-    "hint": "这是：生活方式。"
+    "hint": "这是：生活方式。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1888",
@@ -44224,7 +45502,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can wash.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：洗。"
+    "hint": "我会/可以：洗。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1889",
@@ -44237,7 +45516,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can convince.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使信服。"
+    "hint": "我会/可以：使信服。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1890",
@@ -44250,7 +45530,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "This is a upset.",
     "sentence": "This is a ___.",
-    "hint": "这是：失望；难过。"
+    "hint": "这是：失望；难过。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1891",
@@ -44263,7 +45544,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pot.",
     "sentence": "This is a ___.",
-    "hint": "这是：锅。"
+    "hint": "这是：锅。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1892",
@@ -44276,7 +45558,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dish.",
     "sentence": "This is a ___.",
-    "hint": "这是：菜肴；碟，盘子。"
+    "hint": "这是：菜肴；碟，盘子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1893",
@@ -44289,7 +45572,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is general.",
     "sentence": "It is ___.",
-    "hint": "它是：总的；普遍的；常规的。"
+    "hint": "它是：总的；普遍的；常规的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1894",
@@ -44302,7 +45586,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tear.",
     "sentence": "This is a ___.",
-    "hint": "这是：眼泪,泪水。"
+    "hint": "这是：眼泪,泪水。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1895",
@@ -44315,7 +45600,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a recording.",
     "sentence": "This is a ___.",
-    "hint": "这是：录音。"
+    "hint": "这是：录音。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1896",
@@ -44328,7 +45614,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a honour.",
     "sentence": "This is a ___.",
-    "hint": "这是：荣誉；尊敬。"
+    "hint": "这是：荣誉；尊敬。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1897",
@@ -44341,7 +45628,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a comment.",
     "sentence": "This is a ___.",
-    "hint": "这是：评论。"
+    "hint": "这是：评论。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1898",
@@ -44354,7 +45642,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is total.",
     "sentence": "It is ___.",
-    "hint": "它是：总数，合计。"
+    "hint": "它是：总数，合计。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1899",
@@ -44367,7 +45656,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a sun.",
     "sentence": "This is a ___.",
-    "hint": "这是：太阳。"
+    "hint": "这是：太阳。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1900",
@@ -44380,7 +45670,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fan.",
     "sentence": "This is a ___.",
-    "hint": "这是：风扇。"
+    "hint": "这是：风扇。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1901",
@@ -44393,7 +45684,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a occur.",
     "sentence": "This is a ___.",
-    "hint": "这是：发生。"
+    "hint": "这是：发生。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1902",
@@ -44406,7 +45698,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a invitation.",
     "sentence": "This is a ___.",
-    "hint": "这是：邀请。"
+    "hint": "这是：邀请。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1903",
@@ -44419,7 +45712,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a due to.",
     "sentence": "This is a ___.",
-    "hint": "这是：由于。"
+    "hint": "这是：由于。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1904",
@@ -44432,7 +45726,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is appeal.",
     "sentence": "It is ___.",
-    "hint": "它是：引起兴致。"
+    "hint": "它是：引起兴致。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1905",
@@ -44445,7 +45740,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is grateful.",
     "sentence": "It is ___.",
-    "hint": "它是：感激的。"
+    "hint": "它是：感激的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1906",
@@ -44458,7 +45754,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a requirement.",
     "sentence": "This is a ___.",
-    "hint": "这是：要求。"
+    "hint": "这是：要求。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1907",
@@ -44471,7 +45768,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a literature.",
     "sentence": "This is a ___.",
-    "hint": "这是：文学；文学作品。"
+    "hint": "这是：文学；文学作品。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1908",
@@ -44484,7 +45782,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is sweet.",
     "sentence": "It is ___.",
-    "hint": "它是：含糖的；甜的。"
+    "hint": "它是：含糖的；甜的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1909",
@@ -44497,7 +45796,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a respond.",
     "sentence": "This is a ___.",
-    "hint": "这是：做出反应。"
+    "hint": "这是：做出反应。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1910",
@@ -44510,7 +45810,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is historical.",
     "sentence": "It is ___.",
-    "hint": "它是：（有关）历史的。"
+    "hint": "它是：（有关）历史的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1911",
@@ -44523,7 +45824,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sorry.",
     "sentence": "This is a ___.",
-    "hint": "这是：对不起，抱歉。"
+    "hint": "这是：对不起，抱歉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1912",
@@ -44536,7 +45838,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is unexpected.",
     "sentence": "It is ___.",
-    "hint": "它是：出乎意料的；始料不及的。"
+    "hint": "它是：出乎意料的；始料不及的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1913",
@@ -44549,7 +45852,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bar.",
     "sentence": "This is a ___.",
-    "hint": "这是：条；棒。"
+    "hint": "这是：条；棒。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1914",
@@ -44562,7 +45866,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a tip.",
     "sentence": "This is a ___.",
-    "hint": "这是：指点；提示。"
+    "hint": "这是：指点；提示。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1915",
@@ -44575,7 +45880,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a million.",
     "sentence": "This is a ___.",
-    "hint": "这是：百万。"
+    "hint": "这是：百万。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1916",
@@ -44588,7 +45894,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "ourselves is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：（we的反身代词）我们自己。"
+    "hint": "选择代词：（we的反身代词）我们自己。",
+    "rawPos": "代词"
   },
   {
     "id": "high-1917",
@@ -44601,7 +45908,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wallet.",
     "sentence": "This is a ___.",
-    "hint": "这是：钱包。"
+    "hint": "这是：钱包。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1918",
@@ -44614,7 +45922,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a therefore.",
     "sentence": "This is a ___.",
-    "hint": "这是：因此，所以。"
+    "hint": "这是：因此，所以。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1919",
@@ -44627,7 +45936,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a spot.",
     "sentence": "This is a ___.",
-    "hint": "这是：斑，点。"
+    "hint": "这是：斑，点。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1920",
@@ -44640,7 +45950,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a grandparent.",
     "sentence": "This is a ___.",
-    "hint": "这是：祖父；祖母；外祖父；外祖母。"
+    "hint": "这是：祖父；祖母；外祖父；外祖母。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1921",
@@ -44653,7 +45964,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a screen.",
     "sentence": "This is a ___.",
-    "hint": "这是：银幕；屏幕。"
+    "hint": "这是：银幕；屏幕。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1922",
@@ -44666,7 +45978,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a symbol.",
     "sentence": "This is a ___.",
-    "hint": "这是：象征。"
+    "hint": "这是：象征。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1923",
@@ -44679,7 +45992,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a manner.",
     "sentence": "This is a ___.",
-    "hint": "这是：方式；方法(pl.)礼貌；礼仪。"
+    "hint": "这是：方式；方法(pl.)礼貌；礼仪。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1924",
@@ -44692,7 +46006,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a finger.",
     "sentence": "This is a ___.",
-    "hint": "这是：手指。"
+    "hint": "这是：手指。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1925",
@@ -44705,7 +46020,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is content.",
     "sentence": "It is ___.",
-    "hint": "它是：满意的，满足的。"
+    "hint": "它是：满意的，满足的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1926",
@@ -44718,7 +46034,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is empty.",
     "sentence": "It is ___.",
-    "hint": "它是：空的；空洞的。"
+    "hint": "它是：空的；空洞的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1927",
@@ -44731,7 +46048,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a north.",
     "sentence": "This is a ___.",
-    "hint": "这是：北。"
+    "hint": "这是：北。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1928",
@@ -44744,7 +46062,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a conflict.",
     "sentence": "This is a ___.",
-    "hint": "这是：冲突。"
+    "hint": "这是：冲突。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1929",
@@ -44757,7 +46076,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "yours is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：你的；你们的。"
+    "hint": "选择代词：你的；你们的。",
+    "rawPos": "代词"
   },
   {
     "id": "high-1930",
@@ -44770,7 +46090,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a boat.",
     "sentence": "This is a ___.",
-    "hint": "这是：小船。"
+    "hint": "这是：小船。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1931",
@@ -44783,7 +46104,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is funny.",
     "sentence": "It is ___.",
-    "hint": "它是：滑稽的；好笑的。"
+    "hint": "它是：滑稽的；好笑的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1932",
@@ -44796,7 +46118,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is final.",
     "sentence": "It is ___.",
-    "hint": "它是：最终的。"
+    "hint": "它是：最终的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1933",
@@ -44809,7 +46132,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs eventually.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：最后，终于。"
+    "hint": "这里需要表示：最后，终于。",
+    "rawPos": "副词"
   },
   {
     "id": "high-1934",
@@ -44822,7 +46146,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a musician.",
     "sentence": "This is a ___.",
-    "hint": "这是：音乐家。"
+    "hint": "这是：音乐家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1935",
@@ -44835,7 +46160,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is familiar.",
     "sentence": "It is ___.",
-    "hint": "它是：熟悉的。"
+    "hint": "它是：熟悉的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1936",
@@ -44848,7 +46174,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is separate.",
     "sentence": "It is ___.",
-    "hint": "它是：单独的；分离的。"
+    "hint": "它是：单独的；分离的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1937",
@@ -44861,7 +46188,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a comedy.",
     "sentence": "This is a ___.",
-    "hint": "这是：喜剧；喜剧片。"
+    "hint": "这是：喜剧；喜剧片。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1938",
@@ -44874,7 +46202,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ban.",
     "sentence": "This is a ___.",
-    "hint": "这是：禁令。"
+    "hint": "这是：禁令。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1939",
@@ -44887,7 +46216,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a contact.",
     "sentence": "This is a ___.",
-    "hint": "这是：接触；联系。"
+    "hint": "这是：接触；联系。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1940",
@@ -44900,7 +46230,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a equip.",
     "sentence": "This is a ___.",
-    "hint": "这是：配备。"
+    "hint": "这是：配备。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1941",
@@ -44913,7 +46244,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a volcano.",
     "sentence": "This is a ___.",
-    "hint": "这是：火山。"
+    "hint": "这是：火山。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1942",
@@ -44926,7 +46258,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a Saturday.",
     "sentence": "This is a ___.",
-    "hint": "这是：星期六。"
+    "hint": "这是：星期六。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1943",
@@ -44939,7 +46272,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is broken.",
     "sentence": "It is ___.",
-    "hint": "它是：破损的。"
+    "hint": "它是：破损的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1944",
@@ -44952,7 +46286,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a aunt.",
     "sentence": "This is a ___.",
-    "hint": "这是：姑母；姨母。"
+    "hint": "这是：姑母；姨母。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1945",
@@ -44965,7 +46300,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a injure.",
     "sentence": "This is a ___.",
-    "hint": "这是：损害，伤害。"
+    "hint": "这是：损害，伤害。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1946",
@@ -44978,7 +46314,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a blood.",
     "sentence": "This is a ___.",
-    "hint": "这是：血。"
+    "hint": "这是：血。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1947",
@@ -44991,7 +46328,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a nurse.",
     "sentence": "This is a ___.",
-    "hint": "这是：护士。"
+    "hint": "这是：护士。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1948",
@@ -45004,7 +46342,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is weak.",
     "sentence": "It is ___.",
-    "hint": "它是：弱的。"
+    "hint": "它是：弱的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1949",
@@ -45017,7 +46356,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a stomach.",
     "sentence": "This is a ___.",
-    "hint": "这是：胃；腹部。"
+    "hint": "这是：胃；腹部。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1950",
@@ -45030,7 +46370,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a lab.",
     "sentence": "This is a ___.",
-    "hint": "这是：实验室。"
+    "hint": "这是：实验室。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1951",
@@ -45043,7 +46384,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a equipment.",
     "sentence": "This is a ___.",
-    "hint": "这是：设备,器材。"
+    "hint": "这是：设备,器材。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1952",
@@ -45056,7 +46398,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have network books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：网络。"
+    "hint": "数量是：网络。",
+    "rawPos": "数词"
   },
   {
     "id": "high-1953",
@@ -45069,7 +46412,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is five.",
     "sentence": "It is ___.",
-    "hint": "它是：五。"
+    "hint": "它是：五。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1954",
@@ -45082,7 +46426,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a vote.",
     "sentence": "This is a ___.",
-    "hint": "这是：投票，选举。"
+    "hint": "这是：投票，选举。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1955",
@@ -45095,7 +46440,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a sheet.",
     "sentence": "This is a ___.",
-    "hint": "这是：被单。"
+    "hint": "这是：被单。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1956",
@@ -45108,7 +46454,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is unusual.",
     "sentence": "It is ___.",
-    "hint": "它是：特别的；不寻常的。"
+    "hint": "它是：特别的；不寻常的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1957",
@@ -45121,7 +46468,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is tiny.",
     "sentence": "It is ___.",
-    "hint": "它是：极小的；微小的。"
+    "hint": "它是：极小的；微小的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1958",
@@ -45134,7 +46482,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a belong.",
     "sentence": "This is a ___.",
-    "hint": "这是：属于；归属。"
+    "hint": "这是：属于；归属。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1959",
@@ -45147,7 +46496,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is challenging.",
     "sentence": "It is ___.",
-    "hint": "它是：艰巨的，具有挑战性的。"
+    "hint": "它是：艰巨的，具有挑战性的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1960",
@@ -45160,7 +46510,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a Sunday.",
     "sentence": "This is a ___.",
-    "hint": "这是：星期日。"
+    "hint": "这是：星期日。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1961",
@@ -45173,7 +46524,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a transportation.",
     "sentence": "This is a ___.",
-    "hint": "这是：交通。"
+    "hint": "这是：交通。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1962",
@@ -45186,7 +46538,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is financial.",
     "sentence": "It is ___.",
-    "hint": "它是：财政的。"
+    "hint": "它是：财政的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1963",
@@ -45199,7 +46552,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is effective.",
     "sentence": "It is ___.",
-    "hint": "它是：有效的，产生预期效果的。"
+    "hint": "它是：有效的，产生预期效果的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1964",
@@ -45212,7 +46566,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is thin.",
     "sentence": "It is ___.",
-    "hint": "它是：瘦的。"
+    "hint": "它是：瘦的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1965",
@@ -45225,7 +46580,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a crossing.",
     "sentence": "This is a ___.",
-    "hint": "这是：十字路口。"
+    "hint": "这是：十字路口。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1966",
@@ -45238,7 +46594,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a guy.",
     "sentence": "This is a ___.",
-    "hint": "这是：家伙；男人。"
+    "hint": "这是：家伙；男人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1967",
@@ -45251,7 +46608,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bench.",
     "sentence": "This is a ___.",
-    "hint": "这是：长凳。"
+    "hint": "这是：长凳。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1968",
@@ -45264,7 +46622,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a resource.",
     "sentence": "This is a ___.",
-    "hint": "这是：资源。"
+    "hint": "这是：资源。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1969",
@@ -45277,7 +46636,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a reporter.",
     "sentence": "This is a ___.",
-    "hint": "这是：记者；报告人。"
+    "hint": "这是：记者；报告人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1970",
@@ -45290,7 +46650,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a characteristic.",
     "sentence": "This is a ___.",
-    "hint": "这是：特征；品质。"
+    "hint": "这是：特征；品质。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1971",
@@ -45303,7 +46664,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a lady.",
     "sentence": "This is a ___.",
-    "hint": "这是：女士。"
+    "hint": "这是：女士。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1972",
@@ -45316,7 +46678,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "itself is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：(it的反身代词)它自己。"
+    "hint": "选择代词：(it的反身代词)它自己。",
+    "rawPos": "代词"
   },
   {
     "id": "high-1973",
@@ -45329,7 +46692,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a stage.",
     "sentence": "This is a ___.",
-    "hint": "这是：舞台。"
+    "hint": "这是：舞台。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1974",
@@ -45342,7 +46706,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a instruction.",
     "sentence": "This is a ___.",
-    "hint": "这是：指示；命令。"
+    "hint": "这是：指示；命令。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1975",
@@ -45355,7 +46720,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a exhibition.",
     "sentence": "This is a ___.",
-    "hint": "这是：展览。"
+    "hint": "这是：展览。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1976",
@@ -45368,7 +46734,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "It is scene.",
     "sentence": "It is ___.",
-    "hint": "它是：景象；（戏剧的）一场。"
+    "hint": "它是：景象；（戏剧的）一场。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1977",
@@ -45381,7 +46748,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a blow.",
     "sentence": "This is a ___.",
-    "hint": "这是：（过去式为blew）吹。"
+    "hint": "这是：（过去式为blew）吹。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1978",
@@ -45394,7 +46762,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is whenever.",
     "sentence": "It is ___.",
-    "hint": "它是：在任何……的时候；无论何时。"
+    "hint": "它是：在任何……的时候；无论何时。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1979",
@@ -45407,7 +46776,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a nearby.",
     "sentence": "This is a ___.",
-    "hint": "这是：附近。"
+    "hint": "这是：附近。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1980",
@@ -45420,7 +46790,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a temperature.",
     "sentence": "This is a ___.",
-    "hint": "这是：温度。"
+    "hint": "这是：温度。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1981",
@@ -45433,7 +46804,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a represent.",
     "sentence": "This is a ___.",
-    "hint": "这是：代表；象征。"
+    "hint": "这是：代表；象征。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1982",
@@ -45446,7 +46818,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a respect.",
     "sentence": "This is a ___.",
-    "hint": "这是：尊重；敬重。"
+    "hint": "这是：尊重；敬重。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1983",
@@ -45459,7 +46832,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a twice.",
     "sentence": "This is a ___.",
-    "hint": "这是：两次。"
+    "hint": "这是：两次。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1984",
@@ -45472,7 +46846,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ignore.",
     "sentence": "This is a ___.",
-    "hint": "这是：忽视。"
+    "hint": "这是：忽视。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1985",
@@ -45485,7 +46860,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a radio.",
     "sentence": "This is a ___.",
-    "hint": "这是：收音机。"
+    "hint": "这是：收音机。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1986",
@@ -45498,7 +46874,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a passenger.",
     "sentence": "This is a ___.",
-    "hint": "这是：乘客；旅客。"
+    "hint": "这是：乘客；旅客。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1987",
@@ -45511,7 +46888,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a relief.",
     "sentence": "This is a ___.",
-    "hint": "这是：轻松；解脱。"
+    "hint": "这是：轻松；解脱。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1988",
@@ -45524,7 +46902,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is festival.",
     "sentence": "It is ___.",
-    "hint": "它是：节日。"
+    "hint": "它是：节日。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1989",
@@ -45537,7 +46916,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a identity.",
     "sentence": "This is a ___.",
-    "hint": "这是：身份。"
+    "hint": "这是：身份。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1990",
@@ -45550,7 +46930,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a afraid.",
     "sentence": "This is a ___.",
-    "hint": "这是：害怕。"
+    "hint": "这是：害怕。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1991",
@@ -45563,7 +46944,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can trap.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使堕入圈套。"
+    "hint": "我会/可以：使堕入圈套。",
+    "rawPos": "动词"
   },
   {
     "id": "high-1992",
@@ -45576,7 +46958,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is electric.",
     "sentence": "It is ___.",
-    "hint": "它是：用电的；电动的。"
+    "hint": "它是：用电的；电动的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1993",
@@ -45589,7 +46972,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a regret.",
     "sentence": "This is a ___.",
-    "hint": "这是：感到遗憾；懊悔。"
+    "hint": "这是：感到遗憾；懊悔。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1994",
@@ -45602,7 +46986,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is brown.",
     "sentence": "It is ___.",
-    "hint": "它是：棕色；棕色的。"
+    "hint": "它是：棕色；棕色的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1995",
@@ -45615,7 +47000,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a September.",
     "sentence": "This is a ___.",
-    "hint": "这是：九月。"
+    "hint": "这是：九月。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1996",
@@ -45628,7 +47014,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a recover.",
     "sentence": "This is a ___.",
-    "hint": "这是：恢复。"
+    "hint": "这是：恢复。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1997",
@@ -45641,7 +47028,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is digital.",
     "sentence": "It is ___.",
-    "hint": "它是：数码的。"
+    "hint": "它是：数码的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-1998",
@@ -45654,7 +47042,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a intelligence.",
     "sentence": "This is a ___.",
-    "hint": "这是：才智；智慧。"
+    "hint": "这是：才智；智慧。",
+    "rawPos": "名词"
   },
   {
     "id": "high-1999",
@@ -45667,7 +47056,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a argue.",
     "sentence": "This is a ___.",
-    "hint": "这是：争论，争吵。"
+    "hint": "这是：争论，争吵。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2000",
@@ -45680,7 +47070,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is previous.",
     "sentence": "It is ___.",
-    "hint": "它是：先前的。"
+    "hint": "它是：先前的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2001",
@@ -45693,7 +47084,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a apology.",
     "sentence": "This is a ___.",
-    "hint": "这是：道歉。"
+    "hint": "这是：道歉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2002",
@@ -45706,7 +47098,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a consume.",
     "sentence": "This is a ___.",
-    "hint": "这是：消费。"
+    "hint": "这是：消费。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2003",
@@ -45719,7 +47112,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is dry.",
     "sentence": "It is ___.",
-    "hint": "它是：擦干；干的。"
+    "hint": "它是：擦干；干的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2004",
@@ -45732,7 +47126,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a planet.",
     "sentence": "This is a ___.",
-    "hint": "这是：行星。"
+    "hint": "这是：行星。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2005",
@@ -45745,7 +47140,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a communicate.",
     "sentence": "This is a ___.",
-    "hint": "这是：交流；沟通。"
+    "hint": "这是：交流；沟通。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2006",
@@ -45758,7 +47154,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a reputation.",
     "sentence": "This is a ___.",
-    "hint": "这是：荣誉，声誉。"
+    "hint": "这是：荣誉，声誉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2007",
@@ -45771,7 +47168,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a essay.",
     "sentence": "This is a ___.",
-    "hint": "这是：散文。"
+    "hint": "这是：散文。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2008",
@@ -45784,7 +47182,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a basis.",
     "sentence": "This is a ___.",
-    "hint": "这是：原因。"
+    "hint": "这是：原因。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2009",
@@ -45797,7 +47196,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a assess.",
     "sentence": "This is a ___.",
-    "hint": "这是：评估。"
+    "hint": "这是：评估。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2010",
@@ -45810,7 +47210,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is wise.",
     "sentence": "It is ___.",
-    "hint": "它是：聪明的；明智的。"
+    "hint": "它是：聪明的；明智的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2011",
@@ -45823,7 +47224,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs map.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地图。"
+    "hint": "这里需要表示：地图。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2012",
@@ -45836,7 +47238,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a page.",
     "sentence": "This is a ___.",
-    "hint": "这是：页。"
+    "hint": "这是：页。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2013",
@@ -45849,7 +47252,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is capital.",
     "sentence": "It is ___.",
-    "hint": "它是：首都。"
+    "hint": "它是：首都。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2014",
@@ -45862,7 +47266,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a celebrate.",
     "sentence": "This is a ___.",
-    "hint": "这是：庆祝。"
+    "hint": "这是：庆祝。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2015",
@@ -45875,7 +47280,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a abandon.",
     "sentence": "This is a ___.",
-    "hint": "这是：抛弃。"
+    "hint": "这是：抛弃。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2016",
@@ -45888,7 +47294,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is trial.",
     "sentence": "It is ___.",
-    "hint": "它是：讨厌的事、人。"
+    "hint": "它是：讨厌的事、人。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2017",
@@ -45901,7 +47308,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a architect.",
     "sentence": "This is a ___.",
-    "hint": "这是：建筑师。"
+    "hint": "这是：建筑师。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2018",
@@ -45914,7 +47322,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a appearance.",
     "sentence": "This is a ___.",
-    "hint": "这是：外貌；外表。"
+    "hint": "这是：外貌；外表。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2019",
@@ -45927,7 +47336,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is delighted.",
     "sentence": "It is ___.",
-    "hint": "它是：欣喜的。"
+    "hint": "它是：欣喜的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2020",
@@ -45940,7 +47350,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is disappointed.",
     "sentence": "It is ___.",
-    "hint": "它是：失望的；沮丧的。"
+    "hint": "它是：失望的；沮丧的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2021",
@@ -45953,7 +47364,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is generous.",
     "sentence": "It is ___.",
-    "hint": "它是：慷慨的，大方的。"
+    "hint": "它是：慷慨的，大方的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2022",
@@ -45966,7 +47378,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a a.m..",
     "sentence": "This is a ___.",
-    "hint": "这是：午前；上午。"
+    "hint": "这是：午前；上午。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2023",
@@ -45979,7 +47392,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a exchange.",
     "sentence": "This is a ___.",
-    "hint": "这是：交换。"
+    "hint": "这是：交换。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2024",
@@ -45992,7 +47406,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is correct.",
     "sentence": "It is ___.",
-    "hint": "它是：正确的,无误的。"
+    "hint": "它是：正确的,无误的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2025",
@@ -46005,7 +47420,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs carefully.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：仔细地。"
+    "hint": "这里需要表示：仔细地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2026",
@@ -46018,7 +47434,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is original.",
     "sentence": "It is ___.",
-    "hint": "它是：有独到见解的。"
+    "hint": "它是：有独到见解的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2027",
@@ -46031,7 +47448,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a attach.",
     "sentence": "This is a ___.",
-    "hint": "这是：把……附在（……上）。"
+    "hint": "这是：把……附在（……上）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2028",
@@ -46044,7 +47462,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a evaluate.",
     "sentence": "This is a ___.",
-    "hint": "这是：估值,评价,评估。"
+    "hint": "这是：估值,评价,评估。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2029",
@@ -46057,7 +47476,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a management.",
     "sentence": "This is a ___.",
-    "hint": "这是：经营。"
+    "hint": "这是：经营。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2030",
@@ -46070,7 +47490,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can astonish.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使惊讶。"
+    "hint": "我会/可以：使惊讶。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2031",
@@ -46083,7 +47504,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a complain.",
     "sentence": "This is a ___.",
-    "hint": "这是：抱怨。"
+    "hint": "这是：抱怨。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2032",
@@ -46096,7 +47518,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a accomplish.",
     "sentence": "This is a ___.",
-    "hint": "这是：完成。"
+    "hint": "这是：完成。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2033",
@@ -46109,7 +47532,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a invent.",
     "sentence": "This is a ___.",
-    "hint": "这是：发明。"
+    "hint": "这是：发明。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2034",
@@ -46122,7 +47546,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a spirit.",
     "sentence": "This is a ___.",
-    "hint": "这是：勇气，意志。"
+    "hint": "这是：勇气，意志。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2035",
@@ -46135,7 +47560,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a compete.",
     "sentence": "This is a ___.",
-    "hint": "这是：竞争；对抗。"
+    "hint": "这是：竞争；对抗。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2036",
@@ -46148,7 +47574,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can despite.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：即使。"
+    "hint": "我会/可以：即使。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2037",
@@ -46161,7 +47588,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fitness.",
     "sentence": "This is a ___.",
-    "hint": "这是：健身。"
+    "hint": "这是：健身。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2038",
@@ -46174,7 +47602,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a wound.",
     "sentence": "This is a ___.",
-    "hint": "这是：伤；伤口；创伤。"
+    "hint": "这是：伤；伤口；创伤。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2039",
@@ -46187,7 +47616,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a hang.",
     "sentence": "This is a ___.",
-    "hint": "这是：悬挂，吊。"
+    "hint": "这是：悬挂，吊。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2040",
@@ -46200,7 +47630,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a consist.",
     "sentence": "This is a ___.",
-    "hint": "这是：由…组成。"
+    "hint": "这是：由…组成。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2041",
@@ -46213,7 +47644,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is typical.",
     "sentence": "It is ___.",
-    "hint": "它是：典型的。"
+    "hint": "它是：典型的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2042",
@@ -46226,7 +47658,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is secondary.",
     "sentence": "It is ___.",
-    "hint": "它是：(教育)中等的；次要的；间接的。"
+    "hint": "它是：(教育)中等的；次要的；间接的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2043",
@@ -46239,7 +47672,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is remote.",
     "sentence": "It is ___.",
-    "hint": "它是：偏僻的。"
+    "hint": "它是：偏僻的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2044",
@@ -46252,7 +47686,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a insect.",
     "sentence": "This is a ___.",
-    "hint": "这是：昆虫。"
+    "hint": "这是：昆虫。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2045",
@@ -46265,7 +47700,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is canal.",
     "sentence": "It is ___.",
-    "hint": "它是：运河。"
+    "hint": "它是：运河。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2046",
@@ -46278,7 +47714,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a confirm.",
     "sentence": "This is a ___.",
-    "hint": "这是：证实，确认。"
+    "hint": "这是：证实，确认。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2047",
@@ -46291,7 +47728,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "It is dozen.",
     "sentence": "It is ___.",
-    "hint": "它是：一打，十二个；一打的。"
+    "hint": "它是：一打，十二个；一打的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2048",
@@ -46304,7 +47742,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cafe.",
     "sentence": "This is a ___.",
-    "hint": "这是：咖啡馆；小餐馆。"
+    "hint": "这是：咖啡馆；小餐馆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2049",
@@ -46317,7 +47756,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a caffeine.",
     "sentence": "This is a ___.",
-    "hint": "这是：咖啡因。"
+    "hint": "这是：咖啡因。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2050",
@@ -46330,7 +47770,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a October.",
     "sentence": "This is a ___.",
-    "hint": "这是：十月。"
+    "hint": "这是：十月。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2051",
@@ -46343,7 +47784,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bedroom.",
     "sentence": "This is a ___.",
-    "hint": "这是：卧室。"
+    "hint": "这是：卧室。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2052",
@@ -46356,7 +47798,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a clock.",
     "sentence": "This is a ___.",
-    "hint": "这是：钟。"
+    "hint": "这是：钟。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2053",
@@ -46369,7 +47812,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a edge.",
     "sentence": "This is a ___.",
-    "hint": "这是：边，边缘。"
+    "hint": "这是：边，边缘。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2054",
@@ -46382,7 +47826,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a shelter.",
     "sentence": "This is a ___.",
-    "hint": "这是：收容所；遮蔽物。"
+    "hint": "这是：收容所；遮蔽物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2055",
@@ -46395,7 +47840,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a position.",
     "sentence": "This is a ___.",
-    "hint": "这是：位置，方位。"
+    "hint": "这是：位置，方位。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2056",
@@ -46408,7 +47854,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs foundation.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地基。"
+    "hint": "这里需要表示：地基。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2057",
@@ -46421,7 +47868,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is downtown.",
     "sentence": "It is ___.",
-    "hint": "它是：市中心的，商业区的，闹市区的。"
+    "hint": "它是：市中心的，商业区的，闹市区的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2058",
@@ -46434,7 +47882,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is industrial.",
     "sentence": "It is ___.",
-    "hint": "它是：工业的。"
+    "hint": "它是：工业的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2059",
@@ -46447,7 +47896,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have kindergarten books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：幼儿园。"
+    "hint": "数量是：幼儿园。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2060",
@@ -46460,7 +47910,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs habitat.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：栖息地。"
+    "hint": "这里需要表示：栖息地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2061",
@@ -46473,7 +47924,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a noise.",
     "sentence": "This is a ___.",
-    "hint": "这是：声音；响声；噪音。"
+    "hint": "这是：声音；响声；噪音。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2062",
@@ -46486,7 +47938,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a publisher.",
     "sentence": "This is a ___.",
-    "hint": "这是：出版商。"
+    "hint": "这是：出版商。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2063",
@@ -46499,7 +47952,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is former.",
     "sentence": "It is ___.",
-    "hint": "它是：以前的。"
+    "hint": "它是：以前的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2064",
@@ -46512,7 +47966,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a youth.",
     "sentence": "This is a ___.",
-    "hint": "这是：青年，年轻人。"
+    "hint": "这是：青年，年轻人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2065",
@@ -46525,7 +47980,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is productive.",
     "sentence": "It is ___.",
-    "hint": "它是：多产的。"
+    "hint": "它是：多产的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2066",
@@ -46538,7 +47994,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is ambitious.",
     "sentence": "It is ___.",
-    "hint": "它是：雄心勃勃的。"
+    "hint": "它是：雄心勃勃的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2067",
@@ -46551,7 +48008,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is perfect.",
     "sentence": "It is ___.",
-    "hint": "它是：完美的；完全的。"
+    "hint": "它是：完美的；完全的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2068",
@@ -46564,7 +48022,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can enable.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使能够。"
+    "hint": "我会/可以：使能够。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2069",
@@ -46577,7 +48036,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a forbid.",
     "sentence": "This is a ___.",
-    "hint": "这是：禁止。"
+    "hint": "这是：禁止。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2070",
@@ -46590,7 +48050,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a qualify.",
     "sentence": "This is a ___.",
-    "hint": "这是：具有资格。"
+    "hint": "这是：具有资格。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2071",
@@ -46603,7 +48064,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a duty.",
     "sentence": "This is a ___.",
-    "hint": "这是：责任；义务。"
+    "hint": "这是：责任；义务。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2072",
@@ -46616,7 +48078,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a profit.",
     "sentence": "This is a ___.",
-    "hint": "这是：利益。"
+    "hint": "这是：利益。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2073",
@@ -46629,7 +48092,8 @@ window.VOCABULARY = [
     "category": "饮食生活",
     "example": "This is a current.",
     "sentence": "This is a ___.",
-    "hint": "这是：水流。"
+    "hint": "这是：水流。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2074",
@@ -46642,7 +48106,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a moreover.",
     "sentence": "This is a ___.",
-    "hint": "这是：此外，而且。"
+    "hint": "这是：此外，而且。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2075",
@@ -46655,7 +48120,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a truck.",
     "sentence": "This is a ___.",
-    "hint": "这是：卡车。"
+    "hint": "这是：卡车。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2076",
@@ -46668,7 +48134,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "It is welcome.",
     "sentence": "It is ___.",
-    "hint": "它是：受欢迎的。"
+    "hint": "它是：受欢迎的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2077",
@@ -46681,7 +48148,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a hundred.",
     "sentence": "This is a ___.",
-    "hint": "这是：百。"
+    "hint": "这是：百。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2078",
@@ -46694,7 +48162,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a statistics.",
     "sentence": "This is a ___.",
-    "hint": "这是：统计数字。"
+    "hint": "这是：统计数字。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2079",
@@ -46707,7 +48176,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a arm.",
     "sentence": "This is a ___.",
-    "hint": "这是：胳膊。"
+    "hint": "这是：胳膊。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2080",
@@ -46720,7 +48190,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is ending.",
     "sentence": "It is ___.",
-    "hint": "它是：（故事、电影等的）结尾；结局。"
+    "hint": "它是：（故事、电影等的）结尾；结局。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2081",
@@ -46733,7 +48204,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a suburb.",
     "sentence": "This is a ___.",
-    "hint": "这是：近郊住宅区。"
+    "hint": "这是：近郊住宅区。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2082",
@@ -46746,7 +48218,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a background.",
     "sentence": "This is a ___.",
-    "hint": "这是：背景。"
+    "hint": "这是：背景。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2083",
@@ -46759,7 +48232,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a somehow.",
     "sentence": "This is a ___.",
-    "hint": "这是：以某种方式(或方法)。"
+    "hint": "这是：以某种方式(或方法)。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2084",
@@ -46772,7 +48246,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a leader.",
     "sentence": "This is a ___.",
-    "hint": "这是：领袖。"
+    "hint": "这是：领袖。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2085",
@@ -46785,7 +48260,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a partner.",
     "sentence": "This is a ___.",
-    "hint": "这是：搭档。"
+    "hint": "这是：搭档。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2086",
@@ -46798,7 +48274,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a assistant.",
     "sentence": "This is a ___.",
-    "hint": "这是：助手。"
+    "hint": "这是：助手。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2087",
@@ -46811,7 +48288,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a gym.",
     "sentence": "This is a ___.",
-    "hint": "这是：体育馆。"
+    "hint": "这是：体育馆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2088",
@@ -46824,7 +48302,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a assume.",
     "sentence": "This is a ___.",
-    "hint": "这是：假定，认为。"
+    "hint": "这是：假定，认为。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2089",
@@ -46837,7 +48316,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can swim.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：游泳。"
+    "hint": "我会/可以：游泳。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2090",
@@ -46850,7 +48330,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is physical.",
     "sentence": "It is ___.",
-    "hint": "它是：身体的。"
+    "hint": "它是：身体的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2091",
@@ -46863,7 +48344,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can remind.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：提醒；使想起。"
+    "hint": "我会/可以：提醒；使想起。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2092",
@@ -46876,7 +48358,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can select.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：选择，挑选。"
+    "hint": "我会/可以：选择，挑选。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2093",
@@ -46889,7 +48372,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a settle.",
     "sentence": "This is a ___.",
-    "hint": "这是：安排,料理(事务等)。"
+    "hint": "这是：安排,料理(事务等)。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2094",
@@ -46902,7 +48386,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a dig.",
     "sentence": "This is a ___.",
-    "hint": "这是：挖（土）；掘（洞）。"
+    "hint": "这是：挖（土）；掘（洞）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2095",
@@ -46915,7 +48400,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can preserve.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：保护，保全。"
+    "hint": "我会/可以：保护，保全。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2096",
@@ -46928,7 +48414,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a quit.",
     "sentence": "This is a ___.",
-    "hint": "这是：退出。"
+    "hint": "这是：退出。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2097",
@@ -46941,7 +48428,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can discourage.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：阻拦，阻止；使灰心。"
+    "hint": "我会/可以：阻拦，阻止；使灰心。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2098",
@@ -46954,7 +48442,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a switch.",
     "sentence": "This is a ___.",
-    "hint": "这是：转换。"
+    "hint": "这是：转换。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2099",
@@ -46967,7 +48456,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a donate.",
     "sentence": "This is a ___.",
-    "hint": "这是：捐献。"
+    "hint": "这是：捐献。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2100",
@@ -46980,7 +48470,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a horse.",
     "sentence": "This is a ___.",
-    "hint": "这是：马。"
+    "hint": "这是：马。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2101",
@@ -46993,7 +48484,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a nest.",
     "sentence": "This is a ___.",
-    "hint": "这是：鸟巢。"
+    "hint": "这是：鸟巢。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2102",
@@ -47006,7 +48498,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a goods.",
     "sentence": "This is a ___.",
-    "hint": "这是：货物，商品。"
+    "hint": "这是：货物，商品。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2103",
@@ -47019,7 +48512,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a trade.",
     "sentence": "This is a ___.",
-    "hint": "这是：贸易；交易。"
+    "hint": "这是：贸易；交易。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2104",
@@ -47032,7 +48526,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a principle.",
     "sentence": "This is a ___.",
-    "hint": "这是：道德原则。"
+    "hint": "这是：道德原则。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2105",
@@ -47045,7 +48540,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a architecture.",
     "sentence": "This is a ___.",
-    "hint": "这是：建筑学。"
+    "hint": "这是：建筑学。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2106",
@@ -47058,7 +48554,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a construction.",
     "sentence": "This is a ___.",
-    "hint": "这是：建筑（物）。"
+    "hint": "这是：建筑（物）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2107",
@@ -47071,7 +48568,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is dear.",
     "sentence": "It is ___.",
-    "hint": "它是：(用于信函抬头的名字或头衔前）亲爱的。"
+    "hint": "它是：(用于信函抬头的名字或头衔前）亲爱的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2108",
@@ -47084,7 +48582,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have honey books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：蜂蜜。"
+    "hint": "数量是：蜂蜜。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2109",
@@ -47097,7 +48596,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a Monday.",
     "sentence": "This is a ___.",
-    "hint": "这是：星期一。"
+    "hint": "这是：星期一。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2110",
@@ -47110,7 +48610,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a west.",
     "sentence": "This is a ___.",
-    "hint": "这是：西。"
+    "hint": "这是：西。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2111",
@@ -47123,7 +48624,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is blue.",
     "sentence": "It is ___.",
-    "hint": "它是：蓝色；蓝色的。"
+    "hint": "它是：蓝色；蓝色的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2112",
@@ -47136,7 +48638,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a vocabulary.",
     "sentence": "This is a ___.",
-    "hint": "这是：词汇；词汇量。"
+    "hint": "这是：词汇；词汇量。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2113",
@@ -47149,7 +48652,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a technique.",
     "sentence": "This is a ___.",
-    "hint": "这是：技巧。"
+    "hint": "这是：技巧。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2114",
@@ -47162,7 +48666,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a chopstick.",
     "sentence": "This is a ___.",
-    "hint": "这是：筷子。"
+    "hint": "这是：筷子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2115",
@@ -47175,7 +48680,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dumpling.",
     "sentence": "This is a ___.",
-    "hint": "这是：饺子；汤团。"
+    "hint": "这是：饺子；汤团。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2116",
@@ -47188,7 +48694,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wander.",
     "sentence": "This is a ___.",
-    "hint": "这是：溜达，乱走。"
+    "hint": "这是：溜达，乱走。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2117",
@@ -47201,7 +48708,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is dangerous.",
     "sentence": "It is ___.",
-    "hint": "它是：危险的。"
+    "hint": "它是：危险的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2118",
@@ -47214,7 +48722,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a burn.",
     "sentence": "This is a ___.",
-    "hint": "这是：燃烧；烧。"
+    "hint": "这是：燃烧；烧。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2119",
@@ -47227,7 +48736,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is dead.",
     "sentence": "It is ___.",
-    "hint": "它是：死的。"
+    "hint": "它是：死的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2120",
@@ -47240,7 +48750,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a classic.",
     "sentence": "This is a ___.",
-    "hint": "这是：经典作品；名著。"
+    "hint": "这是：经典作品；名著。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2121",
@@ -47253,7 +48764,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is foreign.",
     "sentence": "It is ___.",
-    "hint": "它是：外国的。"
+    "hint": "它是：外国的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2122",
@@ -47266,7 +48778,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a agreement.",
     "sentence": "This is a ___.",
-    "hint": "这是：（意见或看法）一致；同意。"
+    "hint": "这是：（意见或看法）一致；同意。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2123",
@@ -47279,7 +48792,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a harvest.",
     "sentence": "This is a ___.",
-    "hint": "这是：收割。"
+    "hint": "这是：收割。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2124",
@@ -47292,7 +48806,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a outcome.",
     "sentence": "This is a ___.",
-    "hint": "这是：结果。"
+    "hint": "这是：结果。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2125",
@@ -47305,7 +48820,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a copy.",
     "sentence": "This is a ___.",
-    "hint": "这是：抄袭；模仿；复制；复印。"
+    "hint": "这是：抄袭；模仿；复制；复印。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2126",
@@ -47318,7 +48834,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can embarrass.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使尴尬。"
+    "hint": "我会/可以：使尴尬。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2127",
@@ -47331,7 +48848,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is obvious.",
     "sentence": "It is ___.",
-    "hint": "它是：明显的。"
+    "hint": "它是：明显的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2128",
@@ -47344,7 +48862,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is peaceful.",
     "sentence": "It is ___.",
-    "hint": "它是：和平的；安宁的。"
+    "hint": "它是：和平的；安宁的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2129",
@@ -47357,7 +48876,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is clever.",
     "sentence": "It is ___.",
-    "hint": "它是：聪明的；聪颖的。"
+    "hint": "它是：聪明的；聪颖的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2130",
@@ -47370,7 +48890,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is vital.",
     "sentence": "It is ___.",
-    "hint": "它是：至关重要的。"
+    "hint": "它是：至关重要的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2131",
@@ -47383,7 +48904,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs completely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：彻底地；完全地。"
+    "hint": "这里需要表示：彻底地；完全地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2132",
@@ -47396,7 +48918,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs highly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：很，非常。"
+    "hint": "这里需要表示：很，非常。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2133",
@@ -47409,7 +48932,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a treatment.",
     "sentence": "This is a ___.",
-    "hint": "这是：治疗，疗法。"
+    "hint": "这是：治疗，疗法。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2134",
@@ -47422,7 +48946,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a solution.",
     "sentence": "This is a ___.",
-    "hint": "这是：解决办法。"
+    "hint": "这是：解决办法。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2135",
@@ -47435,7 +48960,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a grocery.",
     "sentence": "This is a ___.",
-    "hint": "这是：食品杂货店。"
+    "hint": "这是：食品杂货店。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2136",
@@ -47448,7 +48974,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a commitment.",
     "sentence": "This is a ___.",
-    "hint": "这是：信奉。"
+    "hint": "这是：信奉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2137",
@@ -47461,7 +48988,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a branch.",
     "sentence": "This is a ___.",
-    "hint": "这是：树枝。"
+    "hint": "这是：树枝。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2138",
@@ -47474,7 +49002,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a hate.",
     "sentence": "This is a ___.",
-    "hint": "这是：讨厌。"
+    "hint": "这是：讨厌。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2139",
@@ -47487,7 +49016,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a destroy.",
     "sentence": "This is a ___.",
-    "hint": "这是：摧毁；毁灭。"
+    "hint": "这是：摧毁；毁灭。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2140",
@@ -47500,7 +49030,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is crazy.",
     "sentence": "It is ___.",
-    "hint": "它是：疯狂的。"
+    "hint": "它是：疯狂的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2141",
@@ -47513,7 +49044,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is solar.",
     "sentence": "It is ___.",
-    "hint": "它是：太阳的；关于太阳的。"
+    "hint": "它是：太阳的；关于太阳的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2142",
@@ -47526,7 +49058,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs native.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：出生地的,当地的。"
+    "hint": "这里需要表示：出生地的,当地的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2143",
@@ -47539,7 +49072,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs gradually.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：逐步地；渐进地。"
+    "hint": "这里需要表示：逐步地；渐进地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2144",
@@ -47552,7 +49086,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a salary.",
     "sentence": "This is a ___.",
-    "hint": "这是：薪水。"
+    "hint": "这是：薪水。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2145",
@@ -47565,7 +49100,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a employer.",
     "sentence": "This is a ___.",
-    "hint": "这是：雇主。"
+    "hint": "这是：雇主。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2146",
@@ -47578,7 +49114,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a retire.",
     "sentence": "This is a ___.",
-    "hint": "这是：退休；退役。"
+    "hint": "这是：退休；退役。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2147",
@@ -47591,7 +49128,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a entertainment.",
     "sentence": "This is a ___.",
-    "hint": "这是：娱乐；招待。"
+    "hint": "这是：娱乐；招待。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2148",
@@ -47604,7 +49142,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can sing.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：唱；唱歌。"
+    "hint": "我会/可以：唱；唱歌。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2149",
@@ -47617,7 +49156,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a piano.",
     "sentence": "This is a ___.",
-    "hint": "这是：钢琴。"
+    "hint": "这是：钢琴。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2150",
@@ -47630,7 +49170,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a maker.",
     "sentence": "This is a ___.",
-    "hint": "这是：生产者；制订者。"
+    "hint": "这是：生产者；制订者。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2151",
@@ -47643,7 +49184,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a creation.",
     "sentence": "This is a ___.",
-    "hint": "这是：创造。"
+    "hint": "这是：创造。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2152",
@@ -47656,7 +49198,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a analyse.",
     "sentence": "This is a ___.",
-    "hint": "这是：分析。"
+    "hint": "这是：分析。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2153",
@@ -47669,7 +49212,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a discussion.",
     "sentence": "This is a ___.",
-    "hint": "这是：讨论；商量。"
+    "hint": "这是：讨论；商量。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2154",
@@ -47682,7 +49226,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can trust.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：相信；信任。"
+    "hint": "我会/可以：相信；信任。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2155",
@@ -47695,7 +49240,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a appointment.",
     "sentence": "This is a ___.",
-    "hint": "这是：约会。"
+    "hint": "这是：约会。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2156",
@@ -47708,7 +49254,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a aware.",
     "sentence": "This is a ___.",
-    "hint": "这是：知道，意识到。"
+    "hint": "这是：知道，意识到。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2157",
@@ -47721,7 +49268,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a react.",
     "sentence": "This is a ___.",
-    "hint": "这是：反应。"
+    "hint": "这是：反应。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2158",
@@ -47734,7 +49282,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a response.",
     "sentence": "This is a ___.",
-    "hint": "这是：反应；回答。"
+    "hint": "这是：反应；回答。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2159",
@@ -47747,7 +49296,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs underground.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地铁。"
+    "hint": "这里需要表示：地铁。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2160",
@@ -47760,7 +49310,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs floor.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地板。"
+    "hint": "这里需要表示：地板。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2161",
@@ -47773,7 +49324,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a onto.",
     "sentence": "This is a ___.",
-    "hint": "这是：到……上。"
+    "hint": "这是：到……上。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2162",
@@ -47786,7 +49338,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs frequently.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：频繁地。"
+    "hint": "这里需要表示：频繁地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2163",
@@ -47799,7 +49352,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "He runs seldom.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：极少地。"
+    "hint": "这里需要表示：极少地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2164",
@@ -47812,7 +49366,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a knee.",
     "sentence": "This is a ___.",
-    "hint": "这是：膝盖。"
+    "hint": "这是：膝盖。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2165",
@@ -47825,7 +49380,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a illness.",
     "sentence": "This is a ___.",
-    "hint": "这是：疾病。"
+    "hint": "这是：疾病。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2166",
@@ -47838,7 +49394,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pain.",
     "sentence": "This is a ___.",
-    "hint": "这是：疼痛。"
+    "hint": "这是：疼痛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2167",
@@ -47851,7 +49408,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a campaign.",
     "sentence": "This is a ___.",
-    "hint": "这是：运动。"
+    "hint": "这是：运动。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2168",
@@ -47864,7 +49422,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pollute.",
     "sentence": "This is a ___.",
-    "hint": "这是：污染。"
+    "hint": "这是：污染。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2169",
@@ -47877,7 +49436,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a aspect.",
     "sentence": "This is a ___.",
-    "hint": "这是：方面。"
+    "hint": "这是：方面。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2170",
@@ -47890,7 +49450,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a battle.",
     "sentence": "This is a ___.",
-    "hint": "这是：战斗；战役。"
+    "hint": "这是：战斗；战役。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2171",
@@ -47903,7 +49464,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs exactly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：确切地；精确地。"
+    "hint": "这里需要表示：确切地；精确地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2172",
@@ -47916,7 +49478,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs directly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：直接地。"
+    "hint": "这里需要表示：直接地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2173",
@@ -47929,7 +49492,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs fully.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：充分地。"
+    "hint": "这里需要表示：充分地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2174",
@@ -47942,7 +49506,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is independent.",
     "sentence": "It is ___.",
-    "hint": "它是：独立的；自主的。"
+    "hint": "它是：独立的；自主的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2175",
@@ -47955,7 +49520,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs rely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：依靠。"
+    "hint": "这里需要表示：依靠。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2176",
@@ -47968,7 +49534,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is Olympic.",
     "sentence": "It is ___.",
-    "hint": "它是：奥运会的。"
+    "hint": "它是：奥运会的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2177",
@@ -47981,7 +49548,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is equal.",
     "sentence": "It is ___.",
-    "hint": "它是：平等的；相等的。"
+    "hint": "它是：平等的；相等的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2178",
@@ -47994,7 +49562,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a contain.",
     "sentence": "This is a ___.",
-    "hint": "这是：包含。"
+    "hint": "这是：包含。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2179",
@@ -48007,7 +49576,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a friendship.",
     "sentence": "This is a ___.",
-    "hint": "这是：友谊。"
+    "hint": "这是：友谊。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2180",
@@ -48020,7 +49590,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is pretty.",
     "sentence": "It is ___.",
-    "hint": "它是：美观的；精致的。"
+    "hint": "它是：美观的；精致的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2181",
@@ -48033,7 +49604,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a dress.",
     "sentence": "This is a ___.",
-    "hint": "这是：连衣裙。"
+    "hint": "这是：连衣裙。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2182",
@@ -48046,7 +49618,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a feature.",
     "sentence": "This is a ___.",
-    "hint": "这是：特点。"
+    "hint": "这是：特点。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2183",
@@ -48059,7 +49632,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have sentence books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：判决。"
+    "hint": "数量是：判决。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2184",
@@ -48072,7 +49646,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a instance.",
     "sentence": "This is a ___.",
-    "hint": "这是：例子。"
+    "hint": "这是：例子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2185",
@@ -48085,7 +49660,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is proper.",
     "sentence": "It is ___.",
-    "hint": "它是：正确的；恰当的。"
+    "hint": "它是：正确的；恰当的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2186",
@@ -48098,7 +49674,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is terrible.",
     "sentence": "It is ___.",
-    "hint": "它是：糟糕的。"
+    "hint": "它是：糟糕的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2187",
@@ -48111,7 +49688,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a delay.",
     "sentence": "This is a ___.",
-    "hint": "这是：延迟；拖延。"
+    "hint": "这是：延迟；拖延。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2188",
@@ -48124,7 +49702,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a escape.",
     "sentence": "This is a ___.",
-    "hint": "这是：逃脱；逃走。"
+    "hint": "这是：逃脱；逃走。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2189",
@@ -48137,7 +49716,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have extend books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：伸出，展开。"
+    "hint": "数量是：伸出，展开。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2190",
@@ -48150,7 +49730,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a disapprove.",
     "sentence": "This is a ___.",
-    "hint": "这是：不赞成。"
+    "hint": "这是：不赞成。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2191",
@@ -48163,7 +49744,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a subject.",
     "sentence": "This is a ___.",
-    "hint": "这是：学科。"
+    "hint": "这是：学科。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2192",
@@ -48176,7 +49758,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is technological.",
     "sentence": "It is ___.",
-    "hint": "它是：技术的。"
+    "hint": "它是：技术的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2193",
@@ -48189,7 +49772,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is connected.",
     "sentence": "It is ___.",
-    "hint": "它是：有联系的。"
+    "hint": "它是：有联系的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2194",
@@ -48202,7 +49786,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is female.",
     "sentence": "It is ___.",
-    "hint": "它是：雌性的动物或植物；女子。"
+    "hint": "它是：雌性的动物或植物；女子。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2195",
@@ -48215,7 +49800,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a glass.",
     "sentence": "This is a ___.",
-    "hint": "这是：玻璃杯。"
+    "hint": "这是：玻璃杯。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2196",
@@ -48228,7 +49814,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a joke.",
     "sentence": "This is a ___.",
-    "hint": "这是：笑话。"
+    "hint": "这是：笑话。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2197",
@@ -48241,7 +49828,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pet.",
     "sentence": "This is a ___.",
-    "hint": "这是：宠物。"
+    "hint": "这是：宠物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2198",
@@ -48254,7 +49842,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a purchase.",
     "sentence": "This is a ___.",
-    "hint": "这是：购买。"
+    "hint": "这是：购买。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2199",
@@ -48267,7 +49856,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is particular.",
     "sentence": "It is ___.",
-    "hint": "它是：特指的。"
+    "hint": "它是：特指的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2200",
@@ -48280,7 +49870,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is hungry.",
     "sentence": "It is ___.",
-    "hint": "它是：饥饿的。"
+    "hint": "它是：饥饿的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2201",
@@ -48293,7 +49884,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "It is doubtful.",
     "sentence": "It is ___.",
-    "hint": "它是：可疑的。"
+    "hint": "它是：可疑的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2202",
@@ -48306,7 +49898,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can unnecessary.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：不需要的。"
+    "hint": "我会/可以：不需要的。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2203",
@@ -48319,7 +49912,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a biologist.",
     "sentence": "This is a ___.",
-    "hint": "这是：生物学家。"
+    "hint": "这是：生物学家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2204",
@@ -48332,7 +49926,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a keeper.",
     "sentence": "This is a ___.",
-    "hint": "这是：饲养员；保管人。"
+    "hint": "这是：饲养员；保管人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2205",
@@ -48345,7 +49940,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a citizen.",
     "sentence": "This is a ___.",
-    "hint": "这是：公民；市民。"
+    "hint": "这是：公民；市民。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2206",
@@ -48358,7 +49954,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can exciting.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：令人兴奋的,使人激动的。"
+    "hint": "我会/可以：令人兴奋的,使人激动的。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2207",
@@ -48371,7 +49968,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is amazed.",
     "sentence": "It is ___.",
-    "hint": "它是：惊奇的；惊讶的。"
+    "hint": "它是：惊奇的；惊讶的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2208",
@@ -48384,7 +49982,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is embarrassed.",
     "sentence": "It is ___.",
-    "hint": "它是：窘迫的；害羞的。"
+    "hint": "它是：窘迫的；害羞的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2209",
@@ -48397,7 +49996,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a borrow.",
     "sentence": "This is a ___.",
-    "hint": "这是：借。"
+    "hint": "这是：借。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2210",
@@ -48410,7 +50010,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a invest.",
     "sentence": "This is a ___.",
-    "hint": "这是：赋予。"
+    "hint": "这是：赋予。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2211",
@@ -48423,7 +50024,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a generate.",
     "sentence": "This is a ___.",
-    "hint": "这是：产生。"
+    "hint": "这是：产生。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2212",
@@ -48436,7 +50038,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a impress.",
     "sentence": "This is a ___.",
-    "hint": "这是：给…留下印象。"
+    "hint": "这是：给…留下印象。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2213",
@@ -48449,7 +50052,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a suppose.",
     "sentence": "This is a ___.",
-    "hint": "这是：推断；料想。"
+    "hint": "这是：推断；料想。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2214",
@@ -48462,7 +50066,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a comparison.",
     "sentence": "This is a ___.",
-    "hint": "这是：比较。"
+    "hint": "这是：比较。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2215",
@@ -48475,7 +50080,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a registration.",
     "sentence": "This is a ___.",
-    "hint": "这是：登记。"
+    "hint": "这是：登记。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2216",
@@ -48488,7 +50094,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a conclusion.",
     "sentence": "This is a ___.",
-    "hint": "这是：结论。"
+    "hint": "这是：结论。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2217",
@@ -48501,7 +50108,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a payment.",
     "sentence": "This is a ___.",
-    "hint": "这是：支付；报酬。"
+    "hint": "这是：支付；报酬。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2218",
@@ -48514,7 +50122,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can employment.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：工作。"
+    "hint": "我会/可以：工作。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2219",
@@ -48527,7 +50136,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a achievement.",
     "sentence": "This is a ___.",
-    "hint": "这是：成就。"
+    "hint": "这是：成就。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2220",
@@ -48540,7 +50150,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs widely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：广泛地；普遍地。"
+    "hint": "这里需要表示：广泛地；普遍地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2221",
@@ -48553,7 +50164,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs obviously.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：明显地；显而易见地。"
+    "hint": "这里需要表示：明显地；显而易见地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2222",
@@ -48566,7 +50178,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a berry.",
     "sentence": "This is a ___.",
-    "hint": "这是：浆果。"
+    "hint": "这是：浆果。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2223",
@@ -48579,7 +50192,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a workshop.",
     "sentence": "This is a ___.",
-    "hint": "这是：车间。"
+    "hint": "这是：车间。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2224",
@@ -48592,7 +50206,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a workout.",
     "sentence": "This is a ___.",
-    "hint": "这是：训练。"
+    "hint": "这是：训练。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2225",
@@ -48605,7 +50220,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a crane.",
     "sentence": "This is a ___.",
-    "hint": "这是：鹤。"
+    "hint": "这是：鹤。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2226",
@@ -48618,7 +50234,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is journal.",
     "sentence": "It is ___.",
-    "hint": "它是：杂志。"
+    "hint": "它是：杂志。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2227",
@@ -48631,7 +50248,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a scale.",
     "sentence": "This is a ___.",
-    "hint": "这是：级别，等级。"
+    "hint": "这是：级别，等级。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2228",
@@ -48644,7 +50262,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is essential.",
     "sentence": "It is ___.",
-    "hint": "它是：本质的。"
+    "hint": "它是：本质的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2229",
@@ -48657,7 +50276,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is objective.",
     "sentence": "It is ___.",
-    "hint": "它是：客观的。"
+    "hint": "它是：客观的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2230",
@@ -48670,7 +50290,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a motivate.",
     "sentence": "This is a ___.",
-    "hint": "这是：激励。"
+    "hint": "这是：激励。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2231",
@@ -48683,7 +50304,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can belief.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：相信。"
+    "hint": "我会/可以：相信。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2232",
@@ -48696,7 +50318,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a footstep.",
     "sentence": "This is a ___.",
-    "hint": "这是：足迹。"
+    "hint": "这是：足迹。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2233",
@@ -48709,7 +50332,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bookstore.",
     "sentence": "This is a ___.",
-    "hint": "这是：书店。"
+    "hint": "这是：书店。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2234",
@@ -48722,7 +50346,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a mass.",
     "sentence": "This is a ___.",
-    "hint": "这是：大量。"
+    "hint": "这是：大量。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2235",
@@ -48735,7 +50360,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a baseball.",
     "sentence": "This is a ___.",
-    "hint": "这是：棒球。"
+    "hint": "这是：棒球。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2236",
@@ -48748,7 +50374,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a distance.",
     "sentence": "This is a ___.",
-    "hint": "这是：距离；间距。"
+    "hint": "这是：距离；间距。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2237",
@@ -48761,7 +50388,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "It is silent.",
     "sentence": "It is ___.",
-    "hint": "它是：不说话的；沉默的。"
+    "hint": "它是：不说话的；沉默的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2238",
@@ -48774,7 +50402,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a update.",
     "sentence": "This is a ___.",
-    "hint": "这是：更新。"
+    "hint": "这是：更新。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2239",
@@ -48787,7 +50416,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a knock.",
     "sentence": "This is a ___.",
-    "hint": "这是：敲。"
+    "hint": "这是：敲。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2240",
@@ -48800,7 +50430,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a luck.",
     "sentence": "This is a ___.",
-    "hint": "这是：运气。"
+    "hint": "这是：运气。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2241",
@@ -48813,7 +50444,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a island.",
     "sentence": "This is a ___.",
-    "hint": "这是：岛。"
+    "hint": "这是：岛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2242",
@@ -48826,7 +50458,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a Ms.",
     "sentence": "This is a ___.",
-    "hint": "这是：（用于女子的形式或姓名前，不指明婚否）女士。"
+    "hint": "这是：（用于女子的形式或姓名前，不指明婚否）女士。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2243",
@@ -48839,7 +50472,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a attempt.",
     "sentence": "This is a ___.",
-    "hint": "这是：企图。"
+    "hint": "这是：企图。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2244",
@@ -48852,7 +50486,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a consequence.",
     "sentence": "This is a ___.",
-    "hint": "这是：后果，结果。"
+    "hint": "这是：后果，结果。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2245",
@@ -48865,7 +50500,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a guidance.",
     "sentence": "This is a ___.",
-    "hint": "这是：指导。"
+    "hint": "这是：指导。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2246",
@@ -48878,7 +50514,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is wet.",
     "sentence": "It is ___.",
-    "hint": "它是：湿的，潮湿的。"
+    "hint": "它是：湿的，潮湿的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2247",
@@ -48891,7 +50528,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a steam.",
     "sentence": "This is a ___.",
-    "hint": "这是：蒸汽。"
+    "hint": "这是：蒸汽。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2248",
@@ -48904,7 +50542,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a arrange.",
     "sentence": "This is a ___.",
-    "hint": "这是：安排。"
+    "hint": "这是：安排。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2249",
@@ -48917,7 +50556,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can aid.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：帮助；援助。"
+    "hint": "我会/可以：帮助；援助。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2250",
@@ -48930,7 +50570,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a debate.",
     "sentence": "This is a ___.",
-    "hint": "这是：辩论。"
+    "hint": "这是：辩论。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2251",
@@ -48943,7 +50584,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a nobody.",
     "sentence": "This is a ___.",
-    "hint": "这是：没有人。"
+    "hint": "这是：没有人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2252",
@@ -48956,7 +50598,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is humorous.",
     "sentence": "It is ___.",
-    "hint": "它是：有幽默感的；滑稽有趣的。"
+    "hint": "它是：有幽默感的；滑稽有趣的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2253",
@@ -48969,7 +50612,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is angry.",
     "sentence": "It is ___.",
-    "hint": "它是：生气的。"
+    "hint": "它是：生气的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2254",
@@ -48982,7 +50626,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a railway.",
     "sentence": "This is a ___.",
-    "hint": "这是：铁路。"
+    "hint": "这是：铁路。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2255",
@@ -48995,7 +50640,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pop.",
     "sentence": "This is a ___.",
-    "hint": "这是：流行音乐。"
+    "hint": "这是：流行音乐。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2256",
@@ -49008,7 +50654,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is indeed.",
     "sentence": "It is ___.",
-    "hint": "它是：的确，当然，确实。"
+    "hint": "它是：的确，当然，确实。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2257",
@@ -49021,7 +50668,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs slowly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：慢慢地。"
+    "hint": "这里需要表示：慢慢地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2258",
@@ -49034,7 +50682,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have seven books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：七。"
+    "hint": "数量是：七。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2259",
@@ -49047,7 +50696,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is black.",
     "sentence": "It is ___.",
-    "hint": "它是：黑色；黑色的。"
+    "hint": "它是：黑色；黑色的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2260",
@@ -49060,7 +50710,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "It is sunny.",
     "sentence": "It is ___.",
-    "hint": "它是：阳光充足的。"
+    "hint": "它是：阳光充足的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2261",
@@ -49073,7 +50724,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a explanation.",
     "sentence": "This is a ___.",
-    "hint": "这是：解释。"
+    "hint": "这是：解释。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2262",
@@ -49086,7 +50738,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a corn.",
     "sentence": "This is a ___.",
-    "hint": "这是：玉米。"
+    "hint": "这是：玉米。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2263",
@@ -49099,7 +50752,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a salt.",
     "sentence": "This is a ___.",
-    "hint": "这是：盐。"
+    "hint": "这是：盐。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2264",
@@ -49112,7 +50766,8 @@ window.VOCABULARY = [
     "category": "饮食生活",
     "example": "This is a rice.",
     "sentence": "This is a ___.",
-    "hint": "这是：米饭。"
+    "hint": "这是：米饭。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2265",
@@ -49125,7 +50780,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a banana.",
     "sentence": "This is a ___.",
-    "hint": "这是：香蕉。"
+    "hint": "这是：香蕉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2266",
@@ -49138,7 +50794,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bread.",
     "sentence": "This is a ___.",
-    "hint": "这是：面包。"
+    "hint": "这是：面包。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2267",
@@ -49151,7 +50808,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a crop.",
     "sentence": "This is a ___.",
-    "hint": "这是：庄稼。"
+    "hint": "这是：庄稼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2268",
@@ -49164,7 +50822,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a meat.",
     "sentence": "This is a ___.",
-    "hint": "这是：肉。"
+    "hint": "这是：肉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2269",
@@ -49177,7 +50836,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a monitor.",
     "sentence": "This is a ___.",
-    "hint": "这是：显示器。"
+    "hint": "这是：显示器。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2270",
@@ -49190,7 +50850,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is relative.",
     "sentence": "It is ___.",
-    "hint": "它是：亲属；亲戚。"
+    "hint": "它是：亲属；亲戚。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2271",
@@ -49203,7 +50864,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a waiter.",
     "sentence": "This is a ___.",
-    "hint": "这是：服务生。"
+    "hint": "这是：服务生。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2272",
@@ -49216,7 +50878,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a painter.",
     "sentence": "This is a ___.",
-    "hint": "这是：画家。"
+    "hint": "这是：画家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2273",
@@ -49229,7 +50892,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a instructor.",
     "sentence": "This is a ___.",
-    "hint": "这是：教练。"
+    "hint": "这是：教练。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2274",
@@ -49242,7 +50906,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is stable.",
     "sentence": "It is ___.",
-    "hint": "它是：稳定的。"
+    "hint": "它是：稳定的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2275",
@@ -49255,7 +50920,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a mobile.",
     "sentence": "This is a ___.",
-    "hint": "这是：手机。"
+    "hint": "这是：手机。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2276",
@@ -49268,7 +50934,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is ambiguous.",
     "sentence": "It is ___.",
-    "hint": "它是：模棱两可的。"
+    "hint": "它是：模棱两可的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2277",
@@ -49281,7 +50948,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is exact.",
     "sentence": "It is ___.",
-    "hint": "它是：精确的；准确的。"
+    "hint": "它是：精确的；准确的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2278",
@@ -49294,7 +50962,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a strengthen.",
     "sentence": "This is a ___.",
-    "hint": "这是：加强。"
+    "hint": "这是：加强。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2279",
@@ -49307,7 +50976,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a overcome.",
     "sentence": "This is a ___.",
-    "hint": "这是：克服；战胜。"
+    "hint": "这是：克服；战胜。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2280",
@@ -49320,7 +50990,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a adopt.",
     "sentence": "This is a ___.",
-    "hint": "这是：收养，领养。"
+    "hint": "这是：收养，领养。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2281",
@@ -49333,7 +51004,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a decorate.",
     "sentence": "This is a ___.",
-    "hint": "这是：装饰。"
+    "hint": "这是：装饰。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2282",
@@ -49346,7 +51018,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a admire.",
     "sentence": "This is a ___.",
-    "hint": "这是：钦佩。"
+    "hint": "这是：钦佩。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2283",
@@ -49359,7 +51032,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a breathe.",
     "sentence": "This is a ___.",
-    "hint": "这是：呼吸。"
+    "hint": "这是：呼吸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2284",
@@ -49372,7 +51046,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is spare.",
     "sentence": "It is ___.",
-    "hint": "它是：空闲的；不用的。"
+    "hint": "它是：空闲的；不用的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2285",
@@ -49385,7 +51060,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is additional.",
     "sentence": "It is ___.",
-    "hint": "它是：附加的。"
+    "hint": "它是：附加的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2286",
@@ -49398,7 +51074,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is pleased.",
     "sentence": "It is ___.",
-    "hint": "它是：开心的，高兴的。"
+    "hint": "它是：开心的，高兴的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2287",
@@ -49411,7 +51088,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a amuse.",
     "sentence": "This is a ___.",
-    "hint": "这是：娱乐。"
+    "hint": "这是：娱乐。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2288",
@@ -49424,7 +51102,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a marathon.",
     "sentence": "This is a ___.",
-    "hint": "这是：马拉松赛跑。"
+    "hint": "这是：马拉松赛跑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2289",
@@ -49437,7 +51116,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a leg.",
     "sentence": "This is a ___.",
-    "hint": "这是：腿。"
+    "hint": "这是：腿。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2290",
@@ -49450,7 +51130,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tooth.",
     "sentence": "This is a ___.",
-    "hint": "这是：牙齿(复数teeth)。"
+    "hint": "这是：牙齿(复数teeth)。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2291",
@@ -49463,7 +51144,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a awake.",
     "sentence": "This is a ___.",
-    "hint": "这是：醒着。"
+    "hint": "这是：醒着。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2292",
@@ -49476,7 +51158,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a disturb.",
     "sentence": "This is a ___.",
-    "hint": "这是：打扰；扰乱。"
+    "hint": "这是：打扰；扰乱。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2293",
@@ -49489,7 +51172,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a register.",
     "sentence": "This is a ___.",
-    "hint": "这是：注册。"
+    "hint": "这是：注册。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2294",
@@ -49502,7 +51186,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is understanding.",
     "sentence": "It is ___.",
-    "hint": "它是：善解人意的；体谅人的。"
+    "hint": "它是：善解人意的；体谅人的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2295",
@@ -49515,7 +51200,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a misunderstand.",
     "sentence": "This is a ___.",
-    "hint": "这是：误解。"
+    "hint": "这是：误解。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2296",
@@ -49528,7 +51214,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a soil.",
     "sentence": "This is a ___.",
-    "hint": "这是：泥土，土壤。"
+    "hint": "这是：泥土，土壤。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2297",
@@ -49541,7 +51228,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a sky.",
     "sentence": "This is a ___.",
-    "hint": "这是：天空。"
+    "hint": "这是：天空。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2298",
@@ -49554,7 +51242,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is rainy.",
     "sentence": "It is ___.",
-    "hint": "它是：阴雨的；多雨的。"
+    "hint": "它是：阴雨的；多雨的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2299",
@@ -49567,7 +51256,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a valley.",
     "sentence": "This is a ___.",
-    "hint": "这是：山谷。"
+    "hint": "这是：山谷。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2300",
@@ -49580,7 +51270,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a consumption.",
     "sentence": "This is a ___.",
-    "hint": "这是：消耗。"
+    "hint": "这是：消耗。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2301",
@@ -49593,7 +51284,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a evolution.",
     "sentence": "This is a ___.",
-    "hint": "这是：进化。"
+    "hint": "这是：进化。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2302",
@@ -49606,7 +51298,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a reflection.",
     "sentence": "This is a ___.",
-    "hint": "这是：反射。"
+    "hint": "这是：反射。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2303",
@@ -49619,7 +51312,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a volume.",
     "sentence": "This is a ___.",
-    "hint": "这是：音量；响度。"
+    "hint": "这是：音量；响度。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2304",
@@ -49632,7 +51326,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is platform.",
     "sentence": "It is ___.",
-    "hint": "它是：(供上下火车用的)月台；站台。"
+    "hint": "它是：(供上下火车用的)月台；站台。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2305",
@@ -49645,7 +51340,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bond.",
     "sentence": "This is a ___.",
-    "hint": "这是：纽带。"
+    "hint": "这是：纽带。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2306",
@@ -49658,7 +51354,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chain.",
     "sentence": "This is a ___.",
-    "hint": "这是：链子,链条。"
+    "hint": "这是：链子,链条。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2307",
@@ -49671,7 +51368,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a comfort.",
     "sentence": "This is a ___.",
-    "hint": "这是：安慰,舒服。"
+    "hint": "这是：安慰,舒服。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2308",
@@ -49684,7 +51382,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is harmful.",
     "sentence": "It is ___.",
-    "hint": "它是：有害的。"
+    "hint": "它是：有害的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2309",
@@ -49697,7 +51396,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is soft.",
     "sentence": "It is ___.",
-    "hint": "它是：柔软的。"
+    "hint": "它是：柔软的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2310",
@@ -49710,7 +51410,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a crime.",
     "sentence": "This is a ___.",
-    "hint": "这是：犯罪活动。"
+    "hint": "这是：犯罪活动。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2311",
@@ -49723,7 +51424,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dare.",
     "sentence": "This is a ___.",
-    "hint": "这是：激将,激。"
+    "hint": "这是：激将,激。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2312",
@@ -49736,7 +51438,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a employ.",
     "sentence": "This is a ___.",
-    "hint": "这是：雇佣。"
+    "hint": "这是：雇佣。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2313",
@@ -49749,7 +51452,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a quarter.",
     "sentence": "This is a ___.",
-    "hint": "这是：一刻，十五分钟。"
+    "hint": "这是：一刻，十五分钟。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2314",
@@ -49762,7 +51466,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a Christmas.",
     "sentence": "This is a ___.",
-    "hint": "这是：圣诞节。"
+    "hint": "这是：圣诞节。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2315",
@@ -49775,7 +51480,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a survey.",
     "sentence": "This is a ___.",
-    "hint": "这是：调查。"
+    "hint": "这是：调查。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2316",
@@ -49788,7 +51494,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chemistry.",
     "sentence": "This is a ___.",
-    "hint": "这是：化学。"
+    "hint": "这是：化学。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2317",
@@ -49801,7 +51508,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a container.",
     "sentence": "This is a ___.",
-    "hint": "这是：容器。"
+    "hint": "这是：容器。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2318",
@@ -49814,7 +51522,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs unfortunately.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：不幸地。"
+    "hint": "这里需要表示：不幸地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2319",
@@ -49827,7 +51536,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a fellow.",
     "sentence": "This is a ___.",
-    "hint": "这是：家伙，男人。"
+    "hint": "这是：家伙，男人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2320",
@@ -49840,7 +51550,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "He runs July.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：七月。"
+    "hint": "这里需要表示：七月。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2321",
@@ -49853,7 +51564,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a category.",
     "sentence": "This is a ___.",
-    "hint": "这是：种类，类别。"
+    "hint": "这是：种类，类别。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2322",
@@ -49866,7 +51578,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a inform.",
     "sentence": "This is a ___.",
-    "hint": "这是：告诉，通知。"
+    "hint": "这是：告诉，通知。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2323",
@@ -49879,7 +51592,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a advertise.",
     "sentence": "This is a ___.",
-    "hint": "这是：为……做广告。"
+    "hint": "这是：为……做广告。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2324",
@@ -49892,7 +51606,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a absorb.",
     "sentence": "This is a ___.",
-    "hint": "这是：吸收。"
+    "hint": "这是：吸收。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2325",
@@ -49905,7 +51620,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a conclude.",
     "sentence": "This is a ___.",
-    "hint": "这是：得出结论；断定。"
+    "hint": "这是：得出结论；断定。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2326",
@@ -49918,7 +51634,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is commercial.",
     "sentence": "It is ___.",
-    "hint": "它是：贸易的。"
+    "hint": "它是：贸易的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2327",
@@ -49931,7 +51648,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have none books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：没有人。"
+    "hint": "数量是：没有人。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2328",
@@ -49944,7 +51662,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a everywhere.",
     "sentence": "This is a ___.",
-    "hint": "这是：处处；到处。"
+    "hint": "这是：处处；到处。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2329",
@@ -49957,7 +51676,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a everybody.",
     "sentence": "This is a ___.",
-    "hint": "这是：每个人，人人。"
+    "hint": "这是：每个人，人人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2330",
@@ -49970,7 +51690,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a apologise.",
     "sentence": "This is a ___.",
-    "hint": "这是：认错；道歉。"
+    "hint": "这是：认错；道歉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2331",
@@ -49983,7 +51704,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is careful.",
     "sentence": "It is ___.",
-    "hint": "它是：小心的。"
+    "hint": "它是：小心的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2332",
@@ -49996,7 +51718,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is favourite.",
     "sentence": "It is ___.",
-    "hint": "它是：特别喜爱的。"
+    "hint": "它是：特别喜爱的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2333",
@@ -50009,7 +51732,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "This is a delight.",
     "sentence": "This is a ___.",
-    "hint": "这是：高兴。"
+    "hint": "这是：高兴。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2334",
@@ -50022,7 +51746,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is delicious.",
     "sentence": "It is ___.",
-    "hint": "它是：美味的；可口的。"
+    "hint": "它是：美味的；可口的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2335",
@@ -50035,7 +51760,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a recipe.",
     "sentence": "This is a ___.",
-    "hint": "这是：食谱。"
+    "hint": "这是：食谱。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2336",
@@ -50048,7 +51774,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a atmosphere.",
     "sentence": "This is a ___.",
-    "hint": "这是：大气层。"
+    "hint": "这是：大气层。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2337",
@@ -50061,7 +51788,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is excited.",
     "sentence": "It is ___.",
-    "hint": "它是：兴奋的；激动的。"
+    "hint": "它是：兴奋的；激动的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2338",
@@ -50074,7 +51802,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is shocked.",
     "sentence": "It is ___.",
-    "hint": "它是：惊愕的；受震惊的。"
+    "hint": "它是：惊愕的；受震惊的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2339",
@@ -50087,7 +51816,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a officer.",
     "sentence": "This is a ___.",
-    "hint": "这是：警官。"
+    "hint": "这是：警官。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2340",
@@ -50100,7 +51830,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a grandmother.",
     "sentence": "This is a ___.",
-    "hint": "这是：（外）祖母。"
+    "hint": "这是：（外）祖母。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2341",
@@ -50113,7 +51844,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is electronic.",
     "sentence": "It is ___.",
-    "hint": "它是：电子的；电子设备的。"
+    "hint": "它是：电子的；电子设备的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2342",
@@ -50126,7 +51858,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a mouse.",
     "sentence": "This is a ___.",
-    "hint": "这是：老鼠。"
+    "hint": "这是：老鼠。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2343",
@@ -50139,7 +51872,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a lift.",
     "sentence": "This is a ___.",
-    "hint": "这是：电梯。"
+    "hint": "这是：电梯。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2344",
@@ -50152,7 +51886,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a weigh.",
     "sentence": "This is a ___.",
-    "hint": "这是：重量是……。"
+    "hint": "这是：重量是……。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2345",
@@ -50165,7 +51900,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ton.",
     "sentence": "This is a ___.",
-    "hint": "这是：吨；(pl.)大量；许多。"
+    "hint": "这是：吨；(pl.)大量；许多。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2346",
@@ -50178,7 +51914,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs zone.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地带，区域。"
+    "hint": "这里需要表示：地带，区域。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2347",
@@ -50191,7 +51928,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pole.",
     "sentence": "This is a ___.",
-    "hint": "这是：棒，杆。"
+    "hint": "这是：棒，杆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2348",
@@ -50204,7 +51942,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is academic.",
     "sentence": "It is ___.",
-    "hint": "它是：学术的。"
+    "hint": "它是：学术的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2349",
@@ -50217,7 +51956,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a agency.",
     "sentence": "This is a ___.",
-    "hint": "这是：机关；代理机构。"
+    "hint": "这是：机关；代理机构。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2350",
@@ -50230,7 +51970,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a construct.",
     "sentence": "This is a ___.",
-    "hint": "这是：建造，构筑；组成。"
+    "hint": "这是：建造，构筑；组成。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2351",
@@ -50243,7 +51984,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a apart.",
     "sentence": "This is a ___.",
-    "hint": "这是：分离；分开。"
+    "hint": "这是：分离；分开。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2352",
@@ -50256,7 +51998,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a divide.",
     "sentence": "This is a ___.",
-    "hint": "这是：分开；分散。"
+    "hint": "这是：分开；分散。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2353",
@@ -50269,7 +52012,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a interrupt.",
     "sentence": "This is a ___.",
-    "hint": "这是：插话，打断。"
+    "hint": "这是：插话，打断。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2354",
@@ -50282,7 +52026,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is dislike.",
     "sentence": "It is ___.",
-    "hint": "它是：不喜爱（的某物）；厌恶（的事物）。"
+    "hint": "它是：不喜爱（的某物）；厌恶（的事物）。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2355",
@@ -50295,7 +52040,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a strike.",
     "sentence": "This is a ___.",
-    "hint": "这是：敲(钟),报(时)。"
+    "hint": "这是：敲(钟),报(时)。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2356",
@@ -50308,7 +52054,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a permit.",
     "sentence": "This is a ___.",
-    "hint": "这是：许可证。"
+    "hint": "这是：许可证。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2357",
@@ -50321,7 +52068,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a shot.",
     "sentence": "This is a ___.",
-    "hint": "这是：（shoot的过去式） 投（篮）， 射（门）。"
+    "hint": "这是：（shoot的过去式） 投（篮）， 射（门）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2358",
@@ -50334,7 +52082,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a predict.",
     "sentence": "This is a ___.",
-    "hint": "这是：预测。"
+    "hint": "这是：预测。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2359",
@@ -50347,7 +52096,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a adjust.",
     "sentence": "This is a ___.",
-    "hint": "这是：调整。"
+    "hint": "这是：调整。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2360",
@@ -50360,7 +52110,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs destination.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：目的地；终点。"
+    "hint": "这里需要表示：目的地；终点。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2361",
@@ -50373,7 +52124,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fuel.",
     "sentence": "This is a ___.",
-    "hint": "这是：燃料。"
+    "hint": "这是：燃料。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2362",
@@ -50386,7 +52138,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a regulation.",
     "sentence": "This is a ___.",
-    "hint": "这是：章程。"
+    "hint": "这是：章程。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2363",
@@ -50399,7 +52152,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a grammar.",
     "sentence": "This is a ___.",
-    "hint": "这是：语法。"
+    "hint": "这是：语法。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2364",
@@ -50412,7 +52166,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a instrument.",
     "sentence": "This is a ___.",
-    "hint": "这是：器械；仪器；工具。"
+    "hint": "这是：器械；仪器；工具。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2365",
@@ -50425,7 +52180,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is loud.",
     "sentence": "It is ___.",
-    "hint": "它是：喧闹的；大声的。"
+    "hint": "它是：喧闹的；大声的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2366",
@@ -50438,7 +52194,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a constant.",
     "sentence": "This is a ___.",
-    "hint": "这是：常数。"
+    "hint": "这是：常数。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2367",
@@ -50451,7 +52208,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a opposite.",
     "sentence": "This is a ___.",
-    "hint": "这是：对面。"
+    "hint": "这是：对面。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2368",
@@ -50464,7 +52222,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is beneficial.",
     "sentence": "It is ___.",
-    "hint": "它是：有益的。"
+    "hint": "它是：有益的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2369",
@@ -50477,7 +52236,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a danger.",
     "sentence": "This is a ___.",
-    "hint": "这是：危险。"
+    "hint": "这是：危险。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2370",
@@ -50490,7 +52250,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cure.",
     "sentence": "This is a ___.",
-    "hint": "这是：治愈，治疗。"
+    "hint": "这是：治愈，治疗。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2371",
@@ -50503,7 +52264,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a shade.",
     "sentence": "This is a ___.",
-    "hint": "这是：树荫，阴凉处；遮光物。"
+    "hint": "这是：树荫，阴凉处；遮光物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2372",
@@ -50516,7 +52278,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is orange.",
     "sentence": "It is ___.",
-    "hint": "它是：橙色；橙色的。"
+    "hint": "它是：橙色；橙色的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2373",
@@ -50529,7 +52292,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is asleep.",
     "sentence": "It is ___.",
-    "hint": "它是：睡着的。"
+    "hint": "它是：睡着的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2374",
@@ -50542,7 +52306,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a stream.",
     "sentence": "This is a ___.",
-    "hint": "这是：小河，溪。"
+    "hint": "这是：小河，溪。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2375",
@@ -50555,7 +52320,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "It is double.",
     "sentence": "It is ___.",
-    "hint": "它是：加倍；是……的两倍。"
+    "hint": "它是：加倍；是……的两倍。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2376",
@@ -50568,7 +52334,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tomorrow.",
     "sentence": "This is a ___.",
-    "hint": "这是：明天。"
+    "hint": "这是：明天。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2377",
@@ -50581,7 +52348,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs merely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：仅仅。"
+    "hint": "这里需要表示：仅仅。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2378",
@@ -50594,7 +52362,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a crash.",
     "sentence": "This is a ___.",
-    "hint": "这是：碰撞。"
+    "hint": "这是：碰撞。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2379",
@@ -50607,7 +52376,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is ordinary.",
     "sentence": "It is ___.",
-    "hint": "它是：普通的，平常的。"
+    "hint": "它是：普通的，平常的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2380",
@@ -50620,7 +52390,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is aggressive.",
     "sentence": "It is ___.",
-    "hint": "它是：侵略性的。"
+    "hint": "它是：侵略性的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2381",
@@ -50633,7 +52404,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is fantastic.",
     "sentence": "It is ___.",
-    "hint": "它是：极好的。"
+    "hint": "它是：极好的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2382",
@@ -50646,7 +52418,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is secure.",
     "sentence": "It is ___.",
-    "hint": "它是：安全的。"
+    "hint": "它是：安全的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2383",
@@ -50659,7 +52432,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a security.",
     "sentence": "This is a ___.",
-    "hint": "这是：安全；保证。"
+    "hint": "这是：安全；保证。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2384",
@@ -50672,7 +52446,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can assist.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：帮助。"
+    "hint": "我会/可以：帮助。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2385",
@@ -50685,7 +52460,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can resolve.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：决定。"
+    "hint": "我会/可以：决定。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2386",
@@ -50698,7 +52474,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a maintain.",
     "sentence": "This is a ___.",
-    "hint": "这是：维持。"
+    "hint": "这是：维持。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2387",
@@ -50711,7 +52488,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a commit.",
     "sentence": "This is a ___.",
-    "hint": "这是：犯（罪）。"
+    "hint": "这是：犯（罪）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2388",
@@ -50724,7 +52502,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can deserve.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：应得到，值得。"
+    "hint": "我会/可以：应得到，值得。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2389",
@@ -50737,7 +52516,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is emotional.",
     "sentence": "It is ___.",
-    "hint": "它是：感情的。"
+    "hint": "它是：感情的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2390",
@@ -50750,7 +52530,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a antique.",
     "sentence": "This is a ___.",
-    "hint": "这是：古董，古玩。"
+    "hint": "这是：古董，古玩。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2391",
@@ -50763,7 +52544,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is glad.",
     "sentence": "It is ___.",
-    "hint": "它是：乐意的；高兴的。"
+    "hint": "它是：乐意的；高兴的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2392",
@@ -50776,7 +52558,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs deeply.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：深深地。"
+    "hint": "这里需要表示：深深地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2393",
@@ -50789,7 +52572,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs apparently.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：明显地。"
+    "hint": "这里需要表示：明显地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2394",
@@ -50802,7 +52586,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a flow.",
     "sentence": "This is a ___.",
-    "hint": "这是：流，流动。"
+    "hint": "这是：流，流动。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2395",
@@ -50815,7 +52600,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a blame.",
     "sentence": "This is a ___.",
-    "hint": "这是：责备。"
+    "hint": "这是：责备。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2396",
@@ -50828,7 +52614,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can ruin.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：（使）毁灭；（使）毁损。"
+    "hint": "我会/可以：（使）毁灭；（使）毁损。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2397",
@@ -50841,7 +52628,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a lend.",
     "sentence": "This is a ___.",
-    "hint": "这是：借给；借出。"
+    "hint": "这是：借给；借出。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2398",
@@ -50854,7 +52642,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have pretend books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：假装，装扮。"
+    "hint": "数量是：假装，装扮。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2399",
@@ -50867,7 +52656,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a interact.",
     "sentence": "This is a ___.",
-    "hint": "这是：互动。"
+    "hint": "这是：互动。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2400",
@@ -50880,7 +52670,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a absent.",
     "sentence": "This is a ___.",
-    "hint": "这是：缺席；不在。"
+    "hint": "这是：缺席；不在。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2401",
@@ -50893,7 +52684,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a exam.",
     "sentence": "This is a ___.",
-    "hint": "这是：考试。"
+    "hint": "这是：考试。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2402",
@@ -50906,7 +52698,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a librarian.",
     "sentence": "This is a ___.",
-    "hint": "这是：图书管理员；图书馆馆长。"
+    "hint": "这是：图书管理员；图书馆馆长。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2403",
@@ -50919,7 +52712,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sadness.",
     "sentence": "This is a ___.",
-    "hint": "这是：悲伤；悲痛。"
+    "hint": "这是：悲伤；悲痛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2404",
@@ -50932,7 +52726,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a aside.",
     "sentence": "This is a ___.",
-    "hint": "这是：除……之外；在旁边。"
+    "hint": "这是：除……之外；在旁边。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2405",
@@ -50945,7 +52740,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a T-shirt.",
     "sentence": "This is a ___.",
-    "hint": "这是：T恤衫；短袖圆领汗衫。"
+    "hint": "这是：T恤衫；短袖圆领汗衫。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2406",
@@ -50958,7 +52754,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tourism.",
     "sentence": "This is a ___.",
-    "hint": "这是：旅游业；观光。"
+    "hint": "这是：旅游业；观光。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2407",
@@ -50971,7 +52768,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is southern.",
     "sentence": "It is ___.",
-    "hint": "它是：南方的。"
+    "hint": "它是：南方的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2408",
@@ -50984,7 +52782,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a highway.",
     "sentence": "This is a ___.",
-    "hint": "这是：公路。"
+    "hint": "这是：公路。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2409",
@@ -50997,7 +52796,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a income.",
     "sentence": "This is a ___.",
-    "hint": "这是：收入。"
+    "hint": "这是：收入。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2410",
@@ -51010,7 +52810,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is inspiration.",
     "sentence": "It is ___.",
-    "hint": "它是：灵感；鼓舞人心的人（或事物）。"
+    "hint": "它是：灵感；鼓舞人心的人（或事物）。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2411",
@@ -51023,7 +52824,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a version.",
     "sentence": "This is a ___.",
-    "hint": "这是：版本。"
+    "hint": "这是：版本。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2412",
@@ -51036,7 +52838,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a error.",
     "sentence": "This is a ___.",
-    "hint": "这是：错误。"
+    "hint": "这是：错误。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2413",
@@ -51049,7 +52852,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is tight.",
     "sentence": "It is ___.",
-    "hint": "它是：紧身的。"
+    "hint": "它是：紧身的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2414",
@@ -51062,7 +52866,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is injury.",
     "sentence": "It is ___.",
-    "hint": "它是：（对躯体的）伤害，损伤。"
+    "hint": "它是：（对躯体的）伤害，损伤。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2415",
@@ -51075,7 +52880,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a metre.",
     "sentence": "This is a ___.",
-    "hint": "这是：米。"
+    "hint": "这是：米。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2416",
@@ -51088,7 +52894,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is rude.",
     "sentence": "It is ___.",
-    "hint": "它是：粗鲁的，无礼的。"
+    "hint": "它是：粗鲁的，无礼的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2417",
@@ -51101,7 +52908,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a behave.",
     "sentence": "This is a ___.",
-    "hint": "这是：表现；举止。"
+    "hint": "这是：表现；举止。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2418",
@@ -51114,7 +52922,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is strict.",
     "sentence": "It is ___.",
-    "hint": "它是：要求严格的；严厉的。"
+    "hint": "它是：要求严格的；严厉的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2419",
@@ -51127,7 +52936,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bathroom.",
     "sentence": "This is a ___.",
-    "hint": "这是：浴室;洗手间。"
+    "hint": "这是：浴室;洗手间。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2420",
@@ -51140,7 +52950,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a shelf.",
     "sentence": "This is a ___.",
-    "hint": "这是：书架。"
+    "hint": "这是：书架。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2421",
@@ -51153,7 +52964,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have telephone books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：电话。"
+    "hint": "数量是：电话。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2422",
@@ -51166,7 +52978,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pilot.",
     "sentence": "This is a ___.",
-    "hint": "这是：飞行员。"
+    "hint": "这是：飞行员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2423",
@@ -51179,7 +52992,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a king.",
     "sentence": "This is a ___.",
-    "hint": "这是：国王。"
+    "hint": "这是：国王。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2424",
@@ -51192,7 +53006,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is ancient.",
     "sentence": "It is ___.",
-    "hint": "它是：古代的。"
+    "hint": "它是：古代的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2425",
@@ -51205,7 +53020,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a male.",
     "sentence": "This is a ___.",
-    "hint": "这是：男性，雄性。"
+    "hint": "这是：男性，雄性。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2426",
@@ -51218,7 +53034,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs district.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地区，区域。"
+    "hint": "这里需要表示：地区，区域。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2427",
@@ -51231,7 +53048,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a desert.",
     "sentence": "This is a ___.",
-    "hint": "这是：沙漠。"
+    "hint": "这是：沙漠。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2428",
@@ -51244,7 +53062,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a zoo.",
     "sentence": "This is a ___.",
-    "hint": "这是：动物园。"
+    "hint": "这是：动物园。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2429",
@@ -51257,7 +53076,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a presentation.",
     "sentence": "This is a ___.",
-    "hint": "这是：介绍；陈述。"
+    "hint": "这是：介绍；陈述。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2430",
@@ -51270,7 +53090,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a authority.",
     "sentence": "This is a ___.",
-    "hint": "这是：(常用复数)当局。"
+    "hint": "这是：(常用复数)当局。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2431",
@@ -51283,7 +53104,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a permission.",
     "sentence": "This is a ___.",
-    "hint": "这是：准许；批准。"
+    "hint": "这是：准许；批准。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2432",
@@ -51296,7 +53118,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a afford.",
     "sentence": "This is a ___.",
-    "hint": "这是：承担得起（后果）；买得起。"
+    "hint": "这是：承担得起（后果）；买得起。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2433",
@@ -51309,7 +53132,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cancel.",
     "sentence": "This is a ___.",
-    "hint": "这是：取消；终止。"
+    "hint": "这是：取消；终止。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2434",
@@ -51322,7 +53146,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bother.",
     "sentence": "This is a ___.",
-    "hint": "这是：打扰。"
+    "hint": "这是：打扰。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2435",
@@ -51335,7 +53160,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is freezing.",
     "sentence": "It is ___.",
-    "hint": "它是：极冷的；冰冻的。"
+    "hint": "它是：极冷的；冰冻的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2436",
@@ -51348,7 +53174,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can helpful.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：肯帮忙的，给予帮助的。"
+    "hint": "我会/可以：肯帮忙的，给予帮助的。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2437",
@@ -51361,7 +53188,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a overnight.",
     "sentence": "This is a ___.",
-    "hint": "这是：一夜之间；在夜间。"
+    "hint": "这是：一夜之间；在夜间。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2438",
@@ -51374,7 +53202,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tonight.",
     "sentence": "This is a ___.",
-    "hint": "这是：在今晚。"
+    "hint": "这是：在今晚。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2439",
@@ -51387,7 +53216,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a salad.",
     "sentence": "This is a ___.",
-    "hint": "这是：蔬菜沙拉；混合沙拉。"
+    "hint": "这是：蔬菜沙拉；混合沙拉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2440",
@@ -51400,7 +53230,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a plate.",
     "sentence": "This is a ___.",
-    "hint": "这是：盘子。"
+    "hint": "这是：盘子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2441",
@@ -51413,7 +53244,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wine.",
     "sentence": "This is a ___.",
-    "hint": "这是：葡萄酒。"
+    "hint": "这是：葡萄酒。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2442",
@@ -51426,7 +53258,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a dessert.",
     "sentence": "This is a ___.",
-    "hint": "这是：甜点。"
+    "hint": "这是：甜点。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2443",
@@ -51439,7 +53272,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cake.",
     "sentence": "This is a ___.",
-    "hint": "这是：蛋糕。"
+    "hint": "这是：蛋糕。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2444",
@@ -51452,7 +53286,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a bottle.",
     "sentence": "This is a ___.",
-    "hint": "这是：瓶子。"
+    "hint": "这是：瓶子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2445",
@@ -51465,7 +53300,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a suspect.",
     "sentence": "This is a ___.",
-    "hint": "这是：犯罪嫌疑人。"
+    "hint": "这是：犯罪嫌疑人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2446",
@@ -51478,7 +53314,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a declare.",
     "sentence": "This is a ___.",
-    "hint": "这是：（向海关）申报。"
+    "hint": "这是：（向海关）申报。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2447",
@@ -51491,7 +53328,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a shake.",
     "sentence": "This is a ___.",
-    "hint": "这是：摇动；震动。"
+    "hint": "这是：摇动；震动。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2448",
@@ -51504,7 +53342,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a nod.",
     "sentence": "This is a ___.",
-    "hint": "这是：点头。"
+    "hint": "这是：点头。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2449",
@@ -51517,7 +53356,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a greet.",
     "sentence": "This is a ___.",
-    "hint": "这是：问候。"
+    "hint": "这是：问候。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2450",
@@ -51530,7 +53370,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a shoot.",
     "sentence": "This is a ___.",
-    "hint": "这是：射门。"
+    "hint": "这是：射门。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2451",
@@ -51543,7 +53384,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a guess.",
     "sentence": "This is a ___.",
-    "hint": "这是：猜。"
+    "hint": "这是：猜。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2452",
@@ -51556,7 +53398,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a scare.",
     "sentence": "This is a ___.",
-    "hint": "这是：惊吓；受惊。"
+    "hint": "这是：惊吓；受惊。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2453",
@@ -51569,7 +53412,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a score.",
     "sentence": "This is a ___.",
-    "hint": "这是：得分；进球。"
+    "hint": "这是：得分；进球。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2454",
@@ -51582,7 +53426,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is painful.",
     "sentence": "It is ___.",
-    "hint": "它是：疼痛的。"
+    "hint": "它是：疼痛的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2455",
@@ -51595,7 +53440,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is cautious.",
     "sentence": "It is ___.",
-    "hint": "它是：小心的。"
+    "hint": "它是：小心的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2456",
@@ -51608,7 +53454,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is normal.",
     "sentence": "It is ___.",
-    "hint": "它是：正常的；一般的。"
+    "hint": "它是：正常的；一般的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2457",
@@ -51621,7 +53468,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a anxiety.",
     "sentence": "This is a ___.",
-    "hint": "这是：焦虑。"
+    "hint": "这是：焦虑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2458",
@@ -51634,7 +53482,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a expense.",
     "sentence": "This is a ___.",
-    "hint": "这是：费用。"
+    "hint": "这是：费用。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2459",
@@ -51647,7 +53496,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a session.",
     "sentence": "This is a ___.",
-    "hint": "这是：一场。"
+    "hint": "这是：一场。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2460",
@@ -51660,7 +53510,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a expectation.",
     "sentence": "This is a ___.",
-    "hint": "这是：预料。"
+    "hint": "这是：预料。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2461",
@@ -51673,7 +53524,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a suggestion.",
     "sentence": "This is a ___.",
-    "hint": "这是：建议。"
+    "hint": "这是：建议。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2462",
@@ -51686,7 +53538,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a forever.",
     "sentence": "This is a ___.",
-    "hint": "这是：永远。"
+    "hint": "这是：永远。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2463",
@@ -51699,7 +53552,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is alive.",
     "sentence": "It is ___.",
-    "hint": "它是：活着的。"
+    "hint": "它是：活着的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2464",
@@ -51712,7 +53566,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a hurry.",
     "sentence": "This is a ___.",
-    "hint": "这是：匆忙；赶紧。"
+    "hint": "这是：匆忙；赶紧。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2465",
@@ -51725,7 +53580,8 @@ window.VOCABULARY = [
     "category": "交通旅行",
     "example": "This is a row.",
     "sentence": "This is a ___.",
-    "hint": "这是：划船。"
+    "hint": "这是：划船。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2466",
@@ -51738,7 +53594,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a lock.",
     "sentence": "This is a ___.",
-    "hint": "这是：锁上。"
+    "hint": "这是：锁上。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2467",
@@ -51751,7 +53608,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a rent.",
     "sentence": "This is a ___.",
-    "hint": "这是：租借；出租。"
+    "hint": "这是：租借；出租。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2468",
@@ -51764,7 +53622,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a witness.",
     "sentence": "This is a ___.",
-    "hint": "这是：目击者；证人。"
+    "hint": "这是：目击者；证人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2469",
@@ -51777,7 +53636,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a gas.",
     "sentence": "This is a ___.",
-    "hint": "这是：气体。"
+    "hint": "这是：气体。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2470",
@@ -51790,7 +53650,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is technical.",
     "sentence": "It is ___.",
-    "hint": "它是：技术的。"
+    "hint": "它是：技术的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2471",
@@ -51803,7 +53664,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a robot.",
     "sentence": "This is a ___.",
-    "hint": "这是：机器人。"
+    "hint": "这是：机器人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2472",
@@ -51816,7 +53678,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is artificial.",
     "sentence": "It is ___.",
-    "hint": "它是：人工的。"
+    "hint": "它是：人工的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2473",
@@ -51829,7 +53692,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a participate.",
     "sentence": "This is a ___.",
-    "hint": "这是：参加。"
+    "hint": "这是：参加。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2474",
@@ -51842,7 +53706,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a expand.",
     "sentence": "This is a ___.",
-    "hint": "这是：变大，膨胀。"
+    "hint": "这是：变大，膨胀。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2475",
@@ -51855,7 +53720,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is primary.",
     "sentence": "It is ___.",
-    "hint": "它是：初级的，初等的；小学的。"
+    "hint": "它是：初级的，初等的；小学的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2476",
@@ -51868,7 +53734,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a educate.",
     "sentence": "This is a ___.",
-    "hint": "这是：教育；教导。"
+    "hint": "这是：教育；教导。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2477",
@@ -51881,7 +53748,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a calculate.",
     "sentence": "This is a ___.",
-    "hint": "这是：计算。"
+    "hint": "这是：计算。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2478",
@@ -51894,7 +53762,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a consult.",
     "sentence": "This is a ___.",
-    "hint": "这是：请教，查阅。"
+    "hint": "这是：请教，查阅。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2479",
@@ -51907,7 +53776,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a translate.",
     "sentence": "This is a ___.",
-    "hint": "这是：翻译。"
+    "hint": "这是：翻译。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2480",
@@ -51920,7 +53790,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a plenty.",
     "sentence": "This is a ___.",
-    "hint": "这是：大量；众多。"
+    "hint": "这是：大量；众多。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2481",
@@ -51933,7 +53804,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a percentage.",
     "sentence": "This is a ___.",
-    "hint": "这是：百分率；百分数。"
+    "hint": "这是：百分率；百分数。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2482",
@@ -51946,7 +53818,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is rare.",
     "sentence": "It is ___.",
-    "hint": "它是：罕见的，稀有的。"
+    "hint": "它是：罕见的，稀有的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2483",
@@ -51959,7 +53832,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is entire.",
     "sentence": "It is ___.",
-    "hint": "它是：全部的；整个的。"
+    "hint": "它是：全部的；整个的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2484",
@@ -51972,7 +53846,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is practical.",
     "sentence": "It is ___.",
-    "hint": "它是：有用的；适用的。"
+    "hint": "它是：有用的；适用的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2485",
@@ -51985,7 +53860,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is precious.",
     "sentence": "It is ___.",
-    "hint": "它是：宝贵的，珍贵的。"
+    "hint": "它是：宝贵的，珍贵的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2486",
@@ -51998,7 +53874,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is worse.",
     "sentence": "It is ___.",
-    "hint": "它是：更糟糕的，更坏的。"
+    "hint": "它是：更糟糕的，更坏的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2487",
@@ -52011,7 +53888,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dentist.",
     "sentence": "This is a ___.",
-    "hint": "这是：牙医。"
+    "hint": "这是：牙医。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2488",
@@ -52024,7 +53902,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a surround.",
     "sentence": "This is a ___.",
-    "hint": "这是：围绕，环绕。"
+    "hint": "这是：围绕，环绕。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2489",
@@ -52037,7 +53916,8 @@ window.VOCABULARY = [
     "category": "场所方位",
     "example": "This is a furniture.",
     "sentence": "This is a ___.",
-    "hint": "这是：家具。"
+    "hint": "这是：家具。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2490",
@@ -52050,7 +53930,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ring.",
     "sentence": "This is a ___.",
-    "hint": "这是：响铃；按铃。"
+    "hint": "这是：响铃；按铃。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2491",
@@ -52063,7 +53944,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a harm.",
     "sentence": "This is a ___.",
-    "hint": "这是：伤害；损害。"
+    "hint": "这是：伤害；损害。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2492",
@@ -52076,7 +53958,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a creature.",
     "sentence": "This is a ___.",
-    "hint": "这是：生物；动物。"
+    "hint": "这是：生物；动物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2493",
@@ -52089,7 +53972,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a mouth.",
     "sentence": "This is a ___.",
-    "hint": "这是：嘴。"
+    "hint": "这是：嘴。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2494",
@@ -52102,7 +53986,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is routine.",
     "sentence": "It is ___.",
-    "hint": "它是：固定的程序；常规。"
+    "hint": "它是：固定的程序；常规。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2495",
@@ -52115,7 +54000,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a breakdown.",
     "sentence": "This is a ___.",
-    "hint": "这是：崩溃。"
+    "hint": "这是：崩溃。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2496",
@@ -52128,7 +54014,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is eager.",
     "sentence": "It is ___.",
-    "hint": "它是：热切的，热情的。"
+    "hint": "它是：热切的，热情的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2497",
@@ -52141,7 +54028,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is thick.",
     "sentence": "It is ___.",
-    "hint": "它是：厚的；粗的。"
+    "hint": "它是：厚的；粗的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2498",
@@ -52154,7 +54042,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a extreme.",
     "sentence": "This is a ___.",
-    "hint": "这是：极端。"
+    "hint": "这是：极端。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2499",
@@ -52167,7 +54056,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a jam.",
     "sentence": "This is a ___.",
-    "hint": "这是：果酱。"
+    "hint": "这是：果酱。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2500",
@@ -52180,7 +54070,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a chess.",
     "sentence": "This is a ___.",
-    "hint": "这是：（国际）象棋。"
+    "hint": "这是：（国际）象棋。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2501",
@@ -52193,7 +54084,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cream.",
     "sentence": "This is a ___.",
-    "hint": "这是：奶油；乳脂。"
+    "hint": "这是：奶油；乳脂。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2502",
@@ -52206,7 +54098,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pie.",
     "sentence": "This is a ___.",
-    "hint": "这是：馅饼。"
+    "hint": "这是：馅饼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2503",
@@ -52219,7 +54112,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a bowl.",
     "sentence": "This is a ___.",
-    "hint": "这是：碗。"
+    "hint": "这是：碗。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2504",
@@ -52232,7 +54126,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a nutrition.",
     "sentence": "This is a ___.",
-    "hint": "这是：营养。"
+    "hint": "这是：营养。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2505",
@@ -52245,7 +54140,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bacterium.",
     "sentence": "This is a ___.",
-    "hint": "这是：细菌。"
+    "hint": "这是：细菌。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2506",
@@ -52258,7 +54154,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a oxygen.",
     "sentence": "This is a ___.",
-    "hint": "这是：氧气。"
+    "hint": "这是：氧气。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2507",
@@ -52271,7 +54168,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a faith.",
     "sentence": "This is a ___.",
-    "hint": "这是：信任。"
+    "hint": "这是：信任。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2508",
@@ -52284,7 +54182,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a patience.",
     "sentence": "This is a ___.",
-    "hint": "这是：耐心。"
+    "hint": "这是：耐心。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2509",
@@ -52297,7 +54196,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is brief.",
     "sentence": "It is ___.",
-    "hint": "它是：简单的；短暂的。"
+    "hint": "它是：简单的；短暂的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2510",
@@ -52310,7 +54210,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is actual.",
     "sentence": "It is ___.",
-    "hint": "它是：实际的，真实的。"
+    "hint": "它是：实际的，真实的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2511",
@@ -52323,7 +54224,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is automatic.",
     "sentence": "It is ___.",
-    "hint": "它是：自动的。"
+    "hint": "它是：自动的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2512",
@@ -52336,7 +54238,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a magic.",
     "sentence": "This is a ___.",
-    "hint": "这是：魔术，戏法。"
+    "hint": "这是：魔术，戏法。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2513",
@@ -52349,7 +54252,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is limited.",
     "sentence": "It is ___.",
-    "hint": "它是：有限的。"
+    "hint": "它是：有限的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2514",
@@ -52362,7 +54266,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a somebody.",
     "sentence": "This is a ___.",
-    "hint": "这是：某人。"
+    "hint": "这是：某人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2515",
@@ -52375,7 +54280,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is budget.",
     "sentence": "It is ___.",
-    "hint": "它是：预算（款）；（供某种用的）专款。"
+    "hint": "它是：预算（款）；（供某种用的）专款。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2516",
@@ -52388,7 +54294,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a committee.",
     "sentence": "This is a ___.",
-    "hint": "这是：委员会。"
+    "hint": "这是：委员会。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2517",
@@ -52401,7 +54308,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is civil.",
     "sentence": "It is ___.",
-    "hint": "它是：公民的。"
+    "hint": "它是：公民的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2518",
@@ -52414,7 +54322,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a scream.",
     "sentence": "This is a ___.",
-    "hint": "这是：尖声喊叫。"
+    "hint": "这是：尖声喊叫。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2519",
@@ -52427,7 +54336,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "It is dive.",
     "sentence": "It is ___.",
-    "hint": "它是：跳水；俯冲。"
+    "hint": "它是：跳水；俯冲。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2520",
@@ -52440,7 +54350,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a whisper.",
     "sentence": "This is a ___.",
-    "hint": "这是：小声说，耳语，低语。"
+    "hint": "这是：小声说，耳语，低语。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2521",
@@ -52453,7 +54364,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cheat.",
     "sentence": "This is a ___.",
-    "hint": "这是：欺骗；蒙骗。"
+    "hint": "这是：欺骗；蒙骗。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2522",
@@ -52466,7 +54378,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a hesitate.",
     "sentence": "This is a ___.",
-    "hint": "这是：犹豫，迟疑。"
+    "hint": "这是：犹豫，迟疑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2523",
@@ -52479,7 +54392,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a distinguish.",
     "sentence": "This is a ___.",
-    "hint": "这是：区分。"
+    "hint": "这是：区分。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2524",
@@ -52492,7 +54406,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a obtain.",
     "sentence": "This is a ___.",
-    "hint": "这是：获得。"
+    "hint": "这是：获得。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2525",
@@ -52505,7 +54420,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is blind.",
     "sentence": "It is ___.",
-    "hint": "它是：失明的。"
+    "hint": "它是：失明的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2526",
@@ -52518,7 +54434,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a lamp.",
     "sentence": "This is a ___.",
-    "hint": "这是：台灯。"
+    "hint": "这是：台灯。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2527",
@@ -52531,7 +54448,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is diverse.",
     "sentence": "It is ___.",
-    "hint": "它是：多种多样的。"
+    "hint": "它是：多种多样的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2528",
@@ -52544,7 +54462,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs address.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地址。"
+    "hint": "这里需要表示：地址。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2529",
@@ -52557,7 +54476,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can reserve.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：（动植物）保护区。"
+    "hint": "我会/可以：（动植物）保护区。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2530",
@@ -52570,7 +54490,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a division.",
     "sentence": "This is a ___.",
-    "hint": "这是：除（法）。"
+    "hint": "这是：除（法）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2531",
@@ -52583,7 +54504,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "It is cloudy.",
     "sentence": "It is ___.",
-    "hint": "它是：阴天的；多云的。"
+    "hint": "它是：阴天的；多云的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2532",
@@ -52596,7 +54518,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a beach.",
     "sentence": "This is a ___.",
-    "hint": "这是：海滩；沙滩。"
+    "hint": "这是：海滩；沙滩。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2533",
@@ -52609,7 +54532,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is minimum.",
     "sentence": "It is ___.",
-    "hint": "它是：最小的。"
+    "hint": "它是：最小的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2534",
@@ -52622,7 +54546,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a treasure.",
     "sentence": "This is a ___.",
-    "hint": "这是：珠宝；财富。"
+    "hint": "这是：珠宝；财富。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2535",
@@ -52635,7 +54560,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs absolutely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：绝对地，完全地。"
+    "hint": "这里需要表示：绝对地，完全地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2536",
@@ -52648,7 +54574,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a east.",
     "sentence": "This is a ___.",
-    "hint": "这是：东。"
+    "hint": "这是：东。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2537",
@@ -52661,7 +54588,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs silly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：愚蠢的。"
+    "hint": "这里需要表示：愚蠢的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2538",
@@ -52674,7 +54602,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is sudden.",
     "sentence": "It is ___.",
-    "hint": "它是：突然（的）。"
+    "hint": "它是：突然（的）。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2539",
@@ -52687,7 +54616,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cousin.",
     "sentence": "This is a ___.",
-    "hint": "这是：同辈表亲（或堂亲）。"
+    "hint": "这是：同辈表亲（或堂亲）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2540",
@@ -52700,7 +54630,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is purple.",
     "sentence": "It is ___.",
-    "hint": "它是：紫色；紫色的。"
+    "hint": "它是：紫色；紫色的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2541",
@@ -52713,7 +54644,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a shine.",
     "sentence": "This is a ___.",
-    "hint": "这是：（阳光）照耀。"
+    "hint": "这是：（阳光）照耀。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2542",
@@ -52726,7 +54658,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fade.",
     "sentence": "This is a ___.",
-    "hint": "这是：褪色。"
+    "hint": "这是：褪色。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2543",
@@ -52739,7 +54672,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a composition.",
     "sentence": "This is a ___.",
-    "hint": "这是：作文；作曲；构成。"
+    "hint": "这是：作文；作曲；构成。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2544",
@@ -52752,7 +54686,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is temporary.",
     "sentence": "It is ___.",
-    "hint": "它是：临时的。"
+    "hint": "它是：临时的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2545",
@@ -52765,7 +54700,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is awkward.",
     "sentence": "It is ___.",
-    "hint": "它是：笨拙的。"
+    "hint": "它是：笨拙的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2546",
@@ -52778,7 +54714,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is frequent.",
     "sentence": "It is ___.",
-    "hint": "它是：频繁的。"
+    "hint": "它是：频繁的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2547",
@@ -52791,7 +54728,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a decoration.",
     "sentence": "This is a ___.",
-    "hint": "这是：装饰品。"
+    "hint": "这是：装饰品。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2548",
@@ -52804,7 +54742,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have intention books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：打算。"
+    "hint": "数量是：打算。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2549",
@@ -52817,7 +54756,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can appreciation.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：理解。"
+    "hint": "我会/可以：理解。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2550",
@@ -52830,7 +54770,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a submit.",
     "sentence": "This is a ___.",
-    "hint": "这是：提交。"
+    "hint": "这是：提交。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2551",
@@ -52843,7 +54784,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is forgive.",
     "sentence": "It is ___.",
-    "hint": "它是：原谅，宽恕。"
+    "hint": "它是：原谅，宽恕。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2552",
@@ -52856,7 +54798,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a popularity.",
     "sentence": "This is a ___.",
-    "hint": "这是：受欢迎；普及。"
+    "hint": "这是：受欢迎；普及。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2553",
@@ -52869,7 +54812,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a coat.",
     "sentence": "This is a ___.",
-    "hint": "这是：外衣；大衣。"
+    "hint": "这是：外衣；大衣。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2554",
@@ -52882,7 +54826,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a scholarship.",
     "sentence": "This is a ___.",
-    "hint": "这是：奖学金。"
+    "hint": "这是：奖学金。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2555",
@@ -52895,7 +54840,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a corner.",
     "sentence": "This is a ___.",
-    "hint": "这是：拐角；角。"
+    "hint": "这是：拐角；角。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2556",
@@ -52908,7 +54854,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a plane.",
     "sentence": "This is a ___.",
-    "hint": "这是：飞机。"
+    "hint": "这是：飞机。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2557",
@@ -52921,7 +54868,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a series.",
     "sentence": "This is a ___.",
-    "hint": "这是：一系列；系列节目。"
+    "hint": "这是：一系列；系列节目。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2558",
@@ -52934,7 +54882,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs certainly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：当然。"
+    "hint": "这里需要表示：当然。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2559",
@@ -52947,7 +54896,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is teenage.",
     "sentence": "It is ___.",
-    "hint": "它是：十几岁的；青少年的。"
+    "hint": "它是：十几岁的；青少年的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2560",
@@ -52960,7 +54910,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a resident.",
     "sentence": "This is a ___.",
-    "hint": "这是：居民。"
+    "hint": "这是：居民。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2561",
@@ -52973,7 +54924,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a activist.",
     "sentence": "This is a ___.",
-    "hint": "这是：激进分子。"
+    "hint": "这是：激进分子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2562",
@@ -52986,7 +54938,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a walker.",
     "sentence": "This is a ___.",
-    "hint": "这是：步行者。"
+    "hint": "这是：步行者。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2563",
@@ -52999,7 +54952,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a runner.",
     "sentence": "This is a ___.",
-    "hint": "这是：跑鞋。"
+    "hint": "这是：跑鞋。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2564",
@@ -53012,7 +54966,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is miserable.",
     "sentence": "It is ___.",
-    "hint": "它是：悲惨的。"
+    "hint": "它是：悲惨的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2565",
@@ -53025,7 +54980,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can transform.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使改变。"
+    "hint": "我会/可以：使改变。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2566",
@@ -53038,7 +54994,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a highlight.",
     "sentence": "This is a ___.",
-    "hint": "这是：突出。"
+    "hint": "这是：突出。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2567",
@@ -53051,7 +55008,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs imply.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：意味着。"
+    "hint": "这里需要表示：意味着。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2568",
@@ -53064,7 +55022,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a estimate.",
     "sentence": "This is a ___.",
-    "hint": "这是：估计。"
+    "hint": "这是：估计。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2569",
@@ -53077,7 +55036,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pursue.",
     "sentence": "This is a ___.",
-    "hint": "这是：追求。"
+    "hint": "这是：追求。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2570",
@@ -53090,7 +55050,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a display.",
     "sentence": "This is a ___.",
-    "hint": "这是：显示,显露；展示。"
+    "hint": "这是：显示,显露；展示。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2571",
@@ -53103,7 +55064,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dine.",
     "sentence": "This is a ___.",
-    "hint": "这是：进餐，用饭。"
+    "hint": "这是：进餐，用饭。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2572",
@@ -53116,7 +55078,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a solve.",
     "sentence": "This is a ___.",
-    "hint": "这是：解决；解答。"
+    "hint": "这是：解决；解答。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2573",
@@ -53129,7 +55092,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fund.",
     "sentence": "This is a ___.",
-    "hint": "这是：基金。"
+    "hint": "这是：基金。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2574",
@@ -53142,7 +55106,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a evolve.",
     "sentence": "This is a ___.",
-    "hint": "这是：逐渐形成。"
+    "hint": "这是：逐渐形成。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2575",
@@ -53155,7 +55120,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is credit.",
     "sentence": "It is ___.",
-    "hint": "它是：（借钱偿还的）信誉，信用。"
+    "hint": "它是：（借钱偿还的）信誉，信用。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2576",
@@ -53168,7 +55134,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a reaction.",
     "sentence": "This is a ___.",
-    "hint": "这是：反应。"
+    "hint": "这是：反应。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2577",
@@ -53181,7 +55148,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a determination.",
     "sentence": "This is a ___.",
-    "hint": "这是：决心。"
+    "hint": "这是：决心。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2578",
@@ -53194,7 +55162,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a prevention.",
     "sentence": "This is a ___.",
-    "hint": "这是：预防。"
+    "hint": "这是：预防。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2579",
@@ -53207,7 +55176,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs location.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：位置，地点。"
+    "hint": "这里需要表示：位置，地点。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2580",
@@ -53220,7 +55190,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is acceptable.",
     "sentence": "It is ___.",
-    "hint": "它是：可接受的。"
+    "hint": "它是：可接受的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2581",
@@ -53233,7 +55204,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is responsible.",
     "sentence": "It is ___.",
-    "hint": "它是：有责任心的。"
+    "hint": "它是：有责任心的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2582",
@@ -53246,7 +55218,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have overweight books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：超重。"
+    "hint": "数量是：超重。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2583",
@@ -53259,7 +55232,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs physically.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：身体上地。"
+    "hint": "这里需要表示：身体上地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2584",
@@ -53272,7 +55246,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs differently.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：不同地。"
+    "hint": "这里需要表示：不同地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2585",
@@ -53285,7 +55260,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs temporarily.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：暂时地。"
+    "hint": "这里需要表示：暂时地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2586",
@@ -53298,7 +55274,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is sympathetic.",
     "sentence": "It is ___.",
-    "hint": "它是：表示同情的。"
+    "hint": "它是：表示同情的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2587",
@@ -53311,7 +55288,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is biological.",
     "sentence": "It is ___.",
-    "hint": "它是：生物学的。"
+    "hint": "它是：生物学的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2588",
@@ -53324,7 +55302,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is educational.",
     "sentence": "It is ___.",
-    "hint": "它是：教育的；有教育意义的。"
+    "hint": "它是：教育的；有教育意义的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2589",
@@ -53337,7 +55316,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is formal.",
     "sentence": "It is ___.",
-    "hint": "它是：正式的。"
+    "hint": "它是：正式的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2590",
@@ -53350,7 +55330,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is amazing.",
     "sentence": "It is ___.",
-    "hint": "它是：令人惊奇的。"
+    "hint": "它是：令人惊奇的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2591",
@@ -53363,7 +55344,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is historic.",
     "sentence": "It is ___.",
-    "hint": "它是：历史上著名的；有历史意义的。"
+    "hint": "它是：历史上著名的；有历史意义的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2592",
@@ -53376,7 +55358,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a worst.",
     "sentence": "This is a ___.",
-    "hint": "这是：（bad和badly的最高级）最差（的）；最坏（的）；最糟（的）。"
+    "hint": "这是：（bad和badly的最高级）最差（的）；最坏（的）；最糟（的）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2593",
@@ -53389,7 +55372,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is missing.",
     "sentence": "It is ___.",
-    "hint": "它是：丢失的，失踪的。"
+    "hint": "它是：丢失的，失踪的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2594",
@@ -53402,7 +55386,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can disable.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使残废。"
+    "hint": "我会/可以：使残废。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2595",
@@ -53415,7 +55400,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is disappointing.",
     "sentence": "It is ___.",
-    "hint": "它是：令人失望的。"
+    "hint": "它是：令人失望的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2596",
@@ -53428,7 +55414,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a structure.",
     "sentence": "This is a ___.",
-    "hint": "这是：结构。"
+    "hint": "这是：结构。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2597",
@@ -53441,7 +55428,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a lap.",
     "sentence": "This is a ___.",
-    "hint": "这是：（人坐时）膝部。"
+    "hint": "这是：（人坐时）膝部。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2598",
@@ -53454,7 +55442,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a tiger.",
     "sentence": "This is a ___.",
-    "hint": "这是：老虎。"
+    "hint": "这是：老虎。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2599",
@@ -53467,7 +55456,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs naturally.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：自然地。"
+    "hint": "这里需要表示：自然地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2600",
@@ -53480,7 +55470,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs closely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：密切地。"
+    "hint": "这里需要表示：密切地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2601",
@@ -53493,7 +55484,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs entirely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：完全。"
+    "hint": "这里需要表示：完全。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2602",
@@ -53506,7 +55498,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a disappearance.",
     "sentence": "This is a ___.",
-    "hint": "这是：失踪。"
+    "hint": "这是：失踪。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2603",
@@ -53519,7 +55512,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a entertain.",
     "sentence": "This is a ___.",
-    "hint": "这是：招待。"
+    "hint": "这是：招待。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2604",
@@ -53532,7 +55526,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is convenient.",
     "sentence": "It is ___.",
-    "hint": "它是：便利的；方便的。"
+    "hint": "它是：便利的；方便的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2605",
@@ -53545,7 +55540,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a snack.",
     "sentence": "This is a ___.",
-    "hint": "这是：小吃；点心；快餐。"
+    "hint": "这是：小吃；点心；快餐。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2606",
@@ -53558,7 +55554,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a swimming.",
     "sentence": "This is a ___.",
-    "hint": "这是：游泳池。"
+    "hint": "这是：游泳池。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2607",
@@ -53571,7 +55568,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a insurance.",
     "sentence": "This is a ___.",
-    "hint": "这是：保险。"
+    "hint": "这是：保险。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2608",
@@ -53584,7 +55582,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a presence.",
     "sentence": "This is a ___.",
-    "hint": "这是：存在。"
+    "hint": "这是：存在。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2609",
@@ -53597,7 +55596,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "It is third.",
     "sentence": "It is ___.",
-    "hint": "它是：第三（的）。"
+    "hint": "它是：第三（的）。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2610",
@@ -53610,7 +55610,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have eight books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：八。"
+    "hint": "数量是：八。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2611",
@@ -53623,7 +55624,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is negative.",
     "sentence": "It is ___.",
-    "hint": "它是：负面的,消极的。"
+    "hint": "它是：负面的,消极的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2612",
@@ -53636,7 +55638,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a artistic.",
     "sentence": "This is a ___.",
-    "hint": "这是：有艺术天赋。"
+    "hint": "这是：有艺术天赋。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2613",
@@ -53649,7 +55652,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a glow.",
     "sentence": "This is a ___.",
-    "hint": "这是：白炽光。"
+    "hint": "这是：白炽光。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2614",
@@ -53662,7 +55666,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a photography.",
     "sentence": "This is a ___.",
-    "hint": "这是：摄影。"
+    "hint": "这是：摄影。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2615",
@@ -53675,7 +55680,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a drawing.",
     "sentence": "This is a ___.",
-    "hint": "这是：画。"
+    "hint": "这是：画。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2616",
@@ -53688,7 +55694,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a contest.",
     "sentence": "This is a ___.",
-    "hint": "这是：比赛；竞赛。"
+    "hint": "这是：比赛；竞赛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2617",
@@ -53701,7 +55708,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "He runs weekly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：每周的（地）。"
+    "hint": "这里需要表示：每周的（地）。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2618",
@@ -53714,7 +55722,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is everyday.",
     "sentence": "It is ___.",
-    "hint": "它是：每天的；日常的。"
+    "hint": "它是：每天的；日常的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2619",
@@ -53727,7 +55736,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a maths.",
     "sentence": "This is a ___.",
-    "hint": "这是：数学。"
+    "hint": "这是：数学。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2620",
@@ -53740,7 +55750,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is mathematical.",
     "sentence": "It is ___.",
-    "hint": "它是：数学的。"
+    "hint": "它是：数学的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2621",
@@ -53753,7 +55764,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a part-time.",
     "sentence": "This is a ___.",
-    "hint": "这是：作为兼职。"
+    "hint": "这是：作为兼职。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2622",
@@ -53766,7 +55778,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a profession.",
     "sentence": "This is a ___.",
-    "hint": "这是：职业。"
+    "hint": "这是：职业。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2623",
@@ -53779,7 +55792,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a imagination.",
     "sentence": "This is a ___.",
-    "hint": "这是：想像；想像力。"
+    "hint": "这是：想像；想像力。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2624",
@@ -53792,7 +55806,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a imitate.",
     "sentence": "This is a ___.",
-    "hint": "这是：模仿,仿效。"
+    "hint": "这是：模仿,仿效。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2625",
@@ -53805,7 +55820,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs importantly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：重要的是。"
+    "hint": "这里需要表示：重要的是。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2626",
@@ -53818,7 +55834,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs necessarily.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：必要地。"
+    "hint": "这里需要表示：必要地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2627",
@@ -53831,7 +55848,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs similarly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：同样地。"
+    "hint": "这里需要表示：同样地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2628",
@@ -53844,7 +55862,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs normally.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：通常；正常情况下。"
+    "hint": "这里需要表示：通常；正常情况下。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2629",
@@ -53857,7 +55876,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs effectively.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：有效地。"
+    "hint": "这里需要表示：有效地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2630",
@@ -53870,7 +55890,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs constantly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：不断地。"
+    "hint": "这里需要表示：不断地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2631",
@@ -53883,7 +55904,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs secretly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：秘密地。"
+    "hint": "这里需要表示：秘密地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2632",
@@ -53896,7 +55918,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs greatly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：非常；很。"
+    "hint": "这里需要表示：非常；很。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2633",
@@ -53909,7 +55932,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs relatively.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：相对地。"
+    "hint": "这里需要表示：相对地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2634",
@@ -53922,7 +55946,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs mostly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：主要地；通常。"
+    "hint": "这里需要表示：主要地；通常。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2635",
@@ -53935,7 +55960,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is cooperative.",
     "sentence": "It is ___.",
-    "hint": "它是：合作的。"
+    "hint": "它是：合作的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2636",
@@ -53948,7 +55974,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bet.",
     "sentence": "This is a ___.",
-    "hint": "这是：打赌；下赌注。"
+    "hint": "这是：打赌；下赌注。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2637",
@@ -53961,7 +55988,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is elementary.",
     "sentence": "It is ___.",
-    "hint": "它是：初级的。"
+    "hint": "它是：初级的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2638",
@@ -53974,7 +56002,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is classical.",
     "sentence": "It is ___.",
-    "hint": "它是：经典的；古典的。"
+    "hint": "它是：经典的；古典的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2639",
@@ -53987,7 +56016,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is profitable.",
     "sentence": "It is ___.",
-    "hint": "它是：有利可图的。"
+    "hint": "它是：有利可图的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2640",
@@ -54000,7 +56030,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a poetry.",
     "sentence": "This is a ___.",
-    "hint": "这是：诗歌，诗作。"
+    "hint": "这是：诗歌，诗作。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2641",
@@ -54013,7 +56044,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "It is impressive.",
     "sentence": "It is ___.",
-    "hint": "它是：给人深刻印象的；令人钦佩的。"
+    "hint": "它是：给人深刻印象的；令人钦佩的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2642",
@@ -54026,7 +56058,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a exploration.",
     "sentence": "This is a ___.",
-    "hint": "这是：勘探。"
+    "hint": "这是：勘探。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2643",
@@ -54039,7 +56072,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a define.",
     "sentence": "This is a ___.",
-    "hint": "这是：定义。"
+    "hint": "这是：定义。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2644",
@@ -54052,7 +56086,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a exhibit.",
     "sentence": "This is a ___.",
-    "hint": "这是：展品，陈列品。"
+    "hint": "这是：展品，陈列品。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2645",
@@ -54065,7 +56100,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a shift.",
     "sentence": "This is a ___.",
-    "hint": "这是：转移。"
+    "hint": "这是：转移。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2646",
@@ -54078,7 +56114,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a propose.",
     "sentence": "This is a ___.",
-    "hint": "这是：提议。"
+    "hint": "这是：提议。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2647",
@@ -54091,7 +56128,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a insist.",
     "sentence": "This is a ___.",
-    "hint": "这是：坚持认为；坚持。"
+    "hint": "这是：坚持认为；坚持。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2648",
@@ -54104,7 +56142,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a reject.",
     "sentence": "This is a ___.",
-    "hint": "这是：拒绝接受；不予考虑。"
+    "hint": "这是：拒绝接受；不予考虑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2649",
@@ -54117,7 +56156,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs polar.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：极地。"
+    "hint": "这里需要表示：极地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2650",
@@ -54130,7 +56170,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a chick.",
     "sentence": "This is a ___.",
-    "hint": "这是：小鸡。"
+    "hint": "这是：小鸡。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2651",
@@ -54143,7 +56184,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a threat.",
     "sentence": "This is a ___.",
-    "hint": "这是：威胁。"
+    "hint": "这是：威胁。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2652",
@@ -54156,7 +56198,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a judgement.",
     "sentence": "This is a ___.",
-    "hint": "这是：看法，评价。"
+    "hint": "这是：看法，评价。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2653",
@@ -54169,7 +56212,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is affordable.",
     "sentence": "It is ___.",
-    "hint": "它是：买得起的。"
+    "hint": "它是：买得起的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2654",
@@ -54182,7 +56226,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a juice.",
     "sentence": "This is a ___.",
-    "hint": "这是：果汁。"
+    "hint": "这是：果汁。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2655",
@@ -54195,7 +56240,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a combination.",
     "sentence": "This is a ___.",
-    "hint": "这是：结合体。"
+    "hint": "这是：结合体。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2656",
@@ -54208,7 +56254,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a observation.",
     "sentence": "This is a ___.",
-    "hint": "这是：观察。"
+    "hint": "这是：观察。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2657",
@@ -54221,7 +56268,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a donation.",
     "sentence": "This is a ___.",
-    "hint": "这是：捐赠物。"
+    "hint": "这是：捐赠物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2658",
@@ -54234,7 +56282,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can option.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：选择。"
+    "hint": "我会/可以：选择。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2659",
@@ -54247,7 +56296,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a definition.",
     "sentence": "This is a ___.",
-    "hint": "这是：释义。"
+    "hint": "这是：释义。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2660",
@@ -54260,7 +56310,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a graduation.",
     "sentence": "This is a ___.",
-    "hint": "这是：毕业，毕业典礼。"
+    "hint": "这是：毕业，毕业典礼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2661",
@@ -54273,7 +56324,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a administration.",
     "sentence": "This is a ___.",
-    "hint": "这是：管理。"
+    "hint": "这是：管理。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2662",
@@ -54286,7 +56338,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is realistic.",
     "sentence": "It is ___.",
-    "hint": "它是：现实的；实事求是的。"
+    "hint": "它是：现实的；实事求是的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2663",
@@ -54299,7 +56352,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is enthusiastic.",
     "sentence": "It is ___.",
-    "hint": "它是：热情的。"
+    "hint": "它是：热情的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2664",
@@ -54312,7 +56366,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is immediate.",
     "sentence": "It is ___.",
-    "hint": "它是：立即的。"
+    "hint": "它是：立即的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2665",
@@ -54325,7 +56380,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a household.",
     "sentence": "This is a ___.",
-    "hint": "这是：一家人。"
+    "hint": "这是：一家人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2666",
@@ -54338,7 +56394,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is proposal.",
     "sentence": "It is ___.",
-    "hint": "它是：提议。"
+    "hint": "它是：提议。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2667",
@@ -54351,7 +56408,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a shortage.",
     "sentence": "This is a ___.",
-    "hint": "这是：不足；缺少；短缺。"
+    "hint": "这是：不足；缺少；短缺。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2668",
@@ -54364,7 +56422,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is sustainable.",
     "sentence": "It is ___.",
-    "hint": "它是：可持续的。"
+    "hint": "它是：可持续的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2669",
@@ -54377,7 +56436,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is frightened.",
     "sentence": "It is ___.",
-    "hint": "它是：受惊的，受恐吓的。"
+    "hint": "它是：受惊的，受恐吓的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2670",
@@ -54390,7 +56450,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a diary.",
     "sentence": "This is a ___.",
-    "hint": "这是：日记。"
+    "hint": "这是：日记。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2671",
@@ -54403,7 +56464,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a institute.",
     "sentence": "This is a ___.",
-    "hint": "这是：机构。"
+    "hint": "这是：机构。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2672",
@@ -54416,7 +56478,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a concentrate.",
     "sentence": "This is a ___.",
-    "hint": "这是：集中(注意力)，聚精会神。"
+    "hint": "这是：集中(注意力)，聚精会神。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2673",
@@ -54429,7 +56492,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a stare.",
     "sentence": "This is a ___.",
-    "hint": "这是：盯着看；凝视。"
+    "hint": "这是：盯着看；凝视。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2674",
@@ -54442,7 +56506,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is visual.",
     "sentence": "It is ___.",
-    "hint": "它是：视力的。"
+    "hint": "它是：视力的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2675",
@@ -54455,7 +56520,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have bone books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：骨头。"
+    "hint": "数量是：骨头。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2676",
@@ -54468,7 +56534,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a wheel.",
     "sentence": "This is a ___.",
-    "hint": "这是：轮子；车轮。"
+    "hint": "这是：轮子；车轮。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2677",
@@ -54481,7 +56548,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is smooth.",
     "sentence": "It is ___.",
-    "hint": "它是：光滑的。"
+    "hint": "它是：光滑的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2678",
@@ -54494,7 +56562,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is tall.",
     "sentence": "It is ___.",
-    "hint": "它是：高的。"
+    "hint": "它是：高的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2679",
@@ -54507,7 +56576,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is agricultural.",
     "sentence": "It is ___.",
-    "hint": "它是：农业的。"
+    "hint": "它是：农业的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2680",
@@ -54520,7 +56590,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a agriculture.",
     "sentence": "This is a ___.",
-    "hint": "这是：农业；农学。"
+    "hint": "这是：农业；农学。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2681",
@@ -54533,7 +56604,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ashamed.",
     "sentence": "This is a ___.",
-    "hint": "这是：惭愧；羞愧。"
+    "hint": "这是：惭愧；羞愧。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2682",
@@ -54546,7 +56618,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is brilliant.",
     "sentence": "It is ___.",
-    "hint": "它是：绝妙的；顶尖的。"
+    "hint": "它是：绝妙的；顶尖的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2683",
@@ -54559,7 +56632,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a burst.",
     "sentence": "This is a ___.",
-    "hint": "这是：爆裂。"
+    "hint": "这是：爆裂。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2684",
@@ -54572,7 +56646,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cheer.",
     "sentence": "This is a ___.",
-    "hint": "这是：欢呼。"
+    "hint": "这是：欢呼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2685",
@@ -54585,7 +56660,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a wood.",
     "sentence": "This is a ___.",
-    "hint": "这是：伍德（姓氏）。"
+    "hint": "这是：伍德（姓氏）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2686",
@@ -54598,7 +56674,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a root.",
     "sentence": "This is a ___.",
-    "hint": "这是：加油。"
+    "hint": "这是：加油。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2687",
@@ -54611,7 +56688,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a biology.",
     "sentence": "This is a ___.",
-    "hint": "这是：生物学；生物。"
+    "hint": "这是：生物学；生物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2688",
@@ -54624,7 +56702,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a hurricane.",
     "sentence": "This is a ___.",
-    "hint": "这是：飓风。"
+    "hint": "这是：飓风。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2689",
@@ -54637,7 +56716,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a snow.",
     "sentence": "This is a ___.",
-    "hint": "这是：雪。"
+    "hint": "这是：雪。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2690",
@@ -54650,7 +56730,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a forecast.",
     "sentence": "This is a ___.",
-    "hint": "这是：预报。"
+    "hint": "这是：预报。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2691",
@@ -54663,7 +56744,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a entry.",
     "sentence": "This is a ___.",
-    "hint": "这是：进入。"
+    "hint": "这是：进入。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2692",
@@ -54676,7 +56758,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a exit.",
     "sentence": "This is a ___.",
-    "hint": "这是：出口。"
+    "hint": "这是：出口。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2693",
@@ -54689,7 +56772,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is arrival.",
     "sentence": "It is ___.",
-    "hint": "它是：到达。"
+    "hint": "它是：到达。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2694",
@@ -54702,7 +56786,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a custom.",
     "sentence": "This is a ___.",
-    "hint": "这是：风俗。"
+    "hint": "这是：风俗。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2695",
@@ -54715,7 +56800,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wedding.",
     "sentence": "This is a ___.",
-    "hint": "这是：婚礼；结婚庆典。"
+    "hint": "这是：婚礼；结婚庆典。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2696",
@@ -54728,7 +56814,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a circumstance.",
     "sentence": "This is a ___.",
-    "hint": "这是：条件。"
+    "hint": "这是：条件。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2697",
@@ -54741,7 +56828,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a square.",
     "sentence": "This is a ___.",
-    "hint": "这是：广场。"
+    "hint": "这是：广场。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2698",
@@ -54754,7 +56842,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a association.",
     "sentence": "This is a ___.",
-    "hint": "这是：协会。"
+    "hint": "这是：协会。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2699",
@@ -54767,7 +56856,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a concept.",
     "sentence": "This is a ___.",
-    "hint": "这是：概念。"
+    "hint": "这是：概念。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2700",
@@ -54780,7 +56870,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is fundamental.",
     "sentence": "It is ___.",
-    "hint": "它是：基本的。"
+    "hint": "它是：基本的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2701",
@@ -54793,7 +56884,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can spell.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：拼读，拼写。"
+    "hint": "我会/可以：拼读，拼写。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2702",
@@ -54806,7 +56898,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pronunciation.",
     "sentence": "This is a ___.",
-    "hint": "这是：发音；读音。"
+    "hint": "这是：发音；读音。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2703",
@@ -54819,7 +56912,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can decrease.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使……变小；减少。"
+    "hint": "我会/可以：使……变小；减少。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2704",
@@ -54832,7 +56926,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a foster.",
     "sentence": "This is a ___.",
-    "hint": "这是：促进。"
+    "hint": "这是：促进。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2705",
@@ -54845,7 +56940,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a tie.",
     "sentence": "This is a ___.",
-    "hint": "这是：系。"
+    "hint": "这是：系。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2706",
@@ -54858,7 +56954,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is unable.",
     "sentence": "It is ___.",
-    "hint": "它是：不能的。"
+    "hint": "它是：不能的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2707",
@@ -54871,7 +56968,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a defeat.",
     "sentence": "This is a ___.",
-    "hint": "这是：战胜；打败。"
+    "hint": "这是：战胜；打败。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2708",
@@ -54884,7 +56982,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a disability.",
     "sentence": "This is a ___.",
-    "hint": "这是：缺陷，障碍。"
+    "hint": "这是：缺陷，障碍。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2709",
@@ -54897,7 +56996,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fiction.",
     "sentence": "This is a ___.",
-    "hint": "这是：小说；虚构。"
+    "hint": "这是：小说；虚构。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2710",
@@ -54910,7 +57010,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a housework.",
     "sentence": "This is a ___.",
-    "hint": "这是：家务劳动。"
+    "hint": "这是：家务劳动。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2711",
@@ -54923,7 +57024,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a phenomenon.",
     "sentence": "This is a ___.",
-    "hint": "这是：现象。"
+    "hint": "这是：现象。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2712",
@@ -54936,7 +57038,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can protection.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：保护；保卫。"
+    "hint": "我会/可以：保护；保卫。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2713",
@@ -54949,7 +57052,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a recreation.",
     "sentence": "This is a ___.",
-    "hint": "这是：娱乐。"
+    "hint": "这是：娱乐。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2714",
@@ -54962,7 +57066,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have extension books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：扩大。"
+    "hint": "数量是：扩大。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2715",
@@ -54975,7 +57080,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a expose.",
     "sentence": "This is a ___.",
-    "hint": "这是：暴露。"
+    "hint": "这是：暴露。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2716",
@@ -54988,7 +57094,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a guarantee.",
     "sentence": "This is a ___.",
-    "hint": "这是：保证。"
+    "hint": "这是：保证。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2717",
@@ -55001,7 +57108,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs increasingly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：日益，不断。"
+    "hint": "这里需要表示：日益，不断。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2718",
@@ -55014,7 +57122,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs personally.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：个人。"
+    "hint": "这里需要表示：个人。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2719",
@@ -55027,7 +57136,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a prison.",
     "sentence": "This is a ___.",
-    "hint": "这是：监狱；牢狱。"
+    "hint": "这是：监狱；牢狱。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2720",
@@ -55040,7 +57150,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pair.",
     "sentence": "This is a ___.",
-    "hint": "这是：双；对。"
+    "hint": "这是：双；对。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2721",
@@ -55053,7 +57164,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pipe.",
     "sentence": "This is a ___.",
-    "hint": "这是：管道。"
+    "hint": "这是：管道。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2722",
@@ -55066,7 +57178,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a judge.",
     "sentence": "This is a ___.",
-    "hint": "这是：法官。"
+    "hint": "这是：法官。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2723",
@@ -55079,7 +57192,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can journalist.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：记者,新闻工作者。"
+    "hint": "我会/可以：记者,新闻工作者。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2724",
@@ -55092,7 +57206,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "It is elder.",
     "sentence": "It is ___.",
-    "hint": "它是：年级较长的。"
+    "hint": "它是：年级较长的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2725",
@@ -55105,7 +57220,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a nowadays.",
     "sentence": "This is a ___.",
-    "hint": "这是：现在，当今。"
+    "hint": "这是：现在，当今。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2726",
@@ -55118,7 +57234,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a assessment.",
     "sentence": "This is a ___.",
-    "hint": "这是：看法。"
+    "hint": "这是：看法。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2727",
@@ -55131,7 +57248,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a length.",
     "sentence": "This is a ___.",
-    "hint": "这是：长度。"
+    "hint": "这是：长度。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2728",
@@ -55144,7 +57262,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs partly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：一定程度上。"
+    "hint": "这里需要表示：一定程度上。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2729",
@@ -55157,7 +57276,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a discount.",
     "sentence": "This is a ___.",
-    "hint": "这是：折扣。"
+    "hint": "这是：折扣。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2730",
@@ -55170,7 +57290,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is initial.",
     "sentence": "It is ___.",
-    "hint": "它是：最初的。"
+    "hint": "它是：最初的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2731",
@@ -55183,7 +57304,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is fond.",
     "sentence": "It is ___.",
-    "hint": "它是：喜爱的,爱好的。"
+    "hint": "它是：喜爱的,爱好的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2732",
@@ -55196,7 +57318,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a meanwhile.",
     "sentence": "This is a ___.",
-    "hint": "这是：同时。"
+    "hint": "这是：同时。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2733",
@@ -55209,7 +57332,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is liquid.",
     "sentence": "It is ___.",
-    "hint": "它是：清澈的；晶莹的。"
+    "hint": "它是：清澈的；晶莹的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2734",
@@ -55222,7 +57346,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a invention.",
     "sentence": "This is a ___.",
-    "hint": "这是：发明。"
+    "hint": "这是：发明。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2735",
@@ -55235,7 +57360,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a psychology.",
     "sentence": "This is a ___.",
-    "hint": "这是：心理学。"
+    "hint": "这是：心理学。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2736",
@@ -55248,7 +57374,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs worldwide.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：全世界,世界各地。"
+    "hint": "这里需要表示：全世界,世界各地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2737",
@@ -55261,7 +57388,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs anywhere.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：任何地方。"
+    "hint": "这里需要表示：任何地方。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2738",
@@ -55274,7 +57402,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tablet.",
     "sentence": "This is a ___.",
-    "hint": "这是：平板电脑；牌；碑。"
+    "hint": "这是：平板电脑；牌；碑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2739",
@@ -55287,7 +57416,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a passport.",
     "sentence": "This is a ___.",
-    "hint": "这是：护照。"
+    "hint": "这是：护照。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2740",
@@ -55300,7 +57430,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can skate.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：滑冰；冰鞋。"
+    "hint": "我会/可以：滑冰；冰鞋。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2741",
@@ -55313,7 +57444,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is disabled.",
     "sentence": "It is ___.",
-    "hint": "它是：丧失能力的；有残疾的。"
+    "hint": "它是：丧失能力的；有残疾的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2742",
@@ -55326,7 +57458,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a distribute.",
     "sentence": "This is a ___.",
-    "hint": "这是：分配。"
+    "hint": "这是：分配。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2743",
@@ -55339,7 +57472,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a differ.",
     "sentence": "This is a ___.",
-    "hint": "这是：相异。"
+    "hint": "这是：相异。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2744",
@@ -55352,7 +57486,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a drug.",
     "sentence": "This is a ___.",
-    "hint": "这是：毒品；药，药物。"
+    "hint": "这是：毒品；药，药物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2745",
@@ -55365,7 +57500,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a device.",
     "sentence": "This is a ___.",
-    "hint": "这是：设备，装置。"
+    "hint": "这是：设备，装置。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2746",
@@ -55378,7 +57514,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sightseeing.",
     "sentence": "This is a ___.",
-    "hint": "这是：观光；游览。"
+    "hint": "这是：观光；游览。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2747",
@@ -55391,7 +57528,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a adjustment.",
     "sentence": "This is a ___.",
-    "hint": "这是：调整。"
+    "hint": "这是：调整。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2748",
@@ -55404,7 +57542,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a competitor.",
     "sentence": "This is a ___.",
-    "hint": "这是：参赛者；竞争者。"
+    "hint": "这是：参赛者；竞争者。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2749",
@@ -55417,7 +57556,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a consideration.",
     "sentence": "This is a ___.",
-    "hint": "这是：考虑。"
+    "hint": "这是：考虑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2750",
@@ -55430,7 +57570,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a route.",
     "sentence": "This is a ___.",
-    "hint": "这是：路线。"
+    "hint": "这是：路线。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2751",
@@ -55443,7 +57584,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a leaf.",
     "sentence": "This is a ___.",
-    "hint": "这是：叶子。"
+    "hint": "这是：叶子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2752",
@@ -55456,7 +57598,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a mess.",
     "sentence": "This is a ___.",
-    "hint": "这是：脏乱；不整洁。"
+    "hint": "这是：脏乱；不整洁。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2753",
@@ -55469,7 +57612,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is memorial.",
     "sentence": "It is ___.",
-    "hint": "它是：纪念的；悼念的。"
+    "hint": "它是：纪念的；悼念的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2754",
@@ -55482,7 +57626,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a palace.",
     "sentence": "This is a ___.",
-    "hint": "这是：宫殿。"
+    "hint": "这是：宫殿。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2755",
@@ -55495,7 +57640,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a clay.",
     "sentence": "This is a ___.",
-    "hint": "这是：黏土；泥土。"
+    "hint": "这是：黏土；泥土。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2756",
@@ -55508,7 +57654,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is dull.",
     "sentence": "It is ___.",
-    "hint": "它是：无聊的,枯燥的。"
+    "hint": "它是：无聊的,枯燥的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2757",
@@ -55521,7 +57668,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs region.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地区。"
+    "hint": "这里需要表示：地区。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2758",
@@ -55534,7 +57682,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a channel.",
     "sentence": "This is a ___.",
-    "hint": "这是：电视台；频道。"
+    "hint": "这是：电视台；频道。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2759",
@@ -55547,7 +57696,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a duration.",
     "sentence": "This is a ___.",
-    "hint": "这是：期间。"
+    "hint": "这是：期间。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2760",
@@ -55560,7 +57710,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a army.",
     "sentence": "This is a ___.",
-    "hint": "这是：军队。"
+    "hint": "这是：军队。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2761",
@@ -55573,7 +57724,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is puzzled.",
     "sentence": "It is ___.",
-    "hint": "它是：困惑的。"
+    "hint": "它是：困惑的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2762",
@@ -55586,7 +57738,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a secretary.",
     "sentence": "This is a ___.",
-    "hint": "这是：秘书。"
+    "hint": "这是：秘书。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2763",
@@ -55599,7 +57752,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can hopefully.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：有希望地。"
+    "hint": "我会/可以：有希望地。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2764",
@@ -55612,7 +57766,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is autonomous.",
     "sentence": "It is ___.",
-    "hint": "它是：自主的。"
+    "hint": "它是：自主的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2765",
@@ -55625,7 +57780,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a examination.",
     "sentence": "This is a ___.",
-    "hint": "这是：考试；审查。"
+    "hint": "这是：考试；审查。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2766",
@@ -55638,7 +57794,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cottage.",
     "sentence": "This is a ___.",
-    "hint": "这是：单幢小楼；村舍；小别墅。"
+    "hint": "这是：单幢小楼；村舍；小别墅。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2767",
@@ -55651,7 +57808,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs lovely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：可爱的；美丽的。"
+    "hint": "这里需要表示：可爱的；美丽的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2768",
@@ -55664,7 +57822,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a grab.",
     "sentence": "This is a ___.",
-    "hint": "这是：抓住；抓取。"
+    "hint": "这是：抓住；抓取。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2769",
@@ -55677,7 +57836,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have tendency books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：趋势。"
+    "hint": "数量是：趋势。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2770",
@@ -55690,7 +57850,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a locate.",
     "sentence": "This is a ___.",
-    "hint": "这是：位于。"
+    "hint": "这是：位于。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2771",
@@ -55703,7 +57864,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bay.",
     "sentence": "This is a ___.",
-    "hint": "这是：海湾。"
+    "hint": "这是：海湾。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2772",
@@ -55716,7 +57878,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is broad.",
     "sentence": "It is ___.",
-    "hint": "它是：宽阔的，广阔的；广泛的。"
+    "hint": "它是：宽阔的，广阔的；广泛的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2773",
@@ -55729,7 +57892,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have postpone books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：推迟。"
+    "hint": "数量是：推迟。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2774",
@@ -55742,7 +57906,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a calorie.",
     "sentence": "This is a ___.",
-    "hint": "这是：卡路里。"
+    "hint": "这是：卡路里。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2775",
@@ -55755,7 +57920,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a biscuit.",
     "sentence": "This is a ___.",
-    "hint": "这是：饼干。"
+    "hint": "这是：饼干。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2776",
@@ -55768,7 +57934,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a hunger.",
     "sentence": "This is a ___.",
-    "hint": "这是：饥饿。"
+    "hint": "这是：饥饿。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2777",
@@ -55781,7 +57948,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bamboo.",
     "sentence": "This is a ___.",
-    "hint": "这是：竹子。"
+    "hint": "这是：竹子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2778",
@@ -55794,7 +57962,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a fry.",
     "sentence": "This is a ___.",
-    "hint": "这是：用油煎，用油炸。"
+    "hint": "这是：用油煎，用油炸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2779",
@@ -55807,7 +57976,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a element.",
     "sentence": "This is a ___.",
-    "hint": "这是：成分。"
+    "hint": "这是：成分。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2780",
@@ -55820,7 +57990,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is steal.",
     "sentence": "It is ___.",
-    "hint": "它是：偷；窃取。"
+    "hint": "它是：偷；窃取。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2781",
@@ -55833,7 +58004,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ambition.",
     "sentence": "This is a ___.",
-    "hint": "这是：抱负；雄心。"
+    "hint": "这是：抱负；雄心。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2782",
@@ -55846,7 +58018,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a majority.",
     "sentence": "This is a ___.",
-    "hint": "这是：多数，大半。"
+    "hint": "这是：多数，大半。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2783",
@@ -55859,7 +58032,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a parking.",
     "sentence": "This is a ___.",
-    "hint": "这是：停车。"
+    "hint": "这是：停车。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2784",
@@ -55872,7 +58046,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a champion.",
     "sentence": "This is a ___.",
-    "hint": "这是：冠军。"
+    "hint": "这是：冠军。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2785",
@@ -55885,7 +58060,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a marry.",
     "sentence": "This is a ___.",
-    "hint": "这是：嫁。"
+    "hint": "这是：嫁。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2786",
@@ -55898,7 +58074,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can assistance.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：帮助。"
+    "hint": "我会/可以：帮助。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2787",
@@ -55911,7 +58088,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sugar.",
     "sentence": "This is a ___.",
-    "hint": "这是：糖。"
+    "hint": "这是：糖。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2788",
@@ -55924,7 +58102,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a trick.",
     "sentence": "This is a ___.",
-    "hint": "这是：恶作剧。"
+    "hint": "这是：恶作剧。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2789",
@@ -55937,7 +58116,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a rank.",
     "sentence": "This is a ___.",
-    "hint": "这是：等级。"
+    "hint": "这是：等级。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2790",
@@ -55950,7 +58130,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a compensate.",
     "sentence": "This is a ___.",
-    "hint": "这是：补偿。"
+    "hint": "这是：补偿。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2791",
@@ -55963,7 +58144,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is abstract.",
     "sentence": "It is ___.",
-    "hint": "它是：抽象的。"
+    "hint": "它是：抽象的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2792",
@@ -55976,7 +58158,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is casual.",
     "sentence": "It is ___.",
-    "hint": "它是：随便的；漫不经心的。"
+    "hint": "它是：随便的；漫不经心的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2793",
@@ -55989,7 +58172,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a barrier.",
     "sentence": "This is a ___.",
-    "hint": "这是：障碍。"
+    "hint": "这是：障碍。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2794",
@@ -56002,7 +58186,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a politics.",
     "sentence": "This is a ___.",
-    "hint": "这是：政治。"
+    "hint": "这是：政治。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2795",
@@ -56015,7 +58200,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a advocate.",
     "sentence": "This is a ___.",
-    "hint": "这是：提倡。"
+    "hint": "这是：提倡。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2796",
@@ -56028,7 +58214,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a immigrant.",
     "sentence": "This is a ___.",
-    "hint": "这是：移民。"
+    "hint": "这是：移民。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2797",
@@ -56041,7 +58228,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is precise.",
     "sentence": "It is ___.",
-    "hint": "它是：准确的。"
+    "hint": "它是：准确的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2798",
@@ -56054,7 +58242,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a mood.",
     "sentence": "This is a ___.",
-    "hint": "这是：心情； 情绪。"
+    "hint": "这是：心情； 情绪。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2799",
@@ -56067,7 +58256,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs casually.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：随便地。"
+    "hint": "这里需要表示：随便地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2800",
@@ -56080,7 +58270,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a horror.",
     "sentence": "This is a ___.",
-    "hint": "这是：恐怖。"
+    "hint": "这是：恐怖。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2801",
@@ -56093,7 +58284,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs lonely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：孤独的；寂寞的。"
+    "hint": "这里需要表示：孤独的；寂寞的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2802",
@@ -56106,7 +58298,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a brochure.",
     "sentence": "This is a ___.",
-    "hint": "这是：小册子。"
+    "hint": "这是：小册子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2803",
@@ -56119,7 +58312,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a absence.",
     "sentence": "This is a ___.",
-    "hint": "这是：缺席。"
+    "hint": "这是：缺席。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2804",
@@ -56132,7 +58326,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs carpet.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地毯。"
+    "hint": "这里需要表示：地毯。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2805",
@@ -56145,7 +58340,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a sweep.",
     "sentence": "This is a ___.",
-    "hint": "这是：扫；打扫。"
+    "hint": "这是：扫；打扫。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2806",
@@ -56158,7 +58354,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a belt.",
     "sentence": "This is a ___.",
-    "hint": "这是：皮带；安全带。"
+    "hint": "这是：皮带；安全带。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2807",
@@ -56171,7 +58368,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a republic.",
     "sentence": "This is a ___.",
-    "hint": "这是：共和国，共和政体。"
+    "hint": "这是：共和国，共和政体。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2808",
@@ -56184,7 +58382,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a menu.",
     "sentence": "This is a ___.",
-    "hint": "这是：菜单。"
+    "hint": "这是：菜单。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2809",
@@ -56197,7 +58396,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a clothing.",
     "sentence": "This is a ___.",
-    "hint": "这是：衣物。"
+    "hint": "这是：衣物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2810",
@@ -56210,7 +58410,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is hat.",
     "sentence": "It is ___.",
-    "hint": "它是：（常指带檐的）帽子。"
+    "hint": "它是：（常指带檐的）帽子。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2811",
@@ -56223,7 +58424,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a London.",
     "sentence": "This is a ___.",
-    "hint": "这是：伦敦。"
+    "hint": "这是：伦敦。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2812",
@@ -56236,7 +58438,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a steel.",
     "sentence": "This is a ___.",
-    "hint": "这是：钢；钢铁。"
+    "hint": "这是：钢；钢铁。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2813",
@@ -56249,7 +58452,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a truth.",
     "sentence": "This is a ___.",
-    "hint": "这是：事实。"
+    "hint": "这是：事实。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2814",
@@ -56262,7 +58466,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is meaningful.",
     "sentence": "It is ___.",
-    "hint": "它是：重要的，重大的；意味深长的。"
+    "hint": "它是：重要的，重大的；意味深长的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2815",
@@ -56275,7 +58480,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a nor.",
     "sentence": "This is a ___.",
-    "hint": "这是：也不。"
+    "hint": "这是：也不。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2816",
@@ -56288,7 +58494,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is abundant.",
     "sentence": "It is ___.",
-    "hint": "它是：充足的,大量的,丰富的。"
+    "hint": "它是：充足的,大量的,丰富的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2817",
@@ -56301,7 +58508,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a slip.",
     "sentence": "This is a ___.",
-    "hint": "这是：滑倒。"
+    "hint": "这是：滑倒。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2818",
@@ -56314,7 +58522,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have existence books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：存在。"
+    "hint": "数量是：存在。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2819",
@@ -56327,7 +58536,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a skin.",
     "sentence": "This is a ___.",
-    "hint": "这是：皮肤。"
+    "hint": "这是：皮肤。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2820",
@@ -56340,7 +58550,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a hometown.",
     "sentence": "This is a ___.",
-    "hint": "这是：家乡。"
+    "hint": "这是：家乡。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2821",
@@ -56353,7 +58564,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a beg.",
     "sentence": "This is a ___.",
-    "hint": "这是：乞求。"
+    "hint": "这是：乞求。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2822",
@@ -56366,7 +58578,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is honest.",
     "sentence": "It is ___.",
-    "hint": "它是：诚实的。"
+    "hint": "它是：诚实的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2823",
@@ -56379,7 +58592,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a alongside.",
     "sentence": "This is a ___.",
-    "hint": "这是：和……在一起。"
+    "hint": "这是：和……在一起。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2824",
@@ -56392,7 +58606,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tale.",
     "sentence": "This is a ___.",
-    "hint": "这是：故事；童话。"
+    "hint": "这是：故事；童话。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2825",
@@ -56405,7 +58620,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a expression.",
     "sentence": "This is a ___.",
-    "hint": "这是：表情；表示；表达方式。"
+    "hint": "这是：表情；表示；表达方式。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2826",
@@ -56418,7 +58634,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cash.",
     "sentence": "This is a ___.",
-    "hint": "这是：现金。"
+    "hint": "这是：现金。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2827",
@@ -56431,7 +58648,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a victory.",
     "sentence": "This is a ___.",
-    "hint": "这是：胜利；成功。"
+    "hint": "这是：胜利；成功。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2828",
@@ -56444,7 +58662,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is fancy.",
     "sentence": "It is ___.",
-    "hint": "它是：绚丽的，花哨的。"
+    "hint": "它是：绚丽的，花哨的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2829",
@@ -56457,7 +58676,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is random.",
     "sentence": "It is ___.",
-    "hint": "它是：随机的。"
+    "hint": "它是：随机的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2830",
@@ -56470,7 +58690,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a ecology.",
     "sentence": "This is a ___.",
-    "hint": "这是：生态学。"
+    "hint": "这是：生态学。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2831",
@@ -56483,7 +58704,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a opera.",
     "sentence": "This is a ___.",
-    "hint": "这是：歌剧。"
+    "hint": "这是：歌剧。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2832",
@@ -56496,7 +58718,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a quantity.",
     "sentence": "This is a ___.",
-    "hint": "这是：数量。"
+    "hint": "这是：数量。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2833",
@@ -56509,7 +58732,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a drill.",
     "sentence": "This is a ___.",
-    "hint": "这是：钻孔。"
+    "hint": "这是：钻孔。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2834",
@@ -56522,7 +58746,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have tennis books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：网球。"
+    "hint": "数量是：网球。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2835",
@@ -56535,7 +58760,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tower.",
     "sentence": "This is a ___.",
-    "hint": "这是：塔。"
+    "hint": "这是：塔。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2836",
@@ -56548,7 +58774,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a reform.",
     "sentence": "This is a ___.",
-    "hint": "这是：改革，改良。"
+    "hint": "这是：改革，改良。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2837",
@@ -56561,7 +58788,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "This is a hello.",
     "sentence": "This is a ___.",
-    "hint": "这是：你好；喂（表示问候）。"
+    "hint": "这是：你好；喂（表示问候）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2838",
@@ -56574,7 +58802,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a burden.",
     "sentence": "This is a ___.",
-    "hint": "这是：负担；负荷。"
+    "hint": "这是：负担；负荷。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2839",
@@ -56587,7 +58816,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is relevant.",
     "sentence": "It is ___.",
-    "hint": "它是：相关的。"
+    "hint": "它是：相关的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2840",
@@ -56600,7 +58830,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a affair.",
     "sentence": "This is a ___.",
-    "hint": "这是：公共事务。"
+    "hint": "这是：公共事务。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2841",
@@ -56613,7 +58844,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a factor.",
     "sentence": "This is a ___.",
-    "hint": "这是：因素。"
+    "hint": "这是：因素。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2842",
@@ -56626,7 +58858,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a scholar.",
     "sentence": "This is a ___.",
-    "hint": "这是：学者。"
+    "hint": "这是：学者。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2843",
@@ -56639,7 +58872,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is roast.",
     "sentence": "It is ___.",
-    "hint": "它是：烤的；烤(肉等)。"
+    "hint": "它是：烤的；烤(肉等)。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2844",
@@ -56652,7 +58886,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a marriage.",
     "sentence": "This is a ___.",
-    "hint": "这是：结婚，婚姻。"
+    "hint": "这是：结婚，婚姻。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2845",
@@ -56665,7 +58900,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a victim.",
     "sentence": "This is a ___.",
-    "hint": "这是：受害者，罹难者。"
+    "hint": "这是：受害者，罹难者。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2846",
@@ -56678,7 +58914,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a court.",
     "sentence": "This is a ___.",
-    "hint": "这是：球场,运动场；法庭。"
+    "hint": "这是：球场,运动场；法庭。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2847",
@@ -56691,7 +58928,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a theme.",
     "sentence": "This is a ___.",
-    "hint": "这是：主题。"
+    "hint": "这是：主题。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2848",
@@ -56704,7 +58942,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pocket.",
     "sentence": "This is a ___.",
-    "hint": "这是：衣袋,口袋。"
+    "hint": "这是：衣袋,口袋。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2849",
@@ -56717,7 +58956,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pity.",
     "sentence": "This is a ___.",
-    "hint": "这是：遗憾。"
+    "hint": "这是：遗憾。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2850",
@@ -56730,7 +58970,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a entrance.",
     "sentence": "This is a ___.",
-    "hint": "这是：进入；入口。"
+    "hint": "这是：进入；入口。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2851",
@@ -56743,7 +58984,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a reality.",
     "sentence": "This is a ___.",
-    "hint": "这是：现实。"
+    "hint": "这是：现实。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2852",
@@ -56756,7 +58998,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a pile.",
     "sentence": "This is a ___.",
-    "hint": "这是：一堆。"
+    "hint": "这是：一堆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2853",
@@ -56769,7 +59012,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a church.",
     "sentence": "This is a ___.",
-    "hint": "这是：教堂。"
+    "hint": "这是：教堂。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2854",
@@ -56782,7 +59026,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a television.",
     "sentence": "This is a ___.",
-    "hint": "这是：电视，电视机。"
+    "hint": "这是：电视，电视机。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2855",
@@ -56795,7 +59040,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a freedom.",
     "sentence": "This is a ___.",
-    "hint": "这是：自由。"
+    "hint": "这是：自由。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2856",
@@ -56808,7 +59054,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a contribution.",
     "sentence": "This is a ___.",
-    "hint": "这是：贡献；捐款。"
+    "hint": "这是：贡献；捐款。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2857",
@@ -56821,7 +59068,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ear.",
     "sentence": "This is a ___.",
-    "hint": "这是：耳朵。"
+    "hint": "这是：耳朵。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2858",
@@ -56834,7 +59082,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a hair.",
     "sentence": "This is a ___.",
-    "hint": "这是：头发。"
+    "hint": "这是：头发。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2859",
@@ -56847,7 +59096,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a shoulder.",
     "sentence": "This is a ___.",
-    "hint": "这是：肩膀。"
+    "hint": "这是：肩膀。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2860",
@@ -56860,7 +59110,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a jaw.",
     "sentence": "This is a ___.",
-    "hint": "这是：下巴。"
+    "hint": "这是：下巴。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2861",
@@ -56873,7 +59124,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a devote.",
     "sentence": "This is a ___.",
-    "hint": "这是：把…贡献,把…专用于。"
+    "hint": "这是：把…贡献,把…专用于。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2862",
@@ -56886,7 +59138,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tomato.",
     "sentence": "This is a ___.",
-    "hint": "这是：西红柿。"
+    "hint": "这是：西红柿。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2863",
@@ -56899,7 +59152,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a video.",
     "sentence": "This is a ___.",
-    "hint": "这是：录像。"
+    "hint": "这是：录像。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2864",
@@ -56912,7 +59166,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a kick.",
     "sentence": "This is a ___.",
-    "hint": "这是：踢。"
+    "hint": "这是：踢。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2865",
@@ -56925,7 +59180,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a emerge.",
     "sentence": "This is a ___.",
-    "hint": "这是：(从某处)出现。"
+    "hint": "这是：(从某处)出现。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2866",
@@ -56938,7 +59194,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have tension books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：紧张。"
+    "hint": "数量是：紧张。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2867",
@@ -56951,7 +59208,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is polite.",
     "sentence": "It is ___.",
-    "hint": "它是：有礼貌的；客气的。"
+    "hint": "它是：有礼貌的；客气的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2868",
@@ -56964,7 +59222,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "mine is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：我的。"
+    "hint": "选择代词：我的。",
+    "rawPos": "代词"
   },
   {
     "id": "high-2869",
@@ -56977,7 +59236,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is cheap.",
     "sentence": "It is ___.",
-    "hint": "它是：花钱少的；便宜的。"
+    "hint": "它是：花钱少的；便宜的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2870",
@@ -56990,7 +59250,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs straight.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：笔直地。"
+    "hint": "这里需要表示：笔直地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2871",
@@ -57003,7 +59264,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a float.",
     "sentence": "This is a ___.",
-    "hint": "这是：漂浮。"
+    "hint": "这是：漂浮。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2872",
@@ -57016,7 +59278,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is permanent.",
     "sentence": "It is ___.",
-    "hint": "它是：永久的。"
+    "hint": "它是：永久的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2873",
@@ -57029,7 +59292,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a grass.",
     "sentence": "This is a ___.",
-    "hint": "这是：草，牧草。"
+    "hint": "这是：草，牧草。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2874",
@@ -57042,7 +59306,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is surrounding.",
     "sentence": "It is ___.",
-    "hint": "它是：周围的,环绕的。"
+    "hint": "它是：周围的,环绕的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2875",
@@ -57055,7 +59320,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a possess.",
     "sentence": "This is a ___.",
-    "hint": "这是：拥有。"
+    "hint": "这是：拥有。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2876",
@@ -57068,7 +59334,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a kindness.",
     "sentence": "This is a ___.",
-    "hint": "这是：仁慈；善良。"
+    "hint": "这是：仁慈；善良。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2877",
@@ -57081,7 +59348,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs attraction.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：向往的地方；吸引力。"
+    "hint": "这里需要表示：向往的地方；吸引力。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2878",
@@ -57094,7 +59362,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a enemy.",
     "sentence": "This is a ___.",
-    "hint": "这是：敌人；仇人。"
+    "hint": "这是：敌人；仇人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2879",
@@ -57107,7 +59376,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is folk.",
     "sentence": "It is ___.",
-    "hint": "它是：民间的；民俗的。"
+    "hint": "它是：民间的；民俗的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2880",
@@ -57120,7 +59390,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a skip.",
     "sentence": "This is a ___.",
-    "hint": "这是：跳绳。"
+    "hint": "这是：跳绳。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2881",
@@ -57133,7 +59404,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a companion.",
     "sentence": "This is a ___.",
-    "hint": "这是：同伙，同伴。"
+    "hint": "这是：同伙，同伴。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2882",
@@ -57146,7 +59418,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a satisfaction.",
     "sentence": "This is a ___.",
-    "hint": "这是：满足；满意。"
+    "hint": "这是：满足；满意。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2883",
@@ -57159,7 +59432,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cloud.",
     "sentence": "This is a ___.",
-    "hint": "这是：云。"
+    "hint": "这是：云。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2884",
@@ -57172,7 +59446,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have height books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：身高。"
+    "hint": "数量是：身高。",
+    "rawPos": "数词"
   },
   {
     "id": "high-2885",
@@ -57185,7 +59460,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a queen.",
     "sentence": "This is a ___.",
-    "hint": "这是：女王。"
+    "hint": "这是：女王。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2886",
@@ -57198,7 +59474,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs senior.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：级别（或地位）高的。"
+    "hint": "这里需要表示：级别（或地位）高的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2887",
@@ -57211,7 +59488,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is worthwhile.",
     "sentence": "It is ___.",
-    "hint": "它是：值得的。"
+    "hint": "它是：值得的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2888",
@@ -57224,7 +59502,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pace.",
     "sentence": "This is a ___.",
-    "hint": "这是：步伐；速度。"
+    "hint": "这是：步伐；速度。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2889",
@@ -57237,7 +59516,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a photographer.",
     "sentence": "This is a ___.",
-    "hint": "这是：摄影师。"
+    "hint": "这是：摄影师。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2890",
@@ -57250,7 +59530,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a policeman.",
     "sentence": "This is a ___.",
-    "hint": "这是：警察。"
+    "hint": "这是：警察。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2891",
@@ -57263,7 +59544,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a acknowledge.",
     "sentence": "This is a ___.",
-    "hint": "这是：承认。"
+    "hint": "这是：承认。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2892",
@@ -57276,7 +59558,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "It is sir.",
     "sentence": "It is ___.",
-    "hint": "它是：（对男子的礼貌称呼）先生。"
+    "hint": "它是：（对男子的礼貌称呼）先生。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2893",
@@ -57289,7 +59572,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a astronaut.",
     "sentence": "This is a ___.",
-    "hint": "这是：宇航员。"
+    "hint": "这是：宇航员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2894",
@@ -57302,7 +59586,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is attractive.",
     "sentence": "It is ___.",
-    "hint": "它是：迷人的。"
+    "hint": "它是：迷人的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2895",
@@ -57315,7 +59600,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bottom.",
     "sentence": "This is a ___.",
-    "hint": "这是：底部。"
+    "hint": "这是：底部。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2896",
@@ -57328,7 +59614,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a playground.",
     "sentence": "This is a ___.",
-    "hint": "这是：操场。"
+    "hint": "这是：操场。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2897",
@@ -57341,7 +59628,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is dirty.",
     "sentence": "It is ___.",
-    "hint": "它是：肮脏的。"
+    "hint": "它是：肮脏的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2898",
@@ -57354,7 +59642,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is bored.",
     "sentence": "It is ___.",
-    "hint": "它是：烦闷的。"
+    "hint": "它是：烦闷的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2899",
@@ -57367,7 +59656,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a impression.",
     "sentence": "This is a ___.",
-    "hint": "这是：印象。"
+    "hint": "这是：印象。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2900",
@@ -57380,7 +59670,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a hatch.",
     "sentence": "This is a ___.",
-    "hint": "这是：孵化。"
+    "hint": "这是：孵化。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2901",
@@ -57393,7 +59684,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a autumn.",
     "sentence": "This is a ___.",
-    "hint": "这是：秋天。"
+    "hint": "这是：秋天。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2902",
@@ -57406,7 +59698,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a boom.",
     "sentence": "This is a ___.",
-    "hint": "这是：底部；最下部。"
+    "hint": "这是：底部；最下部。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2903",
@@ -57419,7 +59712,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can uncomfortable.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使人不舒服的；令人不舒服的。"
+    "hint": "我会/可以：使人不舒服的；令人不舒服的。",
+    "rawPos": "动词"
   },
   {
     "id": "high-2904",
@@ -57432,7 +59726,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a mirror.",
     "sentence": "This is a ___.",
-    "hint": "这是：镜子。"
+    "hint": "这是：镜子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2905",
@@ -57445,7 +59740,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is pure.",
     "sentence": "It is ___.",
-    "hint": "它是：纯净的,清洁的,纯的。"
+    "hint": "它是：纯净的,清洁的,纯的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2906",
@@ -57458,7 +59754,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is alcohol.",
     "sentence": "It is ___.",
-    "hint": "它是：酒；含酒精的饮料。"
+    "hint": "它是：酒；含酒精的饮料。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2907",
@@ -57471,7 +59768,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is overall.",
     "sentence": "It is ___.",
-    "hint": "它是：总的,全面的。"
+    "hint": "它是：总的,全面的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2908",
@@ -57484,7 +59782,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a lemon.",
     "sentence": "This is a ___.",
-    "hint": "这是：柠檬。"
+    "hint": "这是：柠檬。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2909",
@@ -57497,7 +59796,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a strawberry.",
     "sentence": "This is a ___.",
-    "hint": "这是：草莓。"
+    "hint": "这是：草莓。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2910",
@@ -57510,7 +59810,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chocolate.",
     "sentence": "This is a ___.",
-    "hint": "这是：巧克力。"
+    "hint": "这是：巧克力。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2911",
@@ -57523,7 +59824,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a hug.",
     "sentence": "This is a ___.",
-    "hint": "这是：拥抱。"
+    "hint": "这是：拥抱。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2912",
@@ -57536,7 +59838,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is plain.",
     "sentence": "It is ___.",
-    "hint": "它是：普通的；家常的。"
+    "hint": "它是：普通的；家常的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2913",
@@ -57549,7 +59852,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cell.",
     "sentence": "This is a ___.",
-    "hint": "这是：细胞。"
+    "hint": "这是：细胞。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2914",
@@ -57562,7 +59866,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a sculpture.",
     "sentence": "This is a ___.",
-    "hint": "这是：雕塑，雕像。"
+    "hint": "这是：雕塑，雕像。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2915",
@@ -57575,7 +59880,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a passion.",
     "sentence": "This is a ___.",
-    "hint": "这是：激情。"
+    "hint": "这是：激情。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2916",
@@ -57588,7 +59894,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is electrical.",
     "sentence": "It is ___.",
-    "hint": "它是：与电有关的。"
+    "hint": "它是：与电有关的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2917",
@@ -57601,7 +59908,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is pale.",
     "sentence": "It is ___.",
-    "hint": "它是：苍白的；灰白的。"
+    "hint": "它是：苍白的；灰白的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2918",
@@ -57614,7 +59922,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a adolescent.",
     "sentence": "This is a ___.",
-    "hint": "这是：青少年(-岁)。"
+    "hint": "这是：青少年(-岁)。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2919",
@@ -57627,7 +59936,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a scarf.",
     "sentence": "This is a ___.",
-    "hint": "这是：围巾；披巾。"
+    "hint": "这是：围巾；披巾。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2920",
@@ -57640,7 +59950,8 @@ window.VOCABULARY = [
     "category": "交通旅行",
     "example": "This is a hike.",
     "sentence": "This is a ___.",
-    "hint": "这是：徒步旅行。"
+    "hint": "这是：徒步旅行。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2921",
@@ -57653,7 +59964,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tax.",
     "sentence": "This is a ___.",
-    "hint": "这是：税。"
+    "hint": "这是：税。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2922",
@@ -57666,7 +59978,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a arrangement.",
     "sentence": "This is a ___.",
-    "hint": "这是：安排。"
+    "hint": "这是：安排。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2923",
@@ -57679,7 +59992,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a property.",
     "sentence": "This is a ___.",
-    "hint": "这是：财产。"
+    "hint": "这是：财产。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2924",
@@ -57692,7 +60006,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sofa.",
     "sentence": "This is a ___.",
-    "hint": "这是：长沙发。"
+    "hint": "这是：长沙发。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2925",
@@ -57705,7 +60020,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is rural.",
     "sentence": "It is ___.",
-    "hint": "它是：农村的。"
+    "hint": "它是：农村的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2926",
@@ -57718,7 +60034,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a coast.",
     "sentence": "This is a ___.",
-    "hint": "这是：海岸；海滨。"
+    "hint": "这是：海岸；海滨。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2927",
@@ -57731,7 +60048,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a mixture.",
     "sentence": "This is a ___.",
-    "hint": "这是：混合物。"
+    "hint": "这是：混合物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2928",
@@ -57744,7 +60062,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fantasy.",
     "sentence": "This is a ___.",
-    "hint": "这是：幻想故事。"
+    "hint": "这是：幻想故事。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2929",
@@ -57757,7 +60076,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a scenery.",
     "sentence": "This is a ___.",
-    "hint": "这是：风景；景色。"
+    "hint": "这是：风景；景色。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2930",
@@ -57770,7 +60090,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a grandchild.",
     "sentence": "This is a ___.",
-    "hint": "这是：孙子；孙女；外孙；外孙女。"
+    "hint": "这是：孙子；孙女；外孙；外孙女。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2931",
@@ -57783,7 +60104,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is superior.",
     "sentence": "It is ___.",
-    "hint": "它是：优越的。"
+    "hint": "它是：优越的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2932",
@@ -57796,7 +60118,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a hence.",
     "sentence": "This is a ___.",
-    "hint": "这是：因此。"
+    "hint": "这是：因此。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2933",
@@ -57809,7 +60132,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a interpret.",
     "sentence": "This is a ___.",
-    "hint": "这是：解释。"
+    "hint": "这是：解释。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2934",
@@ -57822,7 +60146,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a defend.",
     "sentence": "This is a ___.",
-    "hint": "这是：保卫。"
+    "hint": "这是：保卫。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2935",
@@ -57835,7 +60160,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a convenience.",
     "sentence": "This is a ___.",
-    "hint": "这是：便利，舒适。"
+    "hint": "这是：便利，舒适。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2936",
@@ -57848,7 +60174,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is ideal.",
     "sentence": "It is ___.",
-    "hint": "它是：理想的。"
+    "hint": "它是：理想的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2937",
@@ -57861,7 +60188,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is mistaken.",
     "sentence": "It is ___.",
-    "hint": "它是：犯错的，错误的。"
+    "hint": "它是：犯错的，错误的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2938",
@@ -57874,7 +60202,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs globe.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地球,地球仪。"
+    "hint": "这里需要表示：地球,地球仪。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2939",
@@ -57887,7 +60216,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bathe.",
     "sentence": "This is a ___.",
-    "hint": "这是：洗澡。"
+    "hint": "这是：洗澡。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2940",
@@ -57900,7 +60230,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pianist.",
     "sentence": "This is a ___.",
-    "hint": "这是：钢琴家。"
+    "hint": "这是：钢琴家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2941",
@@ -57913,7 +60244,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tolerance.",
     "sentence": "This is a ___.",
-    "hint": "这是：容忍。"
+    "hint": "这是：容忍。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2942",
@@ -57926,7 +60258,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is legal.",
     "sentence": "It is ___.",
-    "hint": "它是：合法的。"
+    "hint": "它是：合法的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2943",
@@ -57939,7 +60272,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a conference.",
     "sentence": "This is a ___.",
-    "hint": "这是：会议。"
+    "hint": "这是：会议。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2944",
@@ -57952,7 +60286,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is regretful.",
     "sentence": "It is ___.",
-    "hint": "它是：后悔的。"
+    "hint": "它是：后悔的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2945",
@@ -57965,7 +60300,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a revise.",
     "sentence": "This is a ___.",
-    "hint": "这是：修改。"
+    "hint": "这是：修改。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2946",
@@ -57978,7 +60314,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is identical.",
     "sentence": "It is ___.",
-    "hint": "它是：（完全）相同的，一模一样的。"
+    "hint": "它是：（完全）相同的，一模一样的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2947",
@@ -57991,7 +60328,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a depth.",
     "sentence": "This is a ___.",
-    "hint": "这是：深度。"
+    "hint": "这是：深度。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2948",
@@ -58004,7 +60342,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is accessible.",
     "sentence": "It is ___.",
-    "hint": "它是：可到达的。"
+    "hint": "它是：可到达的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2949",
@@ -58017,7 +60356,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a poison.",
     "sentence": "This is a ___.",
-    "hint": "这是：毒药；毒物。"
+    "hint": "这是：毒药；毒物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2950",
@@ -58030,7 +60370,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a coverage.",
     "sentence": "This is a ___.",
-    "hint": "这是：新闻报道。"
+    "hint": "这是：新闻报道。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2951",
@@ -58043,7 +60384,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a kite.",
     "sentence": "This is a ___.",
-    "hint": "这是：风筝。"
+    "hint": "这是：风筝。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2952",
@@ -58056,7 +60398,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a stretch.",
     "sentence": "This is a ___.",
-    "hint": "这是：伸展(肢体)。"
+    "hint": "这是：伸展(肢体)。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2953",
@@ -58069,7 +60412,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a muscle.",
     "sentence": "This is a ___.",
-    "hint": "这是：肌肉。"
+    "hint": "这是：肌肉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2954",
@@ -58082,7 +60426,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is virtual.",
     "sentence": "It is ___.",
-    "hint": "它是：实际上的。"
+    "hint": "它是：实际上的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2955",
@@ -58095,7 +60440,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a toast.",
     "sentence": "This is a ___.",
-    "hint": "这是：烤面包(片)，吐司。"
+    "hint": "这是：烤面包(片)，吐司。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2956",
@@ -58108,7 +60454,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a steak.",
     "sentence": "This is a ___.",
-    "hint": "这是：排；肉排；鱼排；牛排。"
+    "hint": "这是：排；肉排；鱼排；牛排。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2957",
@@ -58121,7 +60468,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a charity.",
     "sentence": "This is a ___.",
-    "hint": "这是：慈善；慈善机构。"
+    "hint": "这是：慈善；慈善机构。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2958",
@@ -58134,7 +60482,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is voluntary.",
     "sentence": "It is ___.",
-    "hint": "它是：自愿的。"
+    "hint": "它是：自愿的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2959",
@@ -58147,7 +60496,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is selfish.",
     "sentence": "It is ___.",
-    "hint": "它是：自私的。"
+    "hint": "它是：自私的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2960",
@@ -58160,7 +60510,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a dust.",
     "sentence": "This is a ___.",
-    "hint": "这是：灰尘，尘埃。"
+    "hint": "这是：灰尘，尘埃。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2961",
@@ -58173,7 +60524,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs ultimately.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：最终。"
+    "hint": "这里需要表示：最终。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2962",
@@ -58186,7 +60538,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a criticise.",
     "sentence": "This is a ___.",
-    "hint": "这是：批评。"
+    "hint": "这是：批评。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2963",
@@ -58199,7 +60552,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cigarette.",
     "sentence": "This is a ___.",
-    "hint": "这是：香烟；卷烟。"
+    "hint": "这是：香烟；卷烟。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2964",
@@ -58212,7 +60566,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ray.",
     "sentence": "This is a ___.",
-    "hint": "这是：光线。"
+    "hint": "这是：光线。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2965",
@@ -58225,7 +60580,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a membership.",
     "sentence": "This is a ___.",
-    "hint": "这是：会员资格。"
+    "hint": "这是：会员资格。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2966",
@@ -58238,7 +60594,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a investment.",
     "sentence": "This is a ___.",
-    "hint": "这是：投资。"
+    "hint": "这是：投资。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2967",
@@ -58251,7 +60608,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a iron.",
     "sentence": "This is a ___.",
-    "hint": "这是：熨烫（衣物）。"
+    "hint": "这是：熨烫（衣物）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2968",
@@ -58264,7 +60622,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cafeteria.",
     "sentence": "This is a ___.",
-    "hint": "这是：自助餐厅。"
+    "hint": "这是：自助餐厅。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2969",
@@ -58277,7 +60636,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a hunter.",
     "sentence": "This is a ___.",
-    "hint": "这是：猎人。"
+    "hint": "这是：猎人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2970",
@@ -58290,7 +60650,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a immigration.",
     "sentence": "This is a ___.",
-    "hint": "这是：移民。"
+    "hint": "这是：移民。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2971",
@@ -58303,7 +60664,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is illegal.",
     "sentence": "It is ___.",
-    "hint": "它是：不合法的。"
+    "hint": "它是：不合法的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2972",
@@ -58316,7 +60678,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a stair.",
     "sentence": "This is a ___.",
-    "hint": "这是：楼梯。"
+    "hint": "这是：楼梯。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2973",
@@ -58329,7 +60692,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a engine.",
     "sentence": "This is a ___.",
-    "hint": "这是：发动机；引擎。"
+    "hint": "这是：发动机；引擎。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2974",
@@ -58342,7 +60706,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is elegant.",
     "sentence": "It is ___.",
-    "hint": "它是：优美别致的。"
+    "hint": "它是：优美别致的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2975",
@@ -58355,7 +60720,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a stove.",
     "sentence": "This is a ___.",
-    "hint": "这是：炉子,火炉。"
+    "hint": "这是：炉子,火炉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2976",
@@ -58368,7 +60734,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a quote.",
     "sentence": "This is a ___.",
-    "hint": "这是：引文。"
+    "hint": "这是：引文。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2977",
@@ -58381,7 +60748,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is authentic.",
     "sentence": "It is ___.",
-    "hint": "它是：真正的。"
+    "hint": "它是：真正的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2978",
@@ -58394,7 +60762,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is satisfactory.",
     "sentence": "It is ___.",
-    "hint": "它是：令人满意的。"
+    "hint": "它是：令人满意的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2979",
@@ -58407,7 +60776,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is ecological.",
     "sentence": "It is ___.",
-    "hint": "它是：生态的。"
+    "hint": "它是：生态的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2980",
@@ -58420,7 +60790,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is contemporary.",
     "sentence": "It is ___.",
-    "hint": "它是：属同时期的。"
+    "hint": "它是：属同时期的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2981",
@@ -58433,7 +60804,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a detect.",
     "sentence": "This is a ___.",
-    "hint": "这是：发现，查明。"
+    "hint": "这是：发现，查明。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2982",
@@ -58446,7 +60818,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a guard.",
     "sentence": "This is a ___.",
-    "hint": "这是：警卫；看守。"
+    "hint": "这是：警卫；看守。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2983",
@@ -58459,7 +60832,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a interaction.",
     "sentence": "This is a ___.",
-    "hint": "这是：一起活动；合作。"
+    "hint": "这是：一起活动；合作。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2984",
@@ -58472,7 +60846,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a leisure.",
     "sentence": "This is a ___.",
-    "hint": "这是：闲暇，空闲。"
+    "hint": "这是：闲暇，空闲。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2985",
@@ -58485,7 +60860,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is eastern.",
     "sentence": "It is ___.",
-    "hint": "它是：东方的；东部的。"
+    "hint": "它是：东方的；东部的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-2986",
@@ -58498,7 +60874,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a storm.",
     "sentence": "This is a ___.",
-    "hint": "这是：暴风雨。"
+    "hint": "这是：暴风雨。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2987",
@@ -58511,7 +60888,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a load.",
     "sentence": "This is a ___.",
-    "hint": "这是：负载。"
+    "hint": "这是：负载。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2988",
@@ -58524,7 +60902,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs shortly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：很快，不久。"
+    "hint": "这里需要表示：很快，不久。",
+    "rawPos": "副词"
   },
   {
     "id": "high-2989",
@@ -58537,7 +60916,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a anyway.",
     "sentence": "This is a ___.",
-    "hint": "这是：无论如何。"
+    "hint": "这是：无论如何。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2990",
@@ -58550,7 +60930,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a core.",
     "sentence": "This is a ___.",
-    "hint": "这是：果心。"
+    "hint": "这是：果心。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2991",
@@ -58563,7 +60944,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a receptionist.",
     "sentence": "This is a ___.",
-    "hint": "这是：接待员。"
+    "hint": "这是：接待员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2992",
@@ -58576,7 +60958,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a affection.",
     "sentence": "This is a ___.",
-    "hint": "这是：感情。"
+    "hint": "这是：感情。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2993",
@@ -58589,7 +60972,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a editor.",
     "sentence": "This is a ___.",
-    "hint": "这是：编辑。"
+    "hint": "这是：编辑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2994",
@@ -58602,7 +60986,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a acre.",
     "sentence": "This is a ___.",
-    "hint": "这是：英亩。"
+    "hint": "这是：英亩。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2995",
@@ -58615,7 +61000,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a roof.",
     "sentence": "This is a ___.",
-    "hint": "这是：屋顶。"
+    "hint": "这是：屋顶。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2996",
@@ -58628,7 +61014,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a package.",
     "sentence": "This is a ___.",
-    "hint": "这是：包裹；一揽子，一整套。"
+    "hint": "这是：包裹；一揽子，一整套。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2997",
@@ -58641,7 +61028,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a illustrate.",
     "sentence": "This is a ___.",
-    "hint": "这是：说明。"
+    "hint": "这是：说明。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2998",
@@ -58654,7 +61042,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fortune.",
     "sentence": "This is a ___.",
-    "hint": "这是：财富。"
+    "hint": "这是：财富。",
+    "rawPos": "名词"
   },
   {
     "id": "high-2999",
@@ -58667,7 +61056,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs clap.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：拍手；啪地一声。"
+    "hint": "这里需要表示：拍手；啪地一声。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3000",
@@ -58680,7 +61070,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is vast.",
     "sentence": "It is ___.",
-    "hint": "它是：广大的；辽阔的。"
+    "hint": "它是：广大的；辽阔的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3001",
@@ -58693,7 +61084,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sponsor.",
     "sentence": "This is a ___.",
-    "hint": "这是：赞助商。"
+    "hint": "这是：赞助商。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3002",
@@ -58706,7 +61098,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is False.",
     "sentence": "It is ___.",
-    "hint": "它是：错误的；假的。"
+    "hint": "它是：错误的；假的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3003",
@@ -58719,7 +61112,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a demonstrate.",
     "sentence": "This is a ___.",
-    "hint": "这是：演示；显示。"
+    "hint": "这是：演示；显示。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3004",
@@ -58732,7 +61126,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a stuff.",
     "sentence": "This is a ___.",
-    "hint": "这是：东西。"
+    "hint": "这是：东西。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3005",
@@ -58745,7 +61140,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a drawer.",
     "sentence": "This is a ___.",
-    "hint": "这是：抽屉。"
+    "hint": "这是：抽屉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3006",
@@ -58758,7 +61154,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have listener books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：听者。"
+    "hint": "数量是：听者。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3007",
@@ -58771,7 +61168,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is contrast.",
     "sentence": "It is ___.",
-    "hint": "它是：明显的差异，对比，对照。"
+    "hint": "它是：明显的差异，对比，对照。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3008",
@@ -58784,7 +61182,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a stability.",
     "sentence": "This is a ___.",
-    "hint": "这是：稳定性。"
+    "hint": "这是：稳定性。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3009",
@@ -58797,7 +61196,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a excellence.",
     "sentence": "This is a ___.",
-    "hint": "这是：优秀，卓越。"
+    "hint": "这是：优秀，卓越。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3010",
@@ -58810,7 +61210,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs fortunately.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：幸运地。"
+    "hint": "这里需要表示：幸运地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3011",
@@ -58823,7 +61224,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a kit.",
     "sentence": "This is a ___.",
-    "hint": "这是：配套元件。"
+    "hint": "这是：配套元件。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3012",
@@ -58836,7 +61238,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is thirsty.",
     "sentence": "It is ___.",
-    "hint": "它是：渴的；口渴的。"
+    "hint": "它是：渴的；口渴的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3013",
@@ -58849,7 +61252,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "I can delightful.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使人快乐的。"
+    "hint": "我会/可以：使人快乐的。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3014",
@@ -58862,7 +61266,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a eagerness.",
     "sentence": "This is a ___.",
-    "hint": "这是：急切。"
+    "hint": "这是：急切。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3015",
@@ -58875,7 +61280,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is scary.",
     "sentence": "It is ___.",
-    "hint": "它是：恐怖的；吓人的。"
+    "hint": "它是：恐怖的；吓人的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3016",
@@ -58888,7 +61294,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a investigate.",
     "sentence": "This is a ___.",
-    "hint": "这是：调查，研究。"
+    "hint": "这是：调查，研究。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3017",
@@ -58901,7 +61308,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a claim.",
     "sentence": "This is a ___.",
-    "hint": "这是：以…为其后果。"
+    "hint": "这是：以…为其后果。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3018",
@@ -58914,7 +61322,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is OK.",
     "sentence": "It is ___.",
-    "hint": "它是：好的；还不错的；很好的。"
+    "hint": "它是：好的；还不错的；很好的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3019",
@@ -58927,7 +61336,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a peak.",
     "sentence": "This is a ___.",
-    "hint": "这是：峰。"
+    "hint": "这是：峰。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3020",
@@ -58940,7 +61350,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a daytime.",
     "sentence": "This is a ___.",
-    "hint": "这是：白天；日间。"
+    "hint": "这是：白天；日间。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3021",
@@ -58953,7 +61364,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a proof.",
     "sentence": "This is a ___.",
-    "hint": "这是：证据。"
+    "hint": "这是：证据。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3022",
@@ -58966,7 +61378,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a regulate.",
     "sentence": "This is a ___.",
-    "hint": "这是：规定。"
+    "hint": "这是：规定。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3023",
@@ -58979,7 +61392,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pizza.",
     "sentence": "This is a ___.",
-    "hint": "这是：比萨饼。"
+    "hint": "这是：比萨饼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3024",
@@ -58992,7 +61406,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is imaginative.",
     "sentence": "It is ___.",
-    "hint": "它是：富有想象力的。"
+    "hint": "它是：富有想象力的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3025",
@@ -59005,7 +61420,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is wooden.",
     "sentence": "It is ___.",
-    "hint": "它是：木制的；木头的。"
+    "hint": "它是：木制的；木头的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3026",
@@ -59018,7 +61434,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs patiently.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：耐心地。"
+    "hint": "这里需要表示：耐心地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3027",
@@ -59031,7 +61448,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a vision.",
     "sentence": "This is a ___.",
-    "hint": "这是：视力。"
+    "hint": "这是：视力。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3028",
@@ -59044,7 +61462,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a loan.",
     "sentence": "This is a ___.",
-    "hint": "这是：贷款。"
+    "hint": "这是：贷款。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3029",
@@ -59057,7 +61476,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a grandson.",
     "sentence": "This is a ___.",
-    "hint": "这是：孙子；外孙。"
+    "hint": "这是：孙子；外孙。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3030",
@@ -59070,7 +61490,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a Wi-Fi.",
     "sentence": "This is a ___.",
-    "hint": "这是：无线局域网。"
+    "hint": "这是：无线局域网。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3031",
@@ -59083,7 +61504,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a jungle.",
     "sentence": "This is a ___.",
-    "hint": "这是：(热带)丛林。"
+    "hint": "这是：(热带)丛林。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3032",
@@ -59096,7 +61518,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a weaken.",
     "sentence": "This is a ___.",
-    "hint": "这是：削弱。"
+    "hint": "这是：削弱。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3033",
@@ -59109,7 +61532,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a Thursday.",
     "sentence": "This is a ___.",
-    "hint": "这是：星期四。"
+    "hint": "这是：星期四。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3034",
@@ -59122,7 +61546,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a Wednesday.",
     "sentence": "This is a ___.",
-    "hint": "这是：星期三。"
+    "hint": "这是：星期三。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3035",
@@ -59135,7 +61560,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs monthly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：月刊。"
+    "hint": "这里需要表示：月刊。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3036",
@@ -59148,7 +61574,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can launch.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：发射；使……运动；送上轨道。"
+    "hint": "我会/可以：发射；使……运动；送上轨道。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3037",
@@ -59161,7 +61588,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a layer.",
     "sentence": "This is a ___.",
-    "hint": "这是：层；层次。"
+    "hint": "这是：层；层次。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3038",
@@ -59174,7 +61602,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a immunity.",
     "sentence": "This is a ___.",
-    "hint": "这是：免疫。"
+    "hint": "这是：免疫。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3039",
@@ -59187,7 +61616,8 @@ window.VOCABULARY = [
     "category": "场所方位",
     "example": "This is a greenhouse.",
     "sentence": "This is a ___.",
-    "hint": "这是：温室。"
+    "hint": "这是：温室。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3040",
@@ -59200,7 +61630,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs quietly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：小声地，安静地。"
+    "hint": "这里需要表示：小声地，安静地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3041",
@@ -59213,7 +61644,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a interruption.",
     "sentence": "This is a ___.",
-    "hint": "这是：中断。"
+    "hint": "这是：中断。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3042",
@@ -59226,7 +61658,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a accomplishment.",
     "sentence": "This is a ___.",
-    "hint": "这是：成就。"
+    "hint": "这是：成就。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3043",
@@ -59239,7 +61672,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a necessity.",
     "sentence": "This is a ___.",
-    "hint": "这是：必然性。"
+    "hint": "这是：必然性。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3044",
@@ -59252,7 +61686,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a vary.",
     "sentence": "This is a ___.",
-    "hint": "这是：变化。"
+    "hint": "这是：变化。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3045",
@@ -59265,7 +61700,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a improvement.",
     "sentence": "This is a ___.",
-    "hint": "这是：改善。"
+    "hint": "这是：改善。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3046",
@@ -59278,7 +61714,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is frightening.",
     "sentence": "It is ___.",
-    "hint": "它是：令人恐惧的。"
+    "hint": "它是：令人恐惧的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3047",
@@ -59291,7 +61728,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a killer.",
     "sentence": "This is a ___.",
-    "hint": "这是：杀手。"
+    "hint": "这是：杀手。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3048",
@@ -59304,7 +61742,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a rugby.",
     "sentence": "This is a ___.",
-    "hint": "这是：橄榄球。"
+    "hint": "这是：橄榄球。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3049",
@@ -59317,7 +61756,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a bye.",
     "sentence": "This is a ___.",
-    "hint": "这是：(=bye-bye）再见,再会（口语）。"
+    "hint": "这是：(=bye-bye）再见,再会（口语）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3050",
@@ -59330,7 +61770,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is enormous.",
     "sentence": "It is ___.",
-    "hint": "它是：巨大的。"
+    "hint": "它是：巨大的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3051",
@@ -59343,7 +61784,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a establish.",
     "sentence": "This is a ___.",
-    "hint": "这是：建立，创办。"
+    "hint": "这是：建立，创办。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3052",
@@ -59356,7 +61798,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cope.",
     "sentence": "This is a ___.",
-    "hint": "这是：处理。"
+    "hint": "这是：处理。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3053",
@@ -59369,7 +61812,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a exceed.",
     "sentence": "This is a ___.",
-    "hint": "这是：超过。"
+    "hint": "这是：超过。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3054",
@@ -59382,7 +61826,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "He runs slightly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：一点点；些微。"
+    "hint": "这里需要表示：一点点；些微。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3055",
@@ -59395,7 +61840,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is living.",
     "sentence": "It is ___.",
-    "hint": "它是：活着的。"
+    "hint": "它是：活着的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3056",
@@ -59408,7 +61854,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a November.",
     "sentence": "This is a ___.",
-    "hint": "这是：十一月。"
+    "hint": "这是：十一月。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3057",
@@ -59421,7 +61868,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "This is a unlike.",
     "sentence": "This is a ___.",
-    "hint": "这是：不像；和……不同。"
+    "hint": "这是：不像；和……不同。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3058",
@@ -59434,7 +61882,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a championship.",
     "sentence": "This is a ___.",
-    "hint": "这是：锦标赛，大赛。"
+    "hint": "这是：锦标赛，大赛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3059",
@@ -59447,7 +61896,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a reduction.",
     "sentence": "This is a ___.",
-    "hint": "这是：减少。"
+    "hint": "这是：减少。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3060",
@@ -59460,7 +61910,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can exhaust.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使精疲力尽。"
+    "hint": "我会/可以：使精疲力尽。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3061",
@@ -59473,7 +61924,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs largely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：在很大程度上。"
+    "hint": "这里需要表示：在很大程度上。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3062",
@@ -59486,7 +61938,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a Europe.",
     "sentence": "This is a ___.",
-    "hint": "这是：欧洲。"
+    "hint": "这是：欧洲。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3063",
@@ -59499,7 +61952,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is unwilling.",
     "sentence": "It is ___.",
-    "hint": "它是：不情愿的。"
+    "hint": "它是：不情愿的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3064",
@@ -59512,7 +61966,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a astonished.",
     "sentence": "This is a ___.",
-    "hint": "这是：惊讶。"
+    "hint": "这是：惊讶。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3065",
@@ -59525,7 +61980,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a timing.",
     "sentence": "This is a ___.",
-    "hint": "这是：定时。"
+    "hint": "这是：定时。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3066",
@@ -59538,7 +61994,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a thirty.",
     "sentence": "This is a ___.",
-    "hint": "这是：三十。"
+    "hint": "这是：三十。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3067",
@@ -59551,7 +62008,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is astonishing.",
     "sentence": "It is ___.",
-    "hint": "它是：令人吃惊的。"
+    "hint": "它是：令人吃惊的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3068",
@@ -59564,7 +62022,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dining.",
     "sentence": "This is a ___.",
-    "hint": "这是：用餐。"
+    "hint": "这是：用餐。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3069",
@@ -59577,7 +62036,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is joint.",
     "sentence": "It is ___.",
-    "hint": "它是：共同的。"
+    "hint": "它是：共同的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3070",
@@ -59590,7 +62050,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a item.",
     "sentence": "This is a ___.",
-    "hint": "这是：一件商品（物品）；项目。"
+    "hint": "这是：一件商品（物品）；项目。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3071",
@@ -59603,7 +62064,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have threaten books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：威胁。"
+    "hint": "数量是：威胁。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3072",
@@ -59616,7 +62078,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a contract.",
     "sentence": "This is a ___.",
-    "hint": "这是：合同。"
+    "hint": "这是：合同。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3073",
@@ -59629,7 +62092,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a emotion.",
     "sentence": "This is a ___.",
-    "hint": "这是：情感，情绪，感情。"
+    "hint": "这是：情感，情绪，感情。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3074",
@@ -59642,7 +62106,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chase.",
     "sentence": "This is a ___.",
-    "hint": "这是：追赶。"
+    "hint": "这是：追赶。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3075",
@@ -59655,7 +62120,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a energise.",
     "sentence": "This is a ___.",
-    "hint": "这是：通电。"
+    "hint": "这是：通电。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3076",
@@ -59668,7 +62134,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a depart.",
     "sentence": "This is a ___.",
-    "hint": "这是：离开。"
+    "hint": "这是：离开。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3077",
@@ -59681,7 +62148,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a engage.",
     "sentence": "This is a ___.",
-    "hint": "这是：从事。"
+    "hint": "这是：从事。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3078",
@@ -59694,7 +62162,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is confusing.",
     "sentence": "It is ___.",
-    "hint": "它是：令人费解的。"
+    "hint": "它是：令人费解的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3079",
@@ -59707,7 +62176,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a facility.",
     "sentence": "This is a ___.",
-    "hint": "这是：[常作facilities]设备，设施。"
+    "hint": "这是：[常作facilities]设备，设施。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3080",
@@ -59720,7 +62190,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is complicated.",
     "sentence": "It is ___.",
-    "hint": "它是：复杂的。"
+    "hint": "它是：复杂的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3081",
@@ -59733,7 +62204,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a delivery.",
     "sentence": "This is a ___.",
-    "hint": "这是：传送。"
+    "hint": "这是：传送。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3082",
@@ -59746,7 +62218,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a flexibility.",
     "sentence": "This is a ___.",
-    "hint": "这是：灵活性，柔韧性；适应性。"
+    "hint": "这是：灵活性，柔韧性；适应性。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3083",
@@ -59759,7 +62232,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is conscious.",
     "sentence": "It is ___.",
-    "hint": "它是：感觉（意识）到的。"
+    "hint": "它是：感觉（意识）到的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3084",
@@ -59772,7 +62246,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is cute.",
     "sentence": "It is ___.",
-    "hint": "它是：可爱的。"
+    "hint": "它是：可爱的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3085",
@@ -59785,7 +62260,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a collector.",
     "sentence": "This is a ___.",
-    "hint": "这是：收藏家。"
+    "hint": "这是：收藏家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3086",
@@ -59798,7 +62274,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is coastal.",
     "sentence": "It is ___.",
-    "hint": "它是：沿海的。"
+    "hint": "它是：沿海的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3087",
@@ -59811,7 +62288,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a negotiation.",
     "sentence": "This is a ___.",
-    "hint": "这是：谈判。"
+    "hint": "这是：谈判。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3088",
@@ -59824,7 +62302,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a trousers.",
     "sentence": "This is a ___.",
-    "hint": "这是：裤子。"
+    "hint": "这是：裤子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3089",
@@ -59837,7 +62316,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is favourable.",
     "sentence": "It is ___.",
-    "hint": "它是：有利的。"
+    "hint": "它是：有利的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3090",
@@ -59850,7 +62330,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ease.",
     "sentence": "This is a ___.",
-    "hint": "这是：容易。"
+    "hint": "这是：容易。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3091",
@@ -59863,7 +62344,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a philosophy.",
     "sentence": "This is a ___.",
-    "hint": "这是：哲学。"
+    "hint": "这是：哲学。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3092",
@@ -59876,7 +62358,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs unlikely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：不大可能发生的。"
+    "hint": "这里需要表示：不大可能发生的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3093",
@@ -59889,7 +62372,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is disadvantaged.",
     "sentence": "It is ___.",
-    "hint": "它是：弱势的。"
+    "hint": "它是：弱势的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3094",
@@ -59902,7 +62386,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is shiny.",
     "sentence": "It is ___.",
-    "hint": "它是：光亮的；反光的。"
+    "hint": "它是：光亮的；反光的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3095",
@@ -59915,7 +62400,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs gently.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：和缓地；温柔地。"
+    "hint": "这里需要表示：和缓地；温柔地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3096",
@@ -59928,7 +62414,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is prior.",
     "sentence": "It is ___.",
-    "hint": "它是：先前的。"
+    "hint": "它是：先前的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3097",
@@ -59941,7 +62428,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a investigation.",
     "sentence": "This is a ___.",
-    "hint": "这是：调查。"
+    "hint": "这是：调查。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3098",
@@ -59954,7 +62442,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a undergraduate.",
     "sentence": "This is a ___.",
-    "hint": "这是：大学生。"
+    "hint": "这是：大学生。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3099",
@@ -59967,7 +62456,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a context.",
     "sentence": "This is a ___.",
-    "hint": "这是：上下文；语境；背景。"
+    "hint": "这是：上下文；语境；背景。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3100",
@@ -59980,7 +62470,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is inconvenient.",
     "sentence": "It is ___.",
-    "hint": "它是：不方便的；令人为难的。"
+    "hint": "它是：不方便的；令人为难的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3101",
@@ -59993,7 +62484,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is influential.",
     "sentence": "It is ___.",
-    "hint": "它是：有很大影响的。"
+    "hint": "它是：有很大影响的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3102",
@@ -60006,7 +62498,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a producer.",
     "sentence": "This is a ___.",
-    "hint": "这是：(电影)制片人。"
+    "hint": "这是：(电影)制片人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3103",
@@ -60019,7 +62512,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs eagerly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：急切地。"
+    "hint": "这里需要表示：急切地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3104",
@@ -60032,7 +62526,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is inactive.",
     "sentence": "It is ___.",
-    "hint": "它是：不活跃的。"
+    "hint": "它是：不活跃的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3105",
@@ -60045,7 +62540,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can mission.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使命，天职；军事行动。"
+    "hint": "我会/可以：使命，天职；军事行动。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3106",
@@ -60058,7 +62554,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a December.",
     "sentence": "This is a ___.",
-    "hint": "这是：十二月。"
+    "hint": "这是：十二月。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3107",
@@ -60071,7 +62568,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs deadly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：致命的。"
+    "hint": "这里需要表示：致命的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3108",
@@ -60084,7 +62582,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is helpless.",
     "sentence": "It is ___.",
-    "hint": "它是：无助的。"
+    "hint": "它是：无助的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3109",
@@ -60097,7 +62596,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a collapse.",
     "sentence": "This is a ___.",
-    "hint": "这是：倒塌，崩溃。"
+    "hint": "这是：倒塌，崩溃。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3110",
@@ -60110,7 +62610,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs currently.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：目前。"
+    "hint": "这里需要表示：目前。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3111",
@@ -60123,7 +62624,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a nowhere.",
     "sentence": "This is a ___.",
-    "hint": "这是：无处；哪里都不。"
+    "hint": "这是：无处；哪里都不。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3112",
@@ -60136,7 +62638,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a overseas.",
     "sentence": "This is a ___.",
-    "hint": "这是：在海外。"
+    "hint": "这是：在海外。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3113",
@@ -60149,7 +62652,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is intellectual.",
     "sentence": "It is ___.",
-    "hint": "它是：智力的。"
+    "hint": "它是：智力的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3114",
@@ -60162,7 +62666,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have honesty books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：诚实；老实；正直。"
+    "hint": "数量是：诚实；老实；正直。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3115",
@@ -60175,7 +62680,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a recognition.",
     "sentence": "This is a ___.",
-    "hint": "这是：认出。"
+    "hint": "这是：认出。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3116",
@@ -60188,7 +62694,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs equally.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：相等地。"
+    "hint": "这里需要表示：相等地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3117",
@@ -60201,7 +62708,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs freely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：自由地。"
+    "hint": "这里需要表示：自由地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3118",
@@ -60214,7 +62722,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a enthusiasm.",
     "sentence": "This is a ___.",
-    "hint": "这是：热情。"
+    "hint": "这是：热情。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3119",
@@ -60227,7 +62736,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a frustration.",
     "sentence": "This is a ___.",
-    "hint": "这是：挫败。"
+    "hint": "这是：挫败。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3120",
@@ -60240,7 +62750,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cooperate.",
     "sentence": "This is a ___.",
-    "hint": "这是：合作。"
+    "hint": "这是：合作。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3121",
@@ -60253,7 +62764,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a weapon.",
     "sentence": "This is a ___.",
-    "hint": "这是：武器。"
+    "hint": "这是：武器。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3122",
@@ -60266,7 +62778,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is awful.",
     "sentence": "It is ___.",
-    "hint": "它是：很坏的；讨厌的。"
+    "hint": "它是：很坏的；讨厌的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3123",
@@ -60279,7 +62792,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a unclear.",
     "sentence": "This is a ___.",
-    "hint": "这是：不清楚。"
+    "hint": "这是：不清楚。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3124",
@@ -60292,7 +62806,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs definitely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：肯定。"
+    "hint": "这里需要表示：肯定。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3125",
@@ -60305,7 +62820,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is remarkable.",
     "sentence": "It is ___.",
-    "hint": "它是：非凡的。"
+    "hint": "它是：非凡的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3126",
@@ -60318,7 +62834,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is critical.",
     "sentence": "It is ___.",
-    "hint": "它是：危急的。"
+    "hint": "它是：危急的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3127",
@@ -60331,7 +62848,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is interactive.",
     "sentence": "It is ___.",
-    "hint": "它是：交互的，互动的。"
+    "hint": "它是：交互的，互动的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3128",
@@ -60344,7 +62862,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs independently.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：独立地,自主地。"
+    "hint": "这里需要表示：独立地,自主地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3129",
@@ -60357,7 +62876,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a laboratory.",
     "sentence": "This is a ___.",
-    "hint": "这是：实验室。"
+    "hint": "这是：实验室。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3130",
@@ -60370,7 +62890,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a Asia.",
     "sentence": "This is a ___.",
-    "hint": "这是：亚洲。"
+    "hint": "这是：亚洲。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3131",
@@ -60383,7 +62904,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a assign.",
     "sentence": "This is a ___.",
-    "hint": "这是：分配，指派。"
+    "hint": "这是：分配，指派。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3132",
@@ -60396,7 +62918,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a poverty.",
     "sentence": "This is a ___.",
-    "hint": "这是：贫穷。"
+    "hint": "这是：贫穷。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3133",
@@ -60409,7 +62932,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is psychological.",
     "sentence": "It is ___.",
-    "hint": "它是：心灵的。"
+    "hint": "它是：心灵的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3134",
@@ -60422,7 +62946,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs geographic.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地理的。"
+    "hint": "这里需要表示：地理的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3135",
@@ -60435,7 +62960,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is lifelong.",
     "sentence": "It is ___.",
-    "hint": "它是：终身的；毕生的。"
+    "hint": "它是：终身的；毕生的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3136",
@@ -60448,7 +62974,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a biodiversity.",
     "sentence": "This is a ___.",
-    "hint": "这是：生物多样性。"
+    "hint": "这是：生物多样性。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3137",
@@ -60461,7 +62988,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is intensive.",
     "sentence": "It is ___.",
-    "hint": "它是：密集的。"
+    "hint": "它是：密集的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3138",
@@ -60474,7 +63002,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs accidentally.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：无意地。"
+    "hint": "这里需要表示：无意地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3139",
@@ -60487,7 +63016,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a baker.",
     "sentence": "This is a ___.",
-    "hint": "这是：面包(糕饼)师傅；面包店老板。"
+    "hint": "这是：面包(糕饼)师傅；面包店老板。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3140",
@@ -60500,7 +63030,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs locally.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：局部。"
+    "hint": "这里需要表示：局部。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3141",
@@ -60513,7 +63044,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a restore.",
     "sentence": "This is a ___.",
-    "hint": "这是：修复。"
+    "hint": "这是：修复。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3142",
@@ -60526,7 +63058,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a explosion.",
     "sentence": "This is a ___.",
-    "hint": "这是：爆炸。"
+    "hint": "这是：爆炸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3143",
@@ -60539,7 +63072,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a doorstep.",
     "sentence": "This is a ___.",
-    "hint": "这是：门阶。"
+    "hint": "这是：门阶。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3144",
@@ -60552,7 +63086,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a footprint.",
     "sentence": "This is a ___.",
-    "hint": "这是：脚印；足迹。"
+    "hint": "这是：脚印；足迹。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3145",
@@ -60565,7 +63100,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is massive.",
     "sentence": "It is ___.",
-    "hint": "它是：大量的。"
+    "hint": "它是：大量的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3146",
@@ -60578,7 +63114,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is notable.",
     "sentence": "It is ___.",
-    "hint": "它是：值得注意的。"
+    "hint": "它是：值得注意的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3147",
@@ -60591,7 +63128,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can resolution.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：决心；决定。"
+    "hint": "我会/可以：决心；决定。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3148",
@@ -60604,7 +63142,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a innovation.",
     "sentence": "This is a ___.",
-    "hint": "这是：创造。"
+    "hint": "这是：创造。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3149",
@@ -60617,7 +63156,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a advancement.",
     "sentence": "This is a ___.",
-    "hint": "这是：进步。"
+    "hint": "这是：进步。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3150",
@@ -60630,7 +63170,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a diversity.",
     "sentence": "This is a ___.",
-    "hint": "这是：多样性。"
+    "hint": "这是：多样性。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3151",
@@ -60643,7 +63184,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wealth.",
     "sentence": "This is a ___.",
-    "hint": "这是：财富；富裕。"
+    "hint": "这是：财富；富裕。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3152",
@@ -60656,7 +63198,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs correctly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：准确无误地；正确。"
+    "hint": "这里需要表示：准确无误地；正确。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3153",
@@ -60669,7 +63212,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a encounter.",
     "sentence": "This is a ___.",
-    "hint": "这是：相遇。"
+    "hint": "这是：相遇。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3154",
@@ -60682,7 +63226,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a mount.",
     "sentence": "This is a ___.",
-    "hint": "这是：山；山峰。"
+    "hint": "这是：山；山峰。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3155",
@@ -60695,7 +63240,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is inexpensive.",
     "sentence": "It is ___.",
-    "hint": "它是：不昂贵的。"
+    "hint": "它是：不昂贵的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3156",
@@ -60708,7 +63254,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is crucial.",
     "sentence": "It is ___.",
-    "hint": "它是：关键的。"
+    "hint": "它是：关键的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3157",
@@ -60721,7 +63268,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is fashionable.",
     "sentence": "It is ___.",
-    "hint": "它是：流行的；时髦的。"
+    "hint": "它是：流行的；时髦的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3158",
@@ -60734,7 +63282,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can regain.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：再次得到。"
+    "hint": "我会/可以：再次得到。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3159",
@@ -60747,7 +63296,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a credibility.",
     "sentence": "This is a ___.",
-    "hint": "这是：可靠性。"
+    "hint": "这是：可靠性。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3160",
@@ -60760,7 +63310,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a multiple.",
     "sentence": "This is a ___.",
-    "hint": "这是：倍数。"
+    "hint": "这是：倍数。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3161",
@@ -60773,7 +63324,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a selection.",
     "sentence": "This is a ___.",
-    "hint": "这是：挑选。"
+    "hint": "这是：挑选。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3162",
@@ -60786,7 +63338,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a twelve.",
     "sentence": "This is a ___.",
-    "hint": "这是：十二。"
+    "hint": "这是：十二。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3163",
@@ -60799,7 +63352,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a hesitation.",
     "sentence": "This is a ___.",
-    "hint": "这是：犹豫不决。"
+    "hint": "这是：犹豫不决。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3164",
@@ -60812,7 +63366,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs clumsily.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：笨拙地。"
+    "hint": "这里需要表示：笨拙地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3165",
@@ -60825,7 +63380,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a blossom.",
     "sentence": "This is a ___.",
-    "hint": "这是：开花。"
+    "hint": "这是：开花。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3166",
@@ -60838,7 +63394,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a cherry.",
     "sentence": "This is a ___.",
-    "hint": "这是：樱桃；樱桃树。"
+    "hint": "这是：樱桃；樱桃树。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3167",
@@ -60851,7 +63408,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a congress.",
     "sentence": "This is a ___.",
-    "hint": "这是：国会。"
+    "hint": "这是：国会。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3168",
@@ -60864,7 +63422,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chore.",
     "sentence": "This is a ___.",
-    "hint": "这是：家务。"
+    "hint": "这是：家务。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3169",
@@ -60877,7 +63436,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is architectural.",
     "sentence": "It is ___.",
-    "hint": "它是：建筑的。"
+    "hint": "它是：建筑的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3170",
@@ -60890,7 +63450,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have artwork books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：艺术品。"
+    "hint": "数量是：艺术品。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3171",
@@ -60903,7 +63464,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can workplace.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：工作场所。"
+    "hint": "我会/可以：工作场所。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3172",
@@ -60916,7 +63478,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a inventor.",
     "sentence": "This is a ___.",
-    "hint": "这是：发明家。"
+    "hint": "这是：发明家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3173",
@@ -60929,7 +63492,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a specialist.",
     "sentence": "This is a ___.",
-    "hint": "这是：专家。"
+    "hint": "这是：专家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3174",
@@ -60942,7 +63506,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is considerable.",
     "sentence": "It is ___.",
-    "hint": "它是：相当大的。"
+    "hint": "它是：相当大的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3175",
@@ -60955,7 +63520,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a assignment.",
     "sentence": "This is a ___.",
-    "hint": "这是：分配。"
+    "hint": "这是：分配。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3176",
@@ -60968,7 +63534,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a complaint.",
     "sentence": "This is a ___.",
-    "hint": "这是：投诉；抱怨。"
+    "hint": "这是：投诉；抱怨。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3177",
@@ -60981,7 +63548,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pose.",
     "sentence": "This is a ___.",
-    "hint": "这是：姿势。"
+    "hint": "这是：姿势。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3178",
@@ -60994,7 +63562,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is honourable.",
     "sentence": "It is ___.",
-    "hint": "它是：尊敬的。"
+    "hint": "它是：尊敬的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3179",
@@ -61007,7 +63576,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a envelope.",
     "sentence": "This is a ___.",
-    "hint": "这是：信封。"
+    "hint": "这是：信封。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3180",
@@ -61020,7 +63590,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a recall.",
     "sentence": "This is a ___.",
-    "hint": "这是：回忆起；回想起。"
+    "hint": "这是：回忆起；回想起。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3181",
@@ -61033,7 +63604,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a thirteen.",
     "sentence": "This is a ___.",
-    "hint": "这是：十三。"
+    "hint": "这是：十三。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3182",
@@ -61046,7 +63618,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a hint.",
     "sentence": "This is a ___.",
-    "hint": "这是：暗示。"
+    "hint": "这是：暗示。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3183",
@@ -61059,7 +63632,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can alternative.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：选择的。"
+    "hint": "我会/可以：选择的。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3184",
@@ -61072,7 +63646,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can reveal.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使显露;泄漏。"
+    "hint": "我会/可以：使显露;泄漏。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3185",
@@ -61085,7 +63660,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is deaf.",
     "sentence": "It is ___.",
-    "hint": "它是：聋的。"
+    "hint": "它是：聋的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3186",
@@ -61098,7 +63674,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a acceptance.",
     "sentence": "This is a ___.",
-    "hint": "这是：接受。"
+    "hint": "这是：接受。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3187",
@@ -61111,7 +63688,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is lazy.",
     "sentence": "It is ___.",
-    "hint": "它是：懒惰的。"
+    "hint": "它是：懒惰的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3188",
@@ -61124,7 +63702,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is fascinated.",
     "sentence": "It is ___.",
-    "hint": "它是：着迷的。"
+    "hint": "它是：着迷的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3189",
@@ -61137,7 +63716,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "This is a hobby.",
     "sentence": "This is a ___.",
-    "hint": "这是：业余爱好。"
+    "hint": "这是：业余爱好。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3190",
@@ -61150,7 +63730,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "I have sixth books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：第六。"
+    "hint": "数量是：第六。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3191",
@@ -61163,7 +63744,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a mankind.",
     "sentence": "This is a ___.",
-    "hint": "这是：人类。"
+    "hint": "这是：人类。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3192",
@@ -61176,7 +63758,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have clone books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：无性（繁殖）；克隆。"
+    "hint": "数量是：无性（繁殖）；克隆。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3193",
@@ -61189,7 +63772,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a assumption.",
     "sentence": "This is a ___.",
-    "hint": "这是：假定，设想。"
+    "hint": "这是：假定，设想。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3194",
@@ -61202,7 +63786,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is evident.",
     "sentence": "It is ___.",
-    "hint": "它是：明显的。"
+    "hint": "它是：明显的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3195",
@@ -61215,7 +63800,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a punish.",
     "sentence": "This is a ___.",
-    "hint": "这是：处罚；惩罚。"
+    "hint": "这是：处罚；惩罚。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3196",
@@ -61228,7 +63814,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is rapid.",
     "sentence": "It is ___.",
-    "hint": "它是：迅速的；快速的。"
+    "hint": "它是：迅速的；快速的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3197",
@@ -61241,7 +63828,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a band.",
     "sentence": "This is a ___.",
-    "hint": "这是：乐队。"
+    "hint": "这是：乐队。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3198",
@@ -61254,7 +63842,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have competence books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：能力。"
+    "hint": "数量是：能力。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3199",
@@ -61267,7 +63856,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a strategy.",
     "sentence": "This is a ___.",
-    "hint": "这是：策略。"
+    "hint": "这是：策略。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3200",
@@ -61280,7 +63870,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is moral.",
     "sentence": "It is ___.",
-    "hint": "它是：道德（上）的。"
+    "hint": "它是：道德（上）的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3201",
@@ -61293,7 +63884,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a gap.",
     "sentence": "This is a ___.",
-    "hint": "这是：缺口。"
+    "hint": "这是：缺口。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3202",
@@ -61306,7 +63898,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is salty.",
     "sentence": "It is ___.",
-    "hint": "它是：咸的。"
+    "hint": "它是：咸的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3203",
@@ -61319,7 +63912,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sample.",
     "sentence": "This is a ___.",
-    "hint": "这是：样品；样本。"
+    "hint": "这是：样品；样本。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3204",
@@ -61332,7 +63926,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have pioneer books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：先锋；先驱。"
+    "hint": "数量是：先锋；先驱。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3205",
@@ -61345,7 +63940,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pear.",
     "sentence": "This is a ___.",
-    "hint": "这是：梨。"
+    "hint": "这是：梨。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3206",
@@ -61358,7 +63954,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cattle.",
     "sentence": "This is a ___.",
-    "hint": "这是：牛。"
+    "hint": "这是：牛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3207",
@@ -61371,7 +63968,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a barbecue.",
     "sentence": "This is a ___.",
-    "hint": "这是：烧烤。"
+    "hint": "这是：烧烤。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3208",
@@ -61384,7 +63982,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a grandfather.",
     "sentence": "This is a ___.",
-    "hint": "这是：（外）祖父。"
+    "hint": "这是：（外）祖父。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3209",
@@ -61397,7 +63996,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a shower.",
     "sentence": "This is a ___.",
-    "hint": "这是：淋浴。"
+    "hint": "这是：淋浴。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3210",
@@ -61410,7 +64010,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is cheerful.",
     "sentence": "It is ___.",
-    "hint": "它是：快乐的；高兴的。"
+    "hint": "它是：快乐的；高兴的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3211",
@@ -61423,7 +64024,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a airplane.",
     "sentence": "This is a ___.",
-    "hint": "这是：飞机。"
+    "hint": "这是：飞机。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3212",
@@ -61436,7 +64038,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is enjoyable.",
     "sentence": "It is ___.",
-    "hint": "它是：有乐趣的；令人愉快的。"
+    "hint": "它是：有乐趣的；令人愉快的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3213",
@@ -61449,7 +64052,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a soccer.",
     "sentence": "This is a ___.",
-    "hint": "这是：足球。"
+    "hint": "这是：足球。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3214",
@@ -61462,7 +64066,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a concrete.",
     "sentence": "This is a ___.",
-    "hint": "这是：混凝土。"
+    "hint": "这是：混凝土。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3215",
@@ -61475,7 +64080,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs junior.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地位（或职位、级别）低下的。"
+    "hint": "这里需要表示：地位（或职位、级别）低下的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3216",
@@ -61488,7 +64094,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a postcard.",
     "sentence": "This is a ___.",
-    "hint": "这是：明信片。"
+    "hint": "这是：明信片。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3217",
@@ -61501,7 +64108,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a brick.",
     "sentence": "This is a ___.",
-    "hint": "这是：砖，砖块。"
+    "hint": "这是：砖，砖块。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3218",
@@ -61514,7 +64122,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is sleepy.",
     "sentence": "It is ___.",
-    "hint": "它是：困的；欲睡的。"
+    "hint": "它是：困的；欲睡的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3219",
@@ -61527,7 +64136,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cinema.",
     "sentence": "This is a ___.",
-    "hint": "这是：电影院。"
+    "hint": "这是：电影院。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3220",
@@ -61540,7 +64150,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a weakness.",
     "sentence": "This is a ___.",
-    "hint": "这是：弱点。"
+    "hint": "这是：弱点。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3221",
@@ -61553,7 +64164,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a minister.",
     "sentence": "This is a ___.",
-    "hint": "这是：大臣；部长。"
+    "hint": "这是：大臣；部长。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3222",
@@ -61566,7 +64178,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is European.",
     "sentence": "It is ___.",
-    "hint": "它是：欧洲（人）的。"
+    "hint": "它是：欧洲（人）的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3223",
@@ -61579,7 +64192,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a balcony.",
     "sentence": "This is a ___.",
-    "hint": "这是：阳台。"
+    "hint": "这是：阳台。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3224",
@@ -61592,7 +64206,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fisherman.",
     "sentence": "This is a ___.",
-    "hint": "这是：渔民。"
+    "hint": "这是：渔民。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3225",
@@ -61605,7 +64220,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tolerate.",
     "sentence": "This is a ___.",
-    "hint": "这是：容忍。"
+    "hint": "这是：容忍。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3226",
@@ -61618,7 +64234,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pour.",
     "sentence": "This is a ___.",
-    "hint": "这是：灌，倒。"
+    "hint": "这是：灌，倒。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3227",
@@ -61631,7 +64248,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a click.",
     "sentence": "This is a ___.",
-    "hint": "这是：点击。"
+    "hint": "这是：点击。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3228",
@@ -61644,7 +64262,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a description.",
     "sentence": "This is a ___.",
-    "hint": "这是：说明；形容。"
+    "hint": "这是：说明；形容。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3229",
@@ -61657,7 +64276,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a nationality.",
     "sentence": "This is a ___.",
-    "hint": "这是：国籍。"
+    "hint": "这是：国籍。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3230",
@@ -61670,7 +64290,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a flag.",
     "sentence": "This is a ___.",
-    "hint": "这是：旗。"
+    "hint": "这是：旗。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3231",
@@ -61683,7 +64304,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs landscape.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：风景；地形。"
+    "hint": "这里需要表示：风景；地形。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3232",
@@ -61696,7 +64318,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a beef.",
     "sentence": "This is a ___.",
-    "hint": "这是：牛肉。"
+    "hint": "这是：牛肉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3233",
@@ -61709,7 +64332,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a hamburger.",
     "sentence": "This is a ___.",
-    "hint": "这是：汉堡包。"
+    "hint": "这是：汉堡包。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3234",
@@ -61722,7 +64346,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a protein.",
     "sentence": "This is a ___.",
-    "hint": "这是：蛋白质。"
+    "hint": "这是：蛋白质。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3235",
@@ -61735,7 +64360,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fridge.",
     "sentence": "This is a ___.",
-    "hint": "这是：冰箱。"
+    "hint": "这是：冰箱。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3236",
@@ -61748,7 +64374,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a analysis.",
     "sentence": "This is a ___.",
-    "hint": "这是：分析。"
+    "hint": "这是：分析。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3237",
@@ -61761,7 +64388,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a upstairs.",
     "sentence": "This is a ___.",
-    "hint": "这是：楼上。"
+    "hint": "这是：楼上。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3238",
@@ -61774,7 +64402,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is tidy.",
     "sentence": "It is ___.",
-    "hint": "它是：整洁的,整齐的。"
+    "hint": "它是：整洁的,整齐的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3239",
@@ -61787,7 +64416,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs hugely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：巨大的。"
+    "hint": "这里需要表示：巨大的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3240",
@@ -61800,7 +64430,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a clerk.",
     "sentence": "This is a ___.",
-    "hint": "这是：职员；售货员，店员。"
+    "hint": "这是：职员；售货员，店员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3241",
@@ -61813,7 +64444,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a plus.",
     "sentence": "This is a ___.",
-    "hint": "这是：加；加上。"
+    "hint": "这是：加；加上。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3242",
@@ -61826,7 +64458,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dinosaur.",
     "sentence": "This is a ___.",
-    "hint": "这是：恐龙。"
+    "hint": "这是：恐龙。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3243",
@@ -61839,7 +64472,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dialogue.",
     "sentence": "This is a ___.",
-    "hint": "这是：对话，对白。"
+    "hint": "这是：对话，对白。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3244",
@@ -61852,7 +64486,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a prohibit.",
     "sentence": "This is a ___.",
-    "hint": "这是：禁止。"
+    "hint": "这是：禁止。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3245",
@@ -61865,7 +64500,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a inch.",
     "sentence": "This is a ___.",
-    "hint": "这是：英寸；少许，少量。"
+    "hint": "这是：英寸；少许，少量。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3246",
@@ -61878,7 +64514,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a lion.",
     "sentence": "This is a ___.",
-    "hint": "这是：狮子。"
+    "hint": "这是：狮子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3247",
@@ -61891,7 +64528,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cage.",
     "sentence": "This is a ___.",
-    "hint": "这是：笼子。"
+    "hint": "这是：笼子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3248",
@@ -61904,7 +64542,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ceiling.",
     "sentence": "This is a ___.",
-    "hint": "这是：天花板。"
+    "hint": "这是：天花板。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3249",
@@ -61917,7 +64556,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is fashion.",
     "sentence": "It is ___.",
-    "hint": "它是：流行的式样；时尚。"
+    "hint": "它是：流行的式样；时尚。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3250",
@@ -61930,7 +64570,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a prospect.",
     "sentence": "This is a ___.",
-    "hint": "这是：展望。"
+    "hint": "这是：展望。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3251",
@@ -61943,7 +64584,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a protest.",
     "sentence": "This is a ___.",
-    "hint": "这是：抗议。"
+    "hint": "这是：抗议。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3252",
@@ -61956,7 +64598,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is nevertheless.",
     "sentence": "It is ___.",
-    "hint": "它是：然而。"
+    "hint": "它是：然而。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3253",
@@ -61969,7 +64612,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a persuade.",
     "sentence": "This is a ___.",
-    "hint": "这是：说服。"
+    "hint": "这是：说服。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3254",
@@ -61982,7 +64626,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have sixteen books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：十六。"
+    "hint": "数量是：十六。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3255",
@@ -61995,7 +64640,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is reasonable.",
     "sentence": "It is ___.",
-    "hint": "它是：公平的。"
+    "hint": "它是：公平的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3256",
@@ -62008,7 +64654,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a nose.",
     "sentence": "This is a ___.",
-    "hint": "这是：鼻子。"
+    "hint": "这是：鼻子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3257",
@@ -62021,7 +64668,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a panic.",
     "sentence": "This is a ___.",
-    "hint": "这是：惊慌。"
+    "hint": "这是：惊慌。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3258",
@@ -62034,7 +64682,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a surgeon.",
     "sentence": "This is a ___.",
-    "hint": "这是：外科大夫。"
+    "hint": "这是：外科大夫。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3259",
@@ -62047,7 +64696,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a needle.",
     "sentence": "This is a ___.",
-    "hint": "这是：针。"
+    "hint": "这是：针。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3260",
@@ -62060,7 +64710,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a servant.",
     "sentence": "This is a ___.",
-    "hint": "这是：仆人。"
+    "hint": "这是：仆人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3261",
@@ -62073,7 +64724,8 @@ window.VOCABULARY = [
     "category": "交通旅行",
     "example": "This is a ship.",
     "sentence": "This is a ___.",
-    "hint": "这是：（大）船。"
+    "hint": "这是：（大）船。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3262",
@@ -62086,7 +64738,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a surf.",
     "sentence": "This is a ___.",
-    "hint": "这是：浏览。"
+    "hint": "这是：浏览。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3263",
@@ -62099,7 +64752,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bath.",
     "sentence": "This is a ___.",
-    "hint": "这是：洗澡。"
+    "hint": "这是：洗澡。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3264",
@@ -62112,7 +64766,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is pessimistic.",
     "sentence": "It is ___.",
-    "hint": "它是：悲观的。"
+    "hint": "它是：悲观的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3265",
@@ -62125,7 +64780,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a substance.",
     "sentence": "This is a ___.",
-    "hint": "这是：物质。"
+    "hint": "这是：物质。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3266",
@@ -62138,7 +64794,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ice cream.",
     "sentence": "This is a ___.",
-    "hint": "这是：冰激凌。"
+    "hint": "这是：冰激凌。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3267",
@@ -62151,7 +64808,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a darkness.",
     "sentence": "This is a ___.",
-    "hint": "这是：黑暗。"
+    "hint": "这是：黑暗。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3268",
@@ -62164,7 +64822,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have nine books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：九。"
+    "hint": "数量是：九。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3269",
@@ -62177,7 +64836,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have nineteen books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：十九。"
+    "hint": "数量是：十九。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3270",
@@ -62190,7 +64850,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a minority.",
     "sentence": "This is a ___.",
-    "hint": "这是：少数民族；少数。"
+    "hint": "这是：少数民族；少数。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3271",
@@ -62203,7 +64864,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a nephew.",
     "sentence": "This is a ___.",
-    "hint": "这是：外甥；侄子。"
+    "hint": "这是：外甥；侄子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3272",
@@ -62216,7 +64878,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is distinct.",
     "sentence": "It is ___.",
-    "hint": "它是：有区别的。"
+    "hint": "它是：有区别的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3273",
@@ -62229,7 +64892,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a cow.",
     "sentence": "This is a ___.",
-    "hint": "这是：母牛；奶牛。"
+    "hint": "这是：母牛；奶牛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3274",
@@ -62242,7 +64906,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a introduction.",
     "sentence": "This is a ___.",
-    "hint": "这是：介绍。"
+    "hint": "这是：介绍。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3275",
@@ -62255,7 +64920,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a extinction.",
     "sentence": "This is a ___.",
-    "hint": "这是：灭绝。"
+    "hint": "这是：灭绝。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3276",
@@ -62268,7 +64934,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is metal.",
     "sentence": "It is ___.",
-    "hint": "它是：金属。"
+    "hint": "它是：金属。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3277",
@@ -62281,7 +64948,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cyclist.",
     "sentence": "This is a ___.",
-    "hint": "这是：骑自行[脚踏]车者。"
+    "hint": "这是：骑自行[脚踏]车者。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3278",
@@ -62294,7 +64962,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a celebration.",
     "sentence": "This is a ___.",
-    "hint": "这是：庆祝。"
+    "hint": "这是：庆祝。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3279",
@@ -62307,7 +64976,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sink.",
     "sentence": "This is a ___.",
-    "hint": "这是：水槽；水池。"
+    "hint": "这是：水槽；水池。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3280",
@@ -62320,7 +64990,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a institution.",
     "sentence": "This is a ___.",
-    "hint": "这是：机构。"
+    "hint": "这是：机构。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3281",
@@ -62333,7 +65004,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have eighteen books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：十八。"
+    "hint": "数量是：十八。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3282",
@@ -62346,7 +65018,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a besides.",
     "sentence": "This is a ___.",
-    "hint": "这是：而且。"
+    "hint": "这是：而且。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3283",
@@ -62359,7 +65032,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a kiss.",
     "sentence": "This is a ___.",
-    "hint": "这是：亲吻。"
+    "hint": "这是：亲吻。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3284",
@@ -62372,7 +65046,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can comprehension.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：理解力。"
+    "hint": "我会/可以：理解力。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3285",
@@ -62385,7 +65060,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a except.",
     "sentence": "This is a ___.",
-    "hint": "这是：除了。"
+    "hint": "这是：除了。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3286",
@@ -62398,7 +65074,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a Britain.",
     "sentence": "This is a ___.",
-    "hint": "这是：英国。"
+    "hint": "这是：英国。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3287",
@@ -62411,7 +65088,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a neither.",
     "sentence": "This is a ___.",
-    "hint": "这是：也不。"
+    "hint": "这是：也不。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3288",
@@ -62424,7 +65102,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a rubbish.",
     "sentence": "This is a ___.",
-    "hint": "这是：垃圾。"
+    "hint": "这是：垃圾。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3289",
@@ -62437,7 +65116,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sand.",
     "sentence": "This is a ___.",
-    "hint": "这是：沙；沙滩。"
+    "hint": "这是：沙；沙滩。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3290",
@@ -62450,7 +65130,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a shout.",
     "sentence": "This is a ___.",
-    "hint": "这是：呼喊。"
+    "hint": "这是：呼喊。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3291",
@@ -62463,7 +65144,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a suspend.",
     "sentence": "This is a ___.",
-    "hint": "这是：悬挂。"
+    "hint": "这是：悬挂。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3292",
@@ -62476,7 +65158,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "This is a cent.",
     "sentence": "This is a ___.",
-    "hint": "这是：美分。"
+    "hint": "这是：美分。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3293",
@@ -62489,7 +65172,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a mathematics.",
     "sentence": "This is a ___.",
-    "hint": "这是：（= maths）数学。"
+    "hint": "这是：（= maths）数学。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3294",
@@ -62502,7 +65186,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a eve.",
     "sentence": "This is a ___.",
-    "hint": "这是：前夕。"
+    "hint": "这是：前夕。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3295",
@@ -62515,7 +65200,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a labour.",
     "sentence": "This is a ___.",
-    "hint": "这是：劳动。"
+    "hint": "这是：劳动。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3296",
@@ -62528,7 +65214,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is flexible.",
     "sentence": "It is ___.",
-    "hint": "它是：有弹性的，柔韧的；灵活的。"
+    "hint": "它是：有弹性的，柔韧的；灵活的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3297",
@@ -62541,7 +65228,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is shy.",
     "sentence": "It is ___.",
-    "hint": "它是：羞怯的；腼腆的；怕生的。"
+    "hint": "它是：羞怯的；腼腆的；怕生的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3298",
@@ -62554,7 +65242,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have tone books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：语气，腔调。"
+    "hint": "数量是：语气，腔调。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3299",
@@ -62567,7 +65256,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is slice.",
     "sentence": "It is ___.",
-    "hint": "它是：（切下的）薄片，片。"
+    "hint": "它是：（切下的）薄片，片。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3300",
@@ -62580,7 +65270,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sausage.",
     "sentence": "This is a ___.",
-    "hint": "这是：香肠。"
+    "hint": "这是：香肠。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3301",
@@ -62593,7 +65284,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bake.",
     "sentence": "This is a ___.",
-    "hint": "这是：烘，烤。"
+    "hint": "这是：烘，烤。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3302",
@@ -62606,7 +65298,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a carrot.",
     "sentence": "This is a ___.",
-    "hint": "这是：胡萝卜。"
+    "hint": "这是：胡萝卜。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3303",
@@ -62619,7 +65312,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a abroad.",
     "sentence": "This is a ___.",
-    "hint": "这是：在国外。"
+    "hint": "这是：在国外。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3304",
@@ -62632,7 +65326,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a dioxide.",
     "sentence": "This is a ___.",
-    "hint": "这是：<化>二氧化物。"
+    "hint": "这是：<化>二氧化物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3305",
@@ -62645,7 +65340,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a castle.",
     "sentence": "This is a ___.",
-    "hint": "这是：城堡，堡垒。"
+    "hint": "这是：城堡，堡垒。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3306",
@@ -62658,7 +65354,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a brand.",
     "sentence": "This is a ___.",
-    "hint": "这是：品牌；牌子。"
+    "hint": "这是：品牌；牌子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3307",
@@ -62671,7 +65368,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a surgery.",
     "sentence": "This is a ___.",
-    "hint": "这是：外科手术。"
+    "hint": "这是：外科手术。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3308",
@@ -62684,7 +65382,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is brave.",
     "sentence": "It is ___.",
-    "hint": "它是：勇敢的。"
+    "hint": "它是：勇敢的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3309",
@@ -62697,7 +65396,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a fool.",
     "sentence": "This is a ___.",
-    "hint": "这是：蠢人，傻子；欺骗。"
+    "hint": "这是：蠢人，傻子；欺骗。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3310",
@@ -62710,7 +65410,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a independence.",
     "sentence": "This is a ___.",
-    "hint": "这是：独立。"
+    "hint": "这是：独立。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3311",
@@ -62723,7 +65424,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is reliable.",
     "sentence": "It is ___.",
-    "hint": "它是：可靠的。"
+    "hint": "它是：可靠的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3312",
@@ -62736,7 +65438,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a convey.",
     "sentence": "This is a ___.",
-    "hint": "这是：搬运；传达。"
+    "hint": "这是：搬运；传达。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3313",
@@ -62749,7 +65452,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs subway.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地铁。"
+    "hint": "这里需要表示：地铁。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3314",
@@ -62762,7 +65466,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bell.",
     "sentence": "This is a ___.",
-    "hint": "这是：铃铛。"
+    "hint": "这是：铃铛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3315",
@@ -62775,7 +65480,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a pen.",
     "sentence": "This is a ___.",
-    "hint": "这是：钢笔。"
+    "hint": "这是：钢笔。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3316",
@@ -62788,7 +65494,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a flat.",
     "sentence": "This is a ___.",
-    "hint": "这是：公寓。"
+    "hint": "这是：公寓。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3317",
@@ -62801,7 +65508,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can hopeful.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：充满希望的。"
+    "hint": "我会/可以：充满希望的。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3318",
@@ -62814,7 +65522,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a altogether.",
     "sentence": "This is a ___.",
-    "hint": "这是：总共。"
+    "hint": "这是：总共。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3319",
@@ -62827,7 +65536,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a sum.",
     "sentence": "This is a ___.",
-    "hint": "这是：量。"
+    "hint": "这是：量。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3320",
@@ -62840,7 +65550,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a appetite.",
     "sentence": "This is a ___.",
-    "hint": "这是：胃口，食欲。"
+    "hint": "这是：胃口，食欲。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3321",
@@ -62853,7 +65564,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is urban.",
     "sentence": "It is ___.",
-    "hint": "它是：城市的。"
+    "hint": "它是：城市的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3322",
@@ -62866,7 +65578,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "It is golden.",
     "sentence": "It is ___.",
-    "hint": "它是：金的；金色的。"
+    "hint": "它是：金的；金色的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3323",
@@ -62879,7 +65592,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a warmth.",
     "sentence": "This is a ___.",
-    "hint": "这是：温暖；暖和。"
+    "hint": "这是：温暖；暖和。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3324",
@@ -62892,7 +65606,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a distinction.",
     "sentence": "This is a ___.",
-    "hint": "这是：差别。"
+    "hint": "这是：差别。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3325",
@@ -62905,7 +65620,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs estate.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：大片私有土地。"
+    "hint": "这里需要表示：大片私有土地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3326",
@@ -62918,7 +65634,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is political.",
     "sentence": "It is ___.",
-    "hint": "它是：政治的。"
+    "hint": "它是：政治的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3327",
@@ -62931,7 +65648,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is adequate.",
     "sentence": "It is ___.",
-    "hint": "它是：充足的。"
+    "hint": "它是：充足的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3328",
@@ -62944,7 +65662,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is yellow.",
     "sentence": "It is ___.",
-    "hint": "它是：黄色的。"
+    "hint": "它是：黄色的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3329",
@@ -62957,7 +65676,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a resist.",
     "sentence": "This is a ___.",
-    "hint": "这是：抵制。"
+    "hint": "这是：抵制。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3330",
@@ -62970,7 +65690,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a afterwards.",
     "sentence": "This is a ___.",
-    "hint": "这是：以后。"
+    "hint": "这是：以后。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3331",
@@ -62983,7 +65704,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is meaningless.",
     "sentence": "It is ___.",
-    "hint": "它是：毫无意义的；意思不明确的。"
+    "hint": "它是：毫无意义的；意思不明确的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3332",
@@ -62996,7 +65718,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a impact.",
     "sentence": "This is a ___.",
-    "hint": "这是：冲击力。"
+    "hint": "这是：冲击力。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3333",
@@ -63009,7 +65732,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a origin.",
     "sentence": "This is a ___.",
-    "hint": "这是：起源。"
+    "hint": "这是：起源。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3334",
@@ -63022,7 +65746,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can weekday.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：工作日；平日。"
+    "hint": "我会/可以：工作日；平日。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3335",
@@ -63035,7 +65760,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a elephant.",
     "sentence": "This is a ___.",
-    "hint": "这是：大象。"
+    "hint": "这是：大象。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3336",
@@ -63048,7 +65774,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a purse.",
     "sentence": "This is a ___.",
-    "hint": "这是：钱包。"
+    "hint": "这是：钱包。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3337",
@@ -63061,7 +65788,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a foreigner.",
     "sentence": "This is a ___.",
-    "hint": "这是：外国人。"
+    "hint": "这是：外国人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3338",
@@ -63074,7 +65802,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a deadline.",
     "sentence": "This is a ___.",
-    "hint": "这是：最后期限。"
+    "hint": "这是：最后期限。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3339",
@@ -63087,7 +65816,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a laptop.",
     "sentence": "This is a ___.",
-    "hint": "这是：笔记本电脑。"
+    "hint": "这是：笔记本电脑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3340",
@@ -63100,7 +65830,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dismiss.",
     "sentence": "This is a ___.",
-    "hint": "这是：不予考虑。"
+    "hint": "这是：不予考虑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3341",
@@ -63113,7 +65844,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a anecdote.",
     "sentence": "This is a ___.",
-    "hint": "这是：轶闻。"
+    "hint": "这是：轶闻。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3342",
@@ -63126,7 +65858,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a courage.",
     "sentence": "This is a ___.",
-    "hint": "这是：勇敢；勇气。"
+    "hint": "这是：勇敢；勇气。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3343",
@@ -63139,7 +65872,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a statue.",
     "sentence": "This is a ___.",
-    "hint": "这是：雕像； 塑像。"
+    "hint": "这是：雕像； 塑像。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3344",
@@ -63152,7 +65886,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a chest.",
     "sentence": "This is a ___.",
-    "hint": "这是：胸部,胸膛。"
+    "hint": "这是：胸部,胸膛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3345",
@@ -63165,7 +65900,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is narrow.",
     "sentence": "It is ___.",
-    "hint": "它是：狭窄的。"
+    "hint": "它是：狭窄的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3346",
@@ -63178,7 +65914,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is organic.",
     "sentence": "It is ___.",
-    "hint": "它是：施用有机肥料的。"
+    "hint": "它是：施用有机肥料的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3347",
@@ -63191,7 +65928,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pond.",
     "sentence": "This is a ___.",
-    "hint": "这是：池塘。"
+    "hint": "这是：池塘。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3348",
@@ -63204,7 +65942,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a issue.",
     "sentence": "This is a ___.",
-    "hint": "这是：问题。"
+    "hint": "这是：问题。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3349",
@@ -63217,7 +65956,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is distant.",
     "sentence": "It is ___.",
-    "hint": "它是：遥远的。"
+    "hint": "它是：遥远的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3350",
@@ -63230,7 +65970,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a silk.",
     "sentence": "This is a ___.",
-    "hint": "这是：丝绸。"
+    "hint": "这是：丝绸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3351",
@@ -63243,7 +65984,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a anniversary.",
     "sentence": "This is a ___.",
-    "hint": "这是：周年纪念日。"
+    "hint": "这是：周年纪念日。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3352",
@@ -63256,7 +65998,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a priority.",
     "sentence": "This is a ___.",
-    "hint": "这是：优先权。"
+    "hint": "这是：优先权。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3353",
@@ -63269,7 +66012,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a drought.",
     "sentence": "This is a ___.",
-    "hint": "这是：旱灾。"
+    "hint": "这是：旱灾。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3354",
@@ -63282,7 +66026,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a businessman.",
     "sentence": "This is a ___.",
-    "hint": "这是：商人；企业家。"
+    "hint": "这是：商人；企业家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3355",
@@ -63295,7 +66040,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a salesman.",
     "sentence": "This is a ___.",
-    "hint": "这是：售货员。"
+    "hint": "这是：售货员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3356",
@@ -63308,7 +66054,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is literary.",
     "sentence": "It is ___.",
-    "hint": "它是：文学的。"
+    "hint": "它是：文学的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3357",
@@ -63321,7 +66068,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a alphabet.",
     "sentence": "This is a ___.",
-    "hint": "这是：字母表。"
+    "hint": "这是：字母表。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3358",
@@ -63334,7 +66082,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sail.",
     "sentence": "This is a ___.",
-    "hint": "这是：航行。"
+    "hint": "这是：航行。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3359",
@@ -63347,7 +66096,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is pink.",
     "sentence": "It is ___.",
-    "hint": "它是：粉色；粉色的。"
+    "hint": "它是：粉色；粉色的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3360",
@@ -63360,7 +66110,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a disagree.",
     "sentence": "This is a ___.",
-    "hint": "这是：不同意；持不同意见；有分歧。"
+    "hint": "这是：不同意；持不同意见；有分歧。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3361",
@@ -63373,7 +66124,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is accurate.",
     "sentence": "It is ___.",
-    "hint": "它是：正确无误的。"
+    "hint": "它是：正确无误的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3362",
@@ -63386,7 +66138,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is merry.",
     "sentence": "It is ___.",
-    "hint": "它是：高兴的；愉快的。"
+    "hint": "它是：高兴的；愉快的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3363",
@@ -63399,7 +66152,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a altitude.",
     "sentence": "This is a ___.",
-    "hint": "这是：海拔。"
+    "hint": "这是：海拔。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3364",
@@ -63412,7 +66166,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a civilisation.",
     "sentence": "This is a ___.",
-    "hint": "这是：文明。"
+    "hint": "这是：文明。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3365",
@@ -63425,7 +66180,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a applicant.",
     "sentence": "This is a ___.",
-    "hint": "这是：申请人。"
+    "hint": "这是：申请人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3366",
@@ -63438,7 +66194,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs calmly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：冷静地。"
+    "hint": "这里需要表示：冷静地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3367",
@@ -63451,7 +66208,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a stimulate.",
     "sentence": "This is a ___.",
-    "hint": "这是：促进。"
+    "hint": "这是：促进。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3368",
@@ -63464,7 +66222,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a shore.",
     "sentence": "This is a ___.",
-    "hint": "这是：海岸。"
+    "hint": "这是：海岸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3369",
@@ -63477,7 +66236,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is worthy.",
     "sentence": "It is ___.",
-    "hint": "它是：值得的。"
+    "hint": "它是：值得的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3370",
@@ -63490,7 +66250,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a photograph.",
     "sentence": "This is a ___.",
-    "hint": "这是：照片。"
+    "hint": "这是：照片。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3371",
@@ -63503,7 +66264,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a license.",
     "sentence": "This is a ___.",
-    "hint": "这是：(=licence)证；证件。"
+    "hint": "这是：(=licence)证；证件。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3372",
@@ -63516,7 +66278,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have mobile phone books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：手机。"
+    "hint": "数量是：手机。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3373",
@@ -63529,7 +66292,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is widespread.",
     "sentence": "It is ___.",
-    "hint": "它是：普遍的。"
+    "hint": "它是：普遍的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3374",
@@ -63542,7 +66306,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a deposit.",
     "sentence": "This is a ___.",
-    "hint": "这是：沉淀物；矿藏。"
+    "hint": "这是：沉淀物；矿藏。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3375",
@@ -63555,7 +66320,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "ours is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：我们的。"
+    "hint": "选择代词：我们的。",
+    "rawPos": "代词"
   },
   {
     "id": "high-3376",
@@ -63568,7 +66334,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a breeze.",
     "sentence": "This is a ___.",
-    "hint": "这是：微风。"
+    "hint": "这是：微风。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3377",
@@ -63581,7 +66348,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pronounce.",
     "sentence": "This is a ___.",
-    "hint": "这是：发音。"
+    "hint": "这是：发音。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3378",
@@ -63594,7 +66362,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a scan.",
     "sentence": "This is a ___.",
-    "hint": "这是：扫描。"
+    "hint": "这是：扫描。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3379",
@@ -63607,7 +66376,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a proceed.",
     "sentence": "This is a ___.",
-    "hint": "这是：继续进行。"
+    "hint": "这是：继续进行。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3380",
@@ -63620,7 +66390,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a starvation.",
     "sentence": "This is a ___.",
-    "hint": "这是：饥饿。"
+    "hint": "这是：饥饿。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3381",
@@ -63633,7 +66404,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a kilogramme.",
     "sentence": "This is a ___.",
-    "hint": "这是：千克。"
+    "hint": "这是：千克。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3382",
@@ -63646,7 +66418,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a stomachache.",
     "sentence": "This is a ___.",
-    "hint": "这是：胃疼。"
+    "hint": "这是：胃疼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3383",
@@ -63659,7 +66432,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cough.",
     "sentence": "This is a ___.",
-    "hint": "这是：咳嗽。"
+    "hint": "这是：咳嗽。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3384",
@@ -63672,7 +66446,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a revolution.",
     "sentence": "This is a ___.",
-    "hint": "这是：革命。"
+    "hint": "这是：革命。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3385",
@@ -63685,7 +66460,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a favour.",
     "sentence": "This is a ___.",
-    "hint": "这是：好处，优惠。"
+    "hint": "这是：好处，优惠。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3386",
@@ -63698,7 +66474,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a schoolbag.",
     "sentence": "This is a ___.",
-    "hint": "这是：书包。"
+    "hint": "这是：书包。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3387",
@@ -63711,7 +66488,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a vase.",
     "sentence": "This is a ___.",
-    "hint": "这是：花瓶。"
+    "hint": "这是：花瓶。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3388",
@@ -63724,7 +66502,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sidewalk.",
     "sentence": "This is a ___.",
-    "hint": "这是：人行道。"
+    "hint": "这是：人行道。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3389",
@@ -63737,7 +66516,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a defence.",
     "sentence": "This is a ___.",
-    "hint": "这是：防御。"
+    "hint": "这是：防御。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3390",
@@ -63750,7 +66530,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a billion.",
     "sentence": "This is a ___.",
-    "hint": "这是：十亿；千兆。"
+    "hint": "这是：十亿；千兆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3391",
@@ -63763,7 +66544,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a curtain.",
     "sentence": "This is a ___.",
-    "hint": "这是：窗帘；门帘；帘子。"
+    "hint": "这是：窗帘；门帘；帘子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3392",
@@ -63776,7 +66558,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fifteen.",
     "sentence": "This is a ___.",
-    "hint": "这是：十五。"
+    "hint": "这是：十五。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3393",
@@ -63789,7 +66572,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "It is fifth.",
     "sentence": "It is ___.",
-    "hint": "它是：第五（的）。"
+    "hint": "它是：第五（的）。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3394",
@@ -63802,7 +66586,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a teapot.",
     "sentence": "This is a ___.",
-    "hint": "这是：茶壶。"
+    "hint": "这是：茶壶。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3395",
@@ -63815,7 +66600,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a output.",
     "sentence": "This is a ___.",
-    "hint": "这是：输出。"
+    "hint": "这是：输出。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3396",
@@ -63828,7 +66614,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is apparent.",
     "sentence": "It is ___.",
-    "hint": "它是：显然的。"
+    "hint": "它是：显然的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3397",
@@ -63841,7 +66628,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is Pacific.",
     "sentence": "It is ___.",
-    "hint": "它是：太平洋(的)。"
+    "hint": "它是：太平洋(的)。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3398",
@@ -63854,7 +66642,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a prejudice.",
     "sentence": "This is a ___.",
-    "hint": "这是：偏见。"
+    "hint": "这是：偏见。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3399",
@@ -63867,7 +66656,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a millimetre.",
     "sentence": "This is a ___.",
-    "hint": "这是：毫米；千分之一米。"
+    "hint": "这是：毫米；千分之一米。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3400",
@@ -63880,7 +66670,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a draft.",
     "sentence": "This is a ___.",
-    "hint": "这是：草稿。"
+    "hint": "这是：草稿。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3401",
@@ -63893,7 +66684,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wing.",
     "sentence": "This is a ___.",
-    "hint": "这是：翅膀。"
+    "hint": "这是：翅膀。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3402",
@@ -63906,7 +66698,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a gramme.",
     "sentence": "This is a ___.",
-    "hint": "这是：克。"
+    "hint": "这是：克。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3403",
@@ -63919,7 +66712,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a airline.",
     "sentence": "This is a ___.",
-    "hint": "这是：航空公司。"
+    "hint": "这是：航空公司。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3404",
@@ -63932,7 +66726,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a policewoman.",
     "sentence": "This is a ___.",
-    "hint": "这是：女警察。"
+    "hint": "这是：女警察。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3405",
@@ -63945,7 +66740,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a input.",
     "sentence": "This is a ___.",
-    "hint": "这是：输入。"
+    "hint": "这是：输入。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3406",
@@ -63958,7 +66754,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a noodle.",
     "sentence": "This is a ___.",
-    "hint": "这是：面条。"
+    "hint": "这是：面条。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3407",
@@ -63971,7 +66768,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have opponent books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：反对者，对手。"
+    "hint": "数量是：反对者，对手。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3408",
@@ -63984,7 +66782,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a Tuesday.",
     "sentence": "This is a ___.",
-    "hint": "这是：星期二。"
+    "hint": "这是：星期二。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3409",
@@ -63997,7 +66796,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a forty.",
     "sentence": "This is a ___.",
-    "hint": "这是：四十。"
+    "hint": "这是：四十。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3410",
@@ -64010,7 +66810,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is romantic.",
     "sentence": "It is ___.",
-    "hint": "它是：关于爱情的。"
+    "hint": "它是：关于爱情的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3411",
@@ -64023,7 +66824,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a caption.",
     "sentence": "This is a ___.",
-    "hint": "这是：插图说明。"
+    "hint": "这是：插图说明。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3412",
@@ -64036,7 +66838,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a emphasis.",
     "sentence": "This is a ___.",
-    "hint": "这是：强调。"
+    "hint": "这是：强调。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3413",
@@ -64049,7 +66852,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tackle.",
     "sentence": "This is a ___.",
-    "hint": "这是：解决。"
+    "hint": "这是：解决。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3414",
@@ -64062,7 +66866,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a procedure.",
     "sentence": "This is a ___.",
-    "hint": "这是：程序。"
+    "hint": "这是：程序。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3415",
@@ -64075,7 +66880,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a disagreement.",
     "sentence": "This is a ___.",
-    "hint": "这是：分歧。"
+    "hint": "这是：分歧。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3416",
@@ -64088,7 +66894,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a enhance.",
     "sentence": "This is a ___.",
-    "hint": "这是：增进。"
+    "hint": "这是：增进。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3417",
@@ -64101,7 +66908,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is unfair.",
     "sentence": "It is ___.",
-    "hint": "它是：不公平的。"
+    "hint": "它是：不公平的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3418",
@@ -64114,7 +66922,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a leadership.",
     "sentence": "This is a ___.",
-    "hint": "这是：领导能力。"
+    "hint": "这是：领导能力。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3419",
@@ -64127,7 +66936,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is contrary.",
     "sentence": "It is ___.",
-    "hint": "它是：与之相异的。"
+    "hint": "它是：与之相异的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3420",
@@ -64140,7 +66950,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a string.",
     "sentence": "This is a ___.",
-    "hint": "这是：线，细绳。"
+    "hint": "这是：线，细绳。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3421",
@@ -64153,7 +66964,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is outstanding.",
     "sentence": "It is ___.",
-    "hint": "它是：优秀的。"
+    "hint": "它是：优秀的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3422",
@@ -64166,7 +66978,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is bonus.",
     "sentence": "It is ___.",
-    "hint": "它是：额外津贴；额外令人高兴的事。"
+    "hint": "它是：额外津贴；额外令人高兴的事。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3423",
@@ -64179,7 +66992,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is foolish.",
     "sentence": "It is ___.",
-    "hint": "它是：愚蠢的。"
+    "hint": "它是：愚蠢的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3424",
@@ -64192,7 +67006,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ankle.",
     "sentence": "This is a ___.",
-    "hint": "这是：踝关节。"
+    "hint": "这是：踝关节。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3425",
@@ -64205,7 +67020,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is innocent.",
     "sentence": "It is ___.",
-    "hint": "它是：无辜的。"
+    "hint": "它是：无辜的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3426",
@@ -64218,7 +67034,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a scissors.",
     "sentence": "This is a ___.",
-    "hint": "这是：剪刀。"
+    "hint": "这是：剪刀。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3427",
@@ -64231,7 +67048,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a province.",
     "sentence": "This is a ___.",
-    "hint": "这是：省。"
+    "hint": "这是：省。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3428",
@@ -64244,7 +67062,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is mad.",
     "sentence": "It is ___.",
-    "hint": "它是：很生气；疯的。"
+    "hint": "它是：很生气；疯的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3429",
@@ -64257,7 +67076,8 @@ window.VOCABULARY = [
     "category": "饮食生活",
     "example": "It is ripe.",
     "sentence": "It is ___.",
-    "hint": "它是：（水果、庄稼）成熟的。"
+    "hint": "它是：（水果、庄稼）成熟的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3430",
@@ -64270,7 +67090,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a justice.",
     "sentence": "This is a ___.",
-    "hint": "这是：正义，公正；司法。"
+    "hint": "这是：正义，公正；司法。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3431",
@@ -64283,7 +67104,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is perceive.",
     "sentence": "It is ___.",
-    "hint": "它是：感知。"
+    "hint": "它是：感知。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3432",
@@ -64296,7 +67118,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a erupt.",
     "sentence": "This is a ___.",
-    "hint": "这是：爆发。"
+    "hint": "这是：爆发。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3433",
@@ -64309,7 +67132,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a database.",
     "sentence": "This is a ___.",
-    "hint": "这是：数据库。"
+    "hint": "这是：数据库。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3434",
@@ -64322,7 +67146,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chapter.",
     "sentence": "This is a ___.",
-    "hint": "这是：章。"
+    "hint": "这是：章。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3435",
@@ -64335,7 +67160,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is gentle.",
     "sentence": "It is ___.",
-    "hint": "它是：温和的。"
+    "hint": "它是：温和的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3436",
@@ -64348,7 +67174,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is slim.",
     "sentence": "It is ___.",
-    "hint": "它是：苗条的。"
+    "hint": "它是：苗条的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3437",
@@ -64361,7 +67188,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is grand.",
     "sentence": "It is ___.",
-    "hint": "它是：壮丽的；堂皇的。"
+    "hint": "它是：壮丽的；堂皇的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3438",
@@ -64374,7 +67202,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs basin.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：盆地。"
+    "hint": "这里需要表示：盆地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3439",
@@ -64387,7 +67216,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a towel.",
     "sentence": "This is a ___.",
-    "hint": "这是：毛巾，手巾。"
+    "hint": "这是：毛巾，手巾。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3440",
@@ -64400,7 +67230,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a emperor.",
     "sentence": "This is a ___.",
-    "hint": "这是：皇帝。"
+    "hint": "这是：皇帝。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3441",
@@ -64413,7 +67244,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is twin.",
     "sentence": "It is ___.",
-    "hint": "它是：孪生的。"
+    "hint": "它是：孪生的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3442",
@@ -64426,7 +67258,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tail.",
     "sentence": "This is a ___.",
-    "hint": "这是：尾巴。"
+    "hint": "这是：尾巴。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3443",
@@ -64439,7 +67272,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a delete.",
     "sentence": "This is a ___.",
-    "hint": "这是：删除。"
+    "hint": "这是：删除。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3444",
@@ -64452,7 +67286,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a thunder.",
     "sentence": "This is a ___.",
-    "hint": "这是：雷声。"
+    "hint": "这是：雷声。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3445",
@@ -64465,7 +67300,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a satellite.",
     "sentence": "This is a ___.",
-    "hint": "这是：卫星。"
+    "hint": "这是：卫星。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3446",
@@ -64478,7 +67314,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is stupid.",
     "sentence": "It is ___.",
-    "hint": "它是：愚蠢的，傻的。"
+    "hint": "它是：愚蠢的，傻的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3447",
@@ -64491,7 +67328,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a involvement.",
     "sentence": "This is a ___.",
-    "hint": "这是：参与。"
+    "hint": "这是：参与。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3448",
@@ -64504,7 +67342,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a compromise.",
     "sentence": "This is a ___.",
-    "hint": "这是：妥协。"
+    "hint": "这是：妥协。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3449",
@@ -64517,7 +67356,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is subjective.",
     "sentence": "It is ___.",
-    "hint": "它是：主观的。"
+    "hint": "它是：主观的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3450",
@@ -64530,7 +67370,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tailor.",
     "sentence": "This is a ___.",
-    "hint": "这是：裁缝。"
+    "hint": "这是：裁缝。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3451",
@@ -64543,7 +67384,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "It is fourth.",
     "sentence": "It is ___.",
-    "hint": "它是：第四（的）。"
+    "hint": "它是：第四（的）。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3452",
@@ -64556,7 +67398,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a twenty.",
     "sentence": "This is a ___.",
-    "hint": "这是：二十。"
+    "hint": "这是：二十。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3453",
@@ -64569,7 +67412,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have fourteen books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：十四。"
+    "hint": "数量是：十四。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3454",
@@ -64582,7 +67426,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have seventeen books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：十七。"
+    "hint": "数量是：十七。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3455",
@@ -64595,7 +67440,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "I have seventh books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：第七。"
+    "hint": "数量是：第七。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3456",
@@ -64608,7 +67454,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have seventy books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：七十。"
+    "hint": "数量是：七十。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3457",
@@ -64621,7 +67468,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have ninety books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：九十。"
+    "hint": "数量是：九十。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3458",
@@ -64634,7 +67482,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a rabbit.",
     "sentence": "This is a ___.",
-    "hint": "这是：兔；野兔。"
+    "hint": "这是：兔；野兔。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3459",
@@ -64647,7 +67496,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a kangaroo.",
     "sentence": "This is a ___.",
-    "hint": "这是：袋鼠。"
+    "hint": "这是：袋鼠。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3460",
@@ -64660,7 +67510,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dolphin.",
     "sentence": "This is a ___.",
-    "hint": "这是：海豚。"
+    "hint": "这是：海豚。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3461",
@@ -64673,7 +67524,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a frog.",
     "sentence": "This is a ___.",
-    "hint": "这是：青蛙。"
+    "hint": "这是：青蛙。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3462",
@@ -64686,7 +67538,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a lamb.",
     "sentence": "This is a ___.",
-    "hint": "这是：羊肉。"
+    "hint": "这是：羊肉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3463",
@@ -64699,7 +67552,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is leather.",
     "sentence": "It is ___.",
-    "hint": "它是：皮制的。"
+    "hint": "它是：皮制的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3464",
@@ -64712,7 +67566,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a sow.",
     "sentence": "This is a ___.",
-    "hint": "这是：播种。"
+    "hint": "这是：播种。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3465",
@@ -64725,7 +67580,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a seed.",
     "sentence": "This is a ___.",
-    "hint": "这是：种子。"
+    "hint": "这是：种子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3466",
@@ -64738,7 +67594,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is royal.",
     "sentence": "It is ___.",
-    "hint": "它是：女王的，王室的。"
+    "hint": "它是：女王的，王室的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3467",
@@ -64751,7 +67608,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a welfare.",
     "sentence": "This is a ___.",
-    "hint": "这是：福利。"
+    "hint": "这是：福利。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3468",
@@ -64764,7 +67622,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a release.",
     "sentence": "This is a ___.",
-    "hint": "这是：释放。"
+    "hint": "这是：释放。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3469",
@@ -64777,7 +67636,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a export.",
     "sentence": "This is a ___.",
-    "hint": "这是：出口产品；出口。"
+    "hint": "这是：出口产品；出口。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3470",
@@ -64790,7 +67650,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a anticipate.",
     "sentence": "This is a ___.",
-    "hint": "这是：预料；期望。"
+    "hint": "这是：预料；期望。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3471",
@@ -64803,7 +67664,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a justify.",
     "sentence": "This is a ___.",
-    "hint": "这是：证明正当。"
+    "hint": "这是：证明正当。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3472",
@@ -64816,7 +67678,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a shut.",
     "sentence": "This is a ___.",
-    "hint": "这是：关闭；关上。"
+    "hint": "这是：关闭；关上。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3473",
@@ -64829,7 +67692,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a headache.",
     "sentence": "This is a ___.",
-    "hint": "这是：头疼。"
+    "hint": "这是：头疼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3474",
@@ -64842,7 +67706,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cancer.",
     "sentence": "This is a ___.",
-    "hint": "这是：癌症。"
+    "hint": "这是：癌症。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3475",
@@ -64855,7 +67720,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is sensitive.",
     "sentence": "It is ___.",
-    "hint": "它是：敏感的。"
+    "hint": "它是：敏感的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3476",
@@ -64868,7 +67734,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a distribution.",
     "sentence": "This is a ___.",
-    "hint": "这是：分配。"
+    "hint": "这是：分配。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3477",
@@ -64881,7 +67748,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a identification.",
     "sentence": "This is a ___.",
-    "hint": "这是：识别。"
+    "hint": "这是：识别。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3478",
@@ -64894,7 +67762,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a possession.",
     "sentence": "This is a ___.",
-    "hint": "这是：拥有。"
+    "hint": "这是：拥有。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3479",
@@ -64907,7 +67776,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is occasion.",
     "sentence": "It is ___.",
-    "hint": "它是：特别的事情（或仪式， 庆典）；时机。"
+    "hint": "它是：特别的事情（或仪式， 庆典）；时机。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3480",
@@ -64920,7 +67790,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a bury.",
     "sentence": "This is a ___.",
-    "hint": "这是：埋；埋葬。"
+    "hint": "这是：埋；埋葬。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3481",
@@ -64933,7 +67804,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cave.",
     "sentence": "This is a ___.",
-    "hint": "这是：山洞；洞穴。"
+    "hint": "这是：山洞；洞穴。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3482",
@@ -64946,7 +67818,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a gravity.",
     "sentence": "This is a ___.",
-    "hint": "这是：重力，引力。"
+    "hint": "这是：重力，引力。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3483",
@@ -64959,7 +67832,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a microscope.",
     "sentence": "This is a ___.",
-    "hint": "这是：显微镜。"
+    "hint": "这是：显微镜。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3484",
@@ -64972,7 +67846,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a radiation.",
     "sentence": "This is a ___.",
-    "hint": "这是：放射，放射物。"
+    "hint": "这是：放射，放射物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3485",
@@ -64985,7 +67860,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is lunar.",
     "sentence": "It is ___.",
-    "hint": "它是：月亮的。"
+    "hint": "它是：月亮的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3486",
@@ -64998,7 +67874,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can slide.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：滑落；使滑动。"
+    "hint": "我会/可以：滑落；使滑动。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3487",
@@ -65011,7 +67888,8 @@ window.VOCABULARY = [
     "category": "交通旅行",
     "example": "This is a pride.",
     "sentence": "This is a ___.",
-    "hint": "这是：自豪；骄傲。"
+    "hint": "这是：自豪；骄傲。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3488",
@@ -65024,7 +67902,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a insight.",
     "sentence": "This is a ___.",
-    "hint": "这是：洞悉；深刻见解。"
+    "hint": "这是：洞悉；深刻见解。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3489",
@@ -65037,7 +67916,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is shallow.",
     "sentence": "It is ___.",
-    "hint": "它是：浅的。"
+    "hint": "它是：浅的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3490",
@@ -65050,7 +67930,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is rigid.",
     "sentence": "It is ___.",
-    "hint": "它是：坚硬的。"
+    "hint": "它是：坚硬的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3491",
@@ -65063,7 +67944,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is usual.",
     "sentence": "It is ___.",
-    "hint": "它是：通常的。"
+    "hint": "它是：通常的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3492",
@@ -65071,12 +67953,13 @@ window.VOCABULARY = [
     "levelLabel": "高中版",
     "word": "shall",
     "cn": "将要",
-    "pos": "情态动词",
+    "pos": "动词",
     "scene": "通用基础",
     "category": "基础功能词",
     "example": "I can shall.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：将要。"
+    "hint": "我会/可以：将要。",
+    "rawPos": "情态动词"
   },
   {
     "id": "high-3493",
@@ -65089,7 +67972,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a unit.",
     "sentence": "This is a ___.",
-    "hint": "这是：单元；单位。"
+    "hint": "这是：单元；单位。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3494",
@@ -65102,7 +67986,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a debt.",
     "sentence": "This is a ___.",
-    "hint": "这是：借款。"
+    "hint": "这是：借款。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3495",
@@ -65115,7 +68000,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a inquire.",
     "sentence": "This is a ___.",
-    "hint": "这是：询问，打听。"
+    "hint": "这是：询问，打听。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3496",
@@ -65128,7 +68014,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a accompany.",
     "sentence": "This is a ___.",
-    "hint": "这是：陪伴。"
+    "hint": "这是：陪伴。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3497",
@@ -65141,7 +68028,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a skirt.",
     "sentence": "This is a ___.",
-    "hint": "这是：女裙。"
+    "hint": "这是：女裙。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3498",
@@ -65154,7 +68042,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a luxury.",
     "sentence": "This is a ___.",
-    "hint": "这是：奢侈品，珍品。"
+    "hint": "这是：奢侈品，珍品。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3499",
@@ -65167,7 +68056,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a advertisement.",
     "sentence": "This is a ___.",
-    "hint": "这是：广告。"
+    "hint": "这是：广告。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3500",
@@ -65180,7 +68070,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wisdom.",
     "sentence": "This is a ___.",
-    "hint": "这是：智慧,精明。"
+    "hint": "这是：智慧,精明。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3501",
@@ -65193,7 +68084,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a universe.",
     "sentence": "This is a ___.",
-    "hint": "这是：宇宙；万象。"
+    "hint": "这是：宇宙；万象。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3502",
@@ -65206,7 +68098,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a factory.",
     "sentence": "This is a ___.",
-    "hint": "这是：工厂。"
+    "hint": "这是：工厂。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3503",
@@ -65219,7 +68112,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a campus.",
     "sentence": "This is a ___.",
-    "hint": "这是：校园。"
+    "hint": "这是：校园。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3504",
@@ -65232,7 +68126,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dictionary.",
     "sentence": "This is a ___.",
-    "hint": "这是：词典。"
+    "hint": "这是：词典。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3505",
@@ -65245,7 +68140,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a directory.",
     "sentence": "This is a ___.",
-    "hint": "这是：目录。"
+    "hint": "这是：目录。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3506",
@@ -65258,7 +68154,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs literally.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：确实。"
+    "hint": "这里需要表示：确实。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3507",
@@ -65271,7 +68168,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a biography.",
     "sentence": "This is a ___.",
-    "hint": "这是：传记。"
+    "hint": "这是：传记。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3508",
@@ -65284,7 +68182,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cheese.",
     "sentence": "This is a ___.",
-    "hint": "这是：奶酪。"
+    "hint": "这是：奶酪。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3509",
@@ -65297,7 +68196,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a picnic.",
     "sentence": "This is a ___.",
-    "hint": "这是：野餐。"
+    "hint": "这是：野餐。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3510",
@@ -65310,7 +68210,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a chef.",
     "sentence": "This is a ___.",
-    "hint": "这是：厨师。"
+    "hint": "这是：厨师。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3511",
@@ -65323,7 +68224,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a poet.",
     "sentence": "This is a ___.",
-    "hint": "这是：诗人。"
+    "hint": "这是：诗人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3512",
@@ -65336,7 +68238,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a physicist.",
     "sentence": "This is a ___.",
-    "hint": "这是：物理学家。"
+    "hint": "这是：物理学家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3513",
@@ -65349,7 +68252,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can educator.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：教育家；教育工作者。"
+    "hint": "我会/可以：教育家；教育工作者。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3514",
@@ -65362,7 +68266,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a actress.",
     "sentence": "This is a ___.",
-    "hint": "这是：女演员。"
+    "hint": "这是：女演员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3515",
@@ -65375,7 +68280,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ancestor.",
     "sentence": "This is a ___.",
-    "hint": "这是：祖宗；祖先。"
+    "hint": "这是：祖宗；祖先。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3516",
@@ -65388,7 +68294,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bend.",
     "sentence": "This is a ___.",
-    "hint": "这是：弯曲。"
+    "hint": "这是：弯曲。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3517",
@@ -65401,7 +68308,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a sneeze.",
     "sentence": "This is a ___.",
-    "hint": "这是：打喷嚏。"
+    "hint": "这是：打喷嚏。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3518",
@@ -65414,7 +68322,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a toothache.",
     "sentence": "This is a ___.",
-    "hint": "这是：牙疼。"
+    "hint": "这是：牙疼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3519",
@@ -65427,7 +68336,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a neck.",
     "sentence": "This is a ___.",
-    "hint": "这是：脖子。"
+    "hint": "这是：脖子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3520",
@@ -65440,7 +68350,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a glance.",
     "sentence": "This is a ___.",
-    "hint": "这是：瞥一眼；扫视。"
+    "hint": "这是：瞥一眼；扫视。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3521",
@@ -65453,7 +68364,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a strait.",
     "sentence": "This is a ___.",
-    "hint": "这是：海峡。"
+    "hint": "这是：海峡。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3522",
@@ -65466,7 +68378,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a typhoon.",
     "sentence": "This is a ___.",
-    "hint": "这是：台风。"
+    "hint": "这是：台风。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3523",
@@ -65479,7 +68392,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is snowy.",
     "sentence": "It is ___.",
-    "hint": "它是：下雪（多）的。"
+    "hint": "它是：下雪（多）的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3524",
@@ -65492,7 +68406,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is horrible.",
     "sentence": "It is ___.",
-    "hint": "它是：可怕的。"
+    "hint": "它是：可怕的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3525",
@@ -65505,7 +68420,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a virus.",
     "sentence": "This is a ___.",
-    "hint": "这是：病毒。"
+    "hint": "这是：病毒。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3526",
@@ -65518,7 +68434,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a X-ray.",
     "sentence": "This is a ___.",
-    "hint": "这是：X射线。"
+    "hint": "这是：X射线。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3527",
@@ -65531,7 +68448,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a herb.",
     "sentence": "This is a ___.",
-    "hint": "这是：药草。"
+    "hint": "这是：药草。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3528",
@@ -65544,7 +68462,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a onion.",
     "sentence": "This is a ___.",
-    "hint": "这是：洋葱；葱头。"
+    "hint": "这是：洋葱；葱头。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3529",
@@ -65557,7 +68476,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a grain.",
     "sentence": "This is a ___.",
-    "hint": "这是：谷物，谷粒。"
+    "hint": "这是：谷物，谷粒。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3530",
@@ -65570,7 +68490,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a announce.",
     "sentence": "This is a ___.",
-    "hint": "这是：宣布；宣告。"
+    "hint": "这是：宣布；宣告。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3531",
@@ -65583,7 +68504,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs aloud.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：大声地。"
+    "hint": "这里需要表示：大声地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3532",
@@ -65596,7 +68518,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is mineral.",
     "sentence": "It is ___.",
-    "hint": "它是：矿物质；矿物。"
+    "hint": "它是：矿物质；矿物。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3533",
@@ -65609,7 +68532,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is silver.",
     "sentence": "It is ___.",
-    "hint": "它是：银制的；银（白）色的。"
+    "hint": "它是：银制的；银（白）色的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3534",
@@ -65622,7 +68546,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a wire.",
     "sentence": "This is a ___.",
-    "hint": "这是：电线。"
+    "hint": "这是：电线。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3535",
@@ -65635,7 +68560,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is substantial.",
     "sentence": "It is ___.",
-    "hint": "它是：大量的。"
+    "hint": "它是：大量的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3536",
@@ -65648,7 +68574,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a petrol.",
     "sentence": "This is a ___.",
-    "hint": "这是：汽油。"
+    "hint": "这是：汽油。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3537",
@@ -65661,7 +68588,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a bomb.",
     "sentence": "This is a ___.",
-    "hint": "这是：炸弹。"
+    "hint": "这是：炸弹。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3538",
@@ -65674,7 +68602,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "It is premier.",
     "sentence": "It is ___.",
-    "hint": "它是：第一的，首要的。"
+    "hint": "它是：第一的，首要的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3539",
@@ -65687,7 +68616,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is compulsory.",
     "sentence": "It is ___.",
-    "hint": "它是：义务的。"
+    "hint": "它是：义务的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3540",
@@ -65700,7 +68630,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs somewhere.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：某处；某地。"
+    "hint": "这里需要表示：某处；某地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3541",
@@ -65713,7 +68644,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a yard.",
     "sentence": "This is a ___.",
-    "hint": "这是：院子。"
+    "hint": "这是：院子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3542",
@@ -65726,7 +68658,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a harmony.",
     "sentence": "This is a ___.",
-    "hint": "这是：融洽。"
+    "hint": "这是：融洽。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3543",
@@ -65739,7 +68672,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sympathy.",
     "sentence": "This is a ___.",
-    "hint": "这是：同情。"
+    "hint": "这是：同情。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3544",
@@ -65752,7 +68686,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is parental.",
     "sentence": "It is ___.",
-    "hint": "它是：父母的。"
+    "hint": "它是：父母的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3545",
@@ -65765,7 +68700,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a pupil.",
     "sentence": "This is a ___.",
-    "hint": "这是：学生；（尤指）小学生。"
+    "hint": "这是：学生；（尤指）小学生。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3546",
@@ -65778,7 +68714,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a academy.",
     "sentence": "This is a ___.",
-    "hint": "这是：私立学校。"
+    "hint": "这是：私立学校。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3547",
@@ -65791,7 +68728,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a button.",
     "sentence": "This is a ___.",
-    "hint": "这是：按钮，开关。"
+    "hint": "这是：按钮，开关。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3548",
@@ -65804,7 +68742,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tissue.",
     "sentence": "This is a ___.",
-    "hint": "这是：手巾纸；卫生纸。"
+    "hint": "这是：手巾纸；卫生纸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3549",
@@ -65817,7 +68756,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a jeans.",
     "sentence": "This is a ___.",
-    "hint": "这是：牛仔裤。"
+    "hint": "这是：牛仔裤。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3550",
@@ -65830,7 +68770,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is contradictory.",
     "sentence": "It is ___.",
-    "hint": "它是：矛盾的。"
+    "hint": "它是：矛盾的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3551",
@@ -65843,7 +68784,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a disadvantage.",
     "sentence": "This is a ___.",
-    "hint": "这是：缺点；不利因素。"
+    "hint": "这是：缺点；不利因素。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3552",
@@ -65856,7 +68798,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is gradual.",
     "sentence": "It is ___.",
-    "hint": "它是：逐渐的。"
+    "hint": "它是：逐渐的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3553",
@@ -65869,7 +68812,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is fierce.",
     "sentence": "It is ___.",
-    "hint": "它是：凶猛的；凶狠的。"
+    "hint": "它是：凶猛的；凶狠的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3554",
@@ -65882,7 +68826,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is desperate.",
     "sentence": "It is ___.",
-    "hint": "它是：绝望的。"
+    "hint": "它是：绝望的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3555",
@@ -65895,7 +68840,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a appoint.",
     "sentence": "This is a ___.",
-    "hint": "这是：任命。"
+    "hint": "这是：任命。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3556",
@@ -65908,7 +68854,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is absolute.",
     "sentence": "It is ___.",
-    "hint": "它是：完全的。"
+    "hint": "它是：完全的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3557",
@@ -65921,7 +68868,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a accuracy.",
     "sentence": "This is a ___.",
-    "hint": "这是：精确。"
+    "hint": "这是：精确。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3558",
@@ -65934,7 +68882,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is visible.",
     "sentence": "It is ___.",
-    "hint": "它是：看得见的。"
+    "hint": "它是：看得见的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3559",
@@ -65947,7 +68896,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a loose.",
     "sentence": "This is a ___.",
-    "hint": "这是：释放。"
+    "hint": "这是：释放。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3560",
@@ -65960,7 +68910,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a jog.",
     "sentence": "This is a ___.",
-    "hint": "这是：慢跑。"
+    "hint": "这是：慢跑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3561",
@@ -65973,7 +68924,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a beneath.",
     "sentence": "This is a ___.",
-    "hint": "这是：在…之下。"
+    "hint": "这是：在…之下。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3562",
@@ -65986,7 +68938,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is splendid.",
     "sentence": "It is ___.",
-    "hint": "它是：极好的。"
+    "hint": "它是：极好的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3563",
@@ -65999,7 +68952,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is energetic.",
     "sentence": "It is ___.",
-    "hint": "它是：精力充沛的。"
+    "hint": "它是：精力充沛的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3564",
@@ -66012,7 +68966,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is sufficient.",
     "sentence": "It is ___.",
-    "hint": "它是：足够的。"
+    "hint": "它是：足够的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3565",
@@ -66025,7 +68980,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is appropriate.",
     "sentence": "It is ___.",
-    "hint": "它是：适当的。"
+    "hint": "它是：适当的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3566",
@@ -66038,7 +68994,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a criterion.",
     "sentence": "This is a ___.",
-    "hint": "这是：标准。"
+    "hint": "这是：标准。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3567",
@@ -66051,7 +69008,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a acquire.",
     "sentence": "This is a ___.",
-    "hint": "这是：取得，获得。"
+    "hint": "这是：取得，获得。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3568",
@@ -66064,7 +69022,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is approval.",
     "sentence": "It is ___.",
-    "hint": "它是：批准。"
+    "hint": "它是：批准。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3569",
@@ -66077,7 +69036,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a zero.",
     "sentence": "This is a ___.",
-    "hint": "这是：零。"
+    "hint": "这是：零。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3570",
@@ -66090,7 +69050,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pan.",
     "sentence": "This is a ___.",
-    "hint": "这是：平底锅。"
+    "hint": "这是：平底锅。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3571",
@@ -66103,7 +69064,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cupboard.",
     "sentence": "This is a ___.",
-    "hint": "这是：食橱。"
+    "hint": "这是：食橱。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3572",
@@ -66116,7 +69078,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a flame.",
     "sentence": "This is a ___.",
-    "hint": "这是：火焰；火舌。"
+    "hint": "这是：火焰；火舌。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3573",
@@ -66129,7 +69092,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a coke.",
     "sentence": "This is a ___.",
-    "hint": "这是：可乐。"
+    "hint": "这是：可乐。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3574",
@@ -66142,7 +69106,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a digest.",
     "sentence": "This is a ___.",
-    "hint": "这是：消化。"
+    "hint": "这是：消化。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3575",
@@ -66155,7 +69120,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cookie.",
     "sentence": "This is a ___.",
-    "hint": "这是：饼干。"
+    "hint": "这是：饼干。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3576",
@@ -66168,7 +69134,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is admirable.",
     "sentence": "It is ___.",
-    "hint": "它是：好极了。"
+    "hint": "它是：好极了。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3577",
@@ -66181,7 +69148,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a envy.",
     "sentence": "This is a ___.",
-    "hint": "这是：妒忌；羡慕。"
+    "hint": "这是：妒忌；羡慕。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3578",
@@ -66194,7 +69162,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a resistance.",
     "sentence": "This is a ___.",
-    "hint": "这是：反对。"
+    "hint": "这是：反对。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3579",
@@ -66207,7 +69176,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a discrimination.",
     "sentence": "This is a ___.",
-    "hint": "这是：区别对待。"
+    "hint": "这是：区别对待。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3580",
@@ -66220,7 +69190,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a bunch.",
     "sentence": "This is a ___.",
-    "hint": "这是：串。"
+    "hint": "这是：串。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3581",
@@ -66233,7 +69204,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs beautifully.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：优美地，动听地。"
+    "hint": "这里需要表示：优美地，动听地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3582",
@@ -66246,7 +69218,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs lively.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：生气勃勃的；（色彩）鲜艳的。"
+    "hint": "这里需要表示：生气勃勃的；（色彩）鲜艳的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3583",
@@ -66259,7 +69232,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fold.",
     "sentence": "This is a ___.",
-    "hint": "这是：折叠。"
+    "hint": "这是：折叠。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3584",
@@ -66272,7 +69246,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is neat.",
     "sentence": "It is ___.",
-    "hint": "它是：整齐的，整洁的。"
+    "hint": "它是：整齐的，整洁的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3585",
@@ -66285,7 +69260,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dynasty.",
     "sentence": "This is a ___.",
-    "hint": "这是：王朝，朝代。"
+    "hint": "这是：王朝，朝代。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3586",
@@ -66298,7 +69274,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a soldier.",
     "sentence": "This is a ___.",
-    "hint": "这是：军人；士兵。"
+    "hint": "这是：军人；士兵。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3587",
@@ -66311,7 +69288,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a command.",
     "sentence": "This is a ___.",
-    "hint": "这是：命令。"
+    "hint": "这是：命令。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3588",
@@ -66324,7 +69302,8 @@ window.VOCABULARY = [
     "category": "场所方位",
     "example": "This is a countryside.",
     "sentence": "This is a ___.",
-    "hint": "这是：乡村。"
+    "hint": "这是：乡村。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3589",
@@ -66337,7 +69316,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a duck.",
     "sentence": "This is a ___.",
-    "hint": "这是：鸭子。"
+    "hint": "这是：鸭子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3590",
@@ -66350,7 +69330,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a goat.",
     "sentence": "This is a ___.",
-    "hint": "这是：山羊。"
+    "hint": "这是：山羊。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3591",
@@ -66363,7 +69344,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a log.",
     "sentence": "This is a ___.",
-    "hint": "这是：登录；记录。"
+    "hint": "这是：登录；记录。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3592",
@@ -66376,7 +69358,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a breath.",
     "sentence": "This is a ___.",
-    "hint": "这是：呼吸。"
+    "hint": "这是：呼吸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3593",
@@ -66389,7 +69372,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cater.",
     "sentence": "This is a ___.",
-    "hint": "这是：迎合。"
+    "hint": "这是：迎合。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3594",
@@ -66402,7 +69386,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a restrict.",
     "sentence": "This is a ___.",
-    "hint": "这是：限制。"
+    "hint": "这是：限制。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3595",
@@ -66415,7 +69400,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a accelerate.",
     "sentence": "This is a ___.",
-    "hint": "这是：加速。"
+    "hint": "这是：加速。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3596",
@@ -66428,7 +69414,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs ugly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：丑的；丑陋的。"
+    "hint": "这里需要表示：丑的；丑陋的。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3597",
@@ -66441,7 +69428,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is careless.",
     "sentence": "It is ___.",
-    "hint": "它是：粗心的。"
+    "hint": "它是：粗心的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3598",
@@ -66454,7 +69442,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is cruel.",
     "sentence": "It is ___.",
-    "hint": "它是：残酷的；残忍的。"
+    "hint": "它是：残酷的；残忍的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3599",
@@ -66467,7 +69456,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is logical.",
     "sentence": "It is ___.",
-    "hint": "它是：必然的。"
+    "hint": "它是：必然的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3600",
@@ -66480,7 +69470,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a anybody.",
     "sentence": "This is a ___.",
-    "hint": "这是：任何人。"
+    "hint": "这是：任何人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3601",
@@ -66493,7 +69484,8 @@ window.VOCABULARY = [
     "category": "交通旅行",
     "example": "This is a bride.",
     "sentence": "This is a ___.",
-    "hint": "这是：新娘。"
+    "hint": "这是：新娘。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3602",
@@ -66506,7 +69498,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a greeting.",
     "sentence": "This is a ___.",
-    "hint": "这是：招呼。"
+    "hint": "这是：招呼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3603",
@@ -66519,7 +69512,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a owe.",
     "sentence": "This is a ___.",
-    "hint": "这是：欠。"
+    "hint": "这是：欠。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3604",
@@ -66532,7 +69526,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is inner.",
     "sentence": "It is ___.",
-    "hint": "它是：内部的。"
+    "hint": "它是：内部的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3605",
@@ -66545,7 +69540,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have component books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：成分；要素。"
+    "hint": "数量是：成分；要素。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3606",
@@ -66558,7 +69554,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "The book is beside the desk.",
     "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：在旁边（附近）。"
+    "hint": "书的位置：在旁边（附近）。",
+    "rawPos": "介词"
   },
   {
     "id": "high-3607",
@@ -66571,7 +69568,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a variation.",
     "sentence": "This is a ___.",
-    "hint": "这是：变异。"
+    "hint": "这是：变异。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3608",
@@ -66584,7 +69582,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have extent books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：程度。"
+    "hint": "数量是：程度。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3609",
@@ -66597,7 +69596,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sustain.",
     "sentence": "This is a ___.",
-    "hint": "这是：维持。"
+    "hint": "这是：维持。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3610",
@@ -66610,7 +69610,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is changeable.",
     "sentence": "It is ___.",
-    "hint": "它是：可变的。"
+    "hint": "它是：可变的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3611",
@@ -66623,7 +69624,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a instant.",
     "sentence": "This is a ___.",
-    "hint": "这是：瞬间。"
+    "hint": "这是：瞬间。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3612",
@@ -66636,7 +69638,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a shorts.",
     "sentence": "This is a ___.",
-    "hint": "这是：短裤。"
+    "hint": "这是：短裤。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3613",
@@ -66649,7 +69652,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a minibus.",
     "sentence": "This is a ___.",
-    "hint": "这是：小型公共汽车；中巴。"
+    "hint": "这是：小型公共汽车；中巴。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3614",
@@ -66662,7 +69666,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a accommodation.",
     "sentence": "This is a ___.",
-    "hint": "这是：适应。"
+    "hint": "这是：适应。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3615",
@@ -66675,7 +69680,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a deed.",
     "sentence": "This is a ___.",
-    "hint": "这是：行为。"
+    "hint": "这是：行为。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3616",
@@ -66688,7 +69694,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a amateur.",
     "sentence": "This is a ___.",
-    "hint": "这是：业余。"
+    "hint": "这是：业余。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3617",
@@ -66701,7 +69708,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is optimistic.",
     "sentence": "It is ___.",
-    "hint": "它是：乐观的。"
+    "hint": "它是：乐观的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3618",
@@ -66714,7 +69722,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is wealthy.",
     "sentence": "It is ___.",
-    "hint": "它是：富有的；富裕的。"
+    "hint": "它是：富有的；富裕的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3619",
@@ -66727,7 +69736,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a shame.",
     "sentence": "This is a ___.",
-    "hint": "这是：羞耻；羞愧；惭愧。"
+    "hint": "这是：羞耻；羞愧；惭愧。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3620",
@@ -66740,7 +69750,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a allowance.",
     "sentence": "This is a ___.",
-    "hint": "这是：津贴。"
+    "hint": "这是：津贴。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3621",
@@ -66753,7 +69764,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a January.",
     "sentence": "This is a ___.",
-    "hint": "这是：一月。"
+    "hint": "这是：一月。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3622",
@@ -66766,7 +69778,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have sixty books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：六十。"
+    "hint": "数量是：六十。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3623",
@@ -66779,7 +69792,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs dominant.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：占主导地位。"
+    "hint": "这里需要表示：占主导地位。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3624",
@@ -66792,7 +69806,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sweat.",
     "sentence": "This is a ___.",
-    "hint": "这是：汗水。"
+    "hint": "这是：汗水。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3625",
@@ -66805,7 +69820,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a occupation.",
     "sentence": "This is a ___.",
-    "hint": "这是：职业。"
+    "hint": "这是：职业。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3626",
@@ -66818,7 +69834,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs venue.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地点。"
+    "hint": "这里需要表示：地点。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3627",
@@ -66831,7 +69848,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a frontier.",
     "sentence": "This is a ___.",
-    "hint": "这是：边界。"
+    "hint": "这是：边界。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3628",
@@ -66844,7 +69862,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fence.",
     "sentence": "This is a ___.",
-    "hint": "这是：护栏。"
+    "hint": "这是：护栏。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3629",
@@ -66857,7 +69876,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a border.",
     "sentence": "This is a ___.",
-    "hint": "这是：边界，边境。"
+    "hint": "这是：边界，边境。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3630",
@@ -66870,7 +69890,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pancake.",
     "sentence": "This is a ___.",
-    "hint": "这是：薄饼。"
+    "hint": "这是：薄饼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3631",
@@ -66883,7 +69904,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a boil.",
     "sentence": "This is a ___.",
-    "hint": "这是：煮沸；烧开。"
+    "hint": "这是：煮沸；烧开。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3632",
@@ -66896,7 +69918,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a starve.",
     "sentence": "This is a ___.",
-    "hint": "这是：挨饿；饿死。"
+    "hint": "这是：挨饿；饿死。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3633",
@@ -66909,7 +69932,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a skateboard.",
     "sentence": "This is a ___.",
-    "hint": "这是：滑板。"
+    "hint": "这是：滑板。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3634",
@@ -66922,7 +69946,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a ski.",
     "sentence": "This is a ___.",
-    "hint": "这是：滑雪。"
+    "hint": "这是：滑雪。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3635",
@@ -66935,7 +69960,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tournament.",
     "sentence": "This is a ___.",
-    "hint": "这是：联赛,锦标赛。"
+    "hint": "这是：联赛,锦标赛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3636",
@@ -66948,7 +69974,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a captain.",
     "sentence": "This is a ___.",
-    "hint": "这是：船长，机长。"
+    "hint": "这是：船长，机长。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3637",
@@ -66961,7 +69988,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "I can crew.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：(轮船、飞机等上面的)全体工作人员。"
+    "hint": "我会/可以：(轮船、飞机等上面的)全体工作人员。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3638",
@@ -66974,7 +70002,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a aircraft.",
     "sentence": "This is a ___.",
-    "hint": "这是：[单复同]飞机，航空器。"
+    "hint": "这是：[单复同]飞机，航空器。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3639",
@@ -66987,7 +70016,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is military.",
     "sentence": "It is ___.",
-    "hint": "它是：军事的。"
+    "hint": "它是：军事的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3640",
@@ -67000,7 +70030,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a rocket.",
     "sentence": "This is a ___.",
-    "hint": "这是：火箭。"
+    "hint": "这是：火箭。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3641",
@@ -67013,7 +70044,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a camel.",
     "sentence": "This is a ___.",
-    "hint": "这是：骆驼。"
+    "hint": "这是：骆驼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3642",
@@ -67026,7 +70058,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a eagle.",
     "sentence": "This is a ___.",
-    "hint": "这是：鹰。"
+    "hint": "这是：鹰。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3643",
@@ -67039,7 +70072,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a feather.",
     "sentence": "This is a ___.",
-    "hint": "这是：羽毛。"
+    "hint": "这是：羽毛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3644",
@@ -67052,7 +70086,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs butterfly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：蝴蝶。"
+    "hint": "这里需要表示：蝴蝶。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3645",
@@ -67065,7 +70100,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a deer.",
     "sentence": "This is a ___.",
-    "hint": "这是：鹿（单复数同形）。"
+    "hint": "这是：鹿（单复数同形）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3646",
@@ -67078,7 +70114,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a whale.",
     "sentence": "This is a ___.",
-    "hint": "这是：鲸。"
+    "hint": "这是：鲸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3647",
@@ -67091,7 +70128,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a vet.",
     "sentence": "This is a ___.",
-    "hint": "这是：兽医。"
+    "hint": "这是：兽医。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3648",
@@ -67104,7 +70142,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a umbrella.",
     "sentence": "This is a ___.",
-    "hint": "这是：伞；雨伞。"
+    "hint": "这是：伞；雨伞。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3649",
@@ -67117,7 +70156,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a boot.",
     "sentence": "This is a ___.",
-    "hint": "这是：靴子。"
+    "hint": "这是：靴子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3650",
@@ -67130,7 +70170,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cheers.",
     "sentence": "This is a ___.",
-    "hint": "这是：干杯。"
+    "hint": "这是：干杯。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3651",
@@ -67143,7 +70184,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a laughter.",
     "sentence": "This is a ___.",
-    "hint": "这是：笑声。"
+    "hint": "这是：笑声。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3652",
@@ -67156,7 +70198,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sorrow.",
     "sentence": "This is a ___.",
-    "hint": "这是：悲伤，悲痛。"
+    "hint": "这是：悲伤，悲痛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3653",
@@ -67169,7 +70212,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a dusty.",
     "sentence": "This is a ___.",
-    "hint": "这是：尘土飞扬。"
+    "hint": "这是：尘土飞扬。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3654",
@@ -67182,7 +70226,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is windy.",
     "sentence": "It is ___.",
-    "hint": "它是：多风的；风大的。"
+    "hint": "它是：多风的；风大的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3655",
@@ -67195,7 +70240,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a litter.",
     "sentence": "This is a ___.",
-    "hint": "这是：乱丢垃圾。"
+    "hint": "这是：乱丢垃圾。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3656",
@@ -67208,7 +70254,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a balloon.",
     "sentence": "This is a ___.",
-    "hint": "这是：气球。"
+    "hint": "这是：气球。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3657",
@@ -67221,7 +70268,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a noon.",
     "sentence": "This is a ___.",
-    "hint": "这是：中午。"
+    "hint": "这是：中午。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3658",
@@ -67234,7 +70282,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a midnight.",
     "sentence": "This is a ___.",
-    "hint": "这是：子夜,午夜。"
+    "hint": "这是：子夜,午夜。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3659",
@@ -67247,7 +70296,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is respective.",
     "sentence": "It is ___.",
-    "hint": "它是：分别的。"
+    "hint": "它是：分别的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3660",
@@ -67260,7 +70310,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is comprehensive.",
     "sentence": "It is ___.",
-    "hint": "它是：广泛的；丰富的。"
+    "hint": "它是：广泛的；丰富的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3661",
@@ -67273,7 +70324,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is greedy.",
     "sentence": "It is ___.",
-    "hint": "它是：贪婪的。"
+    "hint": "它是：贪婪的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3662",
@@ -67286,7 +70338,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a soul.",
     "sentence": "This is a ___.",
-    "hint": "这是：灵魂。"
+    "hint": "这是：灵魂。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3663",
@@ -67299,7 +70352,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a guitar.",
     "sentence": "This is a ___.",
-    "hint": "这是：吉他。"
+    "hint": "这是：吉他。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3664",
@@ -67312,7 +70366,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cab.",
     "sentence": "This is a ___.",
-    "hint": "这是：驾驶室。"
+    "hint": "这是：驾驶室。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3665",
@@ -67325,7 +70380,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is criminal.",
     "sentence": "It is ___.",
-    "hint": "它是：罪犯。"
+    "hint": "它是：罪犯。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3666",
@@ -67338,7 +70394,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a bleed.",
     "sentence": "This is a ___.",
-    "hint": "这是：流血；失血。"
+    "hint": "这是：流血；失血。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3667",
@@ -67351,7 +70408,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a sew.",
     "sentence": "This is a ___.",
-    "hint": "这是：缝。"
+    "hint": "这是：缝。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3668",
@@ -67364,7 +70422,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a inn.",
     "sentence": "This is a ___.",
-    "hint": "这是：小旅馆，客栈。"
+    "hint": "这是：小旅馆，客栈。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3669",
@@ -67377,7 +70436,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is dizzy.",
     "sentence": "It is ___.",
-    "hint": "它是：头晕的。"
+    "hint": "它是：头晕的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3670",
@@ -67390,7 +70450,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is solid.",
     "sentence": "It is ___.",
-    "hint": "它是：固体的，硬的。"
+    "hint": "它是：固体的，硬的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3671",
@@ -67403,7 +70464,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs deliberately.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：故意地。"
+    "hint": "这里需要表示：故意地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3672",
@@ -67416,7 +70478,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs precisely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：精确地。"
+    "hint": "这里需要表示：精确地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3673",
@@ -67429,7 +70492,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is delicate.",
     "sentence": "It is ___.",
-    "hint": "它是：淡色的。"
+    "hint": "它是：淡色的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3674",
@@ -67442,7 +70506,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a sex.",
     "sentence": "This is a ___.",
-    "hint": "这是：性别。"
+    "hint": "这是：性别。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3675",
@@ -67455,7 +70520,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a occupy.",
     "sentence": "This is a ___.",
-    "hint": "这是：住；占用。"
+    "hint": "这是：住；占用。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3676",
@@ -67468,7 +70534,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a encouragement.",
     "sentence": "This is a ___.",
-    "hint": "这是：鼓励。"
+    "hint": "这是：鼓励。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3677",
@@ -67481,7 +70548,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a instruct.",
     "sentence": "This is a ___.",
-    "hint": "这是：命令，指示。"
+    "hint": "这是：命令，指示。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3678",
@@ -67494,7 +70562,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a label.",
     "sentence": "This is a ___.",
-    "hint": "这是：标签。"
+    "hint": "这是：标签。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3679",
@@ -67507,7 +70576,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cigar.",
     "sentence": "This is a ___.",
-    "hint": "这是：雪茄。"
+    "hint": "这是：雪茄。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3680",
@@ -67520,7 +70590,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a notebook.",
     "sentence": "This is a ___.",
-    "hint": "这是：笔记本。"
+    "hint": "这是：笔记本。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3681",
@@ -67533,7 +70604,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is federal.",
     "sentence": "It is ___.",
-    "hint": "它是：联邦的。"
+    "hint": "它是：联邦的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3682",
@@ -67546,7 +70618,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is odd.",
     "sentence": "It is ___.",
-    "hint": "它是：奇怪的，异常的。"
+    "hint": "它是：奇怪的，异常的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3683",
@@ -67559,7 +70632,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is fortunate.",
     "sentence": "It is ___.",
-    "hint": "它是：幸运的。"
+    "hint": "它是：幸运的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3684",
@@ -67572,7 +70646,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a qualification.",
     "sentence": "This is a ___.",
-    "hint": "这是：资格。"
+    "hint": "这是：资格。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3685",
@@ -67585,7 +70660,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a counter.",
     "sentence": "This is a ___.",
-    "hint": "这是：柜台。"
+    "hint": "这是：柜台。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3686",
@@ -67598,7 +70674,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is northern.",
     "sentence": "It is ___.",
-    "hint": "它是：北方的；北部的。"
+    "hint": "它是：北方的；北部的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3687",
@@ -67611,7 +70688,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wrist.",
     "sentence": "This is a ___.",
-    "hint": "这是：手腕。"
+    "hint": "这是：手腕。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3688",
@@ -67624,7 +70702,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a granddaughter.",
     "sentence": "This is a ___.",
-    "hint": "这是：（外）孙女。"
+    "hint": "这是：（外）孙女。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3689",
@@ -67637,7 +70716,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "It is twelfth.",
     "sentence": "It is ___.",
-    "hint": "它是：第十二（的）。"
+    "hint": "它是：第十二（的）。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3690",
@@ -67650,7 +70730,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fifty.",
     "sentence": "This is a ___.",
-    "hint": "这是：五十。"
+    "hint": "这是：五十。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3691",
@@ -67663,7 +70744,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "I have eighty books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：八十。"
+    "hint": "数量是：八十。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3692",
@@ -67676,7 +70758,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a postman.",
     "sentence": "This is a ___.",
-    "hint": "这是：邮递员。"
+    "hint": "这是：邮递员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3693",
@@ -67689,7 +70772,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a novelist.",
     "sentence": "This is a ___.",
-    "hint": "这是：小说家。"
+    "hint": "这是：小说家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3694",
@@ -67702,7 +70786,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bachelor.",
     "sentence": "This is a ___.",
-    "hint": "这是：单身汉。"
+    "hint": "这是：单身汉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3695",
@@ -67715,7 +70800,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tongue.",
     "sentence": "This is a ___.",
-    "hint": "这是：舌头。"
+    "hint": "这是：舌头。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3696",
@@ -67728,7 +70814,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a necklace.",
     "sentence": "This is a ___.",
-    "hint": "这是：项链。"
+    "hint": "这是：项链。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3697",
@@ -67741,7 +70828,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a organ.",
     "sentence": "This is a ___.",
-    "hint": "这是：器官。"
+    "hint": "这是：器官。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3698",
@@ -67754,7 +70842,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a lung.",
     "sentence": "This is a ___.",
-    "hint": "这是：肺。"
+    "hint": "这是：肺。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3699",
@@ -67767,7 +70856,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a shave.",
     "sentence": "This is a ___.",
-    "hint": "这是：刮脸。"
+    "hint": "这是：刮脸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3700",
@@ -67780,7 +70870,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is extraordinary.",
     "sentence": "It is ___.",
-    "hint": "它是：意想不到的。"
+    "hint": "它是：意想不到的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3701",
@@ -67793,7 +70884,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is humble.",
     "sentence": "It is ___.",
-    "hint": "它是：谦逊的。"
+    "hint": "它是：谦逊的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3702",
@@ -67806,7 +70898,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is confidential.",
     "sentence": "It is ___.",
-    "hint": "它是：保密的。"
+    "hint": "它是：保密的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3703",
@@ -67819,7 +70912,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a broadcast.",
     "sentence": "This is a ___.",
-    "hint": "这是：广播。"
+    "hint": "这是：广播。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3704",
@@ -67832,7 +70926,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a download.",
     "sentence": "This is a ___.",
-    "hint": "这是：下载。"
+    "hint": "这是：下载。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3705",
@@ -67845,7 +70940,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a seize.",
     "sentence": "This is a ___.",
-    "hint": "这是：抓住。"
+    "hint": "这是：抓住。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3706",
@@ -67858,7 +70954,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a boost.",
     "sentence": "This is a ___.",
-    "hint": "这是：促进。"
+    "hint": "这是：促进。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3707",
@@ -67871,7 +70968,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can facilitate.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使便利。"
+    "hint": "我会/可以：使便利。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3708",
@@ -67884,7 +70982,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a oppose.",
     "sentence": "This is a ___.",
-    "hint": "这是：反对。"
+    "hint": "这是：反对。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3709",
@@ -67897,7 +70996,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a superb.",
     "sentence": "This is a ___.",
-    "hint": "这是：棒 极 了。"
+    "hint": "这是：棒 极 了。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3710",
@@ -67910,7 +71010,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is thorough.",
     "sentence": "It is ___.",
-    "hint": "它是：彻底的。"
+    "hint": "它是：彻底的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3711",
@@ -67923,7 +71024,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a uncertain.",
     "sentence": "This is a ___.",
-    "hint": "这是：无把握。"
+    "hint": "这是：无把握。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3712",
@@ -67936,7 +71038,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a somewhat.",
     "sentence": "This is a ___.",
-    "hint": "这是：有点。"
+    "hint": "这是：有点。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3713",
@@ -67949,7 +71052,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a recite.",
     "sentence": "This is a ___.",
-    "hint": "这是：背诵,朗诵。"
+    "hint": "这是：背诵,朗诵。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3714",
@@ -67962,7 +71066,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a clarify.",
     "sentence": "This is a ___.",
-    "hint": "这是：澄清。"
+    "hint": "这是：澄清。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3715",
@@ -67975,7 +71080,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a govern.",
     "sentence": "This is a ___.",
-    "hint": "这是：统治。"
+    "hint": "这是：统治。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3716",
@@ -67988,7 +71094,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a file.",
     "sentence": "This is a ___.",
-    "hint": "这是：档案。"
+    "hint": "这是：档案。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3717",
@@ -68001,7 +71108,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can conservation.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：保护。"
+    "hint": "我会/可以：保护。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3718",
@@ -68014,7 +71122,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is disturbing.",
     "sentence": "It is ___.",
-    "hint": "它是：引起烦恼的。"
+    "hint": "它是：引起烦恼的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3719",
@@ -68027,7 +71136,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is conventional.",
     "sentence": "It is ___.",
-    "hint": "它是：依照惯例的。"
+    "hint": "它是：依照惯例的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3720",
@@ -68040,7 +71150,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a customs.",
     "sentence": "This is a ___.",
-    "hint": "这是：海关。"
+    "hint": "这是：海关。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3721",
@@ -68053,7 +71164,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a PE.",
     "sentence": "This is a ___.",
-    "hint": "这是：体育课。"
+    "hint": "这是：体育课。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3722",
@@ -68066,7 +71178,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ballet.",
     "sentence": "This is a ___.",
-    "hint": "这是：芭蕾舞。"
+    "hint": "这是：芭蕾舞。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3723",
@@ -68079,7 +71192,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is foggy.",
     "sentence": "It is ___.",
-    "hint": "它是：有雾的。"
+    "hint": "它是：有雾的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3724",
@@ -68092,7 +71206,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a avenue.",
     "sentence": "This is a ___.",
-    "hint": "这是：街道，大道。"
+    "hint": "这是：街道，大道。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3725",
@@ -68105,7 +71220,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a adolescence.",
     "sentence": "This is a ___.",
-    "hint": "这是：青春期。"
+    "hint": "这是：青春期。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3726",
@@ -68118,7 +71234,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a amusement.",
     "sentence": "This is a ___.",
-    "hint": "这是：娱乐；游戏。"
+    "hint": "这是：娱乐；游戏。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3727",
@@ -68131,7 +71248,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a format.",
     "sentence": "This is a ___.",
-    "hint": "这是：格式；版式。"
+    "hint": "这是：格式；版式。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3728",
@@ -68144,7 +71262,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a source.",
     "sentence": "This is a ___.",
-    "hint": "这是：来源，出处；起源；源头。"
+    "hint": "这是：来源，出处；起源；源头。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3729",
@@ -68157,7 +71276,8 @@ window.VOCABULARY = [
     "category": "饮食生活",
     "example": "It is fibre.",
     "sentence": "It is ___.",
-    "hint": "它是：(食物中的)纤维素。"
+    "hint": "它是：(食物中的)纤维素。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3730",
@@ -68170,7 +71290,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a battery.",
     "sentence": "This is a ___.",
-    "hint": "这是：电池。"
+    "hint": "这是：电池。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3731",
@@ -68183,7 +71304,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a violence.",
     "sentence": "This is a ___.",
-    "hint": "这是：暴力，暴行。"
+    "hint": "这是：暴力，暴行。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3732",
@@ -68196,7 +71318,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pool.",
     "sentence": "This is a ___.",
-    "hint": "这是：池塘；游泳池。"
+    "hint": "这是：池塘；游泳池。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3733",
@@ -68209,7 +71332,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dormitory.",
     "sentence": "This is a ___.",
-    "hint": "这是：宿舍。"
+    "hint": "这是：宿舍。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3734",
@@ -68222,7 +71346,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is downstairs.",
     "sentence": "It is ___.",
-    "hint": "它是：位于楼下的。"
+    "hint": "它是：位于楼下的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3735",
@@ -68235,7 +71360,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a integrity.",
     "sentence": "This is a ___.",
-    "hint": "这是：诚实正直。"
+    "hint": "这是：诚实正直。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3736",
@@ -68248,7 +71374,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is dramatic.",
     "sentence": "It is ___.",
-    "hint": "它是：令人激动的，扣人心弦的。"
+    "hint": "它是：令人激动的，扣人心弦的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3737",
@@ -68261,7 +71388,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a behalf.",
     "sentence": "This is a ___.",
-    "hint": "这是：代表(或代替)某人。"
+    "hint": "这是：代表(或代替)某人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3738",
@@ -68274,7 +71402,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is motive.",
     "sentence": "It is ___.",
-    "hint": "它是：动机。"
+    "hint": "它是：动机。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3739",
@@ -68287,7 +71416,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a frequency.",
     "sentence": "This is a ___.",
-    "hint": "这是：频率。"
+    "hint": "这是：频率。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3740",
@@ -68300,7 +71430,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a refrigerator.",
     "sentence": "This is a ___.",
-    "hint": "这是：冰箱。"
+    "hint": "这是：冰箱。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3741",
@@ -68313,7 +71444,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a watermelon.",
     "sentence": "This is a ___.",
-    "hint": "这是：西瓜。"
+    "hint": "这是：西瓜。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3742",
@@ -68326,7 +71458,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a knife.",
     "sentence": "This is a ___.",
-    "hint": "这是：刀。"
+    "hint": "这是：刀。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3743",
@@ -68339,7 +71472,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a continent.",
     "sentence": "This is a ___.",
-    "hint": "这是：大陆，洲。"
+    "hint": "这是：大陆，洲。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3744",
@@ -68352,7 +71486,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "It is domestic.",
     "sentence": "It is ___.",
-    "hint": "它是：国内的。"
+    "hint": "它是：国内的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3745",
@@ -68365,7 +71500,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a southeast.",
     "sentence": "This is a ___.",
-    "hint": "这是：东南。"
+    "hint": "这是：东南。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3746",
@@ -68378,7 +71514,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pill.",
     "sentence": "This is a ___.",
-    "hint": "这是：药丸，药片。"
+    "hint": "这是：药丸，药片。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3747",
@@ -68391,7 +71528,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fever.",
     "sentence": "This is a ___.",
-    "hint": "这是：发烧。"
+    "hint": "这是：发烧。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3748",
@@ -68404,7 +71542,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ambulance.",
     "sentence": "This is a ___.",
-    "hint": "这是：救护车。"
+    "hint": "这是：救护车。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3749",
@@ -68417,7 +71556,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is allergic.",
     "sentence": "It is ___.",
-    "hint": "它是：过敏性的。"
+    "hint": "它是：过敏性的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3750",
@@ -68430,7 +71570,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a handkerchief.",
     "sentence": "This is a ___.",
-    "hint": "这是：手绢。"
+    "hint": "这是：手绢。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3751",
@@ -68443,7 +71584,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fork.",
     "sentence": "This is a ___.",
-    "hint": "这是：餐叉。"
+    "hint": "这是：餐叉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3752",
@@ -68456,7 +71598,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a lantern.",
     "sentence": "This is a ___.",
-    "hint": "这是：灯笼。"
+    "hint": "这是：灯笼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3753",
@@ -68469,7 +71612,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a handbag.",
     "sentence": "This is a ___.",
-    "hint": "这是：(女用）手提包。"
+    "hint": "这是：(女用）手提包。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3754",
@@ -68482,7 +71626,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a washroom.",
     "sentence": "This is a ___.",
-    "hint": "这是：洗手间。"
+    "hint": "这是：洗手间。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3755",
@@ -68495,7 +71640,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a swing.",
     "sentence": "This is a ___.",
-    "hint": "这是：荡秋千；摆动。"
+    "hint": "这是：荡秋千；摆动。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3756",
@@ -68508,7 +71654,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a explode.",
     "sentence": "This is a ___.",
-    "hint": "这是：爆炸。"
+    "hint": "这是：爆炸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3757",
@@ -68521,7 +71668,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bargain.",
     "sentence": "This is a ___.",
-    "hint": "这是：讨价还价; n.便宜货。"
+    "hint": "这是：讨价还价; n.便宜货。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3758",
@@ -68534,7 +71682,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a territory.",
     "sentence": "This is a ___.",
-    "hint": "这是：领土,版图。"
+    "hint": "这是：领土,版图。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3759",
@@ -68547,7 +71696,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a angle.",
     "sentence": "This is a ___.",
-    "hint": "这是：角。"
+    "hint": "这是：角。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3760",
@@ -68560,7 +71710,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is straightforward.",
     "sentence": "It is ___.",
-    "hint": "它是：直截了当的。"
+    "hint": "它是：直截了当的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3761",
@@ -68573,7 +71724,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is coherent.",
     "sentence": "It is ___.",
-    "hint": "它是：连贯的。"
+    "hint": "它是：连贯的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3762",
@@ -68586,7 +71738,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is bitter.",
     "sentence": "It is ___.",
-    "hint": "它是：苦的。"
+    "hint": "它是：苦的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3763",
@@ -68599,7 +71752,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is capable.",
     "sentence": "It is ___.",
-    "hint": "它是：有能力。"
+    "hint": "它是：有能力。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3764",
@@ -68612,7 +71766,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a capacity.",
     "sentence": "This is a ___.",
-    "hint": "这是：承受量，容量。"
+    "hint": "这是：承受量，容量。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3765",
@@ -68625,7 +71780,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tobacco.",
     "sentence": "This is a ___.",
-    "hint": "这是：烟草，烟丝。"
+    "hint": "这是：烟草，烟丝。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3766",
@@ -68638,7 +71794,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a mist.",
     "sentence": "This is a ___.",
-    "hint": "这是：薄雾。"
+    "hint": "这是：薄雾。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3767",
@@ -68651,7 +71808,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a stamp.",
     "sentence": "This is a ___.",
-    "hint": "这是：邮票。"
+    "hint": "这是：邮票。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3768",
@@ -68664,7 +71822,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a temple.",
     "sentence": "This is a ___.",
-    "hint": "这是：庙宇，神殿；太阳穴。"
+    "hint": "这是：庙宇，神殿；太阳穴。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3769",
@@ -68677,7 +71836,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a departure.",
     "sentence": "This is a ___.",
-    "hint": "这是：离开。"
+    "hint": "这是：离开。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3770",
@@ -68690,7 +71850,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is representative.",
     "sentence": "It is ___.",
-    "hint": "它是：代表。"
+    "hint": "它是：代表。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3771",
@@ -68703,7 +71864,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a currency.",
     "sentence": "This is a ___.",
-    "hint": "这是：通货。"
+    "hint": "这是：通货。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3772",
@@ -68716,7 +71878,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is handsome.",
     "sentence": "It is ___.",
-    "hint": "它是：漂亮的，英俊的。"
+    "hint": "它是：漂亮的，英俊的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3773",
@@ -68729,7 +71892,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is minor.",
     "sentence": "It is ___.",
-    "hint": "它是：较小的，较次要的。"
+    "hint": "它是：较小的，较次要的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3774",
@@ -68742,7 +71906,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a motion.",
     "sentence": "This is a ___.",
-    "hint": "这是：运动；移动。"
+    "hint": "这是：运动；移动。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3775",
@@ -68755,7 +71920,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a congratulate.",
     "sentence": "This is a ___.",
-    "hint": "这是：祝贺。"
+    "hint": "这是：祝贺。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3776",
@@ -68768,7 +71934,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ought to.",
     "sentence": "This is a ___.",
-    "hint": "这是：应该。"
+    "hint": "这是：应该。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3777",
@@ -68781,7 +71948,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a handwriting.",
     "sentence": "This is a ___.",
-    "hint": "这是：书写。"
+    "hint": "这是：书写。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3778",
@@ -68794,7 +71962,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a anymore.",
     "sentence": "This is a ___.",
-    "hint": "这是：（常用于否定句和疑问句末）再也（不）；（不）再。"
+    "hint": "这是：（常用于否定句和疑问句末）再也（不）；（不）再。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3779",
@@ -68807,7 +71976,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a approve.",
     "sentence": "This is a ___.",
-    "hint": "这是：批准。"
+    "hint": "这是：批准。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3780",
@@ -68820,7 +71990,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a deny.",
     "sentence": "This is a ___.",
-    "hint": "这是：否认。"
+    "hint": "这是：否认。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3781",
@@ -68833,7 +72004,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a physician.",
     "sentence": "This is a ___.",
-    "hint": "这是：内科医生。"
+    "hint": "这是：内科医生。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3782",
@@ -68846,7 +72018,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a lawyer.",
     "sentence": "This is a ___.",
-    "hint": "这是：律师。"
+    "hint": "这是：律师。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3783",
@@ -68859,7 +72032,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a constitution.",
     "sentence": "This is a ___.",
-    "hint": "这是：宪法。"
+    "hint": "这是：宪法。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3784",
@@ -68872,7 +72046,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a guideline.",
     "sentence": "This is a ___.",
-    "hint": "这是：指南。"
+    "hint": "这是：指南。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3785",
@@ -68885,7 +72060,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a plot.",
     "sentence": "This is a ___.",
-    "hint": "这是：情节。"
+    "hint": "这是：情节。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3786",
@@ -68898,7 +72074,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a domain.",
     "sentence": "This is a ___.",
-    "hint": "这是：领域。"
+    "hint": "这是：领域。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3787",
@@ -68911,7 +72088,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a boundary.",
     "sentence": "This is a ___.",
-    "hint": "这是：分界线；边界。"
+    "hint": "这是：分界线；边界。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3788",
@@ -68924,7 +72102,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a motor.",
     "sentence": "This is a ___.",
-    "hint": "这是：发动机。"
+    "hint": "这是：发动机。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3789",
@@ -68937,7 +72116,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a backpack.",
     "sentence": "This is a ___.",
-    "hint": "这是：背包。"
+    "hint": "这是：背包。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3790",
@@ -68950,7 +72130,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a software.",
     "sentence": "This is a ___.",
-    "hint": "这是：软件。"
+    "hint": "这是：软件。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3791",
@@ -68963,7 +72144,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cotton.",
     "sentence": "This is a ___.",
-    "hint": "这是：棉；棉花。"
+    "hint": "这是：棉；棉花。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3792",
@@ -68976,7 +72158,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dragon.",
     "sentence": "This is a ___.",
-    "hint": "这是：龙。"
+    "hint": "这是：龙。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3793",
@@ -68989,7 +72172,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a hen.",
     "sentence": "This is a ___.",
-    "hint": "这是：母鸡。"
+    "hint": "这是：母鸡。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3794",
@@ -69002,7 +72186,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a compose.",
     "sentence": "This is a ___.",
-    "hint": "这是：组成。"
+    "hint": "这是：组成。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3795",
@@ -69015,7 +72200,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a drag.",
     "sentence": "This is a ___.",
-    "hint": "这是：拖曳。"
+    "hint": "这是：拖曳。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3796",
@@ -69028,7 +72214,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a bounce.",
     "sentence": "This is a ___.",
-    "hint": "这是：(球)弹起。"
+    "hint": "这是：(球)弹起。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3797",
@@ -69041,7 +72228,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is addict.",
     "sentence": "It is ___.",
-    "hint": "它是：吸毒成瘾的人。"
+    "hint": "它是：吸毒成瘾的人。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3798",
@@ -69054,7 +72242,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a golf.",
     "sentence": "This is a ___.",
-    "hint": "这是：高尔夫球运动。"
+    "hint": "这是：高尔夫球运动。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3799",
@@ -69067,7 +72256,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cap.",
     "sentence": "This is a ___.",
-    "hint": "这是：帽子。"
+    "hint": "这是：帽子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3800",
@@ -69080,7 +72270,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a calligraphy.",
     "sentence": "This is a ___.",
-    "hint": "这是：书法。"
+    "hint": "这是：书法。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3801",
@@ -69093,7 +72284,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is urgent.",
     "sentence": "It is ___.",
-    "hint": "它是：紧急的，急迫的。"
+    "hint": "它是：紧急的，急迫的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3802",
@@ -69106,7 +72298,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is poisonous.",
     "sentence": "It is ___.",
-    "hint": "它是：引起中毒的。"
+    "hint": "它是：引起中毒的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3803",
@@ -69119,7 +72312,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a garlic.",
     "sentence": "This is a ___.",
-    "hint": "这是：蒜。"
+    "hint": "这是：蒜。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3804",
@@ -69132,7 +72326,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a garage.",
     "sentence": "This is a ___.",
-    "hint": "这是：停车房；车库。"
+    "hint": "这是：停车房；车库。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3805",
@@ -69145,7 +72340,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a gender.",
     "sentence": "This is a ___.",
-    "hint": "这是：性别。"
+    "hint": "这是：性别。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3806",
@@ -69158,7 +72354,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a toilet.",
     "sentence": "This is a ___.",
-    "hint": "这是：厕所，洗手间。"
+    "hint": "这是：厕所，洗手间。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3807",
@@ -69171,7 +72368,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a coin.",
     "sentence": "This is a ___.",
-    "hint": "这是：硬币。"
+    "hint": "这是：硬币。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3808",
@@ -69184,7 +72382,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is internal.",
     "sentence": "It is ___.",
-    "hint": "它是：内部的。"
+    "hint": "它是：内部的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3809",
@@ -69197,7 +72396,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "This is a virtue.",
     "sentence": "This is a ___.",
-    "hint": "这是：美德。"
+    "hint": "这是：美德。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3810",
@@ -69210,7 +72410,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a anyhow.",
     "sentence": "This is a ___.",
-    "hint": "这是：无论如何。"
+    "hint": "这是：无论如何。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3811",
@@ -69223,7 +72424,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a anytime.",
     "sentence": "This is a ___.",
-    "hint": "这是：在任何时候；随便什么时候。"
+    "hint": "这是：在任何时候；随便什么时候。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3812",
@@ -69236,7 +72438,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cartoon.",
     "sentence": "This is a ___.",
-    "hint": "这是：漫画。"
+    "hint": "这是：漫画。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3813",
@@ -69249,7 +72452,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a thread.",
     "sentence": "This is a ___.",
-    "hint": "这是：细丝。"
+    "hint": "这是：细丝。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3814",
@@ -69262,7 +72466,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cloth.",
     "sentence": "This is a ___.",
-    "hint": "这是：布；布料。"
+    "hint": "这是：布；布料。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3815",
@@ -69275,7 +72480,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a jacket.",
     "sentence": "This is a ___.",
-    "hint": "这是：夹克衫。"
+    "hint": "这是：夹克衫。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3816",
@@ -69288,7 +72494,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dominate.",
     "sentence": "This is a ___.",
-    "hint": "这是：支配。"
+    "hint": "这是：支配。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3817",
@@ -69301,7 +72508,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dimension.",
     "sentence": "This is a ___.",
-    "hint": "这是：尺寸；尺度；［数］维。"
+    "hint": "这是：尺寸；尺度；［数］维。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3818",
@@ -69314,7 +72522,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a comprise.",
     "sentence": "This is a ___.",
-    "hint": "这是：包含。"
+    "hint": "这是：包含。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3819",
@@ -69327,7 +72536,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a arrest.",
     "sentence": "This is a ___.",
-    "hint": "这是：逮捕。"
+    "hint": "这是：逮捕。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3820",
@@ -69340,7 +72550,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wrap.",
     "sentence": "This is a ___.",
-    "hint": "这是：包裹。"
+    "hint": "这是：包裹。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3821",
@@ -69353,7 +72564,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a liberty.",
     "sentence": "This is a ___.",
-    "hint": "这是：自由。"
+    "hint": "这是：自由。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3822",
@@ -69366,7 +72578,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a candle.",
     "sentence": "This is a ___.",
-    "hint": "这是：蜡烛。"
+    "hint": "这是：蜡烛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3823",
@@ -69379,7 +72592,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a firework.",
     "sentence": "This is a ___.",
-    "hint": "这是：烟火；烟花。"
+    "hint": "这是：烟火；烟花。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3824",
@@ -69392,7 +72606,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a calendar.",
     "sentence": "This is a ___.",
-    "hint": "这是：日历。"
+    "hint": "这是：日历。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3825",
@@ -69405,7 +72620,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a carve.",
     "sentence": "This is a ___.",
-    "hint": "这是：刻，雕刻。"
+    "hint": "这是：刻，雕刻。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3826",
@@ -69418,7 +72634,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a inspect.",
     "sentence": "This is a ___.",
-    "hint": "这是：检查。"
+    "hint": "这是：检查。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3827",
@@ -69431,7 +72648,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cast.",
     "sentence": "This is a ___.",
-    "hint": "这是：演员表。"
+    "hint": "这是：演员表。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3828",
@@ -69444,7 +72662,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a bid.",
     "sentence": "This is a ___.",
-    "hint": "这是：出价；投标；祝愿。"
+    "hint": "这是：出价；投标；祝愿。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3829",
@@ -69457,7 +72676,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a hook.",
     "sentence": "This is a ___.",
-    "hint": "这是：钩。"
+    "hint": "这是：钩。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3830",
@@ -69470,7 +72690,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a hero.",
     "sentence": "This is a ___.",
-    "hint": "这是：英雄。"
+    "hint": "这是：英雄。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3831",
@@ -69483,7 +72704,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a politician.",
     "sentence": "This is a ___.",
-    "hint": "这是：从政者；政治家。"
+    "hint": "这是：从政者；政治家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3832",
@@ -69496,7 +72718,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a forehead.",
     "sentence": "This is a ___.",
-    "hint": "这是：前额。"
+    "hint": "这是：前额。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3833",
@@ -69509,7 +72732,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ache.",
     "sentence": "This is a ___.",
-    "hint": "这是：痛；疼痛。"
+    "hint": "这是：痛；疼痛。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3834",
@@ -69522,7 +72746,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a drama.",
     "sentence": "This is a ___.",
-    "hint": "这是：戏剧。"
+    "hint": "这是：戏剧。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3835",
@@ -69535,7 +72760,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a blog.",
     "sentence": "This is a ___.",
-    "hint": "这是：博客。"
+    "hint": "这是：博客。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3836",
@@ -69548,7 +72774,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a curriculum.",
     "sentence": "This is a ___.",
-    "hint": "这是：课程。"
+    "hint": "这是：课程。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3837",
@@ -69561,7 +72788,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fault.",
     "sentence": "This is a ___.",
-    "hint": "这是：过失；缺点。"
+    "hint": "这是：过失；缺点。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3838",
@@ -69574,7 +72802,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can depress.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使沮丧。"
+    "hint": "我会/可以：使沮丧。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3839",
@@ -69587,7 +72816,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is passive.",
     "sentence": "It is ___.",
-    "hint": "它是：消极的。"
+    "hint": "它是：消极的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3840",
@@ -69600,7 +72830,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is endless.",
     "sentence": "It is ___.",
-    "hint": "它是：无尽的。"
+    "hint": "它是：无尽的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3841",
@@ -69613,7 +72844,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a frank.",
     "sentence": "This is a ___.",
-    "hint": "这是：弗兰克(男名)。"
+    "hint": "这是：弗兰克(男名)。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3842",
@@ -69626,7 +72858,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is explicit.",
     "sentence": "It is ___.",
-    "hint": "它是：明确的。"
+    "hint": "它是：明确的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3843",
@@ -69639,7 +72872,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is unfortunate.",
     "sentence": "It is ___.",
-    "hint": "它是：不幸的。"
+    "hint": "它是：不幸的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3844",
@@ -69652,7 +72886,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fluent.",
     "sentence": "This is a ___.",
-    "hint": "这是：流利。"
+    "hint": "这是：流利。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3845",
@@ -69665,7 +72900,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "It is gifted.",
     "sentence": "It is ___.",
-    "hint": "它是：有天才的。"
+    "hint": "它是：有天才的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3846",
@@ -69678,7 +72914,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a flavour.",
     "sentence": "This is a ___.",
-    "hint": "这是：味道。"
+    "hint": "这是：味道。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3847",
@@ -69691,7 +72928,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a election.",
     "sentence": "This is a ___.",
-    "hint": "这是：选举。"
+    "hint": "这是：选举。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3848",
@@ -69704,7 +72942,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a devotion.",
     "sentence": "This is a ___.",
-    "hint": "这是：关爱；奉献；忠诚。"
+    "hint": "这是：关爱；奉献；忠诚。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3849",
@@ -69717,7 +72956,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a discipline.",
     "sentence": "This is a ___.",
-    "hint": "这是：纪律，风纪。"
+    "hint": "这是：纪律，风纪。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3850",
@@ -69730,7 +72970,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a circulate.",
     "sentence": "This is a ___.",
-    "hint": "这是：注入，环流。"
+    "hint": "这是：注入，环流。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3851",
@@ -69743,7 +72984,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a disk.",
     "sentence": "This is a ___.",
-    "hint": "这是：光盘。"
+    "hint": "这是：光盘。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3852",
@@ -69756,7 +72998,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a shark.",
     "sentence": "This is a ___.",
-    "hint": "这是：鲨鱼。"
+    "hint": "这是：鲨鱼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3853",
@@ -69769,7 +73012,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cheek.",
     "sentence": "This is a ___.",
-    "hint": "这是：面颊，脸蛋。"
+    "hint": "这是：面颊，脸蛋。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3854",
@@ -69782,7 +73026,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a badminton.",
     "sentence": "This is a ___.",
-    "hint": "这是：羽毛球运动。"
+    "hint": "这是：羽毛球运动。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3855",
@@ -69795,7 +73040,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a union.",
     "sentence": "This is a ___.",
-    "hint": "这是：联邦；协会。"
+    "hint": "这是：联邦；协会。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3856",
@@ -69808,7 +73054,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a gun.",
     "sentence": "This is a ___.",
-    "hint": "这是：枪；炮。"
+    "hint": "这是：枪；炮。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3857",
@@ -69821,7 +73068,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ward.",
     "sentence": "This is a ___.",
-    "hint": "这是：病房。"
+    "hint": "这是：病房。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3858",
@@ -69834,7 +73082,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a port.",
     "sentence": "This is a ___.",
-    "hint": "这是：港，港口。"
+    "hint": "这是：港，港口。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3859",
@@ -69847,7 +73096,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a arch.",
     "sentence": "This is a ___.",
-    "hint": "这是：拱。"
+    "hint": "这是：拱。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3860",
@@ -69860,7 +73110,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a rope.",
     "sentence": "This is a ___.",
-    "hint": "这是：绳子；绳索。"
+    "hint": "这是：绳子；绳索。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3861",
@@ -69873,7 +73124,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a china.",
     "sentence": "This is a ___.",
-    "hint": "这是：中国。"
+    "hint": "这是：中国。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3862",
@@ -69886,7 +73138,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a jar.",
     "sentence": "This is a ___.",
-    "hint": "这是：广口瓶；罐子。"
+    "hint": "这是：广口瓶；罐子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3863",
@@ -69899,7 +73152,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is raw.",
     "sentence": "It is ___.",
-    "hint": "它是：未经加工的。"
+    "hint": "它是：未经加工的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3864",
@@ -69912,7 +73166,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "I can choke.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：使窒息。"
+    "hint": "我会/可以：使窒息。",
+    "rawPos": "动词"
   },
   {
     "id": "high-3865",
@@ -69925,7 +73180,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a beer.",
     "sentence": "This is a ___.",
-    "hint": "这是：啤酒。"
+    "hint": "这是：啤酒。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3866",
@@ -69938,7 +73194,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a turkey.",
     "sentence": "This is a ___.",
-    "hint": "这是：土耳其。"
+    "hint": "这是：土耳其。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3867",
@@ -69951,7 +73208,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bacon.",
     "sentence": "This is a ___.",
-    "hint": "这是：咸肉，熏肉。"
+    "hint": "这是：咸肉，熏肉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3868",
@@ -69964,7 +73222,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bang.",
     "sentence": "This is a ___.",
-    "hint": "这是：猛敲。"
+    "hint": "这是：猛敲。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3869",
@@ -69977,7 +73236,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a pepper.",
     "sentence": "This is a ___.",
-    "hint": "这是：甜椒,灯笼椒,柿子椒。"
+    "hint": "这是：甜椒,灯笼椒,柿子椒。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3870",
@@ -69990,7 +73250,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ant.",
     "sentence": "This is a ___.",
-    "hint": "这是：蚂蚁。"
+    "hint": "这是：蚂蚁。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3871",
@@ -70003,7 +73264,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fox.",
     "sentence": "This is a ___.",
-    "hint": "这是：狐狸。"
+    "hint": "这是：狐狸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3872",
@@ -70016,7 +73278,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bark.",
     "sentence": "This is a ___.",
-    "hint": "这是：狗吠。"
+    "hint": "这是：狗吠。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3873",
@@ -70029,7 +73292,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "It is wool.",
     "sentence": "It is ___.",
-    "hint": "它是：（羊等动物的）毛。"
+    "hint": "它是：（羊等动物的）毛。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3874",
@@ -70042,7 +73306,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a spoon.",
     "sentence": "This is a ___.",
-    "hint": "这是：勺。"
+    "hint": "这是：勺。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3875",
@@ -70055,7 +73320,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a envelop.",
     "sentence": "This is a ___.",
-    "hint": "这是：包住。"
+    "hint": "这是：包住。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3876",
@@ -70068,7 +73334,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bakery.",
     "sentence": "This is a ___.",
-    "hint": "这是：面包房，面包店。"
+    "hint": "这是：面包房，面包店。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3877",
@@ -70081,7 +73348,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a butter.",
     "sentence": "This is a ___.",
-    "hint": "这是：黄油；奶油。"
+    "hint": "这是：黄油；奶油。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3878",
@@ -70094,7 +73362,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a potato.",
     "sentence": "This is a ___.",
-    "hint": "这是：马铃薯；土豆。"
+    "hint": "这是：马铃薯；土豆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3879",
@@ -70107,7 +73376,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is glove.",
     "sentence": "It is ___.",
-    "hint": "它是：（分手指的）手套。"
+    "hint": "它是：（分手指的）手套。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3880",
@@ -70120,7 +73390,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fist.",
     "sentence": "This is a ___.",
-    "hint": "这是：拳。"
+    "hint": "这是：拳。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3881",
@@ -70133,7 +73404,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a boxing.",
     "sentence": "This is a ___.",
-    "hint": "这是：拳击（运动）。"
+    "hint": "这是：拳击（运动）。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3882",
@@ -70146,7 +73418,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a breast.",
     "sentence": "This is a ___.",
-    "hint": "这是：乳房。"
+    "hint": "这是：乳房。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3883",
@@ -70159,7 +73432,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a bow.",
     "sentence": "This is a ___.",
-    "hint": "这是：鞠躬，弯腰。"
+    "hint": "这是：鞠躬，弯腰。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3884",
@@ -70172,7 +73446,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a eyesight.",
     "sentence": "This is a ___.",
-    "hint": "这是：视力。"
+    "hint": "这是：视力。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3885",
@@ -70185,7 +73460,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a tune.",
     "sentence": "This is a ___.",
-    "hint": "这是：曲调。"
+    "hint": "这是：曲调。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3886",
@@ -70198,7 +73474,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is bless.",
     "sentence": "It is ___.",
-    "hint": "它是：祝福。"
+    "hint": "它是：祝福。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3887",
@@ -70211,7 +73488,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is botanical.",
     "sentence": "It is ___.",
-    "hint": "它是：植物的；植物学的。"
+    "hint": "它是：植物的；植物学的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3888",
@@ -70224,7 +73502,8 @@ window.VOCABULARY = [
     "category": "场所方位",
     "example": "This is a mushroom.",
     "sentence": "This is a ___.",
-    "hint": "这是：蘑菇。"
+    "hint": "这是：蘑菇。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3889",
@@ -70237,7 +73516,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a millionaire.",
     "sentence": "This is a ___.",
-    "hint": "这是：百万富翁。"
+    "hint": "这是：百万富翁。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3890",
@@ -70250,7 +73530,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a operator.",
     "sentence": "This is a ___.",
-    "hint": "这是：操作人员。"
+    "hint": "这是：操作人员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3891",
@@ -70263,7 +73544,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a album.",
     "sentence": "This is a ___.",
-    "hint": "这是：（收藏照片、邮票等）簿，册；唱片集；专辑。"
+    "hint": "这是：（收藏照片、邮票等）簿，册；唱片集；专辑。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3892",
@@ -70276,7 +73558,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a agenda.",
     "sentence": "This is a ___.",
-    "hint": "这是：议程。"
+    "hint": "这是：议程。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3893",
@@ -70289,7 +73572,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a poster.",
     "sentence": "This is a ___.",
-    "hint": "这是：海报。"
+    "hint": "这是：海报。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3894",
@@ -70302,7 +73586,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "It is mild.",
     "sentence": "It is ___.",
-    "hint": "它是：（天气）温暖的，暖和的。"
+    "hint": "它是：（天气）温暖的，暖和的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3895",
@@ -70315,7 +73600,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a symphony.",
     "sentence": "This is a ___.",
-    "hint": "这是：交响曲。"
+    "hint": "这是：交响曲。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3896",
@@ -70328,7 +73614,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a mature.",
     "sentence": "This is a ___.",
-    "hint": "这是：成熟。"
+    "hint": "这是：成熟。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3897",
@@ -70341,7 +73628,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cushion.",
     "sentence": "This is a ___.",
-    "hint": "这是：垫子。"
+    "hint": "这是：垫子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3898",
@@ -70354,7 +73642,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a brake.",
     "sentence": "This is a ___.",
-    "hint": "这是：刹车。"
+    "hint": "这是：刹车。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3899",
@@ -70367,7 +73656,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a leak.",
     "sentence": "This is a ___.",
-    "hint": "这是：漏；渗漏。"
+    "hint": "这是：漏；渗漏。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3900",
@@ -70380,7 +73670,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a subscribe.",
     "sentence": "This is a ___.",
-    "hint": "这是：订阅。"
+    "hint": "这是：订阅。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3901",
@@ -70393,7 +73684,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a insure.",
     "sentence": "This is a ___.",
-    "hint": "这是：投保。"
+    "hint": "这是：投保。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3902",
@@ -70406,7 +73698,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a arise.",
     "sentence": "This is a ___.",
-    "hint": "这是：发生。"
+    "hint": "这是：发生。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3903",
@@ -70419,7 +73712,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a import.",
     "sentence": "This is a ___.",
-    "hint": "这是：进口。"
+    "hint": "这是：进口。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3904",
@@ -70432,7 +73726,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a betray.",
     "sentence": "This is a ___.",
-    "hint": "这是：暴露，显露。"
+    "hint": "这是：暴露，显露。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3905",
@@ -70445,7 +73740,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is episode.",
     "sentence": "It is ___.",
-    "hint": "它是：（连续剧的）一集。"
+    "hint": "它是：（连续剧的）一集。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3906",
@@ -70458,7 +73754,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chart.",
     "sentence": "This is a ___.",
-    "hint": "这是：图表。"
+    "hint": "这是：图表。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3907",
@@ -70471,7 +73768,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is forgetful.",
     "sentence": "It is ___.",
-    "hint": "它是：健忘的。"
+    "hint": "它是：健忘的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3908",
@@ -70484,7 +73782,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is severe.",
     "sentence": "It is ___.",
-    "hint": "它是：极为恶劣的；十分严重的。"
+    "hint": "它是：极为恶劣的；十分严重的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3909",
@@ -70497,7 +73796,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fountain.",
     "sentence": "This is a ___.",
-    "hint": "这是：泉水，喷泉。"
+    "hint": "这是：泉水，喷泉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3910",
@@ -70510,7 +73810,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a smog.",
     "sentence": "This is a ___.",
-    "hint": "这是：烟雾。"
+    "hint": "这是：烟雾。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3911",
@@ -70523,7 +73824,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tape.",
     "sentence": "This is a ___.",
-    "hint": "这是：胶带。"
+    "hint": "这是：胶带。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3912",
@@ -70536,7 +73838,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a league.",
     "sentence": "This is a ___.",
-    "hint": "这是：社团。"
+    "hint": "这是：社团。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3913",
@@ -70549,7 +73852,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a liberation.",
     "sentence": "This is a ___.",
-    "hint": "这是：解放。"
+    "hint": "这是：解放。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3914",
@@ -70562,7 +73866,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bowling.",
     "sentence": "This is a ___.",
-    "hint": "这是：保龄球。"
+    "hint": "这是：保龄球。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3915",
@@ -70575,7 +73880,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is backward.",
     "sentence": "It is ___.",
-    "hint": "它是：落后的。"
+    "hint": "它是：落后的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3916",
@@ -70588,7 +73894,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a bound.",
     "sentence": "This is a ___.",
-    "hint": "这是：跳跃。"
+    "hint": "这是：跳跃。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3917",
@@ -70601,7 +73908,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a coincidence.",
     "sentence": "This is a ___.",
-    "hint": "这是：巧合。"
+    "hint": "这是：巧合。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3918",
@@ -70614,7 +73922,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "hers is my friend.",
     "sentence": "___ is my friend.",
-    "hint": "选择代词：她的。"
+    "hint": "选择代词：她的。",
+    "rawPos": "代词"
   },
   {
     "id": "high-3919",
@@ -70627,7 +73936,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a kilo.",
     "sentence": "This is a ___.",
-    "hint": "这是：千克。"
+    "hint": "这是：千克。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3920",
@@ -70640,7 +73950,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dawn.",
     "sentence": "This is a ___.",
-    "hint": "这是：黎明。"
+    "hint": "这是：黎明。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3921",
@@ -70653,7 +73964,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs geography.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地理。"
+    "hint": "这里需要表示：地理。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3922",
@@ -70666,7 +73978,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a geometry.",
     "sentence": "This is a ___.",
-    "hint": "这是：几何学。"
+    "hint": "这是：几何学。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3923",
@@ -70679,7 +73992,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is portable.",
     "sentence": "It is ___.",
-    "hint": "它是：轻便的,便于携带的。"
+    "hint": "它是：轻便的,便于携带的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3924",
@@ -70692,7 +74006,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a telescope.",
     "sentence": "This is a ___.",
-    "hint": "这是：望远镜。"
+    "hint": "这是：望远镜。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3925",
@@ -70705,7 +74020,8 @@ window.VOCABULARY = [
     "category": "场所方位",
     "example": "This is a bridegroom.",
     "sentence": "This is a ___.",
-    "hint": "这是：新郎。"
+    "hint": "这是：新郎。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3926",
@@ -70718,7 +74034,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "It is twentieth.",
     "sentence": "It is ___.",
-    "hint": "它是：第二十（的）。"
+    "hint": "它是：第二十（的）。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3927",
@@ -70731,7 +74048,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs approximately.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：大约。"
+    "hint": "这里需要表示：大约。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3928",
@@ -70744,7 +74062,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is bare.",
     "sentence": "It is ___.",
-    "hint": "它是：赤裸的；空荡的。"
+    "hint": "它是：赤裸的；空荡的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3929",
@@ -70757,7 +74076,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs barely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：仅仅。"
+    "hint": "这里需要表示：仅仅。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3930",
@@ -70770,7 +74090,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a grape.",
     "sentence": "This is a ___.",
-    "hint": "这是：葡萄；葡萄藤。"
+    "hint": "这是：葡萄；葡萄藤。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3931",
@@ -70783,7 +74104,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cuisine.",
     "sentence": "This is a ___.",
-    "hint": "这是：烹饪。"
+    "hint": "这是：烹饪。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3932",
@@ -70796,7 +74118,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a canteen.",
     "sentence": "This is a ___.",
-    "hint": "这是：食堂，餐厅。"
+    "hint": "这是：食堂，餐厅。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3933",
@@ -70809,7 +74132,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cooker.",
     "sentence": "This is a ___.",
-    "hint": "这是：厨灶；炉具。"
+    "hint": "这是：厨灶；炉具。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3934",
@@ -70822,7 +74146,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wheat.",
     "sentence": "This is a ___.",
-    "hint": "这是：麦子。"
+    "hint": "这是：麦子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3935",
@@ -70835,7 +74160,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a eggplant.",
     "sentence": "This is a ___.",
-    "hint": "这是：茄子。"
+    "hint": "这是：茄子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3936",
@@ -70848,7 +74174,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a buffet.",
     "sentence": "This is a ___.",
-    "hint": "这是：快餐；自助餐。"
+    "hint": "这是：快餐；自助餐。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3937",
@@ -70861,7 +74188,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a nut.",
     "sentence": "This is a ___.",
-    "hint": "这是：坚果。"
+    "hint": "这是：坚果。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3938",
@@ -70874,7 +74202,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a chew.",
     "sentence": "This is a ___.",
-    "hint": "这是：咀嚼。"
+    "hint": "这是：咀嚼。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3939",
@@ -70887,7 +74216,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is acid.",
     "sentence": "It is ___.",
-    "hint": "它是：酸的。"
+    "hint": "它是：酸的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3940",
@@ -70900,7 +74230,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bean.",
     "sentence": "This is a ___.",
-    "hint": "这是：豆。"
+    "hint": "这是：豆。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3941",
@@ -70913,7 +74244,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a gentleman.",
     "sentence": "This is a ___.",
-    "hint": "这是：先生。"
+    "hint": "这是：先生。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3942",
@@ -70926,7 +74258,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a saleswoman.",
     "sentence": "This is a ___.",
-    "hint": "这是：女售货员。"
+    "hint": "这是：女售货员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3943",
@@ -70939,7 +74272,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a collar.",
     "sentence": "This is a ___.",
-    "hint": "这是：衣领。"
+    "hint": "这是：衣领。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3944",
@@ -70952,7 +74286,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sweater.",
     "sentence": "This is a ___.",
-    "hint": "这是：毛衣。"
+    "hint": "这是：毛衣。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3945",
@@ -70965,7 +74300,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a blouse.",
     "sentence": "This is a ___.",
-    "hint": "这是：（女）衬衫；短上衣。"
+    "hint": "这是：（女）衬衫；短上衣。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3946",
@@ -70978,7 +74314,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a sock.",
     "sentence": "This is a ___.",
-    "hint": "这是：短袜。"
+    "hint": "这是：短袜。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3947",
@@ -70991,7 +74328,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fabric.",
     "sentence": "This is a ___.",
-    "hint": "这是：织物。"
+    "hint": "这是：织物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3948",
@@ -71004,7 +74342,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a flash.",
     "sentence": "This is a ___.",
-    "hint": "这是：闪光灯；闪光。"
+    "hint": "这是：闪光灯；闪光。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3949",
@@ -71017,7 +74356,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a flashlight.",
     "sentence": "This is a ___.",
-    "hint": "这是：手电筒。"
+    "hint": "这是：手电筒。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3950",
@@ -71030,7 +74370,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a booth.",
     "sentence": "This is a ___.",
-    "hint": "这是：售货棚。"
+    "hint": "这是：售货棚。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3951",
@@ -71043,7 +74384,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a gate.",
     "sentence": "This is a ___.",
-    "hint": "这是：大门。"
+    "hint": "这是：大门。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3952",
@@ -71056,7 +74398,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a courtyard.",
     "sentence": "This is a ___.",
-    "hint": "这是：院子。"
+    "hint": "这是：院子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3953",
@@ -71069,7 +74412,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a aboard.",
     "sentence": "This is a ___.",
-    "hint": "这是：在船上。"
+    "hint": "这是：在船上。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3954",
@@ -71082,7 +74426,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a clinic.",
     "sentence": "This is a ___.",
-    "hint": "这是：诊所。"
+    "hint": "这是：诊所。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3955",
@@ -71095,7 +74440,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tank.",
     "sentence": "This is a ___.",
-    "hint": "这是：缸；罐。"
+    "hint": "这是：缸；罐。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3956",
@@ -71108,7 +74454,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a atom.",
     "sentence": "This is a ___.",
-    "hint": "这是：原子。"
+    "hint": "这是：原子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3957",
@@ -71121,7 +74468,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a pencil.",
     "sentence": "This is a ___.",
-    "hint": "这是：铅笔。"
+    "hint": "这是：铅笔。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3958",
@@ -71134,7 +74482,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a parcel.",
     "sentence": "This is a ___.",
-    "hint": "这是：包裹。"
+    "hint": "这是：包裹。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3959",
@@ -71147,7 +74496,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a boycott.",
     "sentence": "This is a ___.",
-    "hint": "这是：抵制。"
+    "hint": "这是：抵制。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3960",
@@ -71160,7 +74510,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a polish.",
     "sentence": "This is a ___.",
-    "hint": "这是：磨光；修改；润色。"
+    "hint": "这是：磨光；修改；润色。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3961",
@@ -71173,7 +74524,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a glare.",
     "sentence": "This is a ___.",
-    "hint": "这是：怒目而视。"
+    "hint": "这是：怒目而视。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3962",
@@ -71186,7 +74538,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a relay.",
     "sentence": "This is a ___.",
-    "hint": "这是：转发。"
+    "hint": "这是：转发。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3963",
@@ -71199,7 +74552,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pardon.",
     "sentence": "This is a ___.",
-    "hint": "这是：原谅。"
+    "hint": "这是：原谅。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3964",
@@ -71212,7 +74566,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a abuse.",
     "sentence": "This is a ___.",
-    "hint": "这是：辱骂，责骂。"
+    "hint": "这是：辱骂，责骂。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3965",
@@ -71225,7 +74580,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a fetch.",
     "sentence": "This is a ___.",
-    "hint": "这是：(去)取来；拿来。"
+    "hint": "这是：(去)取来；拿来。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3966",
@@ -71238,7 +74594,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a accuse.",
     "sentence": "This is a ___.",
-    "hint": "这是：控告；控诉。"
+    "hint": "这是：控告；控诉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3967",
@@ -71251,7 +74608,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I have fasten books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：系上。"
+    "hint": "数量是：系上。",
+    "rawPos": "数词"
   },
   {
     "id": "high-3968",
@@ -71264,7 +74622,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a plug.",
     "sentence": "This is a ___.",
-    "hint": "这是：插头。"
+    "hint": "这是：插头。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3969",
@@ -71277,7 +74636,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is guilty.",
     "sentence": "It is ___.",
-    "hint": "它是：有罪的；心虚的；内疚的。"
+    "hint": "它是：有罪的；心虚的；内疚的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3970",
@@ -71290,7 +74650,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is harmonious.",
     "sentence": "It is ___.",
-    "hint": "它是：友好和睦的。"
+    "hint": "它是：友好和睦的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3971",
@@ -71303,7 +74664,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is initiative.",
     "sentence": "It is ___.",
-    "hint": "它是：主动，积极性。"
+    "hint": "它是：主动，积极性。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3972",
@@ -71316,7 +74678,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is incredible.",
     "sentence": "It is ___.",
-    "hint": "它是：难以置信的。"
+    "hint": "它是：难以置信的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3973",
@@ -71329,7 +74692,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is controversial.",
     "sentence": "It is ___.",
-    "hint": "它是：引起争论的。"
+    "hint": "它是：引起争论的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3974",
@@ -71342,7 +74706,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is fragile.",
     "sentence": "It is ___.",
-    "hint": "它是：易碎的。"
+    "hint": "它是：易碎的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3975",
@@ -71355,7 +74720,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs earthquake.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地震。"
+    "hint": "这里需要表示：地震。",
+    "rawPos": "副词"
   },
   {
     "id": "high-3976",
@@ -71368,7 +74734,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a mud.",
     "sentence": "This is a ___.",
-    "hint": "这是：泥。"
+    "hint": "这是：泥。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3977",
@@ -71381,7 +74748,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a collision.",
     "sentence": "This is a ___.",
-    "hint": "这是：碰撞。"
+    "hint": "这是：碰撞。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3978",
@@ -71394,7 +74762,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a southwest.",
     "sentence": "This is a ___.",
-    "hint": "这是：西南。"
+    "hint": "这是：西南。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3979",
@@ -71407,7 +74776,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "This is a preference.",
     "sentence": "This is a ___.",
-    "hint": "这是：偏爱；喜爱。"
+    "hint": "这是：偏爱；喜爱。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3980",
@@ -71420,7 +74790,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wage.",
     "sentence": "This is a ___.",
-    "hint": "这是：进行(斗争)。"
+    "hint": "这是：进行(斗争)。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3981",
@@ -71433,7 +74804,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a receipt.",
     "sentence": "This is a ___.",
-    "hint": "这是：收据。"
+    "hint": "这是：收据。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3982",
@@ -71446,7 +74818,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a withdraw.",
     "sentence": "This is a ___.",
-    "hint": "这是：提取。"
+    "hint": "这是：提取。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3983",
@@ -71459,7 +74832,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is corporate.",
     "sentence": "It is ___.",
-    "hint": "它是：公司的。"
+    "hint": "它是：公司的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3984",
@@ -71472,7 +74846,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a volleyball.",
     "sentence": "This is a ___.",
-    "hint": "这是：排球。"
+    "hint": "这是：排球。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3985",
@@ -71485,7 +74860,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a lawn.",
     "sentence": "This is a ___.",
-    "hint": "这是：草坪。"
+    "hint": "这是：草坪。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3986",
@@ -71498,7 +74874,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a theft.",
     "sentence": "This is a ___.",
-    "hint": "这是：偷窃。"
+    "hint": "这是：偷窃。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3987",
@@ -71511,7 +74888,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is ample.",
     "sentence": "It is ___.",
-    "hint": "它是：充足的。"
+    "hint": "它是：充足的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3988",
@@ -71524,7 +74902,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is clumsy.",
     "sentence": "It is ___.",
-    "hint": "它是：笨拙的。"
+    "hint": "它是：笨拙的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3989",
@@ -71537,7 +74916,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is hopeless.",
     "sentence": "It is ___.",
-    "hint": "它是：无望的。"
+    "hint": "它是：无望的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3990",
@@ -71550,7 +74930,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a consultant.",
     "sentence": "This is a ___.",
-    "hint": "这是：顾问。"
+    "hint": "这是：顾问。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3991",
@@ -71563,7 +74944,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a consultation.",
     "sentence": "This is a ___.",
-    "hint": "这是：咨询。"
+    "hint": "这是：咨询。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3992",
@@ -71576,7 +74958,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a negotiate.",
     "sentence": "This is a ___.",
-    "hint": "这是：谈判。"
+    "hint": "这是：谈判。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3993",
@@ -71589,7 +74972,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a summary.",
     "sentence": "This is a ___.",
-    "hint": "这是：总结，摘要。"
+    "hint": "这是：总结，摘要。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3994",
@@ -71602,7 +74986,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is noble.",
     "sentence": "It is ___.",
-    "hint": "它是：高贵的。"
+    "hint": "它是：高贵的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3995",
@@ -71615,7 +75000,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a kingdom.",
     "sentence": "This is a ___.",
-    "hint": "这是：王国；管辖范围；领域。"
+    "hint": "这是：王国；管辖范围；领域。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3996",
@@ -71628,7 +75014,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a weep.",
     "sentence": "This is a ___.",
-    "hint": "这是：哭泣。"
+    "hint": "这是：哭泣。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3997",
@@ -71641,7 +75028,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is facial.",
     "sentence": "It is ___.",
-    "hint": "它是：面部的。"
+    "hint": "它是：面部的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-3998",
@@ -71654,7 +75042,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a niece.",
     "sentence": "This is a ___.",
-    "hint": "这是：外甥女；侄女。"
+    "hint": "这是：外甥女；侄女。",
+    "rawPos": "名词"
   },
   {
     "id": "high-3999",
@@ -71667,7 +75056,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "I can ambassador.",
     "sentence": "I can ___.",
-    "hint": "我会/可以：大使。"
+    "hint": "我会/可以：大使。",
+    "rawPos": "动词"
   },
   {
     "id": "high-4000",
@@ -71680,7 +75070,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a madam.",
     "sentence": "This is a ___.",
-    "hint": "这是：女士。"
+    "hint": "这是：女士。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4001",
@@ -71693,7 +75084,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a physics.",
     "sentence": "This is a ___.",
-    "hint": "这是：物理学。"
+    "hint": "这是：物理学。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4002",
@@ -71706,7 +75098,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a eraser.",
     "sentence": "This is a ___.",
-    "hint": "这是：橡皮。"
+    "hint": "这是：橡皮。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4003",
@@ -71719,7 +75112,8 @@ window.VOCABULARY = [
     "category": "学习用品",
     "example": "This is a ruler.",
     "sentence": "This is a ___.",
-    "hint": "这是：尺子。"
+    "hint": "这是：尺子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4004",
@@ -71732,7 +75126,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a column.",
     "sentence": "This is a ___.",
-    "hint": "这是：栏，列。"
+    "hint": "这是：栏，列。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4005",
@@ -71745,7 +75140,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a dot.",
     "sentence": "This is a ___.",
-    "hint": "这是：点。"
+    "hint": "这是：点。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4006",
@@ -71758,7 +75154,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chalk.",
     "sentence": "This is a ___.",
-    "hint": "这是：粉笔。"
+    "hint": "这是：粉笔。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4007",
@@ -71771,7 +75168,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a weed.",
     "sentence": "This is a ___.",
-    "hint": "这是：给……除去杂草。"
+    "hint": "这是：给……除去杂草。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4008",
@@ -71784,7 +75182,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a trunk.",
     "sentence": "This is a ___.",
-    "hint": "这是：象鼻。"
+    "hint": "这是：象鼻。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4009",
@@ -71797,7 +75196,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ash.",
     "sentence": "This is a ___.",
-    "hint": "这是：灰，灰烬。"
+    "hint": "这是：灰，灰烬。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4010",
@@ -71810,7 +75210,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a arrow.",
     "sentence": "This is a ___.",
-    "hint": "这是：箭。"
+    "hint": "这是：箭。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4011",
@@ -71823,7 +75224,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a circuit.",
     "sentence": "This is a ___.",
-    "hint": "这是：线路，电路。"
+    "hint": "这是：线路，电路。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4012",
@@ -71836,7 +75238,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a net.",
     "sentence": "This is a ___.",
-    "hint": "这是：网。"
+    "hint": "这是：网。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4013",
@@ -71849,7 +75252,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a council.",
     "sentence": "This is a ___.",
-    "hint": "这是：委员会；议会。"
+    "hint": "这是：委员会；议会。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4014",
@@ -71862,7 +75266,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a glory.",
     "sentence": "This is a ___.",
-    "hint": "这是：荣誉，光荣；赞美。"
+    "hint": "这是：荣誉，光荣；赞美。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4015",
@@ -71875,7 +75280,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is exceptional.",
     "sentence": "It is ___.",
-    "hint": "它是：异常。"
+    "hint": "它是：异常。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4016",
@@ -71888,7 +75294,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a breakthrough.",
     "sentence": "This is a ___.",
-    "hint": "这是：重大进展。"
+    "hint": "这是：重大进展。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4017",
@@ -71901,7 +75308,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is genuine.",
     "sentence": "It is ___.",
-    "hint": "它是：真正的。"
+    "hint": "它是：真正的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4018",
@@ -71914,7 +75322,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a applaud.",
     "sentence": "This is a ___.",
-    "hint": "这是：鼓掌。"
+    "hint": "这是：鼓掌。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4019",
@@ -71927,7 +75336,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a rainbow.",
     "sentence": "This is a ___.",
-    "hint": "这是：彩虹。"
+    "hint": "这是：彩虹。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4020",
@@ -71940,7 +75350,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a shadow.",
     "sentence": "This is a ___.",
-    "hint": "这是：阴影；影子。"
+    "hint": "这是：阴影；影子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4021",
@@ -71953,7 +75364,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is arbitrary.",
     "sentence": "It is ___.",
-    "hint": "它是：任意的。"
+    "hint": "它是：任意的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4022",
@@ -71966,7 +75378,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is consistent.",
     "sentence": "It is ___.",
-    "hint": "它是：一致的。"
+    "hint": "它是：一致的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4023",
@@ -71979,7 +75392,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dynamic.",
     "sentence": "This is a ___.",
-    "hint": "这是：动态。"
+    "hint": "这是：动态。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4024",
@@ -71992,7 +75406,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is external.",
     "sentence": "It is ___.",
-    "hint": "它是：外部的。"
+    "hint": "它是：外部的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4025",
@@ -72005,7 +75420,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a county.",
     "sentence": "This is a ___.",
-    "hint": "这是：县。"
+    "hint": "这是：县。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4026",
@@ -72018,7 +75434,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a housing.",
     "sentence": "This is a ___.",
-    "hint": "这是：住房。"
+    "hint": "这是：住房。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4027",
@@ -72031,7 +75448,8 @@ window.VOCABULARY = [
     "category": "饮食生活",
     "example": "This is a kettle.",
     "sentence": "This is a ___.",
-    "hint": "这是：水壶。"
+    "hint": "这是：水壶。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4028",
@@ -72044,7 +75462,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a gesture.",
     "sentence": "This is a ___.",
-    "hint": "这是：手势。"
+    "hint": "这是：手势。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4029",
@@ -72057,7 +75476,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a wrinkle.",
     "sentence": "This is a ___.",
-    "hint": "这是：皱纹。"
+    "hint": "这是：皱纹。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4030",
@@ -72070,7 +75490,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a accumulate.",
     "sentence": "This is a ___.",
-    "hint": "这是：积聚，堆积。"
+    "hint": "这是：积聚，堆积。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4031",
@@ -72083,7 +75504,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is alike.",
     "sentence": "It is ___.",
-    "hint": "它是：[不能用于名词前]相同的；相似的。"
+    "hint": "它是：[不能用于名词前]相同的；相似的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4032",
@@ -72096,7 +75518,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a correspond.",
     "sentence": "This is a ___.",
-    "hint": "这是：相一致。"
+    "hint": "这是：相一致。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4033",
@@ -72109,7 +75532,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a exposure.",
     "sentence": "This is a ___.",
-    "hint": "这是：面临。"
+    "hint": "这是：面临。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4034",
@@ -72122,7 +75546,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is costume.",
     "sentence": "It is ___.",
-    "hint": "它是：（特定场合穿的）服装；装束。"
+    "hint": "它是：（特定场合穿的）服装；装束。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4035",
@@ -72135,7 +75560,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chorus.",
     "sentence": "This is a ___.",
-    "hint": "这是：合唱队。"
+    "hint": "这是：合唱队。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4036",
@@ -72148,7 +75574,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chaos.",
     "sentence": "This is a ___.",
-    "hint": "这是：混乱，无秩序。"
+    "hint": "这是：混乱，无秩序。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4037",
@@ -72161,7 +75588,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a fluency.",
     "sentence": "This is a ___.",
-    "hint": "这是：流利。"
+    "hint": "这是：流利。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4038",
@@ -72174,7 +75602,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a diamond.",
     "sentence": "This is a ___.",
-    "hint": "这是：钻石。"
+    "hint": "这是：钻石。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4039",
@@ -72187,7 +75616,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a drawback.",
     "sentence": "This is a ___.",
-    "hint": "这是：缺点。"
+    "hint": "这是：缺点。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4040",
@@ -72200,7 +75630,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a fare.",
     "sentence": "This is a ___.",
-    "hint": "这是：车费，车票。"
+    "hint": "这是：车费，车票。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4041",
@@ -72213,7 +75644,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a flu.",
     "sentence": "This is a ___.",
-    "hint": "这是：流行性感冒，流感。"
+    "hint": "这是：流行性感冒，流感。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4042",
@@ -72226,7 +75658,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a till.",
     "sentence": "This is a ___.",
-    "hint": "这是：直到。"
+    "hint": "这是：直到。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4043",
@@ -72239,7 +75672,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is butcher.",
     "sentence": "It is ___.",
-    "hint": "它是：卖肉的。"
+    "hint": "它是：卖肉的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4044",
@@ -72252,7 +75686,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pork.",
     "sentence": "This is a ___.",
-    "hint": "这是：猪肉。"
+    "hint": "这是：猪肉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4045",
@@ -72265,7 +75700,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a flesh.",
     "sentence": "This is a ___.",
-    "hint": "这是：肉。"
+    "hint": "这是：肉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4046",
@@ -72278,7 +75714,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bat.",
     "sentence": "This is a ___.",
-    "hint": "这是：蝙蝠;棒，球拍。"
+    "hint": "这是：蝙蝠;棒，球拍。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4047",
@@ -72291,7 +75728,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a giraffe.",
     "sentence": "This is a ___.",
-    "hint": "这是：长颈鹿。"
+    "hint": "这是：长颈鹿。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4048",
@@ -72304,7 +75742,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pig.",
     "sentence": "This is a ___.",
-    "hint": "这是：猪。"
+    "hint": "这是：猪。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4049",
@@ -72317,7 +75756,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a mosquito.",
     "sentence": "This is a ___.",
-    "hint": "这是：蚊虫。"
+    "hint": "这是：蚊虫。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4050",
@@ -72330,7 +75770,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chairwoman.",
     "sentence": "This is a ___.",
-    "hint": "这是：女主席。"
+    "hint": "这是：女主席。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4051",
@@ -72343,7 +75784,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chairman.",
     "sentence": "This is a ___.",
-    "hint": "这是：主席。"
+    "hint": "这是：主席。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4052",
@@ -72356,7 +75798,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a chemist.",
     "sentence": "This is a ___.",
-    "hint": "这是：化剂师，化学家。"
+    "hint": "这是：化剂师，化学家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4053",
@@ -72369,7 +75812,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is detective.",
     "sentence": "It is ___.",
-    "hint": "它是：侦探。"
+    "hint": "它是：侦探。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4054",
@@ -72382,7 +75826,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a navy.",
     "sentence": "This is a ___.",
-    "hint": "这是：海军。"
+    "hint": "这是：海军。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4055",
@@ -72395,7 +75840,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a hostess.",
     "sentence": "This is a ___.",
-    "hint": "这是：女服务员。"
+    "hint": "这是：女服务员。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4056",
@@ -72408,7 +75854,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a candidate.",
     "sentence": "This is a ___.",
-    "hint": "这是：候选人。"
+    "hint": "这是：候选人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4057",
@@ -72421,7 +75868,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a accountant.",
     "sentence": "This is a ___.",
-    "hint": "这是：会计。"
+    "hint": "这是：会计。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4058",
@@ -72434,7 +75882,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a bravery.",
     "sentence": "This is a ___.",
-    "hint": "这是：勇敢。"
+    "hint": "这是：勇敢。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4059",
@@ -72447,7 +75896,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a idiom.",
     "sentence": "This is a ___.",
-    "hint": "这是：习语；惯用语。"
+    "hint": "这是：习语；惯用语。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4060",
@@ -72460,7 +75910,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs sincerely.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：真诚地；诚实地。"
+    "hint": "这里需要表示：真诚地；诚实地。",
+    "rawPos": "副词"
   },
   {
     "id": "high-4061",
@@ -72473,7 +75924,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a dignity.",
     "sentence": "This is a ___.",
-    "hint": "这是：尊严。"
+    "hint": "这是：尊严。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4062",
@@ -72486,7 +75938,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is adorable.",
     "sentence": "It is ___.",
-    "hint": "它是：可爱极了。"
+    "hint": "它是：可爱极了。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4063",
@@ -72499,7 +75952,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a caution.",
     "sentence": "This is a ___.",
-    "hint": "这是：警告；小心，谨慎。"
+    "hint": "这是：警告；小心，谨慎。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4064",
@@ -72512,7 +75966,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a gymnastics.",
     "sentence": "This is a ___.",
-    "hint": "这是：体操。"
+    "hint": "这是：体操。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4065",
@@ -72525,7 +75980,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a stadium.",
     "sentence": "This is a ___.",
-    "hint": "这是：（露天）体育场。"
+    "hint": "这是：（露天）体育场。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4066",
@@ -72538,7 +75994,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a equator.",
     "sentence": "This is a ___.",
-    "hint": "这是：赤道。"
+    "hint": "这是：赤道。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4067",
@@ -72551,7 +76008,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a orbit.",
     "sentence": "This is a ___.",
-    "hint": "这是：轨道。"
+    "hint": "这是：轨道。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4068",
@@ -72564,7 +76022,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a ham.",
     "sentence": "This is a ___.",
-    "hint": "这是：火腿。"
+    "hint": "这是：火腿。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4069",
@@ -72577,7 +76036,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a flour.",
     "sentence": "This is a ___.",
-    "hint": "这是：面粉。"
+    "hint": "这是：面粉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4070",
@@ -72590,7 +76050,8 @@ window.VOCABULARY = [
     "category": "抽象概念",
     "example": "This is a grill.",
     "sentence": "This is a ___.",
-    "hint": "这是：烤架；烧烤，烤制。"
+    "hint": "这是：烤架；烧烤，烤制。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4071",
@@ -72603,7 +76064,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cabbage.",
     "sentence": "This is a ___.",
-    "hint": "这是：卷心菜。"
+    "hint": "这是：卷心菜。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4072",
@@ -72616,7 +76078,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a inspection.",
     "sentence": "This is a ___.",
-    "hint": "这是：检查。"
+    "hint": "这是：检查。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4073",
@@ -72629,7 +76092,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a intervention.",
     "sentence": "This is a ___.",
-    "hint": "这是：干涉。"
+    "hint": "这是：干涉。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4074",
@@ -72642,7 +76106,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a congratulation.",
     "sentence": "This is a ___.",
-    "hint": "这是：祝贺；恭祝；贺词。"
+    "hint": "这是：祝贺；恭祝；贺词。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4075",
@@ -72655,7 +76120,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a acquisition.",
     "sentence": "This is a ___.",
-    "hint": "这是：获得。"
+    "hint": "这是：获得。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4076",
@@ -72668,7 +76134,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a grasp.",
     "sentence": "This is a ___.",
-    "hint": "这是：抓住。"
+    "hint": "这是：抓住。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4077",
@@ -72681,7 +76148,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a nail.",
     "sentence": "This is a ___.",
-    "hint": "这是：钉子。"
+    "hint": "这是：钉子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4078",
@@ -72694,7 +76162,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a waist.",
     "sentence": "This is a ___.",
-    "hint": "这是：腰，腰部。"
+    "hint": "这是：腰，腰部。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4079",
@@ -72707,7 +76176,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a wrestle.",
     "sentence": "This is a ___.",
-    "hint": "这是：摔跤。"
+    "hint": "这是：摔跤。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4080",
@@ -72720,7 +76190,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a dip.",
     "sentence": "This is a ___.",
-    "hint": "这是：浸，泡，蘸。"
+    "hint": "这是：浸，泡，蘸。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4081",
@@ -72733,7 +76204,8 @@ window.VOCABULARY = [
     "category": "饮食生活",
     "example": "This is a glue.",
     "sentence": "This is a ___.",
-    "hint": "这是：胶水。"
+    "hint": "这是：胶水。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4082",
@@ -72746,7 +76218,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pray.",
     "sentence": "This is a ___.",
-    "hint": "这是：祈祷；祈求。"
+    "hint": "这是：祈祷；祈求。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4083",
@@ -72759,7 +76232,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a refresh.",
     "sentence": "This is a ___.",
-    "hint": "这是：刷新。"
+    "hint": "这是：刷新。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4084",
@@ -72772,7 +76246,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a condemn.",
     "sentence": "This is a ___.",
-    "hint": "这是：谴责。"
+    "hint": "这是：谴责。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4085",
@@ -72785,7 +76260,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a capsule.",
     "sentence": "This is a ___.",
-    "hint": "这是：容器。"
+    "hint": "这是：容器。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4086",
@@ -72798,7 +76274,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a anchor.",
     "sentence": "This is a ___.",
-    "hint": "这是：?较旅籲. 锚。"
+    "hint": "这是：?较旅籲. 锚。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4087",
@@ -72811,7 +76288,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is damp.",
     "sentence": "It is ___.",
-    "hint": "它是：潮湿的。"
+    "hint": "它是：潮湿的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4088",
@@ -72824,7 +76302,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is vivid.",
     "sentence": "It is ___.",
-    "hint": "它是：活泼的；生动的。"
+    "hint": "它是：活泼的；生动的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4089",
@@ -72837,7 +76316,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is primitive.",
     "sentence": "It is ___.",
-    "hint": "它是：原始的。"
+    "hint": "它是：原始的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4090",
@@ -72850,7 +76330,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is awesome.",
     "sentence": "It is ___.",
-    "hint": "它是：令人惊叹的。"
+    "hint": "它是：令人惊叹的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4091",
@@ -72863,7 +76344,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a rubber.",
     "sentence": "This is a ___.",
-    "hint": "这是：橡皮。"
+    "hint": "这是：橡皮。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4092",
@@ -72876,7 +76358,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is upper.",
     "sentence": "It is ___.",
-    "hint": "它是：较高的，上面的。"
+    "hint": "它是：较高的，上面的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4093",
@@ -72889,7 +76372,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a certificate.",
     "sentence": "This is a ___.",
-    "hint": "这是：证书。"
+    "hint": "这是：证书。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4094",
@@ -72902,7 +76386,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a circus.",
     "sentence": "This is a ___.",
-    "hint": "这是：马戏团。"
+    "hint": "这是：马戏团。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4095",
@@ -72915,7 +76400,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a crisis.",
     "sentence": "This is a ___.",
-    "hint": "这是：危机。"
+    "hint": "这是：危机。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4096",
@@ -72928,7 +76414,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a centimetre.",
     "sentence": "This is a ___.",
-    "hint": "这是：厘米(缩略形式cm)。"
+    "hint": "这是：厘米(缩略形式cm)。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4097",
@@ -72941,7 +76428,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "He runs basement.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：地下室。"
+    "hint": "这里需要表示：地下室。",
+    "rawPos": "副词"
   },
   {
     "id": "high-4098",
@@ -72954,7 +76442,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is accustomed.",
     "sentence": "It is ___.",
-    "hint": "它是：习惯的。"
+    "hint": "它是：习惯的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4099",
@@ -72967,7 +76456,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a entitle.",
     "sentence": "This is a ___.",
-    "hint": "这是：以…为名。"
+    "hint": "这是：以…为名。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4100",
@@ -72980,7 +76470,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is maximum.",
     "sentence": "It is ___.",
-    "hint": "它是：最大的。"
+    "hint": "它是：最大的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4101",
@@ -72993,7 +76484,8 @@ window.VOCABULARY = [
     "category": "动作行为",
     "example": "This is a document.",
     "sentence": "This is a ___.",
-    "hint": "这是：文件。"
+    "hint": "这是：文件。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4102",
@@ -73006,7 +76498,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a infection.",
     "sentence": "This is a ___.",
-    "hint": "这是：传染。"
+    "hint": "这是：传染。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4103",
@@ -73019,7 +76512,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is incident.",
     "sentence": "It is ___.",
-    "hint": "它是：发生的事情。"
+    "hint": "它是：发生的事情。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4104",
@@ -73032,7 +76526,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a equality.",
     "sentence": "This is a ___.",
-    "hint": "这是：平等。"
+    "hint": "这是：平等。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4105",
@@ -73045,7 +76540,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a era.",
     "sentence": "This is a ___.",
-    "hint": "这是：时期，时代。"
+    "hint": "这是：时期，时代。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4106",
@@ -73058,7 +76554,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is racial.",
     "sentence": "It is ___.",
-    "hint": "它是：种族的。"
+    "hint": "它是：种族的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4107",
@@ -73071,7 +76568,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a Africa.",
     "sentence": "This is a ___.",
-    "hint": "这是：非洲。"
+    "hint": "这是：非洲。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4108",
@@ -73084,7 +76582,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is African.",
     "sentence": "It is ___.",
-    "hint": "它是：非洲（人）的。"
+    "hint": "它是：非洲（人）的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4109",
@@ -73097,7 +76596,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is Asian.",
     "sentence": "It is ___.",
-    "hint": "它是：亚洲（人）的。"
+    "hint": "它是：亚洲（人）的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4110",
@@ -73110,7 +76610,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a sheep.",
     "sentence": "This is a ___.",
-    "hint": "这是：羊；绵羊。"
+    "hint": "这是：羊；绵羊。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4111",
@@ -73123,7 +76624,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a snake.",
     "sentence": "This is a ___.",
-    "hint": "这是：蛇。"
+    "hint": "这是：蛇。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4112",
@@ -73136,7 +76638,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "This is a eleven.",
     "sentence": "This is a ___.",
-    "hint": "这是：十一。"
+    "hint": "这是：十一。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4113",
@@ -73149,7 +76652,8 @@ window.VOCABULARY = [
     "category": "时间数量",
     "example": "I have eighth books.",
     "sentence": "I have ___ books.",
-    "hint": "数量是：第八。"
+    "hint": "数量是：第八。",
+    "rawPos": "数词"
   },
   {
     "id": "high-4114",
@@ -73162,7 +76666,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a August.",
     "sentence": "This is a ___.",
-    "hint": "这是：八月。"
+    "hint": "这是：八月。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4115",
@@ -73175,7 +76680,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a pub.",
     "sentence": "This is a ___.",
-    "hint": "这是：小酒店。"
+    "hint": "这是：小酒店。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4116",
@@ -73188,7 +76694,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tea.",
     "sentence": "This is a ___.",
-    "hint": "这是：茶；茶水。"
+    "hint": "这是：茶；茶水。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4117",
@@ -73201,7 +76708,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a sandwich.",
     "sentence": "This is a ___.",
-    "hint": "这是：三明治。"
+    "hint": "这是：三明治。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4118",
@@ -73214,7 +76722,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a client.",
     "sentence": "This is a ___.",
-    "hint": "这是：客户。"
+    "hint": "这是：客户。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4119",
@@ -73227,7 +76736,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a businesswoman.",
     "sentence": "This is a ___.",
-    "hint": "这是：女商人。"
+    "hint": "这是：女商人。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4120",
@@ -73240,7 +76750,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is absurd.",
     "sentence": "It is ___.",
-    "hint": "它是：荒唐的。"
+    "hint": "它是：荒唐的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4121",
@@ -73253,7 +76764,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a dilemma.",
     "sentence": "This is a ___.",
-    "hint": "这是：困境。"
+    "hint": "这是：困境。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4122",
@@ -73266,7 +76778,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is conservative.",
     "sentence": "It is ___.",
-    "hint": "它是：保守的。"
+    "hint": "它是：保守的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4123",
@@ -73279,7 +76792,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is efficient.",
     "sentence": "It is ___.",
-    "hint": "它是：效率高的。"
+    "hint": "它是：效率高的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4124",
@@ -73292,7 +76806,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is outgoing.",
     "sentence": "It is ___.",
-    "hint": "它是：开朗的；外向的。"
+    "hint": "它是：开朗的；外向的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4125",
@@ -73305,7 +76820,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a integrate.",
     "sentence": "This is a ___.",
-    "hint": "这是：整合。"
+    "hint": "这是：整合。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4126",
@@ -73318,7 +76834,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a classify.",
     "sentence": "This is a ___.",
-    "hint": "这是：分类。"
+    "hint": "这是：分类。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4127",
@@ -73331,7 +76848,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a attain.",
     "sentence": "This is a ___.",
-    "hint": "这是：到达。"
+    "hint": "这是：到达。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4128",
@@ -73344,7 +76862,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is considerate.",
     "sentence": "It is ___.",
-    "hint": "它是：考虑周到的。"
+    "hint": "它是：考虑周到的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4129",
@@ -73357,7 +76876,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a resign.",
     "sentence": "This is a ___.",
-    "hint": "这是：辞职。"
+    "hint": "这是：辞职。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4130",
@@ -73370,7 +76890,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a allocate.",
     "sentence": "This is a ___.",
-    "hint": "这是：分配。"
+    "hint": "这是：分配。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4131",
@@ -73383,7 +76904,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a cease.",
     "sentence": "This is a ___.",
-    "hint": "这是：停止。"
+    "hint": "这是：停止。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4132",
@@ -73396,7 +76918,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is coal.",
     "sentence": "It is ___.",
-    "hint": "它是：煤炭。"
+    "hint": "它是：煤炭。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4133",
@@ -73409,7 +76932,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a kilometre.",
     "sentence": "This is a ___.",
-    "hint": "这是：千米；公里。"
+    "hint": "这是：千米；公里。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4134",
@@ -73422,7 +76946,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a grey.",
     "sentence": "This is a ___.",
-    "hint": "这是：灰色。"
+    "hint": "这是：灰色。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4135",
@@ -73435,7 +76960,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a beard.",
     "sentence": "This is a ___.",
-    "hint": "这是：胡须。"
+    "hint": "这是：胡须。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4136",
@@ -73448,7 +76974,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a accent.",
     "sentence": "This is a ___.",
-    "hint": "这是：口音,腔调。"
+    "hint": "这是：口音,腔调。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4137",
@@ -73461,7 +76988,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is noisy.",
     "sentence": "It is ___.",
-    "hint": "它是：嘈杂的。"
+    "hint": "它是：嘈杂的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4138",
@@ -73474,7 +77002,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a finance.",
     "sentence": "This is a ___.",
-    "hint": "这是：经济。"
+    "hint": "这是：经济。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4139",
@@ -73487,7 +77016,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a economy.",
     "sentence": "This is a ___.",
-    "hint": "这是：经济。"
+    "hint": "这是：经济。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4140",
@@ -73500,7 +77030,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a crayon.",
     "sentence": "This is a ___.",
-    "hint": "这是：蜡笔。"
+    "hint": "这是：蜡笔。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4141",
@@ -73513,7 +77044,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a diagram.",
     "sentence": "This is a ___.",
-    "hint": "这是：图表，图形。"
+    "hint": "这是：图表，图形。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4142",
@@ -73526,7 +77058,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a mercy.",
     "sentence": "This is a ___.",
-    "hint": "这是：怜悯。"
+    "hint": "这是：怜悯。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4143",
@@ -73539,7 +77072,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "He runs possibly.",
     "sentence": "He runs ___.",
-    "hint": "这里需要表示：可能，或许。"
+    "hint": "这里需要表示：可能，或许。",
+    "rawPos": "副词"
   },
   {
     "id": "high-4144",
@@ -73552,7 +77086,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is sour.",
     "sentence": "It is ___.",
-    "hint": "它是：酸的。"
+    "hint": "它是：酸的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4145",
@@ -73565,7 +77100,8 @@ window.VOCABULARY = [
     "category": "人物关系",
     "example": "This is a celebrity.",
     "sentence": "This is a ___.",
-    "hint": "这是：知名人物。"
+    "hint": "这是：知名人物。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4146",
@@ -73578,7 +77114,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a clue.",
     "sentence": "This is a ___.",
-    "hint": "这是：线索。"
+    "hint": "这是：线索。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4147",
@@ -73591,7 +77128,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a elsewhere.",
     "sentence": "This is a ___.",
-    "hint": "这是：别处。"
+    "hint": "这是：别处。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4148",
@@ -73604,7 +77142,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a corporation.",
     "sentence": "This is a ___.",
-    "hint": "这是：公司。"
+    "hint": "这是：公司。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4149",
@@ -73617,7 +77156,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a blanket.",
     "sentence": "This is a ___.",
-    "hint": "这是：毛毯，毯子。"
+    "hint": "这是：毛毯，毯子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4150",
@@ -73630,7 +77170,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a rose.",
     "sentence": "This is a ___.",
-    "hint": "这是：玫瑰花。"
+    "hint": "这是：玫瑰花。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4151",
@@ -73643,7 +77184,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a murder.",
     "sentence": "This is a ___.",
-    "hint": "这是：谋杀。"
+    "hint": "这是：谋杀。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4152",
@@ -73656,7 +77198,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a astronomer.",
     "sentence": "This is a ___.",
-    "hint": "这是：天文学家。"
+    "hint": "这是：天文学家。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4153",
@@ -73669,7 +77212,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a civilian.",
     "sentence": "This is a ___.",
-    "hint": "这是：平民。"
+    "hint": "这是：平民。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4154",
@@ -73682,7 +77226,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a socialist.",
     "sentence": "This is a ___.",
-    "hint": "这是：社会主义者。"
+    "hint": "这是：社会主义者。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4155",
@@ -73695,7 +77240,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a pudding.",
     "sentence": "This is a ___.",
-    "hint": "这是：布丁。"
+    "hint": "这是：布丁。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4156",
@@ -73708,7 +77254,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a yogurt.",
     "sentence": "This is a ___.",
-    "hint": "这是：酸奶。"
+    "hint": "这是：酸奶。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4157",
@@ -73721,7 +77268,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a tofu.",
     "sentence": "This is a ___.",
-    "hint": "这是：豆腐。"
+    "hint": "这是：豆腐。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4158",
@@ -73734,7 +77282,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a saucer.",
     "sentence": "This is a ___.",
-    "hint": "这是：碟子。"
+    "hint": "这是：碟子。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4159",
@@ -73747,7 +77296,8 @@ window.VOCABULARY = [
     "category": "自然万物",
     "example": "This is a frost.",
     "sentence": "This is a ___.",
-    "hint": "这是：严寒天气。"
+    "hint": "这是：严寒天气。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4160",
@@ -73760,7 +77310,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a hydrogen.",
     "sentence": "This is a ___.",
-    "hint": "这是：氢。"
+    "hint": "这是：氢。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4161",
@@ -73773,7 +77324,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a missile.",
     "sentence": "This is a ___.",
-    "hint": "这是：导弹。"
+    "hint": "这是：导弹。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4162",
@@ -73786,7 +77338,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a radium.",
     "sentence": "This is a ___.",
-    "hint": "这是：鐳。"
+    "hint": "这是：鐳。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4163",
@@ -73799,7 +77352,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a friction.",
     "sentence": "This is a ___.",
-    "hint": "这是：摩擦。"
+    "hint": "这是：摩擦。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4164",
@@ -73812,7 +77366,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "This is a profile.",
     "sentence": "This is a ___.",
-    "hint": "这是：轮廓。"
+    "hint": "这是：轮廓。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4165",
@@ -73825,7 +77380,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is comic.",
     "sentence": "It is ___.",
-    "hint": "它是：滑稽的。"
+    "hint": "它是：滑稽的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4166",
@@ -73838,7 +77394,8 @@ window.VOCABULARY = [
     "category": "其他常用词",
     "example": "This is a cite.",
     "sentence": "This is a ___.",
-    "hint": "这是：提及。"
+    "hint": "这是：提及。",
+    "rawPos": "名词"
   },
   {
     "id": "high-4167",
@@ -73851,7 +77408,8 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is abnormal.",
     "sentence": "It is ___.",
-    "hint": "它是：不正常的。"
+    "hint": "它是：不正常的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4168",
@@ -73864,7 +77422,8 @@ window.VOCABULARY = [
     "category": "情感品质",
     "example": "It is subsequent.",
     "sentence": "It is ___.",
-    "hint": "它是：后来的。"
+    "hint": "它是：后来的。",
+    "rawPos": "形容词"
   },
   {
     "id": "high-4169",
@@ -73877,6 +77436,7 @@ window.VOCABULARY = [
     "category": "基础功能词",
     "example": "It is Atlantic.",
     "sentence": "It is ___.",
-    "hint": "它是：大西洋 (的)。"
+    "hint": "它是：大西洋 (的)。",
+    "rawPos": "形容词"
   }
 ];
