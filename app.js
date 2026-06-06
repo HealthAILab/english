@@ -493,6 +493,7 @@ const commonUsage = {
 };
 
 function phrasesFor(item) {
+  if (Array.isArray(item.phrases) && item.phrases.length) return item.phrases.slice(0, 3);
   const rawWord = mainWord(item);
   const word = rawWord.toLowerCase();
   if (commonUsage[word]) return commonUsage[word].phrases.slice(0, 3);
@@ -507,6 +508,7 @@ function phrasesFor(item) {
 }
 
 function examplesFor(item) {
+  if (Array.isArray(item.examples) && item.examples.length) return item.examples.slice(0, 3);
   const word = mainWord(item);
   const key = word.toLowerCase();
   if (commonUsage[key]) return commonUsage[key].examples.slice(0, 3);

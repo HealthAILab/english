@@ -1,7933 +1,27603 @@
 window.VOCABULARY = [
   {
-    "id": "primary-0",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sport",
-    "cn": "运动",
-    "pos": "名词",
-    "scene": "运动娱乐",
-    "category": "基础功能词",
-    "example": "This is a sport.",
-    "sentence": "This is a ___.",
-    "hint": "这是：运动。"
-  },
-  {
-    "id": "primary-1",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "jump",
-    "cn": "跳",
-    "pos": "动词",
-    "scene": "运动娱乐",
-    "category": "动作行为",
-    "example": "I can jump.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：跳。"
-  },
-  {
-    "id": "primary-2",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "high",
-    "cn": "高高地",
-    "pos": "副词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "He runs high.",
-    "sentence": "He runs ___.",
-    "hint": "这里需要表示：高高地。"
-  },
-  {
-    "id": "primary-3",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "far",
-    "cn": "远",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a far.",
-    "sentence": "This is a ___.",
-    "hint": "这是：远。"
-  },
-  {
-    "id": "primary-4",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "ping-pong",
-    "cn": "乒乓球运动",
-    "pos": "名词",
-    "scene": "运动娱乐",
-    "category": "基础功能词",
-    "example": "This is a ping-pong.",
-    "sentence": "This is a ___.",
-    "hint": "这是：乒乓球运动。"
-  },
-  {
-    "id": "primary-5",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "volleyball",
-    "cn": "排球（运动）",
-    "pos": "名词",
-    "scene": "运动娱乐",
-    "category": "基础功能词",
-    "example": "This is a volleyball.",
-    "sentence": "This is a ___.",
-    "hint": "这是：排球（运动）。"
-  },
-  {
-    "id": "primary-6",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "across",
-    "cn": "从一边到另一边；穿过，越过",
-    "pos": "介词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "The book is across the desk.",
-    "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：从一边到另一边；穿过，越过。"
-  },
-  {
-    "id": "primary-7",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "hope",
-    "cn": "希望",
-    "pos": "动词",
-    "scene": "情感品质",
-    "category": "动作行为",
-    "example": "I can hope.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：希望。"
-  },
-  {
-    "id": "primary-8",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "lose",
-    "cn": "失去",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can lose.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：失去。"
-  },
-  {
-    "id": "primary-9",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "because",
-    "cn": "因为",
-    "pos": "连词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I like apples because bananas.",
-    "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：因为。"
-  },
-  {
-    "id": "primary-10",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "because of sb / sth",
-    "cn": "因为某人 / 某事物",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a because of sb.",
-    "sentence": "This is a ___.",
-    "hint": "这是：因为某人 / 某事物。"
-  },
-  {
-    "id": "primary-11",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cancer",
-    "cn": "癌（症）",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a cancer.",
-    "sentence": "This is a ___.",
-    "hint": "这是：癌（症）。"
-  },
-  {
-    "id": "primary-12",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "money",
-    "cn": "钱",
-    "pos": "数词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "I have money books.",
-    "sentence": "I have ___ books.",
-    "hint": "数量是：钱。"
-  },
-  {
-    "id": "primary-13",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "hard",
-    "cn": "困难的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is hard.",
-    "sentence": "It is ___.",
-    "hint": "它是：困难的。"
-  },
-  {
-    "id": "primary-14",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "kind",
-    "cn": "亲切的；友好的；善良的",
-    "pos": "形容词",
-    "scene": "情感品质",
-    "category": "基础功能词",
-    "example": "It is kind.",
-    "sentence": "It is ___.",
-    "hint": "它是：亲切的；友好的；善良的。"
-  },
-  {
-    "id": "primary-15",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "keep",
-    "cn": "持续；继续",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can keep.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：持续；继续。"
-  },
-  {
-    "id": "primary-16",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "month",
-    "cn": "一个月",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a month.",
-    "sentence": "This is a ___.",
-    "hint": "这是：一个月。"
-  },
-  {
-    "id": "primary-17",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "ill",
-    "cn": "生病的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is ill.",
-    "sentence": "It is ___.",
-    "hint": "它是：生病的。"
-  },
-  {
-    "id": "primary-18",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "year",
-    "cn": "年；年度",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a year.",
-    "sentence": "This is a ___.",
-    "hint": "这是：年；年度。"
-  },
-  {
-    "id": "primary-19",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "remember",
-    "cn": "纪念；记住",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can remember.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：纪念；记住。"
-  },
-  {
-    "id": "primary-20",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "fail",
-    "cn": "失败",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a fail.",
-    "sentence": "This is a ___.",
-    "hint": "这是：失败。"
-  },
-  {
-    "id": "primary-21",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "give",
-    "cn": "给予",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can give.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：给予。"
-  },
-  {
-    "id": "primary-22",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "give up",
-    "cn": "放弃",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can give up.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：放弃。"
-  },
-  {
-    "id": "primary-23",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "never",
-    "cn": "决不，永不",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a never.",
-    "sentence": "This is a ___.",
-    "hint": "这是：决不，永不。"
-  },
-  {
-    "id": "primary-24",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "try",
-    "cn": "努力；尝试",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can try.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：努力；尝试。"
-  },
-  {
-    "id": "primary-25",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "try your best",
-    "cn": "尽最大努力",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can try your best.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：尽最大努力。"
-  },
-  {
-    "id": "primary-26",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "star",
-    "cn": "明星，最出色者",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a star.",
-    "sentence": "This is a ___.",
-    "hint": "这是：明星，最出色者。"
-  },
-  {
-    "id": "primary-27",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "ability",
-    "cn": "才能；能力",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a ability.",
-    "sentence": "This is a ___.",
-    "hint": "这是：才能；能力。"
-  },
-  {
-    "id": "primary-28",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "player",
-    "cn": "运动员，选手，球员",
-    "pos": "名词",
-    "scene": "运动娱乐",
-    "category": "基础功能词",
-    "example": "This is a player.",
-    "sentence": "This is a ___.",
-    "hint": "这是：运动员，选手，球员。"
-  },
-  {
-    "id": "primary-29",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "phew",
-    "cn": "啊，唷，唉",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a phew.",
-    "sentence": "This is a ___.",
-    "hint": "这是：啊，唷，唉。"
-  },
-  {
-    "id": "primary-30",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "wash",
-    "cn": "洗",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can wash.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：洗。"
-  },
-  {
-    "id": "primary-31",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "dish",
-    "cn": "盘子，碟子",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a dish.",
-    "sentence": "This is a ___.",
-    "hint": "这是：盘子，碟子。"
-  },
-  {
-    "id": "primary-32",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "feed",
-    "cn": "喂养，给……食物",
-    "pos": "名词",
-    "scene": "饮食健康",
-    "category": "动作行为",
-    "example": "This is a feed.",
-    "sentence": "This is a ___.",
-    "hint": "这是：喂养，给……食物。"
-  },
-  {
-    "id": "primary-33",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sweep",
-    "cn": "扫，打扫，清扫",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "抽象概念",
-    "example": "This is a sweep.",
-    "sentence": "This is a ___.",
-    "hint": "这是：扫，打扫，清扫。"
-  },
-  {
-    "id": "primary-34",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "floor",
-    "cn": "地板，地面",
-    "pos": "副词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "He runs floor.",
-    "sentence": "He runs ___.",
-    "hint": "这里需要表示：地板，地面。"
-  },
-  {
-    "id": "primary-35",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "rubbish",
-    "cn": "垃圾",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a rubbish.",
-    "sentence": "This is a ___.",
-    "hint": "这是：垃圾。"
-  },
-  {
-    "id": "primary-36",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "chore",
-    "cn": "家庭杂务",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "基础功能词",
-    "example": "This is a chore.",
-    "sentence": "This is a ___.",
-    "hint": "这是：家庭杂务。"
-  },
-  {
-    "id": "primary-37",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "to-do list",
-    "cn": "待办清单",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a to-do list.",
-    "sentence": "This is a ___.",
-    "hint": "这是：待办清单。"
-  },
-  {
-    "id": "primary-38",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "may",
-    "cn": "可以（表示允许某人做某事）",
-    "pos": "情态动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can may.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：可以（表示允许某人做某事）。"
-  },
-  {
-    "id": "primary-39",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "outside",
-    "cn": "在室外，在外面",
-    "pos": "介词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "The book is outside the desk.",
-    "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：在室外，在外面。"
-  },
-  {
-    "id": "primary-40",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "tidy",
-    "cn": "整理，收拾",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a tidy.",
-    "sentence": "This is a ___.",
-    "hint": "这是：整理，收拾。"
-  },
-  {
-    "id": "primary-41",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "easy",
-    "cn": "容易的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is easy.",
-    "sentence": "It is ___.",
-    "hint": "它是：容易的。"
-  },
-  {
-    "id": "primary-42",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "clean",
-    "cn": "（把...）弄干净，（使）清洁",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can clean.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：（把...）弄干净，（使）清洁。"
-  },
-  {
-    "id": "primary-43",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "woof",
-    "cn": "汪汪（形容狗吠声）",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a woof.",
-    "sentence": "This is a ___.",
-    "hint": "这是：汪汪（形容狗吠声）。"
-  },
-  {
-    "id": "primary-44",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "job",
-    "cn": "任务，事情",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a job.",
-    "sentence": "This is a ___.",
-    "hint": "这是：任务，事情。"
-  },
-  {
-    "id": "primary-45",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "Good job!",
-    "cn": "干得好！真不错！",
-    "pos": "名词",
-    "scene": "旅行交通",
-    "category": "动作行为",
-    "example": "This is a Good job!.",
-    "sentence": "This is a ___.",
-    "hint": "这是：干得好！真不错！。"
-  },
-  {
-    "id": "primary-46",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "dirty",
-    "cn": "脏的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is dirty.",
-    "sentence": "It is ___.",
-    "hint": "它是：脏的。"
-  },
-  {
-    "id": "primary-47",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "desk",
-    "cn": "书桌，写字台",
-    "pos": "名词",
-    "scene": "学校课堂",
-    "category": "学习用品",
-    "example": "This is a desk.",
-    "sentence": "This is a ___.",
-    "hint": "这是：书桌，写字台。"
-  },
-  {
-    "id": "primary-48",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "wall",
-    "cn": "墙",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a wall.",
-    "sentence": "This is a ___.",
-    "hint": "这是：墙。"
-  },
-  {
-    "id": "primary-49",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "again",
-    "cn": "又，再一次",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a again.",
-    "sentence": "This is a ___.",
-    "hint": "这是：又，再一次。"
-  },
-  {
-    "id": "primary-50",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "also",
-    "cn": "除此之外，还",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a also.",
-    "sentence": "This is a ___.",
-    "hint": "这是：除此之外，还。"
-  },
-  {
-    "id": "primary-51",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sunshine",
-    "cn": "阳光",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a sunshine.",
-    "sentence": "This is a ___.",
-    "hint": "这是：阳光。"
-  },
-  {
-    "id": "primary-52",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sometimes",
-    "cn": "有时",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "时间数量",
-    "example": "This is a sometimes.",
-    "sentence": "This is a ___.",
-    "hint": "这是：有时。"
-  },
-  {
-    "id": "primary-53",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "feel",
-    "cn": "感受到，觉得",
-    "pos": "动词",
-    "scene": "情感品质",
-    "category": "动作行为",
-    "example": "I can feel.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：感受到，觉得。"
-  },
-  {
-    "id": "primary-54",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "tired",
-    "cn": "疲惫的，累的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is tired.",
-    "sentence": "It is ___.",
-    "hint": "它是：疲惫的，累的。"
-  },
-  {
-    "id": "primary-55",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "helpful",
-    "cn": "乐于助人的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "人物关系",
-    "example": "It is helpful.",
-    "sentence": "It is ___.",
-    "hint": "它是：乐于助人的。"
-  },
-  {
-    "id": "primary-56",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "warm",
-    "cn": "（使）温暖起来",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can warm.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：（使）温暖起来。"
-  },
-  {
-    "id": "primary-57",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "warm up",
-    "cn": "（使）变暖",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can warm up.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：（使）变暖。"
-  },
-  {
-    "id": "primary-58",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "water",
-    "cn": "给……浇水",
-    "pos": "名词",
-    "scene": "饮食健康",
-    "category": "基础功能词",
-    "example": "This is a water.",
-    "sentence": "This is a ___.",
-    "hint": "这是：给……浇水。"
-  },
-  {
-    "id": "primary-59",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "yard",
-    "cn": "庭院",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a yard.",
-    "sentence": "This is a ___.",
-    "hint": "这是：庭院。"
-  },
-  {
-    "id": "primary-60",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "helper",
-    "cn": "帮手；助手",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a helper.",
-    "sentence": "This is a ___.",
-    "hint": "这是：帮手；助手。"
-  },
-  {
-    "id": "primary-61",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "pick",
-    "cn": "采，摘",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can pick.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：采，摘。"
-  },
-  {
-    "id": "primary-62",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "pig",
-    "cn": "猪",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a pig.",
-    "sentence": "This is a ___.",
-    "hint": "这是：猪。"
-  },
-  {
-    "id": "primary-63",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cow",
-    "cn": "奶牛",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a cow.",
-    "sentence": "This is a ___.",
-    "hint": "这是：奶牛。"
-  },
-  {
-    "id": "primary-64",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cut",
-    "cn": "修剪",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can cut.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：修剪。"
-  },
-  {
-    "id": "primary-65",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "grass",
-    "cn": "草地；草，青草",
-    "pos": "副词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "He runs grass.",
-    "sentence": "He runs ___.",
-    "hint": "这里需要表示：草地；草，青草。"
-  },
-  {
-    "id": "primary-66",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "weather",
-    "cn": "天气",
-    "pos": "名词",
-    "scene": "饮食健康",
-    "category": "基础功能词",
-    "example": "This is a weather.",
-    "sentence": "This is a ___.",
-    "hint": "这是：天气。"
-  },
-  {
-    "id": "primary-67",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sunny",
-    "cn": "阳光充足的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "自然万物",
-    "example": "It is sunny.",
-    "sentence": "It is ___.",
-    "hint": "它是：阳光充足的。"
-  },
-  {
-    "id": "primary-68",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cloud",
-    "cn": "云",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a cloud.",
-    "sentence": "This is a ___.",
-    "hint": "这是：云。"
-  },
-  {
-    "id": "primary-69",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "by",
-    "cn": "经过",
-    "pos": "介词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "The book is by the desk.",
-    "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：经过。"
-  },
-  {
-    "id": "primary-70",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cloudy",
-    "cn": "多云的，阴天的",
-    "pos": "形容词",
-    "scene": "时间数字",
-    "category": "自然万物",
-    "example": "It is cloudy.",
-    "sentence": "It is ___.",
-    "hint": "它是：多云的，阴天的。"
-  },
-  {
-    "id": "primary-71",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "wind",
-    "cn": "风",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a wind.",
-    "sentence": "This is a ___.",
-    "hint": "这是：风。"
-  },
-  {
-    "id": "primary-72",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "blow",
-    "cn": "吹，刮",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a blow.",
-    "sentence": "This is a ___.",
-    "hint": "这是：吹，刮。"
-  },
-  {
-    "id": "primary-73",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "windy",
-    "cn": "风大的；多风的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is windy.",
-    "sentence": "It is ___.",
-    "hint": "它是：风大的；多风的。"
-  },
-  {
-    "id": "primary-74",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "rain",
-    "cn": "雨",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a rain.",
-    "sentence": "This is a ___.",
-    "hint": "这是：雨。"
-  },
-  {
-    "id": "primary-75",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "rainy",
-    "cn": "多雨的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is rainy.",
-    "sentence": "It is ___.",
-    "hint": "它是：多雨的。"
-  },
-  {
-    "id": "primary-76",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "snow",
-    "cn": "雪",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a snow.",
-    "sentence": "This is a ___.",
-    "hint": "这是：雪。"
-  },
-  {
-    "id": "primary-77",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "any",
-    "cn": "任何一个",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a any.",
-    "sentence": "This is a ___.",
-    "hint": "这是：任何一个。"
-  },
-  {
-    "id": "primary-78",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cold",
-    "cn": "冷的，寒冷的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is cold.",
-    "sentence": "It is ___.",
-    "hint": "它是：冷的，寒冷的。"
-  },
-  {
-    "id": "primary-79",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "or",
-    "cn": "或者",
-    "pos": "连词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I like apples or bananas.",
-    "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：或者。"
-  },
-  {
-    "id": "primary-80",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "enjoy",
-    "cn": "享受……的乐趣",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is enjoy.",
-    "sentence": "It is ___.",
-    "hint": "它是：享受……的乐趣。"
-  },
-  {
-    "id": "primary-81",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "diary",
-    "cn": "日记",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a diary.",
-    "sentence": "This is a ___.",
-    "hint": "这是：日记。"
-  },
-  {
-    "id": "primary-82",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "teacher",
-    "cn": "教师，老师",
-    "pos": "名词",
-    "scene": "学校课堂",
-    "category": "基础功能词",
-    "example": "This is a teacher.",
-    "sentence": "This is a ___.",
-    "hint": "这是：教师，老师。"
-  },
-  {
-    "id": "primary-83",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "taste",
-    "cn": "有……的味道",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is taste.",
-    "sentence": "It is ___.",
-    "hint": "它是：有……的味道。"
-  },
-  {
-    "id": "primary-84",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "ice cream",
-    "cn": "冰激凌，雪糕",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a ice cream.",
-    "sentence": "This is a ___.",
-    "hint": "这是：冰激凌，雪糕。"
-  },
-  {
-    "id": "primary-85",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "real",
-    "cn": "真的，真正的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is real.",
-    "sentence": "It is ___.",
-    "hint": "它是：真的，真正的。"
-  },
-  {
-    "id": "primary-86",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "later",
-    "cn": "之后",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a later.",
-    "sentence": "This is a ___.",
-    "hint": "这是：之后。"
-  },
-  {
-    "id": "primary-87",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "coat",
-    "cn": "外套",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a coat.",
-    "sentence": "This is a ___.",
-    "hint": "这是：外套。"
-  },
-  {
-    "id": "primary-88",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "turn",
-    "cn": "转身，转动",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can turn.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：转身，转动。"
-  },
-  {
-    "id": "primary-89",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "turn on",
-    "cn": "打开",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can turn on.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：打开。"
-  },
-  {
-    "id": "primary-90",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "TV",
-    "cn": "电视",
-    "pos": "名词",
-    "scene": "科技媒体",
-    "category": "其他常用词",
-    "example": "This is a TV.",
-    "sentence": "This is a ___.",
-    "hint": "这是：电视。"
-  },
-  {
-    "id": "primary-91",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "report",
-    "cn": "报道",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a report.",
-    "sentence": "This is a ___.",
-    "hint": "这是：报道。"
-  },
-  {
-    "id": "primary-92",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "season",
-    "cn": "季节",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a season.",
-    "sentence": "This is a ___.",
-    "hint": "这是：季节。"
-  },
-  {
-    "id": "primary-93",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "spring",
-    "cn": "春天，春季",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a spring.",
-    "sentence": "This is a ___.",
-    "hint": "这是：春天，春季。"
-  },
-  {
-    "id": "primary-94",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "summer",
-    "cn": "夏天，夏季",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "自然万物",
-    "example": "This is a summer.",
-    "sentence": "This is a ___.",
-    "hint": "这是：夏天，夏季。"
-  },
-  {
-    "id": "primary-95",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "autumn",
-    "cn": "秋天，秋季",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a autumn.",
-    "sentence": "This is a ___.",
-    "hint": "这是：秋天，秋季。"
-  },
-  {
-    "id": "primary-96",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "winter",
-    "cn": "冬天，冬季",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a winter.",
-    "sentence": "This is a ___.",
-    "hint": "这是：冬天，冬季。"
-  },
-  {
-    "id": "primary-97",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "favourite",
-    "cn": "最喜欢的",
-    "pos": "动词",
-    "scene": "情感品质",
-    "category": "基础功能词",
-    "example": "I can favourite.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：最喜欢的。"
-  },
-  {
-    "id": "primary-98",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "birthday",
-    "cn": "生日",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a birthday.",
-    "sentence": "This is a ___.",
-    "hint": "这是：生日。"
-  },
-  {
-    "id": "primary-99",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "fly",
-    "cn": "放飞",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can fly.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：放飞。"
-  },
-  {
-    "id": "primary-100",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "snowstorm",
-    "cn": "雪暴，暴风雪",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a snowstorm.",
-    "sentence": "This is a ___.",
-    "hint": "这是：雪暴，暴风雪。"
-  },
-  {
-    "id": "primary-101",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "beach",
-    "cn": "海滩，沙滩",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a beach.",
-    "sentence": "This is a ___.",
-    "hint": "这是：海滩，沙滩。"
-  },
-  {
-    "id": "primary-102",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sea",
-    "cn": "海，海洋",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a sea.",
-    "sentence": "This is a ___.",
-    "hint": "这是：海，海洋。"
-  },
-  {
-    "id": "primary-103",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "equator",
-    "cn": "赤道",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a equator.",
-    "sentence": "This is a ___.",
-    "hint": "这是：赤道。"
-  },
-  {
-    "id": "primary-104",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "round",
-    "cn": "循环地，周而复始地",
-    "pos": "副词",
-    "scene": "时间数字",
-    "category": "时间数量",
-    "example": "He runs round.",
-    "sentence": "He runs ___.",
-    "hint": "这里需要表示：循环地，周而复始地。"
-  },
-  {
-    "id": "primary-105",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "all year round",
-    "cn": "全年",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a all year round.",
-    "sentence": "This is a ___.",
-    "hint": "这是：全年。"
-  },
-  {
-    "id": "primary-106",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "quite",
-    "cn": "非常，十分",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a quite.",
-    "sentence": "This is a ___.",
-    "hint": "这是：非常，十分。"
-  },
-  {
-    "id": "primary-107",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "join",
-    "cn": "参与，加入",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a join.",
-    "sentence": "This is a ___.",
-    "hint": "这是：参与，加入。"
-  },
-  {
-    "id": "primary-108",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "bus",
-    "cn": "公交车，公共汽车",
-    "pos": "名词",
-    "scene": "旅行交通",
-    "category": "交通旅行",
-    "example": "This is a bus.",
-    "sentence": "This is a ___.",
-    "hint": "这是：公交车，公共汽车。"
-  },
-  {
-    "id": "primary-109",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "car",
-    "cn": "汽车",
-    "pos": "名词",
-    "scene": "旅行交通",
-    "category": "基础功能词",
-    "example": "This is a car.",
-    "sentence": "This is a ___.",
-    "hint": "这是：汽车。"
-  },
-  {
-    "id": "primary-110",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "train",
-    "cn": "火车，列车",
-    "pos": "名词",
-    "scene": "旅行交通",
-    "category": "基础功能词",
-    "example": "This is a train.",
-    "sentence": "This is a ___.",
-    "hint": "这是：火车，列车。"
-  },
-  {
-    "id": "primary-111",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "city",
-    "cn": "城市",
-    "pos": "名词",
-    "scene": "社会文化",
-    "category": "场所方位",
-    "example": "This is a city.",
-    "sentence": "This is a ___.",
-    "hint": "这是：城市。"
-  },
-  {
-    "id": "primary-112",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "town",
-    "cn": "镇，城镇",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a town.",
-    "sentence": "This is a ___.",
-    "hint": "这是：镇，城镇。"
-  },
-  {
-    "id": "primary-113",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "ship",
-    "cn": "大船",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "交通旅行",
-    "example": "This is a ship.",
-    "sentence": "This is a ___.",
-    "hint": "这是：大船。"
-  },
-  {
-    "id": "primary-114",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "plane",
-    "cn": "飞机",
-    "pos": "名词",
-    "scene": "旅行交通",
-    "category": "基础功能词",
-    "example": "This is a plane.",
-    "sentence": "This is a ___.",
-    "hint": "这是：飞机。"
-  },
-  {
-    "id": "primary-115",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sky",
-    "cn": "天，天空",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "自然万物",
-    "example": "This is a sky.",
-    "sentence": "This is a ___.",
-    "hint": "这是：天，天空。"
-  },
-  {
-    "id": "primary-116",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "place",
-    "cn": "地方，地点",
-    "pos": "副词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "He runs place.",
-    "sentence": "He runs ___.",
-    "hint": "这里需要表示：地方，地点。"
-  },
-  {
-    "id": "primary-117",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "near",
-    "cn": "（距离）近的",
-    "pos": "介词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "The book is near the desk.",
-    "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：（距离）近的。"
-  },
-  {
-    "id": "primary-118",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "travel",
-    "cn": "旅行",
-    "pos": "动词",
-    "scene": "旅行交通",
-    "category": "基础功能词",
-    "example": "I can travel.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：旅行。"
-  },
-  {
-    "id": "primary-119",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "way",
-    "cn": "方式，方法",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a way.",
-    "sentence": "This is a ___.",
-    "hint": "这是：方式，方法。"
-  },
-  {
-    "id": "primary-120",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "picnic",
-    "cn": "野餐",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a picnic.",
-    "sentence": "This is a ___.",
-    "hint": "这是：野餐。"
-  },
-  {
-    "id": "primary-121",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "minute",
-    "cn": "分钟",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a minute.",
-    "sentence": "This is a ___.",
-    "hint": "这是：分钟。"
-  },
-  {
-    "id": "primary-122",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "wear",
-    "cn": "穿；戴",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can wear.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：穿；戴。"
-  },
-  {
-    "id": "primary-123",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "live",
-    "cn": "住，居住",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can live.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：住，居住。"
-  },
-  {
-    "id": "primary-124",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "away",
-    "cn": "离开，相距",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a away.",
-    "sentence": "This is a ___.",
-    "hint": "这是：离开，相距。"
-  },
-  {
-    "id": "primary-125",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "truck",
-    "cn": "货车，卡车",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a truck.",
-    "sentence": "This is a ___.",
-    "hint": "这是：货车，卡车。"
-  },
-  {
-    "id": "primary-126",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "bamboo",
-    "cn": "竹，竹子",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a bamboo.",
-    "sentence": "This is a ___.",
-    "hint": "这是：竹，竹子。"
-  },
-  {
-    "id": "primary-127",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "bike",
-    "cn": "自行车",
-    "pos": "名词",
-    "scene": "旅行交通",
-    "category": "交通旅行",
-    "example": "This is a bike.",
-    "sentence": "This is a ___.",
-    "hint": "这是：自行车。"
-  },
-  {
-    "id": "primary-128",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "ring",
-    "cn": "（钟、铃）鸣响",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a ring.",
-    "sentence": "This is a ___.",
-    "hint": "这是：（钟、铃）鸣响。"
-  },
-  {
-    "id": "primary-129",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "beep",
-    "cn": "（使）（汽车喇叭）鸣响",
-    "pos": "动词",
-    "scene": "旅行交通",
-    "category": "基础功能词",
-    "example": "I can beep.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：（使）（汽车喇叭）鸣响。"
-  },
-  {
-    "id": "primary-130",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "subway",
-    "cn": "地铁",
-    "pos": "副词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "He runs subway.",
-    "sentence": "He runs ___.",
-    "hint": "这里需要表示：地铁。"
-  },
-  {
-    "id": "primary-131",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "whoosh",
-    "cn": "（呼呼地）飞快移动",
-    "pos": "副词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "He runs whoosh.",
-    "sentence": "He runs ___.",
-    "hint": "这里需要表示：（呼呼地）飞快移动。"
-  },
-  {
-    "id": "primary-132",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "tram",
-    "cn": "有轨电车",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a tram.",
-    "sentence": "This is a ___.",
-    "hint": "这是：有轨电车。"
-  },
-  {
-    "id": "primary-133",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "chug",
-    "cn": "（汽车、火车等）突突地缓慢前进",
-    "pos": "副词",
-    "scene": "旅行交通",
-    "category": "交通旅行",
-    "example": "He runs chug.",
-    "sentence": "He runs ___.",
-    "hint": "这里需要表示：（汽车、火车等）突突地缓慢前进。"
-  },
-  {
-    "id": "primary-134",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "wheel",
-    "cn": "车轮",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a wheel.",
-    "sentence": "This is a ___.",
-    "hint": "这是：车轮。"
-  },
-  {
-    "id": "primary-135",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "left",
-    "cn": "向左，朝左",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a left.",
-    "sentence": "This is a ___.",
-    "hint": "这是：向左，朝左。"
-  },
-  {
-    "id": "primary-136",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "straight",
-    "cn": "笔直地",
-    "pos": "副词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "He runs straight.",
-    "sentence": "He runs ___.",
-    "hint": "这里需要表示：笔直地。"
-  },
-  {
-    "id": "primary-137",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "library",
-    "cn": "图书室；图书馆",
-    "pos": "名词",
-    "scene": "学校课堂",
-    "category": "基础功能词",
-    "example": "This is a library.",
-    "sentence": "This is a ___.",
-    "hint": "这是：图书室；图书馆。"
-  },
-  {
-    "id": "primary-138",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "centre",
-    "cn": "中心",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a centre.",
-    "sentence": "This is a ___.",
-    "hint": "这是：中心。"
-  },
-  {
-    "id": "primary-139",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cinema",
-    "cn": "电影院",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a cinema.",
-    "sentence": "This is a ___.",
-    "hint": "这是：电影院。"
-  },
-  {
-    "id": "primary-140",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "hospital",
-    "cn": "医院",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is hospital.",
-    "sentence": "It is ___.",
-    "hint": "它是：医院。"
-  },
-  {
-    "id": "primary-141",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "supermarket",
-    "cn": "超市",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a supermarket.",
-    "sentence": "This is a ___.",
-    "hint": "这是：超市。"
-  },
-  {
-    "id": "primary-142",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "museum",
-    "cn": "博物馆，博物院",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "抽象概念",
-    "example": "This is a museum.",
-    "sentence": "This is a ___.",
-    "hint": "这是：博物馆，博物院。"
-  },
-  {
-    "id": "primary-143",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "tomorrow",
-    "cn": "（在）明天",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a tomorrow.",
-    "sentence": "This is a ___.",
-    "hint": "这是：（在）明天。"
-  },
-  {
-    "id": "primary-144",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "woman",
-    "cn": "成年女子，妇女",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a woman.",
-    "sentence": "This is a ___.",
-    "hint": "这是：成年女子，妇女。"
-  },
-  {
-    "id": "primary-145",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "wish",
-    "cn": "愿望",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a wish.",
-    "sentence": "This is a ___.",
-    "hint": "这是：愿望。"
-  },
-  {
-    "id": "primary-146",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "step",
-    "cn": "步；一步（的距离）",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "时间数量",
-    "example": "It is step.",
-    "sentence": "It is ___.",
-    "hint": "它是：步；一步（的距离）。"
-  },
-  {
-    "id": "primary-147",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "own",
-    "cn": "自己的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is own.",
-    "sentence": "It is ___.",
-    "hint": "它是：自己的。"
-  },
-  {
-    "id": "primary-148",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "on one's own",
-    "cn": "独立地",
-    "pos": "副词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "He runs on one's own.",
-    "sentence": "He runs ___.",
-    "hint": "这里需要表示：独立地。"
-  },
-  {
-    "id": "primary-149",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cross",
-    "cn": "横穿",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a cross.",
-    "sentence": "This is a ___.",
-    "hint": "这是：横穿。"
-  },
-  {
-    "id": "primary-150",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "careful",
-    "cn": "谨慎的",
-    "pos": "形容词",
-    "scene": "旅行交通",
-    "category": "基础功能词",
-    "example": "It is careful.",
-    "sentence": "It is ___.",
-    "hint": "它是：谨慎的。"
-  },
-  {
-    "id": "primary-151",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "be careful",
-    "cn": "当心，小心",
-    "pos": "动词",
-    "scene": "旅行交通",
-    "category": "基础功能词",
-    "example": "I can be careful.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：当心，小心。"
-  },
-  {
-    "id": "primary-152",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "underground",
-    "cn": "在地（面）下",
-    "pos": "副词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "He runs underground.",
-    "sentence": "He runs ___.",
-    "hint": "这里需要表示：在地（面）下。"
-  },
-  {
-    "id": "primary-153",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "take off",
-    "cn": "脱下，脱掉（衣物）",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can take off.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：脱下，脱掉（衣物）。"
-  },
-  {
-    "id": "primary-154",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "shine",
-    "cn": "发光，发亮",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a shine.",
-    "sentence": "This is a ___.",
-    "hint": "这是：发光，发亮。"
-  },
-  {
-    "id": "primary-155",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cry",
-    "cn": "哭，哭泣",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a cry.",
-    "sentence": "This is a ___.",
-    "hint": "这是：哭，哭泣。"
-  },
-  {
-    "id": "primary-156",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "I'm fine.",
-    "cn": "我很好。",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a I'm fine..",
-    "sentence": "This is a ___.",
-    "hint": "这是：我很好。。"
-  },
-  {
-    "id": "primary-157",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "Martin",
-    "cn": "马丁",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a Martin.",
-    "sentence": "This is a ___.",
-    "hint": "这是：马丁。"
-  },
-  {
-    "id": "primary-158",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "Mike",
-    "cn": "迈克",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a Mike.",
-    "sentence": "This is a ___.",
-    "hint": "这是：迈克。"
-  },
-  {
-    "id": "primary-159",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "restaurant",
-    "cn": "饭店，餐馆",
-    "pos": "名词",
-    "scene": "饮食健康",
-    "category": "基础功能词",
-    "example": "This is a restaurant.",
-    "sentence": "This is a ___.",
-    "hint": "这是：饭店，餐馆。"
-  },
-  {
-    "id": "primary-160",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "duck",
-    "cn": "鸭",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a duck.",
-    "sentence": "This is a ___.",
-    "hint": "这是：鸭。"
-  },
-  {
-    "id": "primary-161",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "at last",
-    "cn": "终于",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a at last.",
-    "sentence": "This is a ___.",
-    "hint": "这是：终于。"
-  },
-  {
-    "id": "primary-162",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "animal",
-    "cn": "动物",
-    "pos": "形容词",
-    "scene": "自然环境",
-    "category": "基础功能词",
-    "example": "It is animal.",
-    "sentence": "It is ___.",
-    "hint": "它是：动物。"
-  },
-  {
-    "id": "primary-163",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "panda",
-    "cn": "大熊猫",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a panda.",
-    "sentence": "This is a ___.",
-    "hint": "这是：大熊猫。"
-  },
-  {
-    "id": "primary-164",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "elephant",
-    "cn": "象",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a elephant.",
-    "sentence": "This is a ___.",
-    "hint": "这是：象。"
-  },
-  {
-    "id": "primary-165",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "bear",
-    "cn": "熊",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a bear.",
-    "sentence": "This is a ___.",
-    "hint": "这是：熊。"
-  },
-  {
-    "id": "primary-166",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "giraffe",
-    "cn": "长颈鹿",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a giraffe.",
-    "sentence": "This is a ___.",
-    "hint": "这是：长颈鹿。"
-  },
-  {
-    "id": "primary-167",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "monkey",
-    "cn": "猴",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a monkey.",
-    "sentence": "This is a ___.",
-    "hint": "这是：猴。"
-  },
-  {
-    "id": "primary-168",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "them",
-    "cn": "他们；她们；它们",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "them is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：他们；她们；它们。"
-  },
-  {
-    "id": "primary-169",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "draw",
-    "cn": "画，绘画",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can draw.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：画，绘画。"
-  },
-  {
-    "id": "primary-170",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "tiger",
-    "cn": "老虎，虎",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a tiger.",
-    "sentence": "This is a ___.",
-    "hint": "这是：老虎，虎。"
-  },
-  {
-    "id": "primary-171",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "strong",
-    "cn": "强壮的，力气大的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is strong.",
-    "sentence": "It is ___.",
-    "hint": "它是：强壮的，力气大的。"
-  },
-  {
-    "id": "primary-172",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "short",
-    "cn": "个子矮的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is short.",
-    "sentence": "It is ___.",
-    "hint": "它是：个子矮的。"
-  },
-  {
-    "id": "primary-173",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "white",
-    "cn": "白的，白色的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is white.",
-    "sentence": "It is ___.",
-    "hint": "它是：白的，白色的。"
-  },
-  {
-    "id": "primary-174",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "brown",
-    "cn": "棕色的；褐色的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is brown.",
-    "sentence": "It is ___.",
-    "hint": "它是：棕色的；褐色的。"
-  },
-  {
-    "id": "primary-175",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "tall",
-    "cn": "高的，高大的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is tall.",
-    "sentence": "It is ___.",
-    "hint": "它是：高的，高大的。"
-  },
-  {
-    "id": "primary-176",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "him",
-    "cn": "他；它（指雄性动物）",
-    "pos": "代词",
-    "scene": "自然环境",
-    "category": "基础功能词",
-    "example": "him is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：他；它（指雄性动物）。"
-  },
-  {
-    "id": "primary-177",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "ostrich",
-    "cn": "鸵鸟",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "自然万物",
-    "example": "This is a ostrich.",
-    "sentence": "This is a ___.",
-    "hint": "这是：鸵鸟。"
-  },
-  {
-    "id": "primary-178",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "fast",
-    "cn": "快的，快速的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is fast.",
-    "sentence": "It is ___.",
-    "hint": "它是：快的，快速的。"
-  },
-  {
-    "id": "primary-179",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "chameleon",
-    "cn": "变色龙",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a chameleon.",
-    "sentence": "This is a ___.",
-    "hint": "这是：变色龙。"
-  },
-  {
-    "id": "primary-180",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "small",
-    "cn": "小的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is small.",
-    "sentence": "It is ___.",
-    "hint": "它是：小的。"
-  },
-  {
-    "id": "primary-181",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "lion",
-    "cn": "狮子",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a lion.",
-    "sentence": "This is a ___.",
-    "hint": "这是：狮子。"
-  },
-  {
-    "id": "primary-182",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cute",
-    "cn": "可爱的，漂亮的，逗人喜爱的",
-    "pos": "形容词",
-    "scene": "情感品质",
-    "category": "人物关系",
-    "example": "It is cute.",
-    "sentence": "It is ___.",
-    "hint": "它是：可爱的，漂亮的，逗人喜爱的。"
-  },
-  {
-    "id": "primary-183",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "out",
-    "cn": "往外，向外，出来",
-    "pos": "介词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "The book is out the desk.",
-    "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：往外，向外，出来。"
-  },
-  {
-    "id": "primary-184",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "zoo",
-    "cn": "动物园",
-    "pos": "名词",
-    "scene": "自然环境",
-    "category": "自然万物",
-    "example": "This is a zoo.",
-    "sentence": "This is a ___.",
-    "hint": "这是：动物园。"
-  },
-  {
-    "id": "primary-185",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "go",
-    "cn": "走，去",
-    "pos": "动词",
-    "scene": "旅行交通",
-    "category": "动作行为",
-    "example": "I can go.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：走，去。"
-  },
-  {
-    "id": "primary-186",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "zebra",
-    "cn": "斑马",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a zebra.",
-    "sentence": "This is a ___.",
-    "hint": "这是：斑马。"
-  },
-  {
-    "id": "primary-187",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "move",
-    "cn": "移动",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can move.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：移动。"
-  },
-  {
-    "id": "primary-188",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "road",
-    "cn": "路，道路",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a road.",
-    "sentence": "This is a ___.",
-    "hint": "这是：路，道路。"
-  },
-  {
-    "id": "primary-189",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "dance",
-    "cn": "跳舞",
-    "pos": "动词",
-    "scene": "运动娱乐",
-    "category": "基础功能词",
-    "example": "I can dance.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：跳舞。"
-  },
-  {
-    "id": "primary-190",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "along",
-    "cn": "一起",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a along.",
-    "sentence": "This is a ___.",
-    "hint": "这是：一起。"
-  },
-  {
-    "id": "primary-191",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "which",
-    "cn": "哪一个；哪些",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "which is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：哪一个；哪些。"
-  },
-  {
-    "id": "primary-192",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "word",
-    "cn": "字，词，单词",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a word.",
-    "sentence": "This is a ___.",
-    "hint": "这是：字，词，单词。"
-  },
-  {
-    "id": "primary-193",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "stone",
-    "cn": "石头",
-    "pos": "数词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "I have stone books.",
-    "sentence": "I have ___ books.",
-    "hint": "数量是：石头。"
-  },
-  {
-    "id": "primary-194",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "hat",
-    "cn": "帽子",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a hat.",
-    "sentence": "This is a ___.",
-    "hint": "这是：帽子。"
-  },
-  {
-    "id": "primary-195",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "shoe",
-    "cn": "鞋",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a shoe.",
-    "sentence": "This is a ___.",
-    "hint": "这是：鞋。"
-  },
-  {
-    "id": "primary-196",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "body",
-    "cn": "身体",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a body.",
-    "sentence": "This is a ___.",
-    "hint": "这是：身体。"
-  },
-  {
-    "id": "primary-197",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "head",
-    "cn": "头，头部",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a head.",
-    "sentence": "This is a ___.",
-    "hint": "这是：头，头部。"
-  },
-  {
-    "id": "primary-198",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "eye",
-    "cn": "眼睛",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a eye.",
-    "sentence": "This is a ___.",
-    "hint": "这是：眼睛。"
-  },
-  {
-    "id": "primary-199",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "ear",
-    "cn": "耳朵",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a ear.",
-    "sentence": "This is a ___.",
-    "hint": "这是：耳朵。"
-  },
-  {
-    "id": "primary-200",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "mouth",
-    "cn": "嘴，口",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a mouth.",
-    "sentence": "This is a ___.",
-    "hint": "这是：嘴，口。"
-  },
-  {
-    "id": "primary-201",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "nose",
-    "cn": "鼻子",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a nose.",
-    "sentence": "This is a ___.",
-    "hint": "这是：鼻子。"
-  },
-  {
-    "id": "primary-202",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "touch",
-    "cn": "触摸，碰",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a touch.",
-    "sentence": "This is a ___.",
-    "hint": "这是：触摸，碰。"
-  },
-  {
-    "id": "primary-203",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "hand",
-    "cn": "手",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a hand.",
-    "sentence": "This is a ___.",
-    "hint": "这是：手。"
-  },
-  {
-    "id": "primary-204",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "arm",
-    "cn": "手臂，上肢",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a arm.",
-    "sentence": "This is a ___.",
-    "hint": "这是：手臂，上肢。"
-  },
-  {
-    "id": "primary-205",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "leg",
-    "cn": "腿",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a leg.",
-    "sentence": "This is a ___.",
-    "hint": "这是：腿。"
-  },
-  {
-    "id": "primary-206",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "foot",
-    "cn": "脚",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a foot.",
-    "sentence": "This is a ___.",
-    "hint": "这是：脚。"
-  },
-  {
-    "id": "primary-207",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "feet",
-    "cn": "（复数）脚",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "其他常用词",
-    "example": "This is a feet.",
-    "sentence": "This is a ___.",
-    "hint": "这是：（复数）脚。"
-  },
-  {
-    "id": "primary-208",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "toe",
-    "cn": "脚趾",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a toe.",
-    "sentence": "This is a ___.",
-    "hint": "这是：脚趾。"
-  },
-  {
-    "id": "primary-209",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "get",
-    "cn": "获得，得到",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can get.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：获得，得到。"
-  },
-  {
-    "id": "primary-210",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "snowy",
-    "cn": "多雪的，积雪的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is snowy.",
-    "sentence": "It is ___.",
-    "hint": "它是：多雪的，积雪的。"
-  },
-  {
-    "id": "primary-211",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "child",
-    "cn": "儿童，小孩",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "人物关系",
-    "example": "This is a child.",
-    "sentence": "This is a ___.",
-    "hint": "这是：儿童，小孩。"
-  },
-  {
-    "id": "primary-212",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "children",
-    "cn": "（复数）儿童，小孩",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "人物关系",
-    "example": "This is a children.",
-    "sentence": "This is a ___.",
-    "hint": "这是：（复数）儿童，小孩。"
-  },
-  {
-    "id": "primary-213",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "work",
-    "cn": "事情，工作",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can work.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：事情，工作。"
-  },
-  {
-    "id": "primary-214",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "snowman",
-    "cn": "雪人",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a snowman.",
-    "sentence": "This is a ___.",
-    "hint": "这是：雪人。"
-  },
-  {
-    "id": "primary-215",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "long",
-    "cn": "长的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is long.",
-    "sentence": "It is ___.",
-    "hint": "它是：长的。"
-  },
-  {
-    "id": "primary-216",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "rock",
-    "cn": "石头，石子",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a rock.",
-    "sentence": "This is a ___.",
-    "hint": "这是：石头，石子。"
-  },
-  {
-    "id": "primary-217",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cool",
-    "cn": "时髦的，酷的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is cool.",
-    "sentence": "It is ___.",
-    "hint": "它是：时髦的，酷的。"
-  },
-  {
-    "id": "primary-218",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "best",
-    "cn": "最好的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is best.",
-    "sentence": "It is ___.",
-    "hint": "它是：最好的。"
-  },
-  {
-    "id": "primary-219",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "part",
-    "cn": "器官；部位；组成部分",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a part.",
-    "sentence": "This is a ___.",
-    "hint": "这是：器官；部位；组成部分。"
-  },
-  {
-    "id": "primary-220",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "well",
-    "cn": "嗯，这个；健康的",
-    "pos": "形容词",
-    "scene": "饮食健康",
-    "category": "情感品质",
-    "example": "It is well.",
-    "sentence": "It is ___.",
-    "hint": "它是：嗯，这个；健康的。"
-  },
-  {
-    "id": "primary-221",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "hear",
-    "cn": "听见",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can hear.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：听见。"
-  },
-  {
-    "id": "primary-222",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "smell",
-    "cn": "闻到，嗅到",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a smell.",
-    "sentence": "This is a ___.",
-    "hint": "这是：闻到，嗅到。"
-  },
-  {
-    "id": "primary-223",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "talk",
-    "cn": "说话",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a talk.",
-    "sentence": "This is a ___.",
-    "hint": "这是：说话。"
-  },
-  {
-    "id": "primary-224",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "eat",
-    "cn": "吃",
-    "pos": "动词",
-    "scene": "饮食健康",
-    "category": "基础功能词",
-    "example": "I can eat.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：吃。"
-  },
-  {
-    "id": "primary-225",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "hey",
-    "cn": "嘿，喂",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a hey.",
-    "sentence": "This is a ___.",
-    "hint": "这是：嘿，喂。"
-  },
-  {
-    "id": "primary-226",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "stop",
-    "cn": "停止，终止",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can stop.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：停止，终止。"
-  },
-  {
-    "id": "primary-227",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "important",
-    "cn": "重要的，重大的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is important.",
-    "sentence": "It is ___.",
-    "hint": "它是：重要的，重大的。"
-  },
-  {
-    "id": "primary-228",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "team",
-    "cn": "队",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a team.",
-    "sentence": "This is a ___.",
-    "hint": "这是：队。"
-  },
-  {
-    "id": "primary-229",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "dream",
-    "cn": "梦",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a dream.",
-    "sentence": "This is a ___.",
-    "hint": "这是：梦。"
-  },
-  {
-    "id": "primary-230",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "ask",
-    "cn": "问，提问",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can ask.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：问，提问。"
-  },
-  {
-    "id": "primary-231",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "answer",
-    "cn": "回答，答复",
-    "pos": "动词",
-    "scene": "学校课堂",
-    "category": "基础功能词",
-    "example": "I can answer.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：回答，答复。"
-  },
-  {
-    "id": "primary-232",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "hair",
-    "cn": "头发",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a hair.",
-    "sentence": "This is a ___.",
-    "hint": "这是：头发。"
-  },
-  {
-    "id": "primary-233",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "different",
-    "cn": "不同的，不一样的，有差异的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "时间数量",
-    "example": "It is different.",
-    "sentence": "It is ___.",
-    "hint": "它是：不同的，不一样的，有差异的。"
-  },
-  {
-    "id": "primary-234",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "face",
-    "cn": "脸",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a face.",
-    "sentence": "This is a ___.",
-    "hint": "这是：脸。"
-  },
-  {
-    "id": "primary-235",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "yummy",
-    "cn": "美味的，很好吃的",
-    "pos": "形容词",
-    "scene": "饮食健康",
-    "category": "情感品质",
-    "example": "It is yummy.",
-    "sentence": "It is ___.",
-    "hint": "它是：美味的，很好吃的。"
-  },
-  {
-    "id": "primary-236",
+    "id": "primary-md-0",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "diet",
+    "phonetic": "/ˈdaɪət/",
+    "cn": "日常食物；规定饮食",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "a healthy diet",
+      "go on a diet"
+    ],
+    "examples": [
+      "Fruit and vegetables are part of a healthy diet.",
+      "He goes on a diet to stay healthy."
+    ],
+    "example": "Fruit and vegetables are part of a healthy diet.",
+    "sentence": "Fruit and vegetables are part of a healthy ___.",
+    "hint": "选择合适的单词：日常食物；规定饮食"
+  },
+  {
+    "id": "primary-md-1",
     "level": "primary",
     "levelLabel": "小学版",
     "word": "food",
+    "phonetic": "/fuːd/",
     "cn": "食物",
     "pos": "名词",
-    "scene": "饮食健康",
-    "category": "饮食生活",
-    "example": "This is a food.",
-    "sentence": "This is a ___.",
-    "hint": "这是：食物。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "healthy food",
+      "fast food"
+    ],
+    "examples": [
+      "Healthy food gives us energy.",
+      "Fast food is not good every day."
+    ],
+    "example": "Healthy food gives us energy.",
+    "sentence": "Healthy ___ gives us energy.",
+    "hint": "选择合适的单词：食物"
   },
   {
-    "id": "primary-237",
+    "id": "primary-md-2",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "strawberry",
-    "cn": "草莓",
+    "word": "meal",
+    "phonetic": "/miːl/",
+    "cn": "一顿饭",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a strawberry.",
-    "sentence": "This is a ___.",
-    "hint": "这是：草莓。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "a big meal",
+      "enjoy a meal"
+    ],
+    "examples": [
+      "We enjoyed a warm meal after class.",
+      "A good meal can make people happy."
+    ],
+    "example": "We enjoyed a warm meal after class.",
+    "sentence": "We enjoyed a warm ___ after class.",
+    "hint": "选择合适的单词：一顿饭"
   },
   {
-    "id": "primary-238",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "tomato",
-    "cn": "番茄，西红柿",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a tomato.",
-    "sentence": "This is a ___.",
-    "hint": "这是：番茄，西红柿。"
-  },
-  {
-    "id": "primary-239",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "noodle",
-    "cn": "（一般用复数）面条",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "时间数量",
-    "example": "This is a noodle.",
-    "sentence": "This is a ___.",
-    "hint": "这是：（一般用复数）面条。"
-  },
-  {
-    "id": "primary-240",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "carrot",
-    "cn": "胡萝卜",
-    "pos": "名词",
-    "scene": "旅行交通",
-    "category": "基础功能词",
-    "example": "This is a carrot.",
-    "sentence": "This is a ___.",
-    "hint": "这是：胡萝卜。"
-  },
-  {
-    "id": "primary-241",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "chicken",
-    "cn": "鸡肉；鸡",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a chicken.",
-    "sentence": "This is a ___.",
-    "hint": "这是：鸡肉；鸡。"
-  },
-  {
-    "id": "primary-242",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "fish",
-    "cn": "鱼肉；鱼",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a fish.",
-    "sentence": "This is a ___.",
-    "hint": "这是：鱼肉；鱼。"
-  },
-  {
-    "id": "primary-243",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "rice",
-    "cn": "米；米饭",
-    "pos": "名词",
-    "scene": "饮食健康",
-    "category": "饮食生活",
-    "example": "This is a rice.",
-    "sentence": "This is a ___.",
-    "hint": "这是：米；米饭。"
-  },
-  {
-    "id": "primary-244",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "meat",
-    "cn": "肉",
-    "pos": "名词",
-    "scene": "饮食健康",
-    "category": "基础功能词",
-    "example": "This is a meat.",
-    "sentence": "This is a ___.",
-    "hint": "这是：肉。"
-  },
-  {
-    "id": "primary-245",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "fruit",
-    "cn": "水果",
-    "pos": "名词",
-    "scene": "饮食健康",
-    "category": "饮食生活",
-    "example": "This is a fruit.",
-    "sentence": "This is a ___.",
-    "hint": "这是：水果。"
-  },
-  {
-    "id": "primary-246",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "vegetable",
-    "cn": "蔬菜",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is vegetable.",
-    "sentence": "It is ___.",
-    "hint": "它是：蔬菜。"
-  },
-  {
-    "id": "primary-247",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "salad",
-    "cn": "沙拉",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a salad.",
-    "sentence": "This is a ___.",
-    "hint": "这是：沙拉。"
-  },
-  {
-    "id": "primary-248",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "banana",
-    "cn": "香蕉",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a banana.",
-    "sentence": "This is a ___.",
-    "hint": "这是：香蕉。"
-  },
-  {
-    "id": "primary-249",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "bean",
-    "cn": "豆子",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a bean.",
-    "sentence": "This is a ___.",
-    "hint": "这是：豆子。"
-  },
-  {
-    "id": "primary-250",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cucumber",
-    "cn": "黄瓜",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a cucumber.",
-    "sentence": "This is a ___.",
-    "hint": "这是：黄瓜。"
-  },
-  {
-    "id": "primary-251",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "then",
-    "cn": "那么；然后，接下来",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a then.",
-    "sentence": "This is a ___.",
-    "hint": "这是：那么；然后，接下来。"
-  },
-  {
-    "id": "primary-252",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "about",
-    "cn": "关于",
-    "pos": "介词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "The book is about the desk.",
-    "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：关于。"
-  },
-  {
-    "id": "primary-253",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "what about…",
-    "cn": "……怎么样",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a what about….",
-    "sentence": "This is a ___.",
-    "hint": "这是：……怎么样。"
-  },
-  {
-    "id": "primary-254",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "grape",
-    "cn": "葡萄",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a grape.",
-    "sentence": "This is a ___.",
-    "hint": "这是：葡萄。"
-  },
-  {
-    "id": "primary-255",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "juice",
-    "cn": "汁",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a juice.",
-    "sentence": "This is a ___.",
-    "hint": "这是：汁。"
-  },
-  {
-    "id": "primary-256",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "why",
-    "cn": "为什么",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a why.",
-    "sentence": "This is a ___.",
-    "hint": "这是：为什么。"
-  },
-  {
-    "id": "primary-257",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "early",
-    "cn": "提早，提前；早的",
-    "pos": "副词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "He runs early.",
-    "sentence": "He runs ___.",
-    "hint": "这里需要表示：提早，提前；早的。"
-  },
-  {
-    "id": "primary-258",
+    "id": "primary-md-3",
     "level": "primary",
     "levelLabel": "小学版",
     "word": "breakfast",
-    "cn": "早餐，早饭",
+    "phonetic": "/ˈbrekfəst/",
+    "cn": "早餐；早饭",
     "pos": "名词",
-    "scene": "饮食健康",
-    "category": "基础功能词",
-    "example": "This is a breakfast.",
-    "sentence": "This is a ___.",
-    "hint": "这是：早餐，早饭。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "have breakfast",
+      "eat breakfast"
+    ],
+    "examples": [
+      "I have breakfast at seven.",
+      "She eats breakfast with her family."
+    ],
+    "example": "I have breakfast at seven.",
+    "sentence": "I have ___ at seven.",
+    "hint": "选择合适的单词：早餐；早饭"
   },
   {
-    "id": "primary-259",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "time",
-    "cn": "时间",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "时间数量",
-    "example": "This is a time.",
-    "sentence": "This is a ___.",
-    "hint": "这是：时间。"
-  },
-  {
-    "id": "primary-260",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "still",
-    "cn": "还，仍然",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a still.",
-    "sentence": "This is a ___.",
-    "hint": "这是：还，仍然。"
-  },
-  {
-    "id": "primary-261",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "ready",
-    "cn": "准备好的",
-    "pos": "形容词",
-    "scene": "学校课堂",
-    "category": "基础功能词",
-    "example": "It is ready.",
-    "sentence": "It is ___.",
-    "hint": "它是：准备好的。"
-  },
-  {
-    "id": "primary-262",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "corn",
-    "cn": "玉米",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a corn.",
-    "sentence": "This is a ___.",
-    "hint": "这是：玉米。"
-  },
-  {
-    "id": "primary-263",
+    "id": "primary-md-4",
     "level": "primary",
     "levelLabel": "小学版",
     "word": "lunch",
-    "cn": "午餐",
+    "phonetic": "/lʌntʃ/",
+    "cn": "午餐；午饭",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "饮食生活",
-    "example": "This is a lunch.",
-    "sentence": "This is a ___.",
-    "hint": "这是：午餐。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "have lunch",
+      "lunch time"
+    ],
+    "examples": [
+      "We have lunch at school.",
+      "Lunch time is at twelve."
+    ],
+    "example": "We have lunch at school.",
+    "sentence": "We have ___ at school.",
+    "hint": "选择合适的单词：午餐；午饭"
   },
   {
-    "id": "primary-264",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "very",
-    "cn": "很，非常",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a very.",
-    "sentence": "This is a ___.",
-    "hint": "这是：很，非常。"
-  },
-  {
-    "id": "primary-265",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "much",
-    "cn": "非常",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a much.",
-    "sentence": "This is a ___.",
-    "hint": "这是：非常。"
-  },
-  {
-    "id": "primary-266",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "very much",
-    "cn": "非常",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a very much.",
-    "sentence": "This is a ___.",
-    "hint": "这是：非常。"
-  },
-  {
-    "id": "primary-267",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "afternoon",
-    "cn": "下午，午后",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a afternoon.",
-    "sentence": "This is a ___.",
-    "hint": "这是：下午，午后。"
-  },
-  {
-    "id": "primary-268",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "tea",
-    "cn": "茶；茶叶",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a tea.",
-    "sentence": "This is a ___.",
-    "hint": "这是：茶；茶叶。"
-  },
-  {
-    "id": "primary-269",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "afternoon tea",
-    "cn": "下午茶",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a afternoon tea.",
-    "sentence": "This is a ___.",
-    "hint": "这是：下午茶。"
-  },
-  {
-    "id": "primary-270",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "every",
-    "cn": "每，每逢，每隔",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "抽象概念",
-    "example": "This is a every.",
-    "sentence": "This is a ___.",
-    "hint": "这是：每，每逢，每隔。"
-  },
-  {
-    "id": "primary-271",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "week",
-    "cn": "星期，周",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "时间数量",
-    "example": "This is a week.",
-    "sentence": "This is a ___.",
-    "hint": "这是：星期，周。"
-  },
-  {
-    "id": "primary-272",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "tree",
-    "cn": "树",
-    "pos": "名词",
-    "scene": "自然环境",
-    "category": "自然万物",
-    "example": "This is a tree.",
-    "sentence": "This is a ___.",
-    "hint": "这是：树。"
-  },
-  {
-    "id": "primary-273",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "milk",
-    "cn": "奶，牛奶",
-    "pos": "名词",
-    "scene": "饮食健康",
-    "category": "饮食生活",
-    "example": "This is a milk.",
-    "sentence": "This is a ___.",
-    "hint": "这是：奶，牛奶。"
-  },
-  {
-    "id": "primary-274",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cupcake",
-    "cn": "杯形蛋糕",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a cupcake.",
-    "sentence": "This is a ___.",
-    "hint": "这是：杯形蛋糕。"
-  },
-  {
-    "id": "primary-275",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sandwich",
-    "cn": "三明治，夹心面包",
-    "pos": "名词",
-    "scene": "饮食健康",
-    "category": "基础功能词",
-    "example": "This is a sandwich.",
-    "sentence": "This is a ___.",
-    "hint": "这是：三明治，夹心面包。"
-  },
-  {
-    "id": "primary-276",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "beef",
-    "cn": "牛肉",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a beef.",
-    "sentence": "This is a ___.",
-    "hint": "这是：牛肉。"
-  },
-  {
-    "id": "primary-277",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "dumpling",
-    "cn": "水饺",
-    "pos": "名词",
-    "scene": "饮食健康",
-    "category": "基础功能词",
-    "example": "This is a dumpling.",
-    "sentence": "This is a ___.",
-    "hint": "这是：水饺。"
-  },
-  {
-    "id": "primary-278",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "hot",
-    "cn": "热的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is hot.",
-    "sentence": "It is ___.",
-    "hint": "它是：热的。"
-  },
-  {
-    "id": "primary-279",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "hot dog",
-    "cn": "热狗",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "This is a hot dog.",
-    "sentence": "This is a ___.",
-    "hint": "这是：热狗。"
-  },
-  {
-    "id": "primary-280",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sushi",
-    "cn": "寿司",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a sushi.",
-    "sentence": "This is a ___.",
-    "hint": "这是：寿司。"
-  },
-  {
-    "id": "primary-281",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cake",
-    "cn": "蛋糕",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a cake.",
-    "sentence": "This is a ___.",
-    "hint": "这是：蛋糕。"
-  },
-  {
-    "id": "primary-282",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "hobby",
-    "cn": "业余爱好，嗜好",
-    "pos": "名词",
-    "scene": "情感品质",
-    "category": "情感品质",
-    "example": "This is a hobby.",
-    "sentence": "This is a ___.",
-    "hint": "这是：业余爱好，嗜好。"
-  },
-  {
-    "id": "primary-283",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "free",
-    "cn": "空闲的，有空的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is free.",
-    "sentence": "It is ___.",
-    "hint": "它是：空闲的，有空的。"
-  },
-  {
-    "id": "primary-284",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "after",
-    "cn": "在……后",
-    "pos": "连词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I like apples after bananas.",
-    "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：在……后。"
-  },
-  {
-    "id": "primary-285",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "swim",
-    "cn": "游泳",
-    "pos": "动词",
-    "scene": "运动娱乐",
-    "category": "动作行为",
-    "example": "I can swim.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：游泳。"
-  },
-  {
-    "id": "primary-286",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "lot",
-    "cn": "许多",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a lot.",
-    "sentence": "This is a ___.",
-    "hint": "这是：许多。"
-  },
-  {
-    "id": "primary-287",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "a lot",
-    "cn": "大量，许多",
-    "pos": "冠词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a lot apple.",
-    "sentence": "This is ___ apple.",
-    "hint": "选择冠词：大量，许多。"
-  },
-  {
-    "id": "primary-288",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "these",
-    "cn": "这些（this的复数形式）",
-    "pos": "代词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "these is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：这些（this的复数形式）。"
-  },
-  {
-    "id": "primary-289",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "tai chi",
-    "cn": "太极",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a tai chi.",
-    "sentence": "This is a ___.",
-    "hint": "这是：太极。"
-  },
-  {
-    "id": "primary-290",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "his",
-    "cn": "他的",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "his is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：他的。"
-  },
-  {
-    "id": "primary-291",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "insect",
-    "cn": "昆虫",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a insect.",
-    "sentence": "This is a ___.",
-    "hint": "这是：昆虫。"
-  },
-  {
-    "id": "primary-292",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "man",
-    "cn": "成年男子，男人",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a man.",
-    "sentence": "This is a ___.",
-    "hint": "这是：成年男子，男人。"
-  },
-  {
-    "id": "primary-293",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "learn",
-    "cn": "学习",
-    "pos": "动词",
-    "scene": "学校课堂",
-    "category": "基础功能词",
-    "example": "I can learn.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：学习。"
-  },
-  {
-    "id": "primary-294",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "plant",
-    "cn": "植物",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a plant.",
-    "sentence": "This is a ___.",
-    "hint": "这是：植物。"
-  },
-  {
-    "id": "primary-295",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "when",
-    "cn": "什么时候",
-    "pos": "连词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I like apples when bananas.",
-    "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：什么时候。"
-  },
-  {
-    "id": "primary-296",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "question",
-    "cn": "问题，疑问",
-    "pos": "名词",
-    "scene": "学校课堂",
-    "category": "基础功能词",
-    "example": "This is a question.",
-    "sentence": "This is a ___.",
-    "hint": "这是：问题，疑问。"
-  },
-  {
-    "id": "primary-297",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "watch",
-    "cn": "观察",
-    "pos": "动词",
-    "scene": "科技媒体",
-    "category": "基础功能词",
-    "example": "I can watch.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：观察。"
-  },
-  {
-    "id": "primary-298",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "study",
-    "cn": "研究；仔细察看",
-    "pos": "动词",
-    "scene": "学校课堂",
-    "category": "动作行为",
-    "example": "I can study.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：研究；仔细察看。"
-  },
-  {
-    "id": "primary-299",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "mantis",
-    "cn": "螳螂",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a mantis.",
-    "sentence": "This is a ___.",
-    "hint": "这是：螳螂。"
-  },
-  {
-    "id": "primary-300",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "stay",
-    "cn": "停留，逗留，留下",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a stay.",
-    "sentence": "This is a ___.",
-    "hint": "这是：停留，逗留，留下。"
-  },
-  {
-    "id": "primary-301",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "interesting",
-    "cn": "有趣的，吸引人的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is interesting.",
-    "sentence": "It is ___.",
-    "hint": "它是：有趣的，吸引人的。"
-  },
-  {
-    "id": "primary-302",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "grow",
-    "cn": "成长，长大",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can grow.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：成长，长大。"
-  },
-  {
-    "id": "primary-303",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "grow up",
-    "cn": "长大",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can grow up.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：长大。"
-  },
-  {
-    "id": "primary-304",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "country",
-    "cn": "国家",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "场所方位",
-    "example": "This is a country.",
-    "sentence": "This is a ___.",
-    "hint": "这是：国家。"
-  },
-  {
-    "id": "primary-305",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "robot",
-    "cn": "机器人",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "人物关系",
-    "example": "This is a robot.",
-    "sentence": "This is a ___.",
-    "hint": "这是：机器人。"
-  },
-  {
-    "id": "primary-306",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "kite",
-    "cn": "风筝",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a kite.",
-    "sentence": "This is a ___.",
-    "hint": "这是：风筝。"
-  },
-  {
-    "id": "primary-307",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "skate",
-    "cn": "滑冰，溜冰",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can skate.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：滑冰，溜冰。"
-  },
-  {
-    "id": "primary-308",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "ice",
-    "cn": "冰",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a ice.",
-    "sentence": "This is a ___.",
-    "hint": "这是：冰。"
-  },
-  {
-    "id": "primary-309",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "ski",
-    "cn": "滑雪",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a ski.",
-    "sentence": "This is a ___.",
-    "hint": "这是：滑雪。"
-  },
-  {
-    "id": "primary-310",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "garden",
-    "cn": "做园艺工作；花园",
-    "pos": "动词",
-    "scene": "自然环境",
-    "category": "基础功能词",
-    "example": "I can garden.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：做园艺工作；花园。"
-  },
-  {
-    "id": "primary-311",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "tick-tock",
-    "cn": "滴答声",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a tick-tock.",
-    "sentence": "This is a ___.",
-    "hint": "这是：滴答声。"
-  },
-  {
-    "id": "primary-312",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "tell",
-    "cn": "告诉，告知",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can tell.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：告诉，告知。"
-  },
-  {
-    "id": "primary-313",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "clock",
-    "cn": "时钟",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a clock.",
-    "sentence": "This is a ___.",
-    "hint": "这是：时钟。"
-  },
-  {
-    "id": "primary-314",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "o'clock",
-    "cn": "点钟",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a o'clock.",
-    "sentence": "This is a ___.",
-    "hint": "这是：点钟。"
-  },
-  {
-    "id": "primary-315",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "fifteen",
-    "cn": "十五",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a fifteen.",
-    "sentence": "This is a ___.",
-    "hint": "这是：十五。"
-  },
-  {
-    "id": "primary-316",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "thirty",
-    "cn": "三十",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "时间数量",
-    "example": "This is a thirty.",
-    "sentence": "This is a ___.",
-    "hint": "这是：三十。"
-  },
-  {
-    "id": "primary-317",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "forty-five",
-    "cn": "四十五",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is forty-five.",
-    "sentence": "It is ___.",
-    "hint": "它是：四十五。"
-  },
-  {
-    "id": "primary-318",
+    "id": "primary-md-5",
     "level": "primary",
     "levelLabel": "小学版",
     "word": "dinner",
-    "cn": "正餐，主餐",
+    "phonetic": "/ˈdɪnər/",
+    "cn": "晚餐；正餐",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a dinner.",
-    "sentence": "This is a ___.",
-    "hint": "这是：正餐，主餐。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "have dinner",
+      "cook dinner"
+    ],
+    "examples": [
+      "Grandma cooked dinner for us.",
+      "We talked about school during dinner."
+    ],
+    "example": "Grandma cooked dinner for us.",
+    "sentence": "Grandma cooked ___ for us.",
+    "hint": "选择合适的单词：晚餐；正餐"
   },
   {
-    "id": "primary-319",
+    "id": "primary-md-6",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "half",
-    "cn": "一半，半",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a half.",
-    "sentence": "This is a ___.",
-    "hint": "这是：一半，半。"
-  },
-  {
-    "id": "primary-320",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "past",
-    "cn": "晚于；在……之后",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a past.",
-    "sentence": "This is a ___.",
-    "hint": "这是：晚于；在……之后。"
-  },
-  {
-    "id": "primary-321",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "half past one / two...",
-    "cn": "1点半/2点半等",
-    "pos": "数词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "I have half past one books.",
-    "sentence": "I have ___ books.",
-    "hint": "数量是：1点半/2点半等。"
-  },
-  {
-    "id": "primary-322",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "urgh",
-    "cn": "呃，呸",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a urgh.",
-    "sentence": "This is a ___.",
-    "hint": "这是：呃，呸。"
-  },
-  {
-    "id": "primary-323",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "homework",
-    "cn": "家庭作业，功课",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "基础功能词",
-    "example": "This is a homework.",
-    "sentence": "This is a ___.",
-    "hint": "这是：家庭作业，功课。"
-  },
-  {
-    "id": "primary-324",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "need",
-    "cn": "需要",
+    "word": "eat",
+    "phonetic": "/iːt/",
+    "cn": "吃",
     "pos": "动词",
+    "rawPos": "v.",
     "scene": "通用基础",
     "category": "动作行为",
-    "example": "I can need.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：需要。"
-  },
-  {
-    "id": "primary-325",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "activity",
-    "cn": "活动",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a activity.",
-    "sentence": "This is a ___.",
-    "hint": "这是：活动。"
-  },
-  {
-    "id": "primary-326",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "her",
-    "cn": "她的",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "her is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：她的。"
-  },
-  {
-    "id": "primary-327",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "class",
-    "cn": "课；班级",
-    "pos": "名词",
-    "scene": "学校课堂",
-    "category": "基础功能词",
-    "example": "This is a class.",
-    "sentence": "This is a ___.",
-    "hint": "这是：课；班级。"
-  },
-  {
-    "id": "primary-328",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "evening",
-    "cn": "傍晚；晚上",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a evening.",
-    "sentence": "This is a ___.",
-    "hint": "这是：傍晚；晚上。"
-  },
-  {
-    "id": "primary-329",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "call",
-    "cn": "（给……）打电话",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a call.",
-    "sentence": "This is a ___.",
-    "hint": "这是：（给……）打电话。"
-  },
-  {
-    "id": "primary-330",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "Monday",
-    "cn": "星期一",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a Monday.",
-    "sentence": "This is a ___.",
-    "hint": "这是：星期一。"
-  },
-  {
-    "id": "primary-331",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "Tuesday",
-    "cn": "星期二",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a Tuesday.",
-    "sentence": "This is a ___.",
-    "hint": "这是：星期二。"
-  },
-  {
-    "id": "primary-332",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "Wednesday",
-    "cn": "星期三",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a Wednesday.",
-    "sentence": "This is a ___.",
-    "hint": "这是：星期三。"
-  },
-  {
-    "id": "primary-333",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "Thursday",
-    "cn": "星期四",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a Thursday.",
-    "sentence": "This is a ___.",
-    "hint": "这是：星期四。"
-  },
-  {
-    "id": "primary-334",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "Friday",
-    "cn": "星期五",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a Friday.",
-    "sentence": "This is a ___.",
-    "hint": "这是：星期五。"
-  },
-  {
-    "id": "primary-335",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "Saturday",
-    "cn": "星期六",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a Saturday.",
-    "sentence": "This is a ___.",
-    "hint": "这是：星期六。"
-  },
-  {
-    "id": "primary-336",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "Sunday",
-    "cn": "星期日",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a Sunday.",
-    "sentence": "This is a ___.",
-    "hint": "这是：星期日。"
-  },
-  {
-    "id": "primary-337",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "park",
-    "cn": "公园",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a park.",
-    "sentence": "This is a ___.",
-    "hint": "这是：公园。"
-  },
-  {
-    "id": "primary-338",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "visit",
-    "cn": "看望，拜访",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can visit.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：看望，拜访。"
-  },
-  {
-    "id": "primary-339",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "lesson",
-    "cn": "课，课程",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a lesson.",
-    "sentence": "This is a ___.",
-    "hint": "这是：课，课程。"
-  },
-  {
-    "id": "primary-340",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "football",
-    "cn": "足球",
-    "pos": "名词",
-    "scene": "运动娱乐",
-    "category": "基础功能词",
-    "example": "This is a football.",
-    "sentence": "This is a ___.",
-    "hint": "这是：足球。"
-  },
-  {
-    "id": "primary-341",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "art",
-    "cn": "美术，艺术",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a art.",
-    "sentence": "This is a ___.",
-    "hint": "这是：美术，艺术。"
-  },
-  {
-    "id": "primary-342",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "subject",
-    "cn": "学科",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a subject.",
-    "sentence": "This is a ___.",
-    "hint": "这是：学科。"
-  },
-  {
-    "id": "primary-343",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "maths",
-    "cn": "数学",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a maths.",
-    "sentence": "This is a ___.",
-    "hint": "这是：数学。"
-  },
-  {
-    "id": "primary-344",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "science",
-    "cn": "科学",
-    "pos": "名词",
-    "scene": "科技媒体",
-    "category": "其他常用词",
-    "example": "This is a science.",
-    "sentence": "This is a ___.",
-    "hint": "这是：科学。"
-  },
-  {
-    "id": "primary-345",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "something",
-    "cn": "某物；某事",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a something.",
-    "sentence": "This is a ___.",
-    "hint": "这是：某物；某事。"
-  },
-  {
-    "id": "primary-346",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "idea",
-    "cn": "想法，主意",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a idea.",
-    "sentence": "This is a ___.",
-    "hint": "这是：想法，主意。"
-  },
-  {
-    "id": "primary-347",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "soon",
-    "cn": "不久，即刻，很快",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a soon.",
-    "sentence": "This is a ___.",
-    "hint": "这是：不久，即刻，很快。"
-  },
-  {
-    "id": "primary-348",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "teach",
-    "cn": "教，教授",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can teach.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：教，教授。"
-  },
-  {
-    "id": "primary-349",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "English",
-    "cn": "英语",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a English.",
-    "sentence": "This is a ___.",
-    "hint": "这是：英语。"
-  },
-  {
-    "id": "primary-350",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "card",
-    "cn": "卡片",
-    "pos": "名词",
-    "scene": "旅行交通",
-    "category": "基础功能词",
-    "example": "This is a card.",
-    "sentence": "This is a ___.",
-    "hint": "这是：卡片。"
-  },
-  {
-    "id": "primary-351",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "busy",
-    "cn": "忙的，忙碌的",
-    "pos": "形容词",
-    "scene": "旅行交通",
-    "category": "交通旅行",
-    "example": "It is busy.",
-    "sentence": "It is ___.",
-    "hint": "它是：忙的，忙碌的。"
-  },
-  {
-    "id": "primary-352",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "old",
-    "cn": "年老的；相识很久的",
-    "pos": "形容词",
-    "scene": "时间数字",
-    "category": "时间数量",
-    "example": "It is old.",
-    "sentence": "It is ___.",
-    "hint": "它是：年老的；相识很久的。"
-  },
-  {
-    "id": "primary-353",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "some",
-    "cn": "一些，若干",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "时间数量",
-    "example": "This is a some.",
-    "sentence": "This is a ___.",
-    "hint": "这是：一些，若干。"
-  },
-  {
-    "id": "primary-354",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "bookmark",
-    "cn": "书签",
-    "pos": "名词",
-    "scene": "学校课堂",
-    "category": "基础功能词",
-    "example": "This is a bookmark.",
-    "sentence": "This is a ___.",
-    "hint": "这是：书签。"
-  },
-  {
-    "id": "primary-355",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "stick",
-    "cn": "木棍，拐杖",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a stick.",
-    "sentence": "This is a ___.",
-    "hint": "这是：木棍，拐杖。"
-  },
-  {
-    "id": "primary-356",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sure",
-    "cn": "当然，好的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is sure.",
-    "sentence": "It is ___.",
-    "hint": "它是：当然，好的。"
-  },
-  {
-    "id": "primary-357",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "flower",
-    "cn": "花，花朵",
-    "pos": "名词",
-    "scene": "自然环境",
-    "category": "自然万物",
-    "example": "This is a flower.",
-    "sentence": "This is a ___.",
-    "hint": "这是：花，花朵。"
-  },
-  {
-    "id": "primary-358",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "afterschool",
-    "cn": "课外的",
-    "pos": "形容词",
-    "scene": "学校课堂",
-    "category": "基础功能词",
-    "example": "It is afterschool.",
-    "sentence": "It is ___.",
-    "hint": "它是：课外的。"
-  },
-  {
-    "id": "primary-359",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "club",
-    "cn": "俱乐部",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a club.",
-    "sentence": "This is a ___.",
-    "hint": "这是：俱乐部。"
-  },
-  {
-    "id": "primary-360",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "piano",
-    "cn": "钢琴",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a piano.",
-    "sentence": "This is a ___.",
-    "hint": "这是：钢琴。"
-  },
-  {
-    "id": "primary-361",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "basketball",
-    "cn": "篮球",
-    "pos": "名词",
-    "scene": "运动娱乐",
-    "category": "基础功能词",
-    "example": "This is a basketball.",
-    "sentence": "This is a ___.",
-    "hint": "这是：篮球。"
-  },
-  {
-    "id": "primary-362",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "computer",
-    "cn": "计算机；电脑",
-    "pos": "名词",
-    "scene": "科技媒体",
-    "category": "其他常用词",
-    "example": "This is a computer.",
-    "sentence": "This is a ___.",
-    "hint": "这是：计算机；电脑。"
-  },
-  {
-    "id": "primary-363",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "music",
-    "cn": "音乐",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a music.",
-    "sentence": "This is a ___.",
-    "hint": "这是：音乐。"
-  },
-  {
-    "id": "primary-364",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "fox",
-    "cn": "狐狸",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a fox.",
-    "sentence": "This is a ___.",
-    "hint": "这是：狐狸。"
-  },
-  {
-    "id": "primary-365",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "king",
-    "cn": "国王",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a king.",
-    "sentence": "This is a ___.",
-    "hint": "这是：国王。"
-  },
-  {
-    "id": "primary-366",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "forest",
-    "cn": "森林",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a forest.",
-    "sentence": "This is a ___.",
-    "hint": "这是：森林。"
-  },
-  {
-    "id": "primary-367",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "no way",
-    "cn": "不可能；不行",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a no way.",
-    "sentence": "This is a ___.",
-    "hint": "这是：不可能；不行。"
-  },
-  {
-    "id": "primary-368",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "afraid",
-    "cn": "害怕的，恐惧的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is afraid.",
-    "sentence": "It is ___.",
-    "hint": "它是：害怕的，恐惧的。"
-  },
-  {
-    "id": "primary-369",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "walk",
-    "cn": "走，行走",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can walk.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：走，行走。"
-  },
-  {
-    "id": "primary-370",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "soup",
-    "cn": "汤",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a soup.",
-    "sentence": "This is a ___.",
-    "hint": "这是：汤。"
-  },
-  {
-    "id": "primary-371",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "village",
-    "cn": "乡村，村庄",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a village.",
-    "sentence": "This is a ___.",
-    "hint": "这是：乡村，村庄。"
-  },
-  {
-    "id": "primary-372",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "pot",
-    "cn": "锅",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a pot.",
-    "sentence": "This is a ___.",
-    "hint": "这是：锅。"
-  },
-  {
-    "id": "primary-373",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "fire",
-    "cn": "火；炉火，灶火",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "抽象概念",
-    "example": "This is a fire.",
-    "sentence": "This is a ___.",
-    "hint": "这是：火；炉火，灶火。"
-  },
-  {
-    "id": "primary-374",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "those",
-    "cn": "那些（that的复数形式）",
-    "pos": "代词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "those is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：那些（that的复数形式）。"
-  },
-  {
-    "id": "primary-375",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "potato",
-    "cn": "马铃薯，土豆",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a potato.",
-    "sentence": "This is a ___.",
-    "hint": "这是：马铃薯，土豆。"
-  },
-  {
-    "id": "primary-376",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "bring",
-    "cn": "带来；拿来",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can bring.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：带来；拿来。"
-  },
-  {
-    "id": "primary-377",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "late",
-    "cn": "晚的，迟的；迟到的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is late.",
-    "sentence": "It is ___.",
-    "hint": "它是：晚的，迟的；迟到的。"
-  },
-  {
-    "id": "primary-378",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "bad",
-    "cn": "不好的，糟糕的，坏的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is bad.",
-    "sentence": "It is ___.",
-    "hint": "它是：不好的，糟糕的，坏的。"
-  },
-  {
-    "id": "primary-379",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "in front of sb. / sth.",
-    "cn": "在某人/某物的前面",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is in front of sb..",
-    "sentence": "It is ___.",
-    "hint": "它是：在某人/某物的前面。"
-  },
-  {
-    "id": "primary-380",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "welcome",
-    "cn": "欢迎",
-    "pos": "名词",
-    "scene": "旅行交通",
-    "category": "动作行为",
-    "example": "This is a welcome.",
-    "sentence": "This is a ___.",
-    "hint": "这是：欢迎。"
-  },
-  {
-    "id": "primary-381",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "to",
-    "cn": "向，到，往",
-    "pos": "介词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "The book is to the desk.",
-    "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：向，到，往。"
-  },
-  {
-    "id": "primary-382",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "school",
-    "cn": "学校",
-    "pos": "名词",
-    "scene": "学校课堂",
-    "category": "学习用品",
-    "example": "This is a school.",
-    "sentence": "This is a ___.",
-    "hint": "这是：学校。"
-  },
-  {
-    "id": "primary-383",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "hi",
-    "cn": "嘿，喂，你好",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "This is a hi.",
-    "sentence": "This is a ___.",
-    "hint": "这是：嘿，喂，你好。"
-  },
-  {
-    "id": "primary-384",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "I",
-    "cn": "我",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：我。"
-  },
-  {
-    "id": "primary-385",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "be (am,is,are)",
-    "cn": "是",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can be (am,is,are).",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：是。"
-  },
-  {
-    "id": "primary-386",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "what",
-    "cn": "什么",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "what is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：什么。"
-  },
-  {
-    "id": "primary-387",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "your",
-    "cn": "你的；你们的",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "your is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：你的；你们的。"
-  },
-  {
-    "id": "primary-388",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "name",
-    "cn": "名字",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a name.",
-    "sentence": "This is a ___.",
-    "hint": "这是：名字。"
-  },
-  {
-    "id": "primary-389",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "hello",
-    "cn": "喂，哈罗，你好",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "This is a hello.",
-    "sentence": "This is a ___.",
-    "hint": "这是：喂，哈罗，你好。"
-  },
-  {
-    "id": "primary-390",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "my",
-    "cn": "我的",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "my is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：我的。"
-  },
-  {
-    "id": "primary-391",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "goodbye",
-    "cn": "再见",
-    "pos": "名词",
-    "scene": "旅行交通",
-    "category": "动作行为",
-    "example": "This is a goodbye.",
-    "sentence": "This is a ___.",
-    "hint": "这是：再见。"
-  },
-  {
-    "id": "primary-392",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "have",
-    "cn": "有，拥有",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can have.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：有，拥有。"
-  },
-  {
-    "id": "primary-393",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "a (an)",
-    "cn": "一（个）",
-    "pos": "冠词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a (an) apple.",
-    "sentence": "This is ___ apple.",
-    "hint": "选择冠词：一（个）。"
-  },
-  {
-    "id": "primary-394",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "nice",
-    "cn": "令人愉快的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "人物关系",
-    "example": "It is nice.",
-    "sentence": "It is ___.",
-    "hint": "它是：令人愉快的。"
-  },
-  {
-    "id": "primary-395",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "day",
-    "cn": "一天",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a day.",
-    "sentence": "This is a ___.",
-    "hint": "这是：一天。"
-  },
-  {
-    "id": "primary-396",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "good",
-    "cn": "好的",
-    "pos": "形容词",
-    "scene": "旅行交通",
-    "category": "动作行为",
-    "example": "It is good.",
-    "sentence": "It is ___.",
-    "hint": "它是：好的。"
-  },
-  {
-    "id": "primary-397",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "morning",
-    "cn": "早晨，上午",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a morning.",
-    "sentence": "This is a ___.",
-    "hint": "这是：早晨，上午。"
-  },
-  {
-    "id": "primary-398",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "Ms",
-    "cn": "女士",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "人物关系",
-    "example": "This is a Ms.",
-    "sentence": "This is a ___.",
-    "hint": "这是：女士。"
-  },
-  {
-    "id": "primary-399",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "stand",
-    "cn": "站立",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can stand.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：站立。"
-  },
-  {
-    "id": "primary-400",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "stand up",
-    "cn": "站起来",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can stand up.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：站起来。"
-  },
-  {
-    "id": "primary-401",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sit",
-    "cn": "坐",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can sit.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：坐。"
-  },
-  {
-    "id": "primary-402",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sit down",
-    "cn": "坐下",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can sit down.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：坐下。"
-  },
-  {
-    "id": "primary-403",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "open",
-    "cn": "打开",
-    "pos": "动词",
-    "scene": "学校课堂",
-    "category": "学习用品",
-    "example": "I can open.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：打开。"
-  },
-  {
-    "id": "primary-404",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "book",
-    "cn": "书",
-    "pos": "名词",
-    "scene": "学校课堂",
-    "category": "学习用品",
-    "example": "This is a book.",
-    "sentence": "This is a ___.",
-    "hint": "这是：书。"
-  },
-  {
-    "id": "primary-405",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "close",
-    "cn": "合上",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can close.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：合上。"
-  },
-  {
-    "id": "primary-406",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "point",
-    "cn": "指",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a point.",
-    "sentence": "This is a ___.",
-    "hint": "这是：指。"
-  },
-  {
-    "id": "primary-407",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "say",
-    "cn": "说",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can say.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：说。"
-  },
-  {
-    "id": "primary-408",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "read",
-    "cn": "阅读",
-    "pos": "动词",
-    "scene": "学校课堂",
-    "category": "基础功能词",
-    "example": "I can read.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：阅读。"
-  },
-  {
-    "id": "primary-409",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "listen",
-    "cn": "听",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can listen.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：听。"
-  },
-  {
-    "id": "primary-410",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "write",
-    "cn": "写",
-    "pos": "动词",
-    "scene": "学校课堂",
-    "category": "动作行为",
-    "example": "I can write.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：写。"
-  },
-  {
-    "id": "primary-411",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "let's = let us",
-    "cn": "让我们",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a let's = let us.",
-    "sentence": "This is a ___.",
-    "hint": "这是：让我们。"
-  },
-  {
-    "id": "primary-412",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "friend",
-    "cn": "朋友",
-    "pos": "名词",
-    "scene": "社会文化",
-    "category": "人物关系",
-    "example": "This is a friend.",
-    "sentence": "This is a ___.",
-    "hint": "这是：朋友。"
-  },
-  {
-    "id": "primary-413",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "meet",
-    "cn": "认识，结识",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can meet.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：认识，结识。"
-  },
-  {
-    "id": "primary-414",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "you",
-    "cn": "你；你们",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "you is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：你；你们。"
-  },
-  {
-    "id": "primary-415",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "play",
-    "cn": "玩，玩耍",
-    "pos": "动词",
-    "scene": "运动娱乐",
-    "category": "基础功能词",
-    "example": "I can play.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：玩，玩耍。"
-  },
-  {
-    "id": "primary-416",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "happy",
-    "cn": "高兴的，快乐的",
-    "pos": "形容词",
-    "scene": "情感品质",
-    "category": "基础功能词",
-    "example": "It is happy.",
-    "sentence": "It is ___.",
-    "hint": "它是：高兴的，快乐的。"
-  },
-  {
-    "id": "primary-417",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "new",
-    "cn": "新的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is new.",
-    "sentence": "It is ___.",
-    "hint": "它是：新的。"
-  },
-  {
-    "id": "primary-418",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "do",
-    "cn": "（构成疑问句或否定句）；做",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "This is a do.",
-    "sentence": "This is a ___.",
-    "hint": "这是：（构成疑问句或否定句）；做。"
-  },
-  {
-    "id": "primary-419",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "they",
-    "cn": "他们",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "they is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：他们。"
-  },
-  {
-    "id": "primary-420",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "everyone",
-    "cn": "每个人，人人",
-    "pos": "数词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "I have everyone books.",
-    "sentence": "I have ___ books.",
-    "hint": "数量是：每个人，人人。"
-  },
-  {
-    "id": "primary-421",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "nine",
-    "cn": "九",
-    "pos": "数词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I have nine books.",
-    "sentence": "I have ___ books.",
-    "hint": "数量是：九。"
-  },
-  {
-    "id": "primary-422",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "she",
-    "cn": "她",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "she is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：她。"
-  },
-  {
-    "id": "primary-423",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "too",
-    "cn": "也",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a too.",
-    "sentence": "This is a ___.",
-    "hint": "这是：也。"
-  },
-  {
-    "id": "primary-424",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "we",
-    "cn": "我们",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "we is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：我们。"
-  },
-  {
-    "id": "primary-425",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "from",
-    "cn": "从",
-    "pos": "介词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "The book is from the desk.",
-    "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：从。"
-  },
-  {
-    "id": "primary-426",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "the",
-    "cn": "（用于表示正在谈论一个已经提到过、已经知道，或唯一存在的人或物）",
-    "pos": "冠词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is the apple.",
-    "sentence": "This is ___ apple.",
-    "hint": "选择冠词：（用于表示正在谈论一个已经提到过、已经知道，或唯一存在的人或物）。"
-  },
-  {
-    "id": "primary-427",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "twin",
-    "cn": "双胞胎中的一个",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is twin.",
-    "sentence": "It is ___.",
-    "hint": "它是：双胞胎中的一个。"
-  },
-  {
-    "id": "primary-428",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "he",
-    "cn": "他",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "he is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：他。"
-  },
-  {
-    "id": "primary-429",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "come",
-    "cn": "来；来到",
-    "pos": "动词",
-    "scene": "旅行交通",
-    "category": "动作行为",
-    "example": "I can come.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：来；来到。"
-  },
-  {
-    "id": "primary-430",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "and",
-    "cn": "然后，接着；和",
-    "pos": "连词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I like apples and bananas.",
-    "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：然后，接着；和。"
-  },
-  {
-    "id": "primary-431",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "oh",
-    "cn": "噢",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a oh.",
-    "sentence": "This is a ___.",
-    "hint": "这是：噢。"
-  },
-  {
-    "id": "primary-432",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "no",
-    "cn": "不，不行",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a no.",
-    "sentence": "This is a ___.",
-    "hint": "这是：不，不行。"
-  },
-  {
-    "id": "primary-433",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "help",
-    "cn": "帮助，帮忙",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can help.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：帮助，帮忙。"
-  },
-  {
-    "id": "primary-434",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "here",
-    "cn": "在这里",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a here.",
-    "sentence": "This is a ___.",
-    "hint": "这是：在这里。"
-  },
-  {
-    "id": "primary-435",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "here you are",
-    "cn": "给你",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a here you are.",
-    "sentence": "This is a ___.",
-    "hint": "这是：给你。"
-  },
-  {
-    "id": "primary-436",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "thank",
-    "cn": "感谢，向......表示谢意",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a thank.",
-    "sentence": "This is a ___.",
-    "hint": "这是：感谢，向......表示谢意。"
-  },
-  {
-    "id": "primary-437",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "together",
-    "cn": "一起，一块儿",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a together.",
-    "sentence": "This is a ___.",
-    "hint": "这是：一起，一块儿。"
-  },
-  {
-    "id": "primary-438",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "OK",
-    "cn": "行，可以",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a OK.",
-    "sentence": "This is a ___.",
-    "hint": "这是：行，可以。"
-  },
-  {
-    "id": "primary-439",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "great",
-    "cn": "极棒的，极好的",
-    "pos": "形容词",
-    "scene": "饮食健康",
-    "category": "基础功能词",
-    "example": "It is great.",
-    "sentence": "It is ___.",
-    "hint": "它是：极棒的，极好的。"
-  },
-  {
-    "id": "primary-440",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "song",
-    "cn": "歌曲",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a song.",
-    "sentence": "This is a ___.",
-    "hint": "这是：歌曲。"
-  },
-  {
-    "id": "primary-441",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "dear",
-    "cn": "亲爱的",
-    "pos": "形容词",
-    "scene": "情感品质",
-    "category": "基础功能词",
-    "example": "It is dear.",
-    "sentence": "It is ___.",
-    "hint": "它是：亲爱的。"
-  },
-  {
-    "id": "primary-442",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sing",
-    "cn": "唱，歌唱",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can sing.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：唱，歌唱。"
-  },
-  {
-    "id": "primary-443",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "now",
-    "cn": "现在",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a now.",
-    "sentence": "This is a ___.",
-    "hint": "这是：现在。"
-  },
-  {
-    "id": "primary-444",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "know",
-    "cn": "认识；知道；了解",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can know.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：认识；知道；了解。"
-  },
-  {
-    "id": "primary-445",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "our",
-    "cn": "我们的",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "our is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：我们的。"
-  },
-  {
-    "id": "primary-446",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "everybody",
-    "cn": "每个人，人人",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "人物关系",
-    "example": "This is a everybody.",
-    "sentence": "This is a ___.",
-    "hint": "这是：每个人，人人。"
-  },
-  {
-    "id": "primary-447",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "with",
-    "cn": "和......一起",
-    "pos": "介词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "The book is with the desk.",
-    "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：和......一起。"
-  },
-  {
-    "id": "primary-448",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "me",
-    "cn": "我",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "me is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：我。"
-  },
-  {
-    "id": "primary-449",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "thing",
-    "cn": "东西",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a thing.",
-    "sentence": "This is a ___.",
-    "hint": "这是：东西。"
-  },
-  {
-    "id": "primary-450",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "pack",
-    "cn": "收拾好",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a pack.",
-    "sentence": "This is a ___.",
-    "hint": "这是：收拾好。"
-  },
-  {
-    "id": "primary-451",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "pen",
-    "cn": "钢笔",
-    "pos": "名词",
-    "scene": "学校课堂",
-    "category": "学习用品",
-    "example": "This is a pen.",
-    "sentence": "This is a ___.",
-    "hint": "这是：钢笔。"
-  },
-  {
-    "id": "primary-452",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "pencil",
-    "cn": "铅笔",
-    "pos": "名词",
-    "scene": "学校课堂",
-    "category": "学习用品",
-    "example": "This is a pencil.",
-    "sentence": "This is a ___.",
-    "hint": "这是：铅笔。"
-  },
-  {
-    "id": "primary-453",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "pencil case",
-    "cn": "笔袋；铅笔盒",
-    "pos": "名词",
-    "scene": "学校课堂",
-    "category": "基础功能词",
-    "example": "This is a pencil case.",
-    "sentence": "This is a ___.",
-    "hint": "这是：笔袋；铅笔盒。"
-  },
-  {
-    "id": "primary-454",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "bag",
-    "cn": "袋；包",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a bag.",
-    "sentence": "This is a ___.",
-    "hint": "这是：袋；包。"
-  },
-  {
-    "id": "primary-455",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "for",
-    "cn": "为了",
-    "pos": "介词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "The book is for the desk.",
-    "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：为了。"
-  },
-  {
-    "id": "primary-456",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "ruler",
-    "cn": "尺子，直尺",
-    "pos": "名词",
-    "scene": "学校课堂",
-    "category": "学习用品",
-    "example": "This is a ruler.",
-    "sentence": "This is a ___.",
-    "hint": "这是：尺子，直尺。"
-  },
-  {
-    "id": "primary-457",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "eraser",
-    "cn": "橡皮",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a eraser.",
-    "sentence": "This is a ___.",
-    "hint": "这是：橡皮。"
-  },
-  {
-    "id": "primary-458",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "this",
-    "cn": "这，这个",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "this is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：这，这个。"
-  },
-  {
-    "id": "primary-459",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "in",
-    "cn": "在......里",
-    "pos": "介词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "The book is in the desk.",
-    "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：在......里。"
-  },
-  {
-    "id": "primary-460",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "schoolbag",
-    "cn": "书包",
-    "pos": "名词",
-    "scene": "学校课堂",
-    "category": "基础功能词",
-    "example": "This is a schoolbag.",
-    "sentence": "This is a ___.",
-    "hint": "这是：书包。"
-  },
-  {
-    "id": "primary-461",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "it",
-    "cn": "它",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "it is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：它。"
-  },
-  {
-    "id": "primary-462",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "not",
-    "cn": "不，不是",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a not.",
-    "sentence": "This is a ___.",
-    "hint": "这是：不，不是。"
-  },
-  {
-    "id": "primary-463",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "that",
-    "cn": "那，那个",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "that is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：那，那个。"
-  },
-  {
-    "id": "primary-464",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "yes",
-    "cn": "是，对",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a yes.",
-    "sentence": "This is a ___.",
-    "hint": "这是：是，对。"
-  },
-  {
-    "id": "primary-465",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "guess",
-    "cn": "猜，猜测",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a guess.",
-    "sentence": "This is a ___.",
-    "hint": "这是：猜，猜测。"
-  },
-  {
-    "id": "primary-466",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "find",
-    "cn": "发现，找到",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can find.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：发现，找到。"
-  },
-  {
-    "id": "primary-467",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "lost and found",
-    "cn": "失物招领",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a lost and found.",
-    "sentence": "This is a ___.",
-    "hint": "这是：失物招领。"
-  },
-  {
-    "id": "primary-468",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "bye",
-    "cn": "再见，拜拜",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a bye.",
-    "sentence": "This is a ___.",
-    "hint": "这是：再见，拜拜。"
-  },
-  {
-    "id": "primary-469",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "kid",
-    "cn": "小孩，儿童",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "人物关系",
-    "example": "This is a kid.",
-    "sentence": "This is a ___.",
-    "hint": "这是：小孩，儿童。"
-  },
-  {
-    "id": "primary-470",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "take care of sb / sth",
-    "cn": "照看（照料）某人/某物",
-    "pos": "动词",
-    "scene": "旅行交通",
-    "category": "基础功能词",
-    "example": "I can take care of sb.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：照看（照料）某人/某物。"
-  },
-  {
-    "id": "primary-471",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "there",
-    "cn": "在那里",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a there.",
-    "sentence": "This is a ___.",
-    "hint": "这是：在那里。"
-  },
-  {
-    "id": "primary-472",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "please",
-    "cn": "请",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a please.",
-    "sentence": "This is a ___.",
-    "hint": "这是：请。"
-  },
-  {
-    "id": "primary-473",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "back",
-    "cn": "回到原处",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a back.",
-    "sentence": "This is a ___.",
-    "hint": "这是：回到原处。"
-  },
-  {
-    "id": "primary-474",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "come back",
-    "cn": "回来",
-    "pos": "动词",
-    "scene": "旅行交通",
-    "category": "基础功能词",
-    "example": "I can come back.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：回来。"
-  },
-  {
-    "id": "primary-475",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "look",
-    "cn": "看，瞧，望",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can look.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：看，瞧，望。"
-  },
-  {
-    "id": "primary-476",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "look at sb / sth",
-    "cn": "看某人/某物",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can look at sb.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：看某人/某物。"
-  },
-  {
-    "id": "primary-477",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "colourful",
-    "cn": "颜色鲜艳的，色彩丰富的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is colourful.",
-    "sentence": "It is ___.",
-    "hint": "它是：颜色鲜艳的，色彩丰富的。"
-  },
-  {
-    "id": "primary-478",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "world",
-    "cn": "世界",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a world.",
-    "sentence": "This is a ___.",
-    "hint": "这是：世界。"
-  },
-  {
-    "id": "primary-479",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "hooray",
-    "cn": "好哇",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a hooray.",
-    "sentence": "This is a ___.",
-    "hint": "这是：好哇。"
-  },
-  {
-    "id": "primary-480",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "umbrella",
-    "cn": "伞；雨伞",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a umbrella.",
-    "sentence": "This is a ___.",
-    "hint": "这是：伞；雨伞。"
-  },
-  {
-    "id": "primary-481",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "clothes",
-    "cn": "衣服",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a clothes.",
-    "sentence": "This is a ___.",
-    "hint": "这是：衣服。"
-  },
-  {
-    "id": "primary-482",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "red",
-    "cn": "红色（的）",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is red.",
-    "sentence": "It is ___.",
-    "hint": "它是：红色（的）。"
-  },
-  {
-    "id": "primary-483",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "pink",
-    "cn": "粉红色（的）",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is pink.",
-    "sentence": "It is ___.",
-    "hint": "它是：粉红色（的）。"
-  },
-  {
-    "id": "primary-484",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "green",
-    "cn": "绿色（的）",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is green.",
-    "sentence": "It is ___.",
-    "hint": "它是：绿色（的）。"
-  },
-  {
-    "id": "primary-485",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "yellow",
-    "cn": "黄色（的）",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is yellow.",
-    "sentence": "It is ___.",
-    "hint": "它是：黄色（的）。"
-  },
-  {
-    "id": "primary-486",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "orange",
-    "cn": "橙色（的）",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is orange.",
-    "sentence": "It is ___.",
-    "hint": "它是：橙色（的）。"
-  },
-  {
-    "id": "primary-487",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "blue",
-    "cn": "蓝色（的）",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is blue.",
-    "sentence": "It is ___.",
-    "hint": "它是：蓝色（的）。"
-  },
-  {
-    "id": "primary-488",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "purple",
-    "cn": "紫色（的）",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is purple.",
-    "sentence": "It is ___.",
-    "hint": "它是：紫色（的）。"
-  },
-  {
-    "id": "primary-489",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "rainbow",
-    "cn": "彩虹",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a rainbow.",
-    "sentence": "This is a ___.",
-    "hint": "这是：彩虹。"
-  },
-  {
-    "id": "primary-490",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "want",
-    "cn": "想要",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can want.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：想要。"
-  },
-  {
-    "id": "primary-491",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "balloon",
-    "cn": "气球",
-    "pos": "名词",
-    "scene": "运动娱乐",
-    "category": "基础功能词",
-    "example": "This is a balloon.",
-    "sentence": "This is a ___.",
-    "hint": "这是：气球。"
-  },
-  {
-    "id": "primary-492",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "colour",
-    "cn": "颜色",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a colour.",
-    "sentence": "This is a ___.",
-    "hint": "这是：颜色。"
-  },
-  {
-    "id": "primary-493",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "can",
-    "cn": "能，会",
-    "pos": "情态动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can can.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：能，会。"
-  },
-  {
-    "id": "primary-494",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "see",
-    "cn": "看见，看到",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "This is a see.",
-    "sentence": "This is a ___.",
-    "hint": "这是：看见，看到。"
-  },
-  {
-    "id": "primary-495",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "right",
-    "cn": "正确的，对的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is right.",
-    "sentence": "It is ___.",
-    "hint": "它是：正确的，对的。"
-  },
-  {
-    "id": "primary-496",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "first",
-    "cn": "第一的",
-    "pos": "形容词",
-    "scene": "时间数字",
-    "category": "时间数量",
-    "example": "It is first.",
-    "sentence": "It is ___.",
-    "hint": "它是：第一的。"
-  },
-  {
-    "id": "primary-497",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "magical",
-    "cn": "美妙的；有魔力的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is magical.",
-    "sentence": "It is ___.",
-    "hint": "它是：美妙的；有魔力的。"
-  },
-  {
-    "id": "primary-498",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "fun",
-    "cn": "有趣的，逗乐的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is fun.",
-    "sentence": "It is ___.",
-    "hint": "它是：有趣的，逗乐的。"
-  },
-  {
-    "id": "primary-499",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "black",
-    "cn": "黑色（的）",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is black.",
-    "sentence": "It is ___.",
-    "hint": "它是：黑色（的）。"
-  },
-  {
-    "id": "primary-500",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "so",
-    "cn": "这么，如此",
-    "pos": "连词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I like apples so bananas.",
-    "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：这么，如此。"
-  },
-  {
-    "id": "primary-501",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "many",
-    "cn": "许多；大量",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a many.",
-    "sentence": "This is a ___.",
-    "hint": "这是：许多；大量。"
-  },
-  {
-    "id": "primary-502",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "picture",
-    "cn": "画，图画",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a picture.",
-    "sentence": "This is a ___.",
-    "hint": "这是：画，图画。"
-  },
-  {
-    "id": "primary-503",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "today",
-    "cn": "今天",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a today.",
-    "sentence": "This is a ___.",
-    "hint": "这是：今天。"
-  },
-  {
-    "id": "primary-504",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "paint",
-    "cn": "画，作画",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a paint.",
-    "sentence": "This is a ___.",
-    "hint": "这是：画，作画。"
-  },
-  {
-    "id": "primary-505",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "number",
-    "cn": "数，数字",
-    "pos": "名词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "This is a number.",
-    "sentence": "This is a ___.",
-    "hint": "这是：数，数字。"
-  },
-  {
-    "id": "primary-506",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "count",
-    "cn": "数数",
-    "pos": "动词",
-    "scene": "时间数字",
-    "category": "动作行为",
-    "example": "I can count.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：数数。"
-  },
-  {
-    "id": "primary-507",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "how",
-    "cn": "多少；怎样，如何",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "抽象概念",
-    "example": "This is a how.",
-    "sentence": "This is a ___.",
-    "hint": "这是：多少；怎样，如何。"
-  },
-  {
-    "id": "primary-508",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "bird",
-    "cn": "鸟",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "自然万物",
-    "example": "This is a bird.",
-    "sentence": "This is a ___.",
-    "hint": "这是：鸟。"
-  },
-  {
-    "id": "primary-509",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "one",
-    "cn": "一",
-    "pos": "数词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "I have one books.",
-    "sentence": "I have ___ books.",
-    "hint": "数量是：一。"
-  },
-  {
-    "id": "primary-510",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "two",
-    "cn": "二",
-    "pos": "数词",
-    "scene": "时间数字",
-    "category": "时间数量",
-    "example": "I have two books.",
-    "sentence": "I have ___ books.",
-    "hint": "数量是：二。"
-  },
-  {
-    "id": "primary-511",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "three",
-    "cn": "三",
-    "pos": "数词",
-    "scene": "时间数字",
-    "category": "时间数量",
-    "example": "I have three books.",
-    "sentence": "I have ___ books.",
-    "hint": "数量是：三。"
-  },
-  {
-    "id": "primary-512",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "four",
-    "cn": "四",
-    "pos": "数词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "I have four books.",
-    "sentence": "I have ___ books.",
-    "hint": "数量是：四。"
-  },
-  {
-    "id": "primary-513",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "five",
-    "cn": "五",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is five.",
-    "sentence": "It is ___.",
-    "hint": "它是：五。"
-  },
-  {
-    "id": "primary-514",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "six",
-    "cn": "六",
-    "pos": "数词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "I have six books.",
-    "sentence": "I have ___ books.",
-    "hint": "数量是：六。"
-  },
-  {
-    "id": "primary-515",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "seven",
-    "cn": "七",
-    "pos": "数词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "I have seven books.",
-    "sentence": "I have ___ books.",
-    "hint": "数量是：七。"
-  },
-  {
-    "id": "primary-516",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "eight",
-    "cn": "八",
-    "pos": "数词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "I have eight books.",
-    "sentence": "I have ___ books.",
-    "hint": "数量是：八。"
-  },
-  {
-    "id": "primary-517",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "ten",
-    "cn": "十",
-    "pos": "数词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "I have ten books.",
-    "sentence": "I have ___ books.",
-    "hint": "数量是：十。"
-  },
-  {
-    "id": "primary-518",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "eleven",
-    "cn": "十一",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "时间数量",
-    "example": "This is a eleven.",
-    "sentence": "This is a ___.",
-    "hint": "这是：十一。"
-  },
-  {
-    "id": "primary-519",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "twelve",
-    "cn": "十二",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "时间数量",
-    "example": "This is a twelve.",
-    "sentence": "This is a ___.",
-    "hint": "这是：十二。"
-  },
-  {
-    "id": "primary-520",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "rope",
-    "cn": "绳",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a rope.",
-    "sentence": "This is a ___.",
-    "hint": "这是：绳。"
-  },
-  {
-    "id": "primary-521",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "who",
-    "cn": "谁，什么人",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "who is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：谁，什么人。"
-  },
-  {
-    "id": "primary-522",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "make",
-    "cn": "制作",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can make.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：制作。"
-  },
-  {
-    "id": "primary-523",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "Chinese knot",
-    "cn": "中国结",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a Chinese knot.",
-    "sentence": "This is a ___.",
-    "hint": "这是：中国结。"
-  },
-  {
-    "id": "primary-524",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "beautiful",
-    "cn": "美丽的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is beautiful.",
-    "sentence": "It is ___.",
-    "hint": "它是：美丽的。"
-  },
-  {
-    "id": "primary-525",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "only",
-    "cn": "仅仅",
-    "pos": "副词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "He runs only.",
-    "sentence": "He runs ___.",
-    "hint": "这里需要表示：仅仅。"
-  },
-  {
-    "id": "primary-526",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "show",
-    "cn": "给......看",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can show.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：给......看。"
-  },
-  {
-    "id": "primary-527",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "baby",
-    "cn": "幼崽；雏鸟",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a baby.",
-    "sentence": "This is a ___.",
-    "hint": "这是：幼崽；雏鸟。"
-  },
-  {
-    "id": "primary-528",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cheep",
-    "cn": "吱吱（或唧唧）的叫声",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is cheep.",
-    "sentence": "It is ___.",
-    "hint": "它是：吱吱（或唧唧）的叫声。"
-  },
-  {
-    "id": "primary-529",
+    "phrases": [
+      "can eat",
+      "eat carefully"
+    ],
+    "examples": [
+      "She wants to eat after school.",
+      "We should eat at the right time."
+    ],
+    "example": "She wants to eat after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：吃"
+  },
+  {
+    "id": "primary-md-7",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "rice",
+    "phonetic": "/raɪs/",
+    "cn": "大米；米饭；水稻",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat rice",
+      "some rice"
+    ],
+    "examples": [
+      "Mom puts rice on the table.",
+      "We share some rice after class."
+    ],
+    "example": "Mom puts rice on the table.",
+    "sentence": "Mom puts ___ on the table.",
+    "hint": "选择合适的单词：大米；米饭；水稻"
+  },
+  {
+    "id": "primary-md-8",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "noodle",
+    "phonetic": "/ˈnuːdl/",
+    "cn": "（常用复数）面条",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat noodle",
+      "a noodle"
+    ],
+    "examples": [
+      "Noodle tastes good with soup.",
+      "Dad buys noodle at the market."
+    ],
+    "example": "Noodle tastes good with soup.",
+    "sentence": "___ tastes good with soup.",
+    "hint": "选择合适的单词：（常用复数）面条"
+  },
+  {
+    "id": "primary-md-9",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dumpling",
+    "phonetic": "/ˈdʌmplɪŋ/",
+    "cn": "饺子；汤团；小面团",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat dumpling",
+      "a dumpling"
+    ],
+    "examples": [
+      "Dumpling tastes good with soup.",
+      "Dad buys dumpling at the market."
+    ],
+    "example": "Dumpling tastes good with soup.",
+    "sentence": "___ tastes good with soup.",
+    "hint": "选择合适的单词：饺子；汤团；小面团"
+  },
+  {
+    "id": "primary-md-10",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pie",
+    "phonetic": "/paɪ/",
+    "cn": "馅饼；派",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat pie",
+      "a pie"
+    ],
+    "examples": [
+      "Mom puts pie on the table.",
+      "We share a pie after class."
+    ],
+    "example": "Mom puts pie on the table.",
+    "sentence": "Mom puts ___ on the table.",
+    "hint": "选择合适的单词：馅饼；派"
+  },
+  {
+    "id": "primary-md-11",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bread",
+    "phonetic": "/bred/",
+    "cn": "面包",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat bread",
+      "some bread"
+    ],
+    "examples": [
+      "There is some bread in my lunch box.",
+      "My sister wants more bread."
+    ],
+    "example": "There is some bread in my lunch box.",
+    "sentence": "There is some ___ in my lunch box.",
+    "hint": "选择合适的单词：面包"
+  },
+  {
+    "id": "primary-md-12",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hamburger",
+    "phonetic": "/ˈhæmbɜːrɡər/",
+    "cn": "汉堡包",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat hamburger",
+      "a hamburger"
+    ],
+    "examples": [
+      "There is a hamburger in my lunch box.",
+      "My sister wants more hamburger."
+    ],
+    "example": "There is a hamburger in my lunch box.",
+    "sentence": "There is a ___ in my lunch box.",
+    "hint": "选择合适的单词：汉堡包"
+  },
+  {
+    "id": "primary-md-13",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sandwich",
+    "phonetic": "/ˈsænwɪtʃ/",
+    "cn": "三明治",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat sandwich",
+      "a sandwich"
+    ],
+    "examples": [
+      "Mom puts sandwich on the table.",
+      "We share a sandwich after class."
+    ],
+    "example": "Mom puts sandwich on the table.",
+    "sentence": "Mom puts ___ on the table.",
+    "hint": "选择合适的单词：三明治"
+  },
+  {
+    "id": "primary-md-14",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pizza",
+    "phonetic": "/ˈpiːtsə/",
+    "cn": "比萨饼",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat pizza",
+      "a pizza"
+    ],
+    "examples": [
+      "There is a pizza in my lunch box.",
+      "My sister wants more pizza."
+    ],
+    "example": "There is a pizza in my lunch box.",
+    "sentence": "There is a ___ in my lunch box.",
+    "hint": "选择合适的单词：比萨饼"
+  },
+  {
+    "id": "primary-md-15",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "salad",
+    "phonetic": "/ˈsæləd/",
+    "cn": "蔬菜沙拉；混合沙拉",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat salad",
+      "a salad"
+    ],
+    "examples": [
+      "Mom puts salad on the table.",
+      "We share a salad after class."
+    ],
+    "example": "Mom puts salad on the table.",
+    "sentence": "Mom puts ___ on the table.",
+    "hint": "选择合适的单词：蔬菜沙拉；混合沙拉"
+  },
+  {
+    "id": "primary-md-16",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "meat",
+    "phonetic": "/miːt/",
+    "cn": "肉",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat meat",
+      "some meat"
+    ],
+    "examples": [
+      "There is some meat in my lunch box.",
+      "My sister wants more meat."
+    ],
+    "example": "There is some meat in my lunch box.",
+    "sentence": "There is some ___ in my lunch box.",
+    "hint": "选择合适的单词：肉"
+  },
+  {
+    "id": "primary-md-17",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "beef",
+    "phonetic": "/biːf/",
+    "cn": "牛肉",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat beef",
+      "some beef"
+    ],
+    "examples": [
+      "This beef is fresh.",
+      "Please pass me the beef."
+    ],
+    "example": "This beef is fresh.",
+    "sentence": "This ___ is fresh.",
+    "hint": "选择合适的单词：牛肉"
+  },
+  {
+    "id": "primary-md-18",
     "level": "primary",
     "levelLabel": "小学版",
     "word": "egg",
-    "cn": "蛋",
+    "phonetic": "/eɡ/",
+    "cn": "鸡蛋；蛋",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a egg.",
-    "sentence": "This is a ___.",
-    "hint": "这是：蛋。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat egg",
+      "an egg"
+    ],
+    "examples": [
+      "Mom puts egg on the table.",
+      "We share an egg after class."
+    ],
+    "example": "Mom puts egg on the table.",
+    "sentence": "Mom puts ___ on the table.",
+    "hint": "选择合适的单词：鸡蛋；蛋"
   },
   {
-    "id": "primary-530",
+    "id": "primary-md-19",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "hungry",
-    "cn": "饥饿的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is hungry.",
-    "sentence": "It is ___.",
-    "hint": "它是：饥饿的。"
-  },
-  {
-    "id": "primary-531",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "around",
-    "cn": "环绕，在（......）周围",
-    "pos": "介词",
-    "scene": "时间数字",
-    "category": "基础功能词",
-    "example": "The book is around the desk.",
-    "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：环绕，在（......）周围。"
-  },
-  {
-    "id": "primary-532",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "all",
-    "cn": "全部，所有",
+    "word": "fruit",
+    "phonetic": "/fruːt/",
+    "cn": "水果；果实",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a all.",
-    "sentence": "This is a ___.",
-    "hint": "这是：全部，所有。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat fruit",
+      "some fruit"
+    ],
+    "examples": [
+      "Mom puts fruit on the table.",
+      "We share some fruit after class."
+    ],
+    "example": "Mom puts fruit on the table.",
+    "sentence": "Mom puts ___ on the table.",
+    "hint": "选择合适的单词：水果；果实"
   },
   {
-    "id": "primary-533",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "all around",
-    "cn": "处处，到处",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a all around.",
-    "sentence": "This is a ___.",
-    "hint": "这是：处处，到处。"
-  },
-  {
-    "id": "primary-534",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "big",
-    "cn": "大的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is big.",
-    "sentence": "It is ___.",
-    "hint": "它是：大的。"
-  },
-  {
-    "id": "primary-535",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "little",
-    "cn": "小的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is little.",
-    "sentence": "It is ___.",
-    "hint": "它是：小的。"
-  },
-  {
-    "id": "primary-536",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "everywhere",
-    "cn": "在各个地方；处处",
-    "pos": "副词",
-    "scene": "通用基础",
-    "category": "场所方位",
-    "example": "He runs everywhere.",
-    "sentence": "He runs ___.",
-    "hint": "这里需要表示：在各个地方；处处。"
-  },
-  {
-    "id": "primary-537",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "family",
-    "cn": "家庭；家人",
-    "pos": "副词",
-    "scene": "家庭生活",
-    "category": "基础功能词",
-    "example": "He runs family.",
-    "sentence": "He runs ___.",
-    "hint": "这里需要表示：家庭；家人。"
-  },
-  {
-    "id": "primary-538",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "dad (father)",
-    "cn": "爸爸",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "基础功能词",
-    "example": "This is a dad (father).",
-    "sentence": "This is a ___.",
-    "hint": "这是：爸爸。"
-  },
-  {
-    "id": "primary-539",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "mum (mother)",
-    "cn": "妈妈",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "基础功能词",
-    "example": "This is a mum (mother).",
-    "sentence": "This is a ___.",
-    "hint": "这是：妈妈。"
-  },
-  {
-    "id": "primary-540",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "brother",
-    "cn": "哥哥；弟弟",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a brother.",
-    "sentence": "This is a ___.",
-    "hint": "这是：哥哥；弟弟。"
-  },
-  {
-    "id": "primary-541",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sister",
-    "cn": "姐姐；妹妹",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a sister.",
-    "sentence": "This is a ___.",
-    "hint": "这是：姐姐；妹妹。"
-  },
-  {
-    "id": "primary-542",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "grandpa (grandfather)",
-    "cn": "祖父；外祖父",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "基础功能词",
-    "example": "This is a grandpa (grandfather).",
-    "sentence": "This is a ___.",
-    "hint": "这是：祖父；外祖父。"
-  },
-  {
-    "id": "primary-543",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "grandma (grandmother)",
-    "cn": "祖母；外祖母",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "基础功能词",
-    "example": "This is a grandma (grandmother).",
-    "sentence": "This is a ___.",
-    "hint": "这是：祖母；外祖母。"
-  },
-  {
-    "id": "primary-544",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "but",
-    "cn": "但是，然而",
-    "pos": "连词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I like apples but bananas.",
-    "sentence": "I like apples ___ bananas.",
-    "hint": "选择连接词：但是，然而。"
-  },
-  {
-    "id": "primary-545",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "people",
-    "cn": "人；人们",
-    "pos": "名词",
-    "scene": "社会文化",
-    "category": "人物关系",
-    "example": "This is a people.",
-    "sentence": "This is a ___.",
-    "hint": "这是：人；人们。"
-  },
-  {
-    "id": "primary-546",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "story",
-    "cn": "故事",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a story.",
-    "sentence": "This is a ___.",
-    "hint": "这是：故事。"
-  },
-  {
-    "id": "primary-547",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cap",
-    "cn": "帽子",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a cap.",
-    "sentence": "This is a ___.",
-    "hint": "这是：帽子。"
-  },
-  {
-    "id": "primary-548",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "worry",
-    "cn": "担心",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a worry.",
-    "sentence": "This is a ___.",
-    "hint": "这是：担心。"
-  },
-  {
-    "id": "primary-549",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "on",
-    "cn": "在......上面",
-    "pos": "介词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "The book is on the desk.",
-    "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：在......上面。"
-  },
-  {
-    "id": "primary-550",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "come on",
-    "cn": "快点；加油",
-    "pos": "动词",
-    "scene": "旅行交通",
-    "category": "基础功能词",
-    "example": "I can come on.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：快点；加油。"
-  },
-  {
-    "id": "primary-551",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "photo",
-    "cn": "照片，相片",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a photo.",
-    "sentence": "This is a ___.",
-    "hint": "这是：照片，相片。"
-  },
-  {
-    "id": "primary-552",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "love",
-    "cn": "爱，关爱",
-    "pos": "动词",
-    "scene": "情感品质",
-    "category": "动作行为",
-    "example": "I can love.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：爱，关爱。"
-  },
-  {
-    "id": "primary-553",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "daddy",
-    "cn": "爸爸",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "基础功能词",
-    "example": "This is a daddy.",
-    "sentence": "This is a ___.",
-    "hint": "这是：爸爸。"
-  },
-  {
-    "id": "primary-554",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "mummy",
-    "cn": "妈码",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "其他常用词",
-    "example": "This is a mummy.",
-    "sentence": "This is a ___.",
-    "hint": "这是：妈码。"
-  },
-  {
-    "id": "primary-555",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "where",
-    "cn": "在哪里",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a where.",
-    "sentence": "This is a ___.",
-    "hint": "这是：在哪里。"
-  },
-  {
-    "id": "primary-556",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "dog",
-    "cn": "狗",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "This is a dog.",
-    "sentence": "This is a ___.",
-    "hint": "这是：狗。"
-  },
-  {
-    "id": "primary-557",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "box",
-    "cn": "盒；箱",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a box.",
-    "sentence": "This is a ___.",
-    "hint": "这是：盒；箱。"
-  },
-  {
-    "id": "primary-558",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sweet",
-    "cn": "甜蜜的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is sweet.",
-    "sentence": "It is ___.",
-    "hint": "它是：甜蜜的。"
-  },
-  {
-    "id": "primary-559",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "home",
-    "cn": "家",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "场所方位",
-    "example": "This is a home.",
-    "sentence": "This is a ___.",
-    "hint": "这是：家。"
-  },
-  {
-    "id": "primary-560",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "game",
-    "cn": "游戏",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a game.",
-    "sentence": "This is a ___.",
-    "hint": "这是：游戏。"
-  },
-  {
-    "id": "primary-561",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "room",
-    "cn": "房间",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "场所方位",
-    "example": "This is a room.",
-    "sentence": "This is a ___.",
-    "hint": "这是：房间。"
-  },
-  {
-    "id": "primary-562",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "living room",
-    "cn": "客厅",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "基础功能词",
-    "example": "This is a living room.",
-    "sentence": "This is a ___.",
-    "hint": "这是：客厅。"
-  },
-  {
-    "id": "primary-563",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "bedroom",
-    "cn": "卧室",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "基础功能词",
-    "example": "This is a bedroom.",
-    "sentence": "This is a ___.",
-    "hint": "这是：卧室。"
-  },
-  {
-    "id": "primary-564",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "bathroom",
-    "cn": "浴室，卫生间",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "基础功能词",
-    "example": "This is a bathroom.",
-    "sentence": "This is a ___.",
-    "hint": "这是：浴室，卫生间。"
-  },
-  {
-    "id": "primary-565",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "kitchen",
-    "cn": "厨房",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a kitchen.",
-    "sentence": "This is a ___.",
-    "hint": "这是：厨房。"
-  },
-  {
-    "id": "primary-566",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "dining room",
-    "cn": "餐厅",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "基础功能词",
-    "example": "This is a dining room.",
-    "sentence": "This is a ___.",
-    "hint": "这是：餐厅。"
-  },
-  {
-    "id": "primary-567",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "door",
-    "cn": "门",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a door.",
-    "sentence": "This is a ___.",
-    "hint": "这是：门。"
-  },
-  {
-    "id": "primary-568",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "chair",
-    "cn": "椅子",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a chair.",
-    "sentence": "This is a ___.",
-    "hint": "这是：椅子。"
-  },
-  {
-    "id": "primary-569",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "think",
-    "cn": "想，认为",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can think.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：想，认为。"
-  },
-  {
-    "id": "primary-570",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "under",
-    "cn": "在......下面；在......底下",
-    "pos": "介词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "The book is under the desk.",
-    "sentence": "The book is ___ the desk.",
-    "hint": "书的位置：在......下面；在......底下。"
-  },
-  {
-    "id": "primary-571",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "bed",
-    "cn": "床",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a bed.",
-    "sentence": "This is a ___.",
-    "hint": "这是：床。"
-  },
-  {
-    "id": "primary-572",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "toy",
-    "cn": "玩具",
-    "pos": "名词",
-    "scene": "运动娱乐",
-    "category": "基础功能词",
-    "example": "This is a toy.",
-    "sentence": "This is a ___.",
-    "hint": "这是：玩具。"
-  },
-  {
-    "id": "primary-573",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "miaow",
-    "cn": "咪，喵（猫叫声）",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a miaow.",
-    "sentence": "This is a ___.",
-    "hint": "这是：咪，喵（猫叫声）。"
-  },
-  {
-    "id": "primary-574",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "table",
-    "cn": "桌子",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is table.",
-    "sentence": "It is ___.",
-    "hint": "它是：桌子。"
-  },
-  {
-    "id": "primary-575",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "cat",
-    "cn": "猫",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a cat.",
-    "sentence": "This is a ___.",
-    "hint": "这是：猫。"
-  },
-  {
-    "id": "primary-576",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "ball",
-    "cn": "球",
-    "pos": "名词",
-    "scene": "运动娱乐",
-    "category": "基础功能词",
-    "example": "This is a ball.",
-    "sentence": "This is a ___.",
-    "hint": "这是：球。"
-  },
-  {
-    "id": "primary-577",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "their",
-    "cn": "他们的",
-    "pos": "代词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "their is my friend.",
-    "sentence": "___ is my friend.",
-    "hint": "选择代词：他们的。"
-  },
-  {
-    "id": "primary-578",
+    "id": "primary-md-20",
     "level": "primary",
     "levelLabel": "小学版",
     "word": "apple",
+    "phonetic": "/ˈæpl/",
     "cn": "苹果",
     "pos": "名词",
-    "scene": "饮食健康",
-    "category": "基础功能词",
-    "example": "This is a apple.",
-    "sentence": "This is a ___.",
-    "hint": "这是：苹果。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat apple",
+      "an apple"
+    ],
+    "examples": [
+      "There is an apple in my lunch box.",
+      "My sister wants more apple."
+    ],
+    "example": "There is an apple in my lunch box.",
+    "sentence": "There is an ___ in my lunch box.",
+    "hint": "选择合适的单词：苹果"
   },
   {
-    "id": "primary-579",
+    "id": "primary-md-21",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "share",
-    "cn": "共享；分享",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can share.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：共享；分享。"
+    "word": "banana",
+    "phonetic": "/bəˈnænə/",
+    "cn": "香蕉",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat banana",
+      "a banana"
+    ],
+    "examples": [
+      "This banana is fresh.",
+      "Please pass me the banana."
+    ],
+    "example": "This banana is fresh.",
+    "sentence": "This ___ is fresh.",
+    "hint": "选择合适的单词：香蕉"
   },
   {
-    "id": "primary-580",
+    "id": "primary-md-22",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "put",
-    "cn": "放",
-    "pos": "动词",
+    "word": "grape",
+    "phonetic": "/ɡreɪp/",
+    "cn": "葡萄",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat grape",
+      "a grape"
+    ],
+    "examples": [
+      "There is a grape in my lunch box.",
+      "My sister wants more grape."
+    ],
+    "example": "There is a grape in my lunch box.",
+    "sentence": "There is a ___ in my lunch box.",
+    "hint": "选择合适的单词：葡萄"
+  },
+  {
+    "id": "primary-md-23",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pear",
+    "phonetic": "/per/",
+    "cn": "梨",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat pear",
+      "a pear"
+    ],
+    "examples": [
+      "There is a pear in my lunch box.",
+      "My sister wants more pear."
+    ],
+    "example": "There is a pear in my lunch box.",
+    "sentence": "There is a ___ in my lunch box.",
+    "hint": "选择合适的单词：梨"
+  },
+  {
+    "id": "primary-md-24",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "peach",
+    "phonetic": "/piːtʃ/",
+    "cn": "桃；桃子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat peach",
+      "a peach"
+    ],
+    "examples": [
+      "Peach tastes good with soup.",
+      "Dad buys peach at the market."
+    ],
+    "example": "Peach tastes good with soup.",
+    "sentence": "___ tastes good with soup.",
+    "hint": "选择合适的单词：桃；桃子"
+  },
+  {
+    "id": "primary-md-25",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "watermelon",
+    "phonetic": "/ˈwɔːtərmelən/",
+    "cn": "西瓜",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat watermelon",
+      "a watermelon"
+    ],
+    "examples": [
+      "There is a watermelon in my lunch box.",
+      "My sister wants more watermelon."
+    ],
+    "example": "There is a watermelon in my lunch box.",
+    "sentence": "There is a ___ in my lunch box.",
+    "hint": "选择合适的单词：西瓜"
+  },
+  {
+    "id": "primary-md-26",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "strawberry",
+    "phonetic": "/ˈstrɔːberi/",
+    "cn": "草莓",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat strawberry",
+      "a strawberry"
+    ],
+    "examples": [
+      "Mom puts strawberry on the table.",
+      "We share a strawberry after class."
+    ],
+    "example": "Mom puts strawberry on the table.",
+    "sentence": "Mom puts ___ on the table.",
+    "hint": "选择合适的单词：草莓"
+  },
+  {
+    "id": "primary-md-27",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "vegetable",
+    "phonetic": "/ˈvedʒtəbl/",
+    "cn": "蔬菜",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat vegetable",
+      "a vegetable"
+    ],
+    "examples": [
+      "Vegetable tastes good with soup.",
+      "Dad buys vegetable at the market."
+    ],
+    "example": "Vegetable tastes good with soup.",
+    "sentence": "___ tastes good with soup.",
+    "hint": "选择合适的单词：蔬菜"
+  },
+  {
+    "id": "primary-md-28",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "carrot",
+    "phonetic": "/ˈkærət/",
+    "cn": "胡萝卜",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat carrot",
+      "a carrot"
+    ],
+    "examples": [
+      "There is a carrot in my lunch box.",
+      "My sister wants more carrot."
+    ],
+    "example": "There is a carrot in my lunch box.",
+    "sentence": "There is a ___ in my lunch box.",
+    "hint": "选择合适的单词：胡萝卜"
+  },
+  {
+    "id": "primary-md-29",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "onion",
+    "phonetic": "/ˈʌnjən/",
+    "cn": "洋葱",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat onion",
+      "an onion"
+    ],
+    "examples": [
+      "There is an onion in my lunch box.",
+      "My sister wants more onion."
+    ],
+    "example": "There is an onion in my lunch box.",
+    "sentence": "There is an ___ in my lunch box.",
+    "hint": "选择合适的单词：洋葱"
+  },
+  {
+    "id": "primary-md-30",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "potato",
+    "phonetic": "/pəˈteɪtoʊ/",
+    "cn": "马铃薯；土豆",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat potato",
+      "a potato"
+    ],
+    "examples": [
+      "Potato tastes good with soup.",
+      "Dad buys potato at the market."
+    ],
+    "example": "Potato tastes good with soup.",
+    "sentence": "___ tastes good with soup.",
+    "hint": "选择合适的单词：马铃薯；土豆"
+  },
+  {
+    "id": "primary-md-31",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "tomato",
+    "phonetic": "/təˈmeɪtoʊ/",
+    "cn": "番茄；西红柿",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat tomato",
+      "a tomato"
+    ],
+    "examples": [
+      "Tomato tastes good with soup.",
+      "Dad buys tomato at the market."
+    ],
+    "example": "Tomato tastes good with soup.",
+    "sentence": "___ tastes good with soup.",
+    "hint": "选择合适的单词：番茄；西红柿"
+  },
+  {
+    "id": "primary-md-32",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "peanut",
+    "phonetic": "/ˈpiːnʌt/",
+    "cn": "花生",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat peanut",
+      "a peanut"
+    ],
+    "examples": [
+      "There is a peanut in my lunch box.",
+      "My sister wants more peanut."
+    ],
+    "example": "There is a peanut in my lunch box.",
+    "sentence": "There is a ___ in my lunch box.",
+    "hint": "选择合适的单词：花生"
+  },
+  {
+    "id": "primary-md-33",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cake",
+    "phonetic": "/keɪk/",
+    "cn": "蛋糕；糕饼",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat cake",
+      "a cake"
+    ],
+    "examples": [
+      "Cake tastes good with soup.",
+      "Dad buys cake at the market."
+    ],
+    "example": "Cake tastes good with soup.",
+    "sentence": "___ tastes good with soup.",
+    "hint": "选择合适的单词：蛋糕；糕饼"
+  },
+  {
+    "id": "primary-md-34",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "mooncake",
+    "phonetic": "/ˈmuːn keik/",
+    "cn": "月饼",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat mooncake",
+      "a mooncake"
+    ],
+    "examples": [
+      "Mooncake tastes good with soup.",
+      "Dad buys mooncake at the market."
+    ],
+    "example": "Mooncake tastes good with soup.",
+    "sentence": "___ tastes good with soup.",
+    "hint": "选择合适的单词：月饼"
+  },
+  {
+    "id": "primary-md-35",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ice cream",
+    "phonetic": "/ˈaɪs kriːm/",
+    "cn": "冰激凌",
+    "pos": "名词",
+    "rawPos": "n.",
     "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "eat ice cream",
+      "vanilla ice cream"
+    ],
+    "examples": [
+      "I like ice cream in summer.",
+      "She wants vanilla ice cream."
+    ],
+    "example": "I like ice cream in summer.",
+    "sentence": "I like ___ in summer.",
+    "hint": "选择合适的单词：冰激凌"
+  },
+  {
+    "id": "primary-md-36",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "candy",
+    "phonetic": "/ˈkændi/",
+    "cn": "糖果",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat candy",
+      "a candy"
+    ],
+    "examples": [
+      "This candy is fresh.",
+      "Please pass me the candy."
+    ],
+    "example": "This candy is fresh.",
+    "sentence": "This ___ is fresh.",
+    "hint": "选择合适的单词：糖果"
+  },
+  {
+    "id": "primary-md-37",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "chocolate",
+    "phonetic": "/ˈtʃɔːklət/",
+    "cn": "巧克力；朱古力",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat chocolate",
+      "some chocolate"
+    ],
+    "examples": [
+      "Chocolate tastes good with soup.",
+      "Dad buys chocolate at the market."
+    ],
+    "example": "Chocolate tastes good with soup.",
+    "sentence": "___ tastes good with soup.",
+    "hint": "选择合适的单词：巧克力；朱古力"
+  },
+  {
+    "id": "primary-md-38",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cheese",
+    "phonetic": "/tʃiːz/",
+    "cn": "奶酪",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat cheese",
+      "some cheese"
+    ],
+    "examples": [
+      "There is some cheese in my lunch box.",
+      "My sister wants more cheese."
+    ],
+    "example": "There is some cheese in my lunch box.",
+    "sentence": "There is some ___ in my lunch box.",
+    "hint": "选择合适的单词：奶酪"
+  },
+  {
+    "id": "primary-md-39",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sausage",
+    "phonetic": "/ˈsɔːsɪdʒ/",
+    "cn": "香肠",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat sausage",
+      "a sausage"
+    ],
+    "examples": [
+      "Mom puts sausage on the table.",
+      "We share a sausage after class."
+    ],
+    "example": "Mom puts sausage on the table.",
+    "sentence": "Mom puts ___ on the table.",
+    "hint": "选择合适的单词：香肠"
+  },
+  {
+    "id": "primary-md-40",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "chip",
+    "phonetic": "/tʃɪp/",
+    "cn": "炸薯条；炸薯片；芯片",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat chip",
+      "a chip"
+    ],
+    "examples": [
+      "Chip tastes good with soup.",
+      "Dad buys chip at the market."
+    ],
+    "example": "Chip tastes good with soup.",
+    "sentence": "___ tastes good with soup.",
+    "hint": "选择合适的单词：炸薯条；炸薯片；芯片"
+  },
+  {
+    "id": "primary-md-41",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "drink",
+    "phonetic": "/drɪŋk/",
+    "cn": "喝，饮； 饮料",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "饮食生活",
     "category": "动作行为",
-    "example": "I can put.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：放。"
+    "phrases": [
+      "eat drink",
+      "a drink"
+    ],
+    "examples": [
+      "This drink is fresh.",
+      "Please pass me the drink."
+    ],
+    "example": "This drink is fresh.",
+    "sentence": "This ___ is fresh.",
+    "hint": "选择合适的单词：喝，饮； 饮料"
   },
   {
-    "id": "primary-581",
+    "id": "primary-md-42",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "cooking",
-    "cn": "做饭",
-    "pos": "名词",
-    "scene": "饮食健康",
-    "category": "基础功能词",
-    "example": "This is a cooking.",
-    "sentence": "This is a ___.",
-    "hint": "这是：做饭。"
-  },
-  {
-    "id": "primary-582",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "sun",
-    "cn": "太阳",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "自然万物",
-    "example": "This is a sun.",
-    "sentence": "This is a ___.",
-    "hint": "这是：太阳。"
-  },
-  {
-    "id": "primary-583",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "like",
-    "cn": "喜欢",
-    "pos": "动词",
-    "scene": "情感品质",
+    "word": "water",
+    "phonetic": "/ˈwɔːtər/",
+    "cn": "水，水域；给…浇水",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "饮食生活",
     "category": "动作行为",
-    "example": "I can like.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：喜欢。"
+    "phrases": [
+      "eat water",
+      "some water"
+    ],
+    "examples": [
+      "This water is fresh.",
+      "Please pass me the water."
+    ],
+    "example": "This water is fresh.",
+    "sentence": "This ___ is fresh.",
+    "hint": "选择合适的单词：水，水域；给…浇水"
   },
   {
-    "id": "primary-584",
+    "id": "primary-md-43",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "run",
-    "cn": "跑",
-    "pos": "动词",
-    "scene": "运动娱乐",
+    "word": "milk",
+    "phonetic": "/mɪlk/",
+    "cn": "牛奶；挤奶",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "饮食生活",
     "category": "动作行为",
-    "example": "I can run.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：跑。"
+    "phrases": [
+      "eat milk",
+      "some milk"
+    ],
+    "examples": [
+      "There is some milk in my lunch box.",
+      "My sister wants more milk."
+    ],
+    "example": "There is some milk in my lunch box.",
+    "sentence": "There is some ___ in my lunch box.",
+    "hint": "选择合适的单词：牛奶；挤奶"
   },
   {
-    "id": "primary-585",
+    "id": "primary-md-44",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "lucky",
-    "cn": "幸运的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "情感品质",
-    "example": "It is lucky.",
-    "sentence": "It is ___.",
-    "hint": "它是：幸运的。"
-  },
-  {
-    "id": "primary-586",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "mouse",
-    "cn": "老鼠",
+    "word": "coffee",
+    "phonetic": "/ˈkɔːfi/",
+    "cn": "咖啡",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a mouse.",
-    "sentence": "This is a ___.",
-    "hint": "这是：老鼠。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat coffee",
+      "some coffee"
+    ],
+    "examples": [
+      "Coffee tastes good with soup.",
+      "Dad buys coffee at the market."
+    ],
+    "example": "Coffee tastes good with soup.",
+    "sentence": "___ tastes good with soup.",
+    "hint": "选择合适的单词：咖啡"
   },
   {
-    "id": "primary-587",
+    "id": "primary-md-45",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "deer",
-    "cn": "鹿",
+    "word": "tea",
+    "phonetic": "/tiː/",
+    "cn": "茶；茶叶",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a deer.",
-    "sentence": "This is a ___.",
-    "hint": "这是：鹿。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat tea",
+      "some tea"
+    ],
+    "examples": [
+      "This tea is fresh.",
+      "Please pass me the tea."
+    ],
+    "example": "This tea is fresh.",
+    "sentence": "This ___ is fresh.",
+    "hint": "选择合适的单词：茶；茶叶"
   },
   {
-    "id": "primary-588",
+    "id": "primary-md-46",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "rabbit",
-    "cn": "兔子",
+    "word": "cola",
+    "phonetic": "/ˈkoʊlə/",
+    "cn": "可乐",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a rabbit.",
-    "sentence": "This is a ___.",
-    "hint": "这是：兔子。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat cola",
+      "some cola"
+    ],
+    "examples": [
+      "There is some cola in my lunch box.",
+      "My sister wants more cola."
+    ],
+    "example": "There is some cola in my lunch box.",
+    "sentence": "There is some ___ in my lunch box.",
+    "hint": "选择合适的单词：可乐"
   },
   {
-    "id": "primary-589",
+    "id": "primary-md-47",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "hunter",
-    "cn": "猎人",
+    "word": "juice",
+    "phonetic": "/dʒuːs/",
+    "cn": "果汁",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "人物关系",
-    "example": "This is a hunter.",
-    "sentence": "This is a ___.",
-    "hint": "这是：猎人。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat juice",
+      "some juice"
+    ],
+    "examples": [
+      "This juice is fresh.",
+      "Please pass me the juice."
+    ],
+    "example": "This juice is fresh.",
+    "sentence": "This ___ is fresh.",
+    "hint": "选择合适的单词：果汁"
   },
   {
-    "id": "primary-590",
+    "id": "primary-md-48",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "run after",
-    "cn": "追逐，追赶",
-    "pos": "动词",
-    "scene": "运动娱乐",
-    "category": "基础功能词",
-    "example": "I can run after.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：追逐，追赶。"
-  },
-  {
-    "id": "primary-591",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "get out",
-    "cn": "逃出去",
-    "pos": "动词",
-    "scene": "通用基础",
-    "category": "动作行为",
-    "example": "I can get out.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：逃出去。"
-  },
-  {
-    "id": "primary-592",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "each other",
-    "cn": "互相,彼此",
+    "word": "soup",
+    "phonetic": "/suːp/",
+    "cn": "汤",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a each other.",
-    "sentence": "This is a ___.",
-    "hint": "这是：互相,彼此。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat soup",
+      "some soup"
+    ],
+    "examples": [
+      "This soup is fresh.",
+      "Please pass me the soup."
+    ],
+    "example": "This soup is fresh.",
+    "sentence": "This ___ is fresh.",
+    "hint": "选择合适的单词：汤"
   },
   {
-    "id": "primary-593",
+    "id": "primary-md-49",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "worried",
-    "cn": "担心的",
-    "pos": "形容词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "It is worried.",
-    "sentence": "It is ___.",
-    "hint": "它是：担心的。"
-  },
-  {
-    "id": "primary-594",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "must",
-    "cn": "必须",
-    "pos": "情态动词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "I can must.",
-    "sentence": "I can ___.",
-    "hint": "我会/可以：必须。"
-  },
-  {
-    "id": "primary-595",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "army",
-    "cn": "军队",
+    "word": "dish",
+    "phonetic": "/dɪʃ/",
+    "cn": "盘；碟；菜肴",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a army.",
-    "sentence": "This is a ___.",
-    "hint": "这是：军队。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "eat dish",
+      "a dish"
+    ],
+    "examples": [
+      "Dish tastes good with soup.",
+      "Dad buys dish at the market."
+    ],
+    "example": "Dish tastes good with soup.",
+    "sentence": "___ tastes good with soup.",
+    "hint": "选择合适的单词：盘；碟；菜肴"
   },
   {
-    "id": "primary-596",
+    "id": "primary-md-50",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "girl",
-    "cn": "女儿；女孩",
+    "word": "chopstick",
+    "phonetic": "/ˈtʃɑːpstɪk/",
+    "cn": "（常用复数）筷子",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "人物关系",
-    "example": "This is a girl.",
-    "sentence": "This is a ___.",
-    "hint": "这是：女儿；女孩。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "a chopstick",
+      "the chopstick"
+    ],
+    "examples": [
+      "Please put the chopstick on the desk.",
+      "He found a chopstick in the box."
+    ],
+    "example": "Please put the chopstick on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：（常用复数）筷子"
   },
   {
-    "id": "primary-597",
+    "id": "primary-md-51",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "soldier",
-    "cn": "士兵",
+    "word": "knife",
+    "phonetic": "/naɪf/",
+    "cn": "刀",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a soldier.",
-    "sentence": "This is a ___.",
-    "hint": "这是：士兵。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "a knife",
+      "the knife"
+    ],
+    "examples": [
+      "My friend asked about the knife.",
+      "There is a knife in the picture."
+    ],
+    "example": "My friend asked about the knife.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：刀"
   },
   {
-    "id": "primary-598",
+    "id": "primary-md-52",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "miss",
-    "cn": "思念，想念",
+    "word": "fork",
+    "phonetic": "/fɔːrk/",
+    "cn": "餐叉",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a miss.",
-    "sentence": "This is a ___.",
-    "hint": "这是：思念，想念。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "a fork",
+      "the fork"
+    ],
+    "examples": [
+      "Please put the fork on the desk.",
+      "He found a fork in the box."
+    ],
+    "example": "Please put the fork on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：餐叉"
   },
   {
-    "id": "primary-599",
+    "id": "primary-md-53",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "so much",
-    "cn": "非常",
+    "word": "spoon",
+    "phonetic": "/spuːn/",
+    "cn": "勺；一勺（的量）",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a so much.",
-    "sentence": "This is a ___.",
-    "hint": "这是：非常。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "a spoon",
+      "the spoon"
+    ],
+    "examples": [
+      "The teacher points to the spoon.",
+      "I wrote the spoon in my notebook."
+    ],
+    "example": "The teacher points to the spoon.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：勺；一勺（的量）"
   },
   {
-    "id": "primary-600",
+    "id": "primary-md-54",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "wow",
-    "cn": "呀，哇",
+    "word": "plate",
+    "phonetic": "/pleɪt/",
+    "cn": "盘子；碟子；一盘（的量）",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a wow.",
-    "sentence": "This is a ___.",
-    "hint": "这是：呀，哇。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "a plate",
+      "the plate"
+    ],
+    "examples": [
+      "Please put the plate on the desk.",
+      "He found a plate in the box."
+    ],
+    "example": "Please put the plate on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：盘子；碟子；一盘（的量）"
   },
   {
-    "id": "primary-601",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "Goldilocks",
-    "cn": "金发姑娘",
-    "pos": "名词",
-    "scene": "旅行交通",
-    "category": "动作行为",
-    "example": "This is a Goldilocks.",
-    "sentence": "This is a ___.",
-    "hint": "这是：金发姑娘。"
-  },
-  {
-    "id": "primary-602",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "house",
-    "cn": "房屋，房子",
-    "pos": "名词",
-    "scene": "家庭生活",
-    "category": "场所方位",
-    "example": "This is a house.",
-    "sentence": "This is a ___.",
-    "hint": "这是：房屋，房子。"
-  },
-  {
-    "id": "primary-603",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "next to",
-    "cn": "紧靠着",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a next to.",
-    "sentence": "This is a ___.",
-    "hint": "这是：紧靠着。"
-  },
-  {
-    "id": "primary-604",
-    "level": "primary",
-    "levelLabel": "小学版",
-    "word": "window",
-    "cn": "窗户",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a window.",
-    "sentence": "This is a ___.",
-    "hint": "这是：窗户。"
-  },
-  {
-    "id": "primary-605",
+    "id": "primary-md-55",
     "level": "primary",
     "levelLabel": "小学版",
     "word": "bowl",
-    "cn": "碗",
+    "phonetic": "/boʊl/",
+    "cn": "碗；一碗（的量）",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a bowl.",
-    "sentence": "This is a ___.",
-    "hint": "这是：碗。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "a bowl",
+      "the bowl"
+    ],
+    "examples": [
+      "This story mentions a bowl.",
+      "We talked about the bowl after class."
+    ],
+    "example": "This story mentions a bowl.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：碗；一碗（的量）"
   },
   {
-    "id": "primary-606",
+    "id": "primary-md-56",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "upstairs",
-    "cn": "楼上",
+    "word": "cup",
+    "phonetic": "/kʌp/",
+    "cn": "杯子；一杯（的量）；奖杯",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a upstairs.",
-    "sentence": "This is a ___.",
-    "hint": "这是：楼上。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "a cup",
+      "the cup"
+    ],
+    "examples": [
+      "The teacher points to the cup.",
+      "I wrote the cup in my notebook."
+    ],
+    "example": "The teacher points to the cup.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：杯子；一杯（的量）；奖杯"
   },
   {
-    "id": "primary-607",
+    "id": "primary-md-57",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "enter",
-    "cn": "进入",
+    "word": "glass",
+    "phonetic": "/ɡlæs/",
+    "cn": "玻璃杯；玻璃；一杯（的量）",
     "pos": "名词",
-    "scene": "通用基础",
-    "category": "其他常用词",
-    "example": "This is a enter.",
-    "sentence": "This is a ___.",
-    "hint": "这是：进入。"
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "some glass",
+      "the glass"
+    ],
+    "examples": [
+      "This story mentions some glass.",
+      "We talked about the glass after class."
+    ],
+    "example": "This story mentions some glass.",
+    "sentence": "This story mentions some ___.",
+    "hint": "选择合适的单词：玻璃杯；玻璃；一杯（的量）"
   },
   {
-    "id": "primary-608",
+    "id": "primary-md-58",
     "level": "primary",
     "levelLabel": "小学版",
-    "word": "wake up",
-    "cn": "醒来",
-    "pos": "名词",
-    "scene": "通用基础",
-    "category": "基础功能词",
-    "example": "This is a wake up.",
-    "sentence": "This is a ___.",
-    "hint": "这是：醒来。"
+    "word": "sweet",
+    "phonetic": "/swiːt/",
+    "cn": "甜的，香的，令人愉快的； 糖果",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "饮食生活",
+    "category": "描述评价",
+    "phrases": [
+      "very sweet",
+      "a sweet person"
+    ],
+    "examples": [
+      "This book is sweet for beginners.",
+      "She gave me a sweet answer."
+    ],
+    "example": "This book is sweet for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：甜的，香的，令人愉快的； 糖果"
   },
   {
-    "id": "primary-609",
+    "id": "primary-md-59",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "smell",
+    "phonetic": "/smel/",
+    "cn": "闻（到）；闻起来",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "饮食生活",
+    "category": "动作行为",
+    "phrases": [
+      "can smell",
+      "smell carefully"
+    ],
+    "examples": [
+      "Please smell before you leave.",
+      "I learned how to smell yesterday."
+    ],
+    "example": "Please smell before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：闻（到）；闻起来"
+  },
+  {
+    "id": "primary-md-60",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "clothes",
+    "phonetic": "/kloʊðz/",
+    "cn": "衣服；服装",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear some clothes",
+      "put on some clothes"
+    ],
+    "examples": [
+      "Put the clothes on the chair.",
+      "My brother bought some clothes yesterday."
+    ],
+    "example": "Put the clothes on the chair.",
+    "sentence": "Put the ___ on the chair.",
+    "hint": "选择合适的单词：衣服；服装"
+  },
+  {
+    "id": "primary-md-61",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "wear",
+    "phonetic": "/wer/",
+    "cn": "穿；戴",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "服装购物",
+    "category": "动作行为",
+    "phrases": [
+      "can wear",
+      "wear carefully"
+    ],
+    "examples": [
+      "They wear together in the park.",
+      "Can you wear this afternoon?"
+    ],
+    "example": "They wear together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：穿；戴"
+  },
+  {
+    "id": "primary-md-62",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "coat",
+    "phonetic": "/koʊt/",
+    "cn": "外套；外衣；大衣",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear a coat",
+      "put on a coat"
+    ],
+    "examples": [
+      "This coat fits me well.",
+      "She wears a coat on cold days."
+    ],
+    "example": "This coat fits me well.",
+    "sentence": "This ___ fits me well.",
+    "hint": "选择合适的单词：外套；外衣；大衣"
+  },
+  {
+    "id": "primary-md-63",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "jacket",
+    "phonetic": "/ˈdʒækɪt/",
+    "cn": "夹克衫；短上衣",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear a jacket",
+      "put on a jacket"
+    ],
+    "examples": [
+      "This jacket fits me well.",
+      "She wears a jacket on cold days."
+    ],
+    "example": "This jacket fits me well.",
+    "sentence": "This ___ fits me well.",
+    "hint": "选择合适的单词：夹克衫；短上衣"
+  },
+  {
+    "id": "primary-md-64",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sweater",
+    "phonetic": "/ˈswetər/",
+    "cn": "套头毛衣",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear a sweater",
+      "put on a sweater"
+    ],
+    "examples": [
+      "Her sweater looks new.",
+      "Please fold the sweater carefully."
+    ],
+    "example": "Her sweater looks new.",
+    "sentence": "Her ___ looks new.",
+    "hint": "选择合适的单词：套头毛衣"
+  },
+  {
+    "id": "primary-md-65",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "shirt",
+    "phonetic": "/ʃɜːrt/",
+    "cn": "（尤指男士的）衬衫",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear a shirt",
+      "put on a shirt"
+    ],
+    "examples": [
+      "Her shirt looks new.",
+      "Please fold the shirt carefully."
+    ],
+    "example": "Her shirt looks new.",
+    "sentence": "Her ___ looks new.",
+    "hint": "选择合适的单词：（尤指男士的）衬衫"
+  },
+  {
+    "id": "primary-md-66",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "T-shirt",
+    "phonetic": "/ˈtiː ʃɜːrt/",
+    "cn": "T恤衫",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear a T-shirt",
+      "put on a T-shirt"
+    ],
+    "examples": [
+      "Her T-shirt looks new.",
+      "Please fold the T-shirt carefully."
+    ],
+    "example": "Her T-shirt looks new.",
+    "sentence": "Her ___ looks new.",
+    "hint": "选择合适的单词：T恤衫"
+  },
+  {
+    "id": "primary-md-67",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dress",
+    "phonetic": "/dres/",
+    "cn": "连衣裙；穿衣服",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "服装购物",
+    "category": "动作行为",
+    "phrases": [
+      "wear some dress",
+      "put on some dress"
+    ],
+    "examples": [
+      "Put the dress on the chair.",
+      "My brother bought some dress yesterday."
+    ],
+    "example": "Put the dress on the chair.",
+    "sentence": "Put the ___ on the chair.",
+    "hint": "选择合适的单词：连衣裙；穿衣服"
+  },
+  {
+    "id": "primary-md-68",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "skirt",
+    "phonetic": "/skɜːrt/",
+    "cn": "女裙；裙子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear a skirt",
+      "put on a skirt"
+    ],
+    "examples": [
+      "Put the skirt on the chair.",
+      "My brother bought a skirt yesterday."
+    ],
+    "example": "Put the skirt on the chair.",
+    "sentence": "Put the ___ on the chair.",
+    "hint": "选择合适的单词：女裙；裙子"
+  },
+  {
+    "id": "primary-md-69",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "trousers",
+    "phonetic": "/ˈtraʊzərz/",
+    "cn": "裤子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear some trousers",
+      "put on some trousers"
+    ],
+    "examples": [
+      "This trousers fits me well.",
+      "She wears some trousers on cold days."
+    ],
+    "example": "This trousers fits me well.",
+    "sentence": "This ___ fits me well.",
+    "hint": "选择合适的单词：裤子"
+  },
+  {
+    "id": "primary-md-70",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pants",
+    "phonetic": "/pænts/",
+    "cn": "裤子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear some pants",
+      "put on some pants"
+    ],
+    "examples": [
+      "This pants fits me well.",
+      "She wears some pants on cold days."
+    ],
+    "example": "This pants fits me well.",
+    "sentence": "This ___ fits me well.",
+    "hint": "选择合适的单词：裤子"
+  },
+  {
+    "id": "primary-md-71",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "shorts",
+    "phonetic": "/ʃɔːrts/",
+    "cn": "短裤",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear some shorts",
+      "put on some shorts"
+    ],
+    "examples": [
+      "I need some shorts for the trip.",
+      "The blue shorts is clean."
+    ],
+    "example": "I need some shorts for the trip.",
+    "sentence": "I need some ___ for the trip.",
+    "hint": "选择合适的单词：短裤"
+  },
+  {
+    "id": "primary-md-72",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pocket",
+    "phonetic": "/ˈpɑːkɪt/",
+    "cn": "口袋；兜",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear a pocket",
+      "put on a pocket"
+    ],
+    "examples": [
+      "Put the pocket on the chair.",
+      "My brother bought a pocket yesterday."
+    ],
+    "example": "Put the pocket on the chair.",
+    "sentence": "Put the ___ on the chair.",
+    "hint": "选择合适的单词：口袋；兜"
+  },
+  {
+    "id": "primary-md-73",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sock",
+    "phonetic": "/sɑːk/",
+    "cn": "短袜",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear a sock",
+      "put on a sock"
+    ],
+    "examples": [
+      "This sock fits me well.",
+      "She wears a sock on cold days."
+    ],
+    "example": "This sock fits me well.",
+    "sentence": "This ___ fits me well.",
+    "hint": "选择合适的单词：短袜"
+  },
+  {
+    "id": "primary-md-74",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "shoe",
+    "phonetic": "/ʃuː/",
+    "cn": "鞋",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear a shoe",
+      "put on a shoe"
+    ],
+    "examples": [
+      "Her shoe looks new.",
+      "Please fold the shoe carefully."
+    ],
+    "example": "Her shoe looks new.",
+    "sentence": "Her ___ looks new.",
+    "hint": "选择合适的单词：鞋"
+  },
+  {
+    "id": "primary-md-75",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "raincoat",
+    "phonetic": "/ˈreɪnkoʊt/",
+    "cn": "雨衣",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear a raincoat",
+      "put on a raincoat"
+    ],
+    "examples": [
+      "Put the raincoat on the chair.",
+      "My brother bought a raincoat yesterday."
+    ],
+    "example": "Put the raincoat on the chair.",
+    "sentence": "Put the ___ on the chair.",
+    "hint": "选择合适的单词：雨衣"
+  },
+  {
+    "id": "primary-md-76",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cap",
+    "phonetic": "/kæp/",
+    "cn": "（尤指男用有帽舌的）便帽，制服帽",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear a cap",
+      "put on a cap"
+    ],
+    "examples": [
+      "Her cap looks new.",
+      "Please fold the cap carefully."
+    ],
+    "example": "Her cap looks new.",
+    "sentence": "Her ___ looks new.",
+    "hint": "选择合适的单词：（尤指男用有帽舌的）便帽，制服帽"
+  },
+  {
+    "id": "primary-md-77",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hat",
+    "phonetic": "/hæt/",
+    "cn": "（常指带檐的）帽子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear a hat",
+      "put on a hat"
+    ],
+    "examples": [
+      "Her hat looks new.",
+      "Please fold the hat carefully."
+    ],
+    "example": "Her hat looks new.",
+    "sentence": "Her ___ looks new.",
+    "hint": "选择合适的单词：（常指带檐的）帽子"
+  },
+  {
+    "id": "primary-md-78",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "scarf",
+    "phonetic": "/skɑːrf/",
+    "cn": "围巾；披巾",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear a scarf",
+      "put on a scarf"
+    ],
+    "examples": [
+      "I need a scarf for the trip.",
+      "The blue scarf is clean."
+    ],
+    "example": "I need a scarf for the trip.",
+    "sentence": "I need a ___ for the trip.",
+    "hint": "选择合适的单词：围巾；披巾"
+  },
+  {
+    "id": "primary-md-79",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "glove",
+    "phonetic": "/ɡlʌv/",
+    "cn": "（分手指的）手套",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear a glove",
+      "put on a glove"
+    ],
+    "examples": [
+      "Her glove looks new.",
+      "Please fold the glove carefully."
+    ],
+    "example": "Her glove looks new.",
+    "sentence": "Her ___ looks new.",
+    "hint": "选择合适的单词：（分手指的）手套"
+  },
+  {
+    "id": "primary-md-80",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "glasses",
+    "phonetic": "/ˈɡlæsɪz/",
+    "cn": "眼镜",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear some glasses",
+      "put on some glasses"
+    ],
+    "examples": [
+      "Her glasses looks new.",
+      "Please fold the glasses carefully."
+    ],
+    "example": "Her glasses looks new.",
+    "sentence": "Her ___ looks new.",
+    "hint": "选择合适的单词：眼镜"
+  },
+  {
+    "id": "primary-md-81",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sunglasses",
+    "phonetic": "/ˈsʌnɡlæsɪz/",
+    "cn": "太阳镜；墨镜",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "wear some sunglasses",
+      "put on some sunglasses"
+    ],
+    "examples": [
+      "Her sunglasses looks new.",
+      "Please fold the sunglasses carefully."
+    ],
+    "example": "Her sunglasses looks new.",
+    "sentence": "Her ___ looks new.",
+    "hint": "选择合适的单词：太阳镜；墨镜"
+  },
+  {
+    "id": "primary-md-82",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "buy",
+    "phonetic": "/baɪ/",
+    "cn": "买；购买",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "服装购物",
+    "category": "动作行为",
+    "phrases": [
+      "buy a gift",
+      "buy carefully"
+    ],
+    "examples": [
+      "I want to buy a gift for Mom.",
+      "We buy carefully before we pay."
+    ],
+    "example": "I want to buy a gift for Mom.",
+    "sentence": "I want to ___ a gift for Mom.",
+    "hint": "选择合适的单词：买；购买"
+  },
+  {
+    "id": "primary-md-83",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "take",
+    "phonetic": "/teɪk/",
+    "cn": "拿；取；学习；上（课）；乘坐；拍照；买下",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "take a gift",
+      "take carefully"
+    ],
+    "examples": [
+      "Did you take the price?",
+      "Please take what you really need."
+    ],
+    "example": "Did you take the price?",
+    "sentence": "Did you ___ the price?",
+    "hint": "选择合适的单词：拿；取；学习；上（课）；乘坐；拍照；买下"
+  },
+  {
+    "id": "primary-md-84",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sell",
+    "phonetic": "/sel/",
+    "cn": "出售；售卖",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "服装购物",
+    "category": "动作行为",
+    "phrases": [
+      "sell a gift",
+      "sell carefully"
+    ],
+    "examples": [
+      "Did you sell the price?",
+      "Please sell what you really need."
+    ],
+    "example": "Did you sell the price?",
+    "sentence": "Did you ___ the price?",
+    "hint": "选择合适的单词：出售；售卖"
+  },
+  {
+    "id": "primary-md-85",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sale",
+    "phonetic": "/seɪl/",
+    "cn": "出售；特价销售；大减价",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "the sale",
+      "sale tag"
+    ],
+    "examples": [
+      "This story mentions a sale.",
+      "We talked about the sale after class."
+    ],
+    "example": "This story mentions a sale.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：出售；特价销售；大减价"
+  },
+  {
+    "id": "primary-md-86",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "find",
+    "phonetic": "/faɪnd/",
+    "cn": "找到；发现",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "find a gift",
+      "find carefully"
+    ],
+    "examples": [
+      "I want to find a gift for Mom.",
+      "We find carefully before we pay."
+    ],
+    "example": "I want to find a gift for Mom.",
+    "sentence": "I want to ___ a gift for Mom.",
+    "hint": "选择合适的单词：找到；发现"
+  },
+  {
+    "id": "primary-md-87",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "choose",
+    "phonetic": "/tʃuːz/",
+    "cn": "选择；挑选；选取",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "choose a gift",
+      "choose carefully"
+    ],
+    "examples": [
+      "She will choose a red bag.",
+      "They choose the best answer."
+    ],
+    "example": "She will choose a red bag.",
+    "sentence": "She will ___ a red bag.",
+    "hint": "选择合适的单词：选择；挑选；选取"
+  },
+  {
+    "id": "primary-md-88",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "decide",
+    "phonetic": "/dɪˈsaɪd/",
+    "cn": "决定",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "decide a gift",
+      "decide carefully"
+    ],
+    "examples": [
+      "She will decide a red bag.",
+      "They decide the best answer."
+    ],
+    "example": "She will decide a red bag.",
+    "sentence": "She will ___ a red bag.",
+    "hint": "选择合适的单词：决定"
+  },
+  {
+    "id": "primary-md-89",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "spend",
+    "phonetic": "/spend/",
+    "cn": "花费；度过",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "spend a gift",
+      "spend carefully"
+    ],
+    "examples": [
+      "She will spend a red bag.",
+      "They spend the best answer."
+    ],
+    "example": "She will spend a red bag.",
+    "sentence": "She will ___ a red bag.",
+    "hint": "选择合适的单词：花费；度过"
+  },
+  {
+    "id": "primary-md-90",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cost",
+    "phonetic": "/kɔːst/",
+    "cn": "需付费；价钱为",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "cost a gift",
+      "cost carefully"
+    ],
+    "examples": [
+      "I want to cost a gift for Mom.",
+      "We cost carefully before we pay."
+    ],
+    "example": "I want to cost a gift for Mom.",
+    "sentence": "I want to ___ a gift for Mom.",
+    "hint": "选择合适的单词：需付费；价钱为"
+  },
+  {
+    "id": "primary-md-91",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "size",
+    "phonetic": "/saɪz/",
+    "cn": "尺码；号；大小",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "the size",
+      "size tag"
+    ],
+    "examples": [
+      "My friend asked about the size.",
+      "There is a size in the picture."
+    ],
+    "example": "My friend asked about the size.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：尺码；号；大小"
+  },
+  {
+    "id": "primary-md-92",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "price",
+    "phonetic": "/praɪs/",
+    "cn": "价格；价钱",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "the price",
+      "price tag"
+    ],
+    "examples": [
+      "My friend asked about the price.",
+      "There is a price in the picture."
+    ],
+    "example": "My friend asked about the price.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：价格；价钱"
+  },
+  {
+    "id": "primary-md-93",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "money",
+    "phonetic": "/ˈmʌni/",
+    "cn": "钱；钞票",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "the money",
+      "money tag"
+    ],
+    "examples": [
+      "Please put the money on the desk.",
+      "He found some money in the box."
+    ],
+    "example": "Please put the money on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：钱；钞票"
+  },
+  {
+    "id": "primary-md-94",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dollar",
+    "phonetic": "/ˈdɑːlər/",
+    "cn": "美元",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "the dollar",
+      "dollar tag"
+    ],
+    "examples": [
+      "My friend asked about the dollar.",
+      "There is a dollar in the picture."
+    ],
+    "example": "My friend asked about the dollar.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：美元"
+  },
+  {
+    "id": "primary-md-95",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cent",
+    "phonetic": "/sent/",
+    "cn": "分",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "服装购物",
+    "category": "名物概念",
+    "phrases": [
+      "the cent",
+      "cent tag"
+    ],
+    "examples": [
+      "My friend asked about the cent.",
+      "There is a cent in the picture."
+    ],
+    "example": "My friend asked about the cent.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：分"
+  },
+  {
+    "id": "primary-md-96",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "expensive",
+    "phonetic": "/ɪkˈspensɪv/",
+    "cn": "昂贵的；花钱多的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "服装购物",
+    "category": "描述评价",
+    "phrases": [
+      "a expensive bag",
+      "very expensive"
+    ],
+    "examples": [
+      "His idea sounds expensive.",
+      "We found a expensive place to rest."
+    ],
+    "example": "His idea sounds expensive.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：昂贵的；花钱多的"
+  },
+  {
+    "id": "primary-md-97",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cheap",
+    "phonetic": "/tʃiːp/",
+    "cn": "便宜的；廉价的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "服装购物",
+    "category": "描述评价",
+    "phrases": [
+      "a cheap bag",
+      "very cheap"
+    ],
+    "examples": [
+      "The lesson was cheap but useful.",
+      "My teacher wrote a cheap comment."
+    ],
+    "example": "The lesson was cheap but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：便宜的；廉价的"
+  },
+  {
+    "id": "primary-md-98",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pretty",
+    "phonetic": "/ˈprɪti/",
+    "cn": "漂亮的，美观的；相当",
+    "pos": "形容词/副词",
+    "rawPos": "adj.&adv.",
+    "scene": "服装购物",
+    "category": "描述评价",
+    "phrases": [
+      "pretty a gift",
+      "pretty carefully"
+    ],
+    "examples": [
+      "I want to pretty a gift for Mom.",
+      "We pretty carefully before we pay."
+    ],
+    "example": "I want to pretty a gift for Mom.",
+    "sentence": "I want to ___ a gift for Mom.",
+    "hint": "选择合适的单词：漂亮的，美观的；相当"
+  },
+  {
+    "id": "primary-md-99",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "beautiful",
+    "phonetic": "/ˈbjuːtɪfl/",
+    "cn": "美丽的；美好的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "服装购物",
+    "category": "描述评价",
+    "phrases": [
+      "a beautiful bag",
+      "very beautiful"
+    ],
+    "examples": [
+      "His idea sounds beautiful.",
+      "We found a beautiful place to rest."
+    ],
+    "example": "His idea sounds beautiful.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：美丽的；美好的"
+  },
+  {
+    "id": "primary-md-100",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "body",
+    "phonetic": "/ˈbɑːdi/",
+    "cn": "身体",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "身体健康",
+    "category": "名物概念",
+    "phrases": [
+      "my body",
+      "touch your body"
+    ],
+    "examples": [
+      "My body hurts a little.",
+      "Wash your body before dinner."
+    ],
+    "example": "My body hurts a little.",
+    "sentence": "My ___ hurts a little.",
+    "hint": "选择合适的单词：身体"
+  },
+  {
+    "id": "primary-md-101",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "head",
+    "phonetic": "/hed/",
+    "cn": "头；头脑；负责人",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "身体健康",
+    "category": "名物概念",
+    "phrases": [
+      "my head",
+      "touch your head"
+    ],
+    "examples": [
+      "The doctor checks his head.",
+      "She covered her head with a scarf."
+    ],
+    "example": "The doctor checks his head.",
+    "sentence": "The doctor checks his ___.",
+    "hint": "选择合适的单词：头；头脑；负责人"
+  },
+  {
+    "id": "primary-md-102",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hair",
+    "phonetic": "/her/",
+    "cn": "头发；毛发",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "身体健康",
+    "category": "名物概念",
+    "phrases": [
+      "my hair",
+      "touch your hair"
+    ],
+    "examples": [
+      "My hair hurts a little.",
+      "Wash your hair before dinner."
+    ],
+    "example": "My hair hurts a little.",
+    "sentence": "My ___ hurts a little.",
+    "hint": "选择合适的单词：头发；毛发"
+  },
+  {
+    "id": "primary-md-103",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "face",
+    "phonetic": "/feɪs/",
+    "cn": "脸，面部表情；面对",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "身体健康",
+    "category": "动作行为",
+    "phrases": [
+      "my face",
+      "touch your face"
+    ],
+    "examples": [
+      "My face hurts a little.",
+      "Wash your face before dinner."
+    ],
+    "example": "My face hurts a little.",
+    "sentence": "My ___ hurts a little.",
+    "hint": "选择合适的单词：脸，面部表情；面对"
+  },
+  {
+    "id": "primary-md-104",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "eye",
+    "phonetic": "/aɪ/",
+    "cn": "眼睛",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "身体健康",
+    "category": "名物概念",
+    "phrases": [
+      "my eye",
+      "touch your eye"
+    ],
+    "examples": [
+      "My eye hurts a little.",
+      "Wash your eye before dinner."
+    ],
+    "example": "My eye hurts a little.",
+    "sentence": "My ___ hurts a little.",
+    "hint": "选择合适的单词：眼睛"
+  },
+  {
+    "id": "primary-md-105",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ear",
+    "phonetic": "/ɪr/",
+    "cn": "耳朵",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "身体健康",
+    "category": "名物概念",
+    "phrases": [
+      "my ear",
+      "touch your ear"
+    ],
+    "examples": [
+      "The doctor checks his ear.",
+      "She covered her ear with a scarf."
+    ],
+    "example": "The doctor checks his ear.",
+    "sentence": "The doctor checks his ___.",
+    "hint": "选择合适的单词：耳朵"
+  },
+  {
+    "id": "primary-md-106",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "nose",
+    "phonetic": "/noʊz/",
+    "cn": "鼻子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "身体健康",
+    "category": "名物概念",
+    "phrases": [
+      "my nose",
+      "touch your nose"
+    ],
+    "examples": [
+      "My nose hurts a little.",
+      "Wash your nose before dinner."
+    ],
+    "example": "My nose hurts a little.",
+    "sentence": "My ___ hurts a little.",
+    "hint": "选择合适的单词：鼻子"
+  },
+  {
+    "id": "primary-md-107",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "mouth",
+    "phonetic": "/maʊθ/",
+    "cn": "嘴",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "身体健康",
+    "category": "名物概念",
+    "phrases": [
+      "my mouth",
+      "touch your mouth"
+    ],
+    "examples": [
+      "The doctor checks his mouth.",
+      "She covered her mouth with a scarf."
+    ],
+    "example": "The doctor checks his mouth.",
+    "sentence": "The doctor checks his ___.",
+    "hint": "选择合适的单词：嘴"
+  },
+  {
+    "id": "primary-md-108",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "tooth",
+    "phonetic": "/tuːθ/",
+    "cn": "牙齿",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "身体健康",
+    "category": "名物概念",
+    "phrases": [
+      "my tooth",
+      "touch your tooth"
+    ],
+    "examples": [
+      "The doctor checks his tooth.",
+      "She covered her tooth with a scarf."
+    ],
+    "example": "The doctor checks his tooth.",
+    "sentence": "The doctor checks his ___.",
+    "hint": "选择合适的单词：牙齿"
+  },
+  {
+    "id": "primary-md-109",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "back",
+    "phonetic": "/bæk/",
+    "cn": "背，后面；后面的 ；向后",
+    "pos": "名词/形容词/副词",
+    "rawPos": "n.&adj.&adv.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "my back",
+      "touch your back"
+    ],
+    "examples": [
+      "He raised his back in class.",
+      "Touch your back gently."
+    ],
+    "example": "He raised his back in class.",
+    "sentence": "He raised his ___ in class.",
+    "hint": "选择合适的单词：背，后面；后面的 ；向后"
+  },
+  {
+    "id": "primary-md-110",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "arm",
+    "phonetic": "/ɑːrm/",
+    "cn": "手臂；上肢",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "身体健康",
+    "category": "名物概念",
+    "phrases": [
+      "my arm",
+      "touch your arm"
+    ],
+    "examples": [
+      "He raised his arm in class.",
+      "Touch your arm gently."
+    ],
+    "example": "He raised his arm in class.",
+    "sentence": "He raised his ___ in class.",
+    "hint": "选择合适的单词：手臂；上肢"
+  },
+  {
+    "id": "primary-md-111",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hand",
+    "phonetic": "/hænd/",
+    "cn": "手；交，递，给",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "身体健康",
+    "category": "动作行为",
+    "phrases": [
+      "my hand",
+      "touch your hand"
+    ],
+    "examples": [
+      "He raised his hand in class.",
+      "Touch your hand gently."
+    ],
+    "example": "He raised his hand in class.",
+    "sentence": "He raised his ___ in class.",
+    "hint": "选择合适的单词：手；交，递，给"
+  },
+  {
+    "id": "primary-md-112",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "leg",
+    "phonetic": "/leɡ/",
+    "cn": "腿",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "身体健康",
+    "category": "名物概念",
+    "phrases": [
+      "my leg",
+      "touch your leg"
+    ],
+    "examples": [
+      "He raised his leg in class.",
+      "Touch your leg gently."
+    ],
+    "example": "He raised his leg in class.",
+    "sentence": "He raised his ___ in class.",
+    "hint": "选择合适的单词：腿"
+  },
+  {
+    "id": "primary-md-113",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "foot",
+    "phonetic": "/fʊt/",
+    "cn": "脚；足；底部；英尺",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "身体健康",
+    "category": "名物概念",
+    "phrases": [
+      "my foot",
+      "touch your foot"
+    ],
+    "examples": [
+      "My foot hurts a little.",
+      "Wash your foot before dinner."
+    ],
+    "example": "My foot hurts a little.",
+    "sentence": "My ___ hurts a little.",
+    "hint": "选择合适的单词：脚；足；底部；英尺"
+  },
+  {
+    "id": "primary-md-114",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "thin",
+    "phonetic": "/θɪn/",
+    "cn": "瘦的；薄的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "very thin",
+      "a thin person"
+    ],
+    "examples": [
+      "This book is thin for beginners.",
+      "She gave me a thin answer."
+    ],
+    "example": "This book is thin for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：瘦的；薄的"
+  },
+  {
+    "id": "primary-md-115",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fat",
+    "phonetic": "/fæt/",
+    "cn": "肥胖的， 肥的； 脂肪，肥肉",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "very fat",
+      "a fat person"
+    ],
+    "examples": [
+      "His idea sounds fat.",
+      "We found a fat place to rest."
+    ],
+    "example": "His idea sounds fat.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：肥胖的， 肥的； 脂肪，肥肉"
+  },
+  {
+    "id": "primary-md-116",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "heavy",
+    "phonetic": "/ˈhevi/",
+    "cn": "重的；沉重的；严重的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "very heavy",
+      "a heavy person"
+    ],
+    "examples": [
+      "His idea sounds heavy.",
+      "We found a heavy place to rest."
+    ],
+    "example": "His idea sounds heavy.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：重的；沉重的；严重的"
+  },
+  {
+    "id": "primary-md-117",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "tall",
+    "phonetic": "/tɔːl/",
+    "cn": "有…高；高的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "very tall",
+      "a tall person"
+    ],
+    "examples": [
+      "The lesson was tall but useful.",
+      "My teacher wrote a tall comment."
+    ],
+    "example": "The lesson was tall but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：有…高；高的"
+  },
+  {
+    "id": "primary-md-118",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "short",
+    "phonetic": "/ʃɔːrt/",
+    "cn": "矮的；短的；短缺的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "very short",
+      "a short person"
+    ],
+    "examples": [
+      "The road looks short after the rain.",
+      "It is short to finish early."
+    ],
+    "example": "The road looks short after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：矮的；短的；短缺的"
+  },
+  {
+    "id": "primary-md-119",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "healthy",
+    "phonetic": "/ˈhelθi/",
+    "cn": "健康的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "feel healthy",
+      "very healthy"
+    ],
+    "examples": [
+      "She was healthy about the trip.",
+      "A healthy smile appeared on his face."
+    ],
+    "example": "She was healthy about the trip.",
+    "sentence": "She was ___ about the trip.",
+    "hint": "选择合适的单词：健康的"
+  },
+  {
+    "id": "primary-md-120",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "well",
+    "phonetic": "/wel/",
+    "cn": "健康，身体好；好，对，令人满意地",
+    "pos": "形容词/副词",
+    "rawPos": "adj.&adv.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "feel well",
+      "very well"
+    ],
+    "examples": [
+      "She was well about the trip.",
+      "A well smile appeared on his face."
+    ],
+    "example": "She was well about the trip.",
+    "sentence": "She was ___ about the trip.",
+    "hint": "选择合适的单词：健康，身体好；好，对，令人满意地"
+  },
+  {
+    "id": "primary-md-121",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "better",
+    "phonetic": "/ˈbetər/",
+    "cn": "更好的；恢复健康的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "feel better",
+      "very better"
+    ],
+    "examples": [
+      "He looked better when he came in.",
+      "This result made us better."
+    ],
+    "example": "He looked better when he came in.",
+    "sentence": "He looked ___ when he came in.",
+    "hint": "选择合适的单词：更好的；恢复健康的"
+  },
+  {
+    "id": "primary-md-122",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fine",
+    "phonetic": "/faɪn/",
+    "cn": "美好的；健康的；晴朗的；很好；不错",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "feel fine",
+      "very fine"
+    ],
+    "examples": [
+      "I feel fine before the test.",
+      "Her voice sounds fine today."
+    ],
+    "example": "I feel fine before the test.",
+    "sentence": "I feel ___ before the test.",
+    "hint": "选择合适的单词：美好的；健康的；晴朗的；很好；不错"
+  },
+  {
+    "id": "primary-md-123",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ill",
+    "phonetic": "/ɪl/",
+    "cn": "有病；不舒服；不良的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "feel ill",
+      "very ill"
+    ],
+    "examples": [
+      "The child became ill after hearing the news.",
+      "Don't be ill; I can help you."
+    ],
+    "example": "The child became ill after hearing the news.",
+    "sentence": "The child became ___ after hearing the news.",
+    "hint": "选择合适的单词：有病；不舒服；不良的"
+  },
+  {
+    "id": "primary-md-124",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "blind",
+    "phonetic": "/blaɪnd/",
+    "cn": "失明的；瞎的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "feel blind",
+      "very blind"
+    ],
+    "examples": [
+      "She was blind about the trip.",
+      "A blind smile appeared on his face."
+    ],
+    "example": "She was blind about the trip.",
+    "sentence": "She was ___ about the trip.",
+    "hint": "选择合适的单词：失明的；瞎的"
+  },
+  {
+    "id": "primary-md-125",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "deaf",
+    "phonetic": "/def/",
+    "cn": "聋的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "feel deaf",
+      "very deaf"
+    ],
+    "examples": [
+      "The child became deaf after hearing the news.",
+      "Don't be deaf; I can help you."
+    ],
+    "example": "The child became deaf after hearing the news.",
+    "sentence": "The child became ___ after hearing the news.",
+    "hint": "选择合适的单词：聋的"
+  },
+  {
+    "id": "primary-md-126",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fever",
+    "phonetic": "/ˈfiːvər/",
+    "cn": "发烧",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "身体健康",
+    "category": "名物概念",
+    "phrases": [
+      "good fever",
+      "bring fever"
+    ],
+    "examples": [
+      "We shared our fever after the game.",
+      "Her fever was easy to see."
+    ],
+    "example": "We shared our fever after the game.",
+    "sentence": "We shared our ___ after the game.",
+    "hint": "选择合适的单词：发烧"
+  },
+  {
+    "id": "primary-md-127",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "headache",
+    "phonetic": "/ˈhedeɪk/",
+    "cn": "头痛",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "身体健康",
+    "category": "名物概念",
+    "phrases": [
+      "good headache",
+      "bring headache"
+    ],
+    "examples": [
+      "We shared our headache after the game.",
+      "Her headache was easy to see."
+    ],
+    "example": "We shared our headache after the game.",
+    "sentence": "We shared our ___ after the game.",
+    "hint": "选择合适的单词：头痛"
+  },
+  {
+    "id": "primary-md-128",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cough",
+    "phonetic": "/kɔːf/",
+    "cn": "咳嗽",
+    "pos": "v.＆n",
+    "rawPos": "v.＆n.",
+    "scene": "身体健康",
+    "category": "名物概念",
+    "phrases": [
+      "good cough",
+      "bring cough"
+    ],
+    "examples": [
+      "We shared our cough after the game.",
+      "Her cough was easy to see."
+    ],
+    "example": "We shared our cough after the game.",
+    "sentence": "We shared our ___ after the game.",
+    "hint": "选择合适的单词：咳嗽"
+  },
+  {
+    "id": "primary-md-129",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "breath",
+    "phonetic": "/breθ/",
+    "cn": "呼吸",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "身体健康",
+    "category": "名物概念",
+    "phrases": [
+      "good breath",
+      "bring breath"
+    ],
+    "examples": [
+      "Good breath can change a day.",
+      "This song brings breath to the room."
+    ],
+    "example": "Good breath can change a day.",
+    "sentence": "Good ___ can change a day.",
+    "hint": "选择合适的单词：呼吸"
+  },
+  {
+    "id": "primary-md-130",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "feel",
+    "phonetic": "/fiːl/",
+    "cn": "觉得，感到，摸起来； 感受",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "good feel",
+      "bring feel"
+    ],
+    "examples": [
+      "Good feel can change a day.",
+      "This song brings feel to the room."
+    ],
+    "example": "Good feel can change a day.",
+    "sentence": "Good ___ can change a day.",
+    "hint": "选择合适的单词：觉得，感到，摸起来； 感受"
+  },
+  {
+    "id": "primary-md-131",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hungry",
+    "phonetic": "/ˈhʌŋɡri/",
+    "cn": "饥饿的；感到饿的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "feel hungry",
+      "very hungry"
+    ],
+    "examples": [
+      "I feel hungry before the test.",
+      "Her voice sounds hungry today."
+    ],
+    "example": "I feel hungry before the test.",
+    "sentence": "I feel ___ before the test.",
+    "hint": "选择合适的单词：饥饿的；感到饿的"
+  },
+  {
+    "id": "primary-md-132",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "thirsty",
+    "phonetic": "/ˈθɜːrsti/",
+    "cn": "口渴的；渴望的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "feel thirsty",
+      "very thirsty"
+    ],
+    "examples": [
+      "The child became thirsty after hearing the news.",
+      "Don't be thirsty; I can help you."
+    ],
+    "example": "The child became thirsty after hearing the news.",
+    "sentence": "The child became ___ after hearing the news.",
+    "hint": "选择合适的单词：口渴的；渴望的"
+  },
+  {
+    "id": "primary-md-133",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "tired",
+    "phonetic": "/ˈtaɪərd/",
+    "cn": "疲倦的；厌倦的；厌烦的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "身体健康",
+    "category": "描述评价",
+    "phrases": [
+      "feel tired",
+      "very tired"
+    ],
+    "examples": [
+      "She was tired about the trip.",
+      "A tired smile appeared on his face."
+    ],
+    "example": "She was tired about the trip.",
+    "sentence": "She was ___ about the trip.",
+    "hint": "选择合适的单词：疲倦的；厌倦的；厌烦的"
+  },
+  {
+    "id": "primary-md-134",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "happy",
+    "phonetic": "/ˈhæpi/",
+    "cn": "高兴的；快乐的；幸福的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel happy",
+      "very happy"
+    ],
+    "examples": [
+      "The child became happy after hearing the news.",
+      "Don't be happy; I can help you."
+    ],
+    "example": "The child became happy after hearing the news.",
+    "sentence": "The child became ___ after hearing the news.",
+    "hint": "选择合适的单词：高兴的；快乐的；幸福的"
+  },
+  {
+    "id": "primary-md-135",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pleased",
+    "phonetic": "/pliːzd/",
+    "cn": "高兴；满意；愉快",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel pleased",
+      "very pleased"
+    ],
+    "examples": [
+      "She was pleased about the trip.",
+      "A pleased smile appeared on his face."
+    ],
+    "example": "She was pleased about the trip.",
+    "sentence": "She was ___ about the trip.",
+    "hint": "选择合适的单词：高兴；满意；愉快"
+  },
+  {
+    "id": "primary-md-136",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "merry",
+    "phonetic": "/ˈmeri/",
+    "cn": "愉快的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel merry",
+      "very merry"
+    ],
+    "examples": [
+      "I feel merry before the test.",
+      "Her voice sounds merry today."
+    ],
+    "example": "I feel merry before the test.",
+    "sentence": "I feel ___ before the test.",
+    "hint": "选择合适的单词：愉快的"
+  },
+  {
+    "id": "primary-md-137",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "joy",
+    "phonetic": "/dʒɔɪ/",
+    "cn": "快乐；喜悦；乐事；乐趣",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "情绪品质",
+    "category": "名物概念",
+    "phrases": [
+      "good joy",
+      "bring joy"
+    ],
+    "examples": [
+      "Good joy can change a day.",
+      "This song brings joy to the room."
+    ],
+    "example": "Good joy can change a day.",
+    "sentence": "Good ___ can change a day.",
+    "hint": "选择合适的单词：快乐；喜悦；乐事；乐趣"
+  },
+  {
+    "id": "primary-md-138",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "good",
+    "phonetic": "/ɡʊd/",
+    "cn": "好的；令人愉快的；擅长的；有益的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel good",
+      "very good"
+    ],
+    "examples": [
+      "He looked good when he came in.",
+      "This result made us good."
+    ],
+    "example": "He looked good when he came in.",
+    "sentence": "He looked ___ when he came in.",
+    "hint": "选择合适的单词：好的；令人愉快的；擅长的；有益的"
+  },
+  {
+    "id": "primary-md-139",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "best",
+    "phonetic": "/best/",
+    "cn": "最好的；最，最高程度地 ； 最高标准",
+    "pos": "形容词/副词/名词",
+    "rawPos": "adj.&adv.&n.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel best",
+      "very best"
+    ],
+    "examples": [
+      "She was best about the trip.",
+      "A best smile appeared on his face."
+    ],
+    "example": "She was best about the trip.",
+    "sentence": "She was ___ about the trip.",
+    "hint": "选择合适的单词：最好的；最，最高程度地 ； 最高标准"
+  },
+  {
+    "id": "primary-md-140",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "nice",
+    "phonetic": "/naɪs/",
+    "cn": "令人愉快的；好的；好心的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel nice",
+      "very nice"
+    ],
+    "examples": [
+      "The child became nice after hearing the news.",
+      "Don't be nice; I can help you."
+    ],
+    "example": "The child became nice after hearing the news.",
+    "sentence": "The child became ___ after hearing the news.",
+    "hint": "选择合适的单词：令人愉快的；好的；好心的"
+  },
+  {
+    "id": "primary-md-141",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "great",
+    "phonetic": "/ɡreɪt/",
+    "cn": "好极的；很大的；伟大的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel great",
+      "very great"
+    ],
+    "examples": [
+      "She was great about the trip.",
+      "A great smile appeared on his face."
+    ],
+    "example": "She was great about the trip.",
+    "sentence": "She was ___ about the trip.",
+    "hint": "选择合适的单词：好极的；很大的；伟大的"
+  },
+  {
+    "id": "primary-md-142",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "perfect",
+    "phonetic": "/ˈpɜːrfɪkt/",
+    "cn": "极好的；完美的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel perfect",
+      "very perfect"
+    ],
+    "examples": [
+      "I feel perfect before the test.",
+      "Her voice sounds perfect today."
+    ],
+    "example": "I feel perfect before the test.",
+    "sentence": "I feel ___ before the test.",
+    "hint": "选择合适的单词：极好的；完美的"
+  },
+  {
+    "id": "primary-md-143",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fantastic",
+    "phonetic": "/fænˈtæstɪk/",
+    "cn": "极好的；了不起的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel fantastic",
+      "very fantastic"
+    ],
+    "examples": [
+      "I feel fantastic before the test.",
+      "Her voice sounds fantastic today."
+    ],
+    "example": "I feel fantastic before the test.",
+    "sentence": "I feel ___ before the test.",
+    "hint": "选择合适的单词：极好的；了不起的"
+  },
+  {
+    "id": "primary-md-144",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "wonderful",
+    "phonetic": "/ˈwʌndərfl/",
+    "cn": "极好的；精彩的；绝妙的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel wonderful",
+      "very wonderful"
+    ],
+    "examples": [
+      "He looked wonderful when he came in.",
+      "This result made us wonderful."
+    ],
+    "example": "He looked wonderful when he came in.",
+    "sentence": "He looked ___ when he came in.",
+    "hint": "选择合适的单词：极好的；精彩的；绝妙的"
+  },
+  {
+    "id": "primary-md-145",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sad",
+    "phonetic": "/sæd/",
+    "cn": "难过的；令人难过（遗憾）的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel sad",
+      "very sad"
+    ],
+    "examples": [
+      "He looked sad when he came in.",
+      "This result made us sad."
+    ],
+    "example": "He looked sad when he came in.",
+    "sentence": "He looked ___ when he came in.",
+    "hint": "选择合适的单词：难过的；令人难过（遗憾）的"
+  },
+  {
+    "id": "primary-md-146",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "angry",
+    "phonetic": "/ˈæŋɡri/",
+    "cn": "生气的；愤怒的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel angry",
+      "very angry"
+    ],
+    "examples": [
+      "He looked angry when he came in.",
+      "This result made us angry."
+    ],
+    "example": "He looked angry when he came in.",
+    "sentence": "He looked ___ when he came in.",
+    "hint": "选择合适的单词：生气的；愤怒的"
+  },
+  {
+    "id": "primary-md-147",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "nervous",
+    "phonetic": "/ˈnɜːrvəs/",
+    "cn": "紧张不安的；焦虑的；担忧的；胆怯的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel nervous",
+      "very nervous"
+    ],
+    "examples": [
+      "She was nervous about the trip.",
+      "A nervous smile appeared on his face."
+    ],
+    "example": "She was nervous about the trip.",
+    "sentence": "She was ___ about the trip.",
+    "hint": "选择合适的单词：紧张不安的；焦虑的；担忧的；胆怯的"
+  },
+  {
+    "id": "primary-md-148",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "worried",
+    "phonetic": "/ˈwɜːrid/",
+    "cn": "担心的；担忧的；发愁的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel worried",
+      "very worried"
+    ],
+    "examples": [
+      "The child became worried after hearing the news.",
+      "Don't be worried; I can help you."
+    ],
+    "example": "The child became worried after hearing the news.",
+    "sentence": "The child became ___ after hearing the news.",
+    "hint": "选择合适的单词：担心的；担忧的；发愁的"
+  },
+  {
+    "id": "primary-md-149",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "afraid",
+    "phonetic": "/əˈfreɪd/",
+    "cn": "害怕的；担心的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel afraid",
+      "very afraid"
+    ],
+    "examples": [
+      "I feel afraid before the test.",
+      "Her voice sounds afraid today."
+    ],
+    "example": "I feel afraid before the test.",
+    "sentence": "I feel ___ before the test.",
+    "hint": "选择合适的单词：害怕的；担心的"
+  },
+  {
+    "id": "primary-md-150",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "scared",
+    "phonetic": "/skerd/",
+    "cn": "害怕的；恐惧的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel scared",
+      "very scared"
+    ],
+    "examples": [
+      "She was scared about the trip.",
+      "A scared smile appeared on his face."
+    ],
+    "example": "She was scared about the trip.",
+    "sentence": "She was ___ about the trip.",
+    "hint": "选择合适的单词：害怕的；恐惧的"
+  },
+  {
+    "id": "primary-md-151",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "scary",
+    "phonetic": "/ˈskeri/",
+    "cn": "恐怖的；吓人的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel scary",
+      "very scary"
+    ],
+    "examples": [
+      "She was scary about the trip.",
+      "A scary smile appeared on his face."
+    ],
+    "example": "She was scary about the trip.",
+    "sentence": "She was ___ about the trip.",
+    "hint": "选择合适的单词：恐怖的；吓人的"
+  },
+  {
+    "id": "primary-md-152",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "frightened",
+    "phonetic": "/ˈfraɪtnd/",
+    "cn": "恐惧的；害怕的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel frightened",
+      "very frightened"
+    ],
+    "examples": [
+      "She was frightened about the trip.",
+      "A frightened smile appeared on his face."
+    ],
+    "example": "She was frightened about the trip.",
+    "sentence": "She was ___ about the trip.",
+    "hint": "选择合适的单词：恐惧的；害怕的"
+  },
+  {
+    "id": "primary-md-153",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bad",
+    "phonetic": "/bæd/",
+    "cn": "坏的；有害的；不擅长",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel bad",
+      "very bad"
+    ],
+    "examples": [
+      "I feel bad before the test.",
+      "Her voice sounds bad today."
+    ],
+    "example": "I feel bad before the test.",
+    "sentence": "I feel ___ before the test.",
+    "hint": "选择合适的单词：坏的；有害的；不擅长"
+  },
+  {
+    "id": "primary-md-154",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bored",
+    "phonetic": "/bɔːrd/",
+    "cn": "厌倦的；烦闷的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel bored",
+      "very bored"
+    ],
+    "examples": [
+      "She was bored about the trip.",
+      "A bored smile appeared on his face."
+    ],
+    "example": "She was bored about the trip.",
+    "sentence": "She was ___ about the trip.",
+    "hint": "选择合适的单词：厌倦的；烦闷的"
+  },
+  {
+    "id": "primary-md-155",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "boring",
+    "phonetic": "/ˈbɔːrɪŋ/",
+    "cn": "无聊的；乏味的；令人厌倦的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel boring",
+      "very boring"
+    ],
+    "examples": [
+      "She was boring about the trip.",
+      "A boring smile appeared on his face."
+    ],
+    "example": "She was boring about the trip.",
+    "sentence": "She was ___ about the trip.",
+    "hint": "选择合适的单词：无聊的；乏味的；令人厌倦的"
+  },
+  {
+    "id": "primary-md-156",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "interested",
+    "phonetic": "/ˈɪntrəstɪd/",
+    "cn": "感兴趣的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel interested",
+      "very interested"
+    ],
+    "examples": [
+      "I feel interested before the test.",
+      "Her voice sounds interested today."
+    ],
+    "example": "I feel interested before the test.",
+    "sentence": "I feel ___ before the test.",
+    "hint": "选择合适的单词：感兴趣的"
+  },
+  {
+    "id": "primary-md-157",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "interesting",
+    "phonetic": "/ˈɪntrəstɪŋ/",
+    "cn": "有趣的；有吸引力的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel interesting",
+      "very interesting"
+    ],
+    "examples": [
+      "He looked interesting when he came in.",
+      "This result made us interesting."
+    ],
+    "example": "He looked interesting when he came in.",
+    "sentence": "He looked ___ when he came in.",
+    "hint": "选择合适的单词：有趣的；有吸引力的"
+  },
+  {
+    "id": "primary-md-158",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "excited",
+    "phonetic": "/ɪkˈsaɪtɪd/",
+    "cn": "兴奋的；激动的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel excited",
+      "very excited"
+    ],
+    "examples": [
+      "I feel excited before the test.",
+      "Her voice sounds excited today."
+    ],
+    "example": "I feel excited before the test.",
+    "sentence": "I feel ___ before the test.",
+    "hint": "选择合适的单词：兴奋的；激动的"
+  },
+  {
+    "id": "primary-md-159",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "exciting",
+    "phonetic": "/ɪkˈsaɪtɪŋ/",
+    "cn": "令人激动的；令人兴奋的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel exciting",
+      "very exciting"
+    ],
+    "examples": [
+      "I feel exciting before the test.",
+      "Her voice sounds exciting today."
+    ],
+    "example": "I feel exciting before the test.",
+    "sentence": "I feel ___ before the test.",
+    "hint": "选择合适的单词：令人激动的；令人兴奋的"
+  },
+  {
+    "id": "primary-md-160",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fun",
+    "phonetic": "/fʌn/",
+    "cn": "有趣的； 乐趣",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel fun",
+      "very fun"
+    ],
+    "examples": [
+      "He looked fun when he came in.",
+      "This result made us fun."
+    ],
+    "example": "He looked fun when he came in.",
+    "sentence": "He looked ___ when he came in.",
+    "hint": "选择合适的单词：有趣的； 乐趣"
+  },
+  {
+    "id": "primary-md-161",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "funny",
+    "phonetic": "/ˈfʌni/",
+    "cn": "滑稽的；好笑的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel funny",
+      "very funny"
+    ],
+    "examples": [
+      "The child became funny after hearing the news.",
+      "Don't be funny; I can help you."
+    ],
+    "example": "The child became funny after hearing the news.",
+    "sentence": "The child became ___ after hearing the news.",
+    "hint": "选择合适的单词：滑稽的；好笑的"
+  },
+  {
+    "id": "primary-md-162",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "amazing",
+    "phonetic": "/əˈmeɪzɪŋ/",
+    "cn": "令人大为惊奇的；令人惊喜的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel amazing",
+      "very amazing"
+    ],
+    "examples": [
+      "I feel amazing before the test.",
+      "Her voice sounds amazing today."
+    ],
+    "example": "I feel amazing before the test.",
+    "sentence": "I feel ___ before the test.",
+    "hint": "选择合适的单词：令人大为惊奇的；令人惊喜的"
+  },
+  {
+    "id": "primary-md-163",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "magical",
+    "phonetic": "/ˈmædʒɪkl/",
+    "cn": "美妙的；有魔力的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel magical",
+      "very magical"
+    ],
+    "examples": [
+      "I feel magical before the test.",
+      "Her voice sounds magical today."
+    ],
+    "example": "I feel magical before the test.",
+    "sentence": "I feel ___ before the test.",
+    "hint": "选择合适的单词：美妙的；有魔力的"
+  },
+  {
+    "id": "primary-md-164",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "lucky",
+    "phonetic": "/ˈlʌki/",
+    "cn": "幸运的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel lucky",
+      "very lucky"
+    ],
+    "examples": [
+      "The child became lucky after hearing the news.",
+      "Don't be lucky; I can help you."
+    ],
+    "example": "The child became lucky after hearing the news.",
+    "sentence": "The child became ___ after hearing the news.",
+    "hint": "选择合适的单词：幸运的"
+  },
+  {
+    "id": "primary-md-165",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "luck",
+    "phonetic": "/lʌk/",
+    "cn": "运气",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "情绪品质",
+    "category": "名物概念",
+    "phrases": [
+      "good luck",
+      "bring luck"
+    ],
+    "examples": [
+      "We shared our luck after the game.",
+      "Her luck was easy to see."
+    ],
+    "example": "We shared our luck after the game.",
+    "sentence": "We shared our ___ after the game.",
+    "hint": "选择合适的单词：运气"
+  },
+  {
+    "id": "primary-md-166",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "proud",
+    "phonetic": "/praʊd/",
+    "cn": "自豪的；骄傲的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel proud",
+      "very proud"
+    ],
+    "examples": [
+      "She was proud about the trip.",
+      "A proud smile appeared on his face."
+    ],
+    "example": "She was proud about the trip.",
+    "sentence": "She was ___ about the trip.",
+    "hint": "选择合适的单词：自豪的；骄傲的"
+  },
+  {
+    "id": "primary-md-167",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "true",
+    "phonetic": "/truː/",
+    "cn": "真实的；真正的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel true",
+      "very true"
+    ],
+    "examples": [
+      "He looked true when he came in.",
+      "This result made us true."
+    ],
+    "example": "He looked true when he came in.",
+    "sentence": "He looked ___ when he came in.",
+    "hint": "选择合适的单词：真实的；真正的"
+  },
+  {
+    "id": "primary-md-168",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "wrong",
+    "phonetic": "/rɔːŋ/",
+    "cn": "错误的，引起问题（或麻烦）；错误地",
+    "pos": "形容词/副词",
+    "rawPos": "adj.&adv.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel wrong",
+      "very wrong"
+    ],
+    "examples": [
+      "I feel wrong before the test.",
+      "Her voice sounds wrong today."
+    ],
+    "example": "I feel wrong before the test.",
+    "sentence": "I feel ___ before the test.",
+    "hint": "选择合适的单词：错误的，引起问题（或麻烦）；错误地"
+  },
+  {
+    "id": "primary-md-169",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "foolish",
+    "phonetic": "/ˈfuːlɪʃ/",
+    "cn": "愚蠢的；傻的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "情绪品质",
+    "category": "描述评价",
+    "phrases": [
+      "feel foolish",
+      "very foolish"
+    ],
+    "examples": [
+      "The child became foolish after hearing the news.",
+      "Don't be foolish; I can help you."
+    ],
+    "example": "The child became foolish after hearing the news.",
+    "sentence": "The child became ___ after hearing the news.",
+    "hint": "选择合适的单词：愚蠢的；傻的"
+  },
+  {
+    "id": "primary-md-170",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "write",
+    "phonetic": "/raɪt/",
+    "cn": "书写；写作；写信",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "学习课堂",
+    "category": "动作行为",
+    "phrases": [
+      "can write",
+      "write at school"
+    ],
+    "examples": [
+      "We write new words every morning.",
+      "The teacher asks us to write carefully."
+    ],
+    "example": "We write new words every morning.",
+    "sentence": "We ___ new words every morning.",
+    "hint": "选择合适的单词：书写；写作；写信"
+  },
+  {
+    "id": "primary-md-171",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "spell",
+    "phonetic": "/spel/",
+    "cn": "拼写；拼出",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "学习课堂",
+    "category": "动作行为",
+    "phrases": [
+      "can spell",
+      "spell at school"
+    ],
+    "examples": [
+      "She likes to spell in English class.",
+      "It is useful to spell every day."
+    ],
+    "example": "She likes to spell in English class.",
+    "sentence": "She likes to ___ in English class.",
+    "hint": "选择合适的单词：拼写；拼出"
+  },
+  {
+    "id": "primary-md-172",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "read",
+    "phonetic": "/riːd/",
+    "cn": "阅读；朗读",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "学习课堂",
+    "category": "动作行为",
+    "phrases": [
+      "can read",
+      "read at school"
+    ],
+    "examples": [
+      "I read with my classmates after class.",
+      "Please read the sentence again."
+    ],
+    "example": "I read with my classmates after class.",
+    "sentence": "I ___ with my classmates after class.",
+    "hint": "选择合适的单词：阅读；朗读"
+  },
+  {
+    "id": "primary-md-173",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "see",
+    "phonetic": "/siː/",
+    "cn": "看见；明白",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "学习课堂",
+    "category": "动作行为",
+    "phrases": [
+      "can see",
+      "see at school"
+    ],
+    "examples": [
+      "We see new words every morning.",
+      "The teacher asks us to see carefully."
+    ],
+    "example": "We see new words every morning.",
+    "sentence": "We ___ new words every morning.",
+    "hint": "选择合适的单词：看见；明白"
+  },
+  {
+    "id": "primary-md-174",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "look",
+    "phonetic": "/lʊk/",
+    "cn": "看；瞧",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "学习课堂",
+    "category": "动作行为",
+    "phrases": [
+      "can look",
+      "look at school"
+    ],
+    "examples": [
+      "She likes to look in English class.",
+      "It is useful to look every day."
+    ],
+    "example": "She likes to look in English class.",
+    "sentence": "She likes to ___ in English class.",
+    "hint": "选择合适的单词：看；瞧"
+  },
+  {
+    "id": "primary-md-175",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "watch",
+    "phonetic": "/wɑːtʃ/",
+    "cn": "看，注视，照看，小心； 手表",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "学习课堂",
+    "category": "动作行为",
+    "phrases": [
+      "can watch",
+      "watch at school"
+    ],
+    "examples": [
+      "She likes to watch in English class.",
+      "It is useful to watch every day."
+    ],
+    "example": "She likes to watch in English class.",
+    "sentence": "She likes to ___ in English class.",
+    "hint": "选择合适的单词：看，注视，照看，小心； 手表"
+  },
+  {
+    "id": "primary-md-176",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "listen",
+    "phonetic": "/ˈlɪsn/",
+    "cn": "倾听；听从",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "学习课堂",
+    "category": "动作行为",
+    "phrases": [
+      "can listen",
+      "listen at school"
+    ],
+    "examples": [
+      "We listen new words every morning.",
+      "The teacher asks us to listen carefully."
+    ],
+    "example": "We listen new words every morning.",
+    "sentence": "We ___ new words every morning.",
+    "hint": "选择合适的单词：倾听；听从"
+  },
+  {
+    "id": "primary-md-177",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hear",
+    "phonetic": "/hɪr/",
+    "cn": "听见；听说",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "学习课堂",
+    "category": "动作行为",
+    "phrases": [
+      "can hear",
+      "hear at school"
+    ],
+    "examples": [
+      "Let us hear before the bell rings.",
+      "He can hear better than before."
+    ],
+    "example": "Let us hear before the bell rings.",
+    "sentence": "Let us ___ before the bell rings.",
+    "hint": "选择合适的单词：听见；听说"
+  },
+  {
+    "id": "primary-md-178",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sound",
+    "phonetic": "/saʊnd/",
+    "cn": "听起来好像； 声音，响声",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "学习课堂",
+    "category": "动作行为",
+    "phrases": [
+      "can sound",
+      "sound at school"
+    ],
+    "examples": [
+      "Let us sound before the bell rings.",
+      "He can sound better than before."
+    ],
+    "example": "Let us sound before the bell rings.",
+    "sentence": "Let us ___ before the bell rings.",
+    "hint": "选择合适的单词：听起来好像； 声音，响声"
+  },
+  {
+    "id": "primary-md-179",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "taste",
+    "phonetic": "/teɪst/",
+    "cn": "品尝，有…味道； 味道，味觉",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "学习课堂",
+    "category": "动作行为",
+    "phrases": [
+      "can taste",
+      "taste at school"
+    ],
+    "examples": [
+      "We taste new words every morning.",
+      "The teacher asks us to taste carefully."
+    ],
+    "example": "We taste new words every morning.",
+    "sentence": "We ___ new words every morning.",
+    "hint": "选择合适的单词：品尝，有…味道； 味道，味觉"
+  },
+  {
+    "id": "primary-md-180",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "smile",
+    "phonetic": "/smaɪl/",
+    "cn": "笑，微笑； 微笑，笑容",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can smile",
+      "smile at school"
+    ],
+    "examples": [
+      "She likes to smile in English class.",
+      "It is useful to smile every day."
+    ],
+    "example": "She likes to smile in English class.",
+    "sentence": "She likes to ___ in English class.",
+    "hint": "选择合适的单词：笑，微笑； 微笑，笑容"
+  },
+  {
+    "id": "primary-md-181",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "laugh",
+    "phonetic": "/læf/",
+    "cn": "笑，发笑； 笑，笑声",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can laugh",
+      "laugh at school"
+    ],
+    "examples": [
+      "She likes to laugh in English class.",
+      "It is useful to laugh every day."
+    ],
+    "example": "She likes to laugh in English class.",
+    "sentence": "She likes to ___ in English class.",
+    "hint": "选择合适的单词：笑，发笑； 笑，笑声"
+  },
+  {
+    "id": "primary-md-182",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "play",
+    "phonetic": "/pleɪ/",
+    "cn": "玩耍，演奏，参加比赛，播放； 玩耍，戏剧，剧本",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can play",
+      "play at school"
+    ],
+    "examples": [
+      "We play new words every morning.",
+      "The teacher asks us to play carefully."
+    ],
+    "example": "We play new words every morning.",
+    "sentence": "We ___ new words every morning.",
+    "hint": "选择合适的单词：玩耍，演奏，参加比赛，播放； 玩耍，戏剧，剧本"
+  },
+  {
+    "id": "primary-md-183",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cry",
+    "phonetic": "/kraɪ/",
+    "cn": "哭，哭泣； 叫喊，呼喊",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can cry",
+      "cry at school"
+    ],
+    "examples": [
+      "I cry with my classmates after class.",
+      "Please cry the sentence again."
+    ],
+    "example": "I cry with my classmates after class.",
+    "sentence": "I ___ with my classmates after class.",
+    "hint": "选择合适的单词：哭，哭泣； 叫喊，呼喊"
+  },
+  {
+    "id": "primary-md-184",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "shout",
+    "phonetic": "/ʃaʊt/",
+    "cn": "大声说，喊叫，呼叫； 呼喊，喊叫声",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can shout",
+      "shout at school"
+    ],
+    "examples": [
+      "I shout with my classmates after class.",
+      "Please shout the sentence again."
+    ],
+    "example": "I shout with my classmates after class.",
+    "sentence": "I ___ with my classmates after class.",
+    "hint": "选择合适的单词：大声说，喊叫，呼叫； 呼喊，喊叫声"
+  },
+  {
+    "id": "primary-md-185",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "stand",
+    "phonetic": "/stænd/",
+    "cn": "站立；站起来；忍受",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can stand",
+      "stand at school"
+    ],
+    "examples": [
+      "Let us stand before the bell rings.",
+      "He can stand better than before."
+    ],
+    "example": "Let us stand before the bell rings.",
+    "sentence": "Let us ___ before the bell rings.",
+    "hint": "选择合适的单词：站立；站起来；忍受"
+  },
+  {
+    "id": "primary-md-186",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sit",
+    "phonetic": "/sɪt/",
+    "cn": "坐；使就座",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can sit",
+      "sit at school"
+    ],
+    "examples": [
+      "Let us sit before the bell rings.",
+      "He can sit better than before."
+    ],
+    "example": "Let us sit before the bell rings.",
+    "sentence": "Let us ___ before the bell rings.",
+    "hint": "选择合适的单词：坐；使就座"
+  },
+  {
+    "id": "primary-md-187",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "lie",
+    "phonetic": "/laɪ/",
+    "cn": "躺，位于，说谎； 谎言，谎话",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can lie",
+      "lie at school"
+    ],
+    "examples": [
+      "She likes to lie in English class.",
+      "It is useful to lie every day."
+    ],
+    "example": "She likes to lie in English class.",
+    "sentence": "She likes to ___ in English class.",
+    "hint": "选择合适的单词：躺，位于，说谎； 谎言，谎话"
+  },
+  {
+    "id": "primary-md-188",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "walk",
+    "phonetic": "/wɔːk/",
+    "cn": "行走；步行；散步",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can walk",
+      "walk at school"
+    ],
+    "examples": [
+      "I walk with my classmates after class.",
+      "Please walk the sentence again."
+    ],
+    "example": "I walk with my classmates after class.",
+    "sentence": "I ___ with my classmates after class.",
+    "hint": "选择合适的单词：行走；步行；散步"
+  },
+  {
+    "id": "primary-md-189",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "climb",
+    "phonetic": "/klaɪm/",
+    "cn": "攀登，爬； 攀登",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can climb",
+      "climb at school"
+    ],
+    "examples": [
+      "She likes to climb in English class.",
+      "It is useful to climb every day."
+    ],
+    "example": "She likes to climb in English class.",
+    "sentence": "She likes to ___ in English class.",
+    "hint": "选择合适的单词：攀登，爬； 攀登"
+  },
+  {
+    "id": "primary-md-190",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ride",
+    "phonetic": "/raɪd/",
+    "cn": "骑，驾驶，乘坐； 短途旅程",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can ride",
+      "ride at school"
+    ],
+    "examples": [
+      "I ride with my classmates after class.",
+      "Please ride the sentence again."
+    ],
+    "example": "I ride with my classmates after class.",
+    "sentence": "I ___ with my classmates after class.",
+    "hint": "选择合适的单词：骑，驾驶，乘坐； 短途旅程"
+  },
+  {
+    "id": "primary-md-191",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "chase",
+    "phonetic": "/tʃeɪs/",
+    "cn": "追赶；追捕；追逐",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can chase",
+      "chase at school"
+    ],
+    "examples": [
+      "We chase new words every morning.",
+      "The teacher asks us to chase carefully."
+    ],
+    "example": "We chase new words every morning.",
+    "sentence": "We ___ new words every morning.",
+    "hint": "选择合适的单词：追赶；追捕；追逐"
+  },
+  {
+    "id": "primary-md-192",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hide",
+    "phonetic": "/haɪd/",
+    "cn": "躲避；藏；隐蔽；遮住",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can hide",
+      "hide at school"
+    ],
+    "examples": [
+      "She likes to hide in English class.",
+      "It is useful to hide every day."
+    ],
+    "example": "She likes to hide in English class.",
+    "sentence": "She likes to ___ in English class.",
+    "hint": "选择合适的单词：躲避；藏；隐蔽；遮住"
+  },
+  {
+    "id": "primary-md-193",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fall",
+    "phonetic": "/fɔːl/",
+    "cn": "摔倒，落下； 摔倒，秋天",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can fall",
+      "fall at school"
+    ],
+    "examples": [
+      "We fall new words every morning.",
+      "The teacher asks us to fall carefully."
+    ],
+    "example": "We fall new words every morning.",
+    "sentence": "We ___ new words every morning.",
+    "hint": "选择合适的单词：摔倒，落下； 摔倒，秋天"
+  },
+  {
+    "id": "primary-md-194",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "move",
+    "phonetic": "/muːv/",
+    "cn": "移动；搬家；行动",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can move",
+      "move at school"
+    ],
+    "examples": [
+      "Let us move before the bell rings.",
+      "He can move better than before."
+    ],
+    "example": "Let us move before the bell rings.",
+    "sentence": "Let us ___ before the bell rings.",
+    "hint": "选择合适的单词：移动；搬家；行动"
+  },
+  {
+    "id": "primary-md-195",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sleep",
+    "phonetic": "/sliːp/",
+    "cn": "睡觉",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can sleep",
+      "sleep at school"
+    ],
+    "examples": [
+      "She likes to sleep in English class.",
+      "It is useful to sleep every day."
+    ],
+    "example": "She likes to sleep in English class.",
+    "sentence": "She likes to ___ in English class.",
+    "hint": "选择合适的单词：睡觉"
+  },
+  {
+    "id": "primary-md-196",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "wake",
+    "phonetic": "/weɪk/",
+    "cn": "醒；醒来；唤醒",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can wake",
+      "wake at school"
+    ],
+    "examples": [
+      "She likes to wake in English class.",
+      "It is useful to wake every day."
+    ],
+    "example": "She likes to wake in English class.",
+    "sentence": "She likes to ___ in English class.",
+    "hint": "选择合适的单词：醒；醒来；唤醒"
+  },
+  {
+    "id": "primary-md-197",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "make",
+    "phonetic": "/meɪk/",
+    "cn": "制作；做；使得",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can make",
+      "make at school"
+    ],
+    "examples": [
+      "She likes to make in English class.",
+      "It is useful to make every day."
+    ],
+    "example": "She likes to make in English class.",
+    "sentence": "She likes to ___ in English class.",
+    "hint": "选择合适的单词：制作；做；使得"
+  },
+  {
+    "id": "primary-md-198",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "blow",
+    "phonetic": "/bloʊ/",
+    "cn": "吹；刮",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can blow",
+      "blow at school"
+    ],
+    "examples": [
+      "She likes to blow in English class.",
+      "It is useful to blow every day."
+    ],
+    "example": "She likes to blow in English class.",
+    "sentence": "She likes to ___ in English class.",
+    "hint": "选择合适的单词：吹；刮"
+  },
+  {
+    "id": "primary-md-199",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "put",
+    "phonetic": "/pʊt/",
+    "cn": "放；安置；使处于",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can put",
+      "put at school"
+    ],
+    "examples": [
+      "I put with my classmates after class.",
+      "Please put the sentence again."
+    ],
+    "example": "I put with my classmates after class.",
+    "sentence": "I ___ with my classmates after class.",
+    "hint": "选择合适的单词：放；安置；使处于"
+  },
+  {
+    "id": "primary-md-200",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "open",
+    "phonetic": "/ˈoʊpən/",
+    "cn": "打开，睁开；开放的",
+    "pos": "动词/形容词",
+    "rawPos": "v.&adj.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can open",
+      "open at school"
+    ],
+    "examples": [
+      "Let us open before the bell rings.",
+      "He can open better than before."
+    ],
+    "example": "Let us open before the bell rings.",
+    "sentence": "Let us ___ before the bell rings.",
+    "hint": "选择合适的单词：打开，睁开；开放的"
+  },
+  {
+    "id": "primary-md-201",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "close",
+    "phonetic": "/kloʊz/",
+    "cn": "关，关闭，闭上；接近，亲密的，密切的",
+    "pos": "动词/形容词",
+    "rawPos": "v.&adj.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can close",
+      "close at school"
+    ],
+    "examples": [
+      "We close new words every morning.",
+      "The teacher asks us to close carefully."
+    ],
+    "example": "We close new words every morning.",
+    "sentence": "We ___ new words every morning.",
+    "hint": "选择合适的单词：关，关闭，闭上；接近，亲密的，密切的"
+  },
+  {
+    "id": "primary-md-202",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "touch",
+    "phonetic": "/tʌtʃ/",
+    "cn": "触摸，碰，接触，感动； 触觉，触，碰",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can touch",
+      "touch at school"
+    ],
+    "examples": [
+      "We touch new words every morning.",
+      "The teacher asks us to touch carefully."
+    ],
+    "example": "We touch new words every morning.",
+    "sentence": "We ___ new words every morning.",
+    "hint": "选择合适的单词：触摸，碰，接触，感动； 触觉，触，碰"
+  },
+  {
+    "id": "primary-md-203",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hold",
+    "phonetic": "/hoʊld/",
+    "cn": "拿着；抓住；抱住",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can hold",
+      "hold at school"
+    ],
+    "examples": [
+      "Let us hold before the bell rings.",
+      "He can hold better than before."
+    ],
+    "example": "Let us hold before the bell rings.",
+    "sentence": "Let us ___ before the bell rings.",
+    "hint": "选择合适的单词：拿着；抓住；抱住"
+  },
+  {
+    "id": "primary-md-204",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "catch",
+    "phonetic": "/kætʃ/",
+    "cn": "抓住；接住；赶上；感染（疾病）；得（病）",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can catch",
+      "catch at school"
+    ],
+    "examples": [
+      "She likes to catch in English class.",
+      "It is useful to catch every day."
+    ],
+    "example": "She likes to catch in English class.",
+    "sentence": "She likes to ___ in English class.",
+    "hint": "选择合适的单词：抓住；接住；赶上；感染（疾病）；得（病）"
+  },
+  {
+    "id": "primary-md-205",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pick",
+    "phonetic": "/pɪk/",
+    "cn": "采摘；选择；挑选",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can pick",
+      "pick at school"
+    ],
+    "examples": [
+      "She likes to pick in English class.",
+      "It is useful to pick every day."
+    ],
+    "example": "She likes to pick in English class.",
+    "sentence": "She likes to ___ in English class.",
+    "hint": "选择合适的单词：采摘；选择；挑选"
+  },
+  {
+    "id": "primary-md-206",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pass",
+    "phonetic": "/pæs/",
+    "cn": "给；递；通过；合格",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can pass",
+      "pass at school"
+    ],
+    "examples": [
+      "We pass new words every morning.",
+      "The teacher asks us to pass carefully."
+    ],
+    "example": "We pass new words every morning.",
+    "sentence": "We ___ new words every morning.",
+    "hint": "选择合适的单词：给；递；通过；合格"
+  },
+  {
+    "id": "primary-md-207",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "carry",
+    "phonetic": "/ˈkæri/",
+    "cn": "拿；提；搬；运送；携带",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can carry",
+      "carry at school"
+    ],
+    "examples": [
+      "Let us carry before the bell rings.",
+      "He can carry better than before."
+    ],
+    "example": "Let us carry before the bell rings.",
+    "sentence": "Let us ___ before the bell rings.",
+    "hint": "选择合适的单词：拿；提；搬；运送；携带"
+  },
+  {
+    "id": "primary-md-208",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pull",
+    "phonetic": "/pʊl/",
+    "cn": "拉；拽；扯",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can pull",
+      "pull at school"
+    ],
+    "examples": [
+      "She likes to pull in English class.",
+      "It is useful to pull every day."
+    ],
+    "example": "She likes to pull in English class.",
+    "sentence": "She likes to ___ in English class.",
+    "hint": "选择合适的单词：拉；拽；扯"
+  },
+  {
+    "id": "primary-md-209",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "clap",
+    "phonetic": "/klæp/",
+    "cn": "拍手；鼓掌",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "动作行为",
+    "category": "动作行为",
+    "phrases": [
+      "can clap",
+      "clap at school"
+    ],
+    "examples": [
+      "I clap with my classmates after class.",
+      "Please clap the sentence again."
+    ],
+    "example": "I clap with my classmates after class.",
+    "sentence": "I ___ with my classmates after class.",
+    "hint": "选择合适的单词：拍手；鼓掌"
+  },
+  {
+    "id": "primary-md-210",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "minute",
+    "phonetic": "/ˈmɪnɪt/",
+    "cn": "分钟；一会儿；片刻",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "时间数量",
+    "category": "名物概念",
+    "phrases": [
+      "this minute",
+      "next minute"
+    ],
+    "examples": [
+      "Every minute has a new goal.",
+      "He checks his work each minute."
+    ],
+    "example": "Every minute has a new goal.",
+    "sentence": "Every ___ has a new goal.",
+    "hint": "选择合适的单词：分钟；一会儿；片刻"
+  },
+  {
+    "id": "primary-md-211",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hour",
+    "phonetic": "/ˈaʊər/",
+    "cn": "小时",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "时间数量",
+    "category": "名物概念",
+    "phrases": [
+      "this hour",
+      "next hour"
+    ],
+    "examples": [
+      "I am busy this hour.",
+      "We can meet next hour."
+    ],
+    "example": "I am busy this hour.",
+    "sentence": "I am busy this ___.",
+    "hint": "选择合适的单词：小时"
+  },
+  {
+    "id": "primary-md-212",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "day",
+    "phonetic": "/deɪ/",
+    "cn": "白天；一天；时期",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "时间数量",
+    "category": "名物概念",
+    "phrases": [
+      "this day",
+      "next day"
+    ],
+    "examples": [
+      "The class lasts one day.",
+      "Put the date on your day plan."
+    ],
+    "example": "The class lasts one day.",
+    "sentence": "The class lasts one ___.",
+    "hint": "选择合适的单词：白天；一天；时期"
+  },
+  {
+    "id": "primary-md-213",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "week",
+    "phonetic": "/wiːk/",
+    "cn": "周；星期",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "时间数量",
+    "category": "名物概念",
+    "phrases": [
+      "this week",
+      "next week"
+    ],
+    "examples": [
+      "The class lasts one week.",
+      "Put the date on your week plan."
+    ],
+    "example": "The class lasts one week.",
+    "sentence": "The class lasts one ___.",
+    "hint": "选择合适的单词：周；星期"
+  },
+  {
+    "id": "primary-md-214",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "month",
+    "phonetic": "/mʌnθ/",
+    "cn": "月；月份",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "时间数量",
+    "category": "名物概念",
+    "phrases": [
+      "this month",
+      "next month"
+    ],
+    "examples": [
+      "Every month has a new goal.",
+      "He checks his work each month."
+    ],
+    "example": "Every month has a new goal.",
+    "sentence": "Every ___ has a new goal.",
+    "hint": "选择合适的单词：月；月份"
+  },
+  {
+    "id": "primary-md-215",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "year",
+    "phonetic": "/jɪr/",
+    "cn": "年；一年时间；年纪；年度",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "时间数量",
+    "category": "名物概念",
+    "phrases": [
+      "this year",
+      "next year"
+    ],
+    "examples": [
+      "Every year has a new goal.",
+      "He checks his work each year."
+    ],
+    "example": "Every year has a new goal.",
+    "sentence": "Every ___ has a new goal.",
+    "hint": "选择合适的单词：年；一年时间；年纪；年度"
+  },
+  {
+    "id": "primary-md-216",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "metre",
+    "phonetic": "/ˈmiːtər/",
+    "cn": "米",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a metre",
+      "the metre"
+    ],
+    "examples": [
+      "My friend asked about the metre.",
+      "There is a metre in the picture."
+    ],
+    "example": "My friend asked about the metre.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：米"
+  },
+  {
+    "id": "primary-md-217",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "kilometre",
+    "phonetic": "/kɪˈlɑːmɪtər/",
+    "cn": "千米；公里",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a kilometre",
+      "the kilometre"
+    ],
+    "examples": [
+      "This story mentions a kilometre.",
+      "We talked about the kilometre after class."
+    ],
+    "example": "This story mentions a kilometre.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：千米；公里"
+  },
+  {
+    "id": "primary-md-218",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "kilogram",
+    "phonetic": "/ˈkɪləɡræm/",
+    "cn": "千克；公斤",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a kilogram",
+      "the kilogram"
+    ],
+    "examples": [
+      "The teacher points to the kilogram.",
+      "I wrote the kilogram in my notebook."
+    ],
+    "example": "The teacher points to the kilogram.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：千克；公斤"
+  },
+  {
+    "id": "primary-md-219",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pair",
+    "phonetic": "/per/",
+    "cn": "一对；一副；一双",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a pair",
+      "the pair"
+    ],
+    "examples": [
+      "My friend asked about the pair.",
+      "There is a pair in the picture."
+    ],
+    "example": "My friend asked about the pair.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：一对；一副；一双"
+  },
+  {
+    "id": "primary-md-220",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "time",
+    "phonetic": "/taɪm/",
+    "cn": "时间；时期；次",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a time",
+      "the time"
+    ],
+    "examples": [
+      "My friend asked about the time.",
+      "There is a time in the picture."
+    ],
+    "example": "My friend asked about the time.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：时间；时期；次"
+  },
+  {
+    "id": "primary-md-221",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "yesterday",
+    "phonetic": "/ˈjestərdeɪ/",
+    "cn": "在昨天； 昨天，往昔",
+    "pos": "副词/名词",
+    "rawPos": "adv.&n.",
+    "scene": "时间数量",
+    "category": "方式程度",
+    "phrases": [
+      "yesterday morning",
+      "yesterday evening"
+    ],
+    "examples": [
+      "I am busy yesterday.",
+      "We can meet yesterday."
+    ],
+    "example": "I am busy yesterday.",
+    "sentence": "I am busy ___.",
+    "hint": "选择合适的单词：在昨天； 昨天，往昔"
+  },
+  {
+    "id": "primary-md-222",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "today",
+    "phonetic": "/təˈdeɪ/",
+    "cn": "在今天，当今； 今天",
+    "pos": "副词/名词",
+    "rawPos": "adv.&n.",
+    "scene": "时间数量",
+    "category": "方式程度",
+    "phrases": [
+      "today morning",
+      "today evening"
+    ],
+    "examples": [
+      "Today is a good time to study.",
+      "Please call me today."
+    ],
+    "example": "Today is a good time to study.",
+    "sentence": "___ is a good time to study.",
+    "hint": "选择合适的单词：在今天，当今； 今天"
+  },
+  {
+    "id": "primary-md-223",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "tomorrow",
+    "phonetic": "/təˈmɑːroʊ/",
+    "cn": "在明天； 明天",
+    "pos": "副词/名词",
+    "rawPos": "adv.&n.",
+    "scene": "时间数量",
+    "category": "方式程度",
+    "phrases": [
+      "tomorrow morning",
+      "tomorrow evening"
+    ],
+    "examples": [
+      "I am busy tomorrow.",
+      "We can meet tomorrow."
+    ],
+    "example": "I am busy tomorrow.",
+    "sentence": "I am busy ___.",
+    "hint": "选择合适的单词：在明天； 明天"
+  },
+  {
+    "id": "primary-md-224",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "morning",
+    "phonetic": "/ˈmɔːrnɪŋ/",
+    "cn": "早晨；上午",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "时间数量",
+    "category": "名物概念",
+    "phrases": [
+      "this morning",
+      "next morning"
+    ],
+    "examples": [
+      "Every morning has a new goal.",
+      "He checks his work each morning."
+    ],
+    "example": "Every morning has a new goal.",
+    "sentence": "Every ___ has a new goal.",
+    "hint": "选择合适的单词：早晨；上午"
+  },
+  {
+    "id": "primary-md-225",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "noon",
+    "phonetic": "/nuːn/",
+    "cn": "中午；正午",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "时间数量",
+    "category": "名物概念",
+    "phrases": [
+      "this noon",
+      "next noon"
+    ],
+    "examples": [
+      "I am busy this noon.",
+      "We can meet next noon."
+    ],
+    "example": "I am busy this noon.",
+    "sentence": "I am busy this ___.",
+    "hint": "选择合适的单词：中午；正午"
+  },
+  {
+    "id": "primary-md-226",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "afternoon",
+    "phonetic": "/ˌæftərˈnuːn/",
+    "cn": "下午",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "时间数量",
+    "category": "名物概念",
+    "phrases": [
+      "this afternoon",
+      "next afternoon"
+    ],
+    "examples": [
+      "The class lasts one afternoon.",
+      "Put the date on your afternoon plan."
+    ],
+    "example": "The class lasts one afternoon.",
+    "sentence": "The class lasts one ___.",
+    "hint": "选择合适的单词：下午"
+  },
+  {
+    "id": "primary-md-227",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "evening",
+    "phonetic": "/ˈiːvnɪŋ/",
+    "cn": "晚上；傍晚",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "时间数量",
+    "category": "名物概念",
+    "phrases": [
+      "this evening",
+      "next evening"
+    ],
+    "examples": [
+      "Every evening has a new goal.",
+      "He checks his work each evening."
+    ],
+    "example": "Every evening has a new goal.",
+    "sentence": "Every ___ has a new goal.",
+    "hint": "选择合适的单词：晚上；傍晚"
+  },
+  {
+    "id": "primary-md-228",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "night",
+    "phonetic": "/naɪt/",
+    "cn": "夜；夜晚",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "时间数量",
+    "category": "名物概念",
+    "phrases": [
+      "this night",
+      "next night"
+    ],
+    "examples": [
+      "The class lasts one night.",
+      "Put the date on your night plan."
+    ],
+    "example": "The class lasts one night.",
+    "sentence": "The class lasts one ___.",
+    "hint": "选择合适的单词：夜；夜晚"
+  },
+  {
+    "id": "primary-md-229",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "tonight",
+    "phonetic": "/təˈnaɪt/",
+    "cn": "在今晚； 今晚",
+    "pos": "副词/名词",
+    "rawPos": "adv.&n.",
+    "scene": "时间数量",
+    "category": "方式程度",
+    "phrases": [
+      "tonight morning",
+      "tonight evening"
+    ],
+    "examples": [
+      "She finished the work tonight.",
+      "Our plan starts tonight."
+    ],
+    "example": "She finished the work tonight.",
+    "sentence": "She finished the work ___.",
+    "hint": "选择合适的单词：在今晚； 今晚"
+  },
+  {
+    "id": "primary-md-230",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "half",
+    "phonetic": "/hæf/",
+    "cn": "半数；半，部分地 ； 半，一半",
+    "pos": "限定词/代词/副词/名词",
+    "rawPos": "det.&pron.&adv.&n.",
+    "scene": "时间数量",
+    "category": "方式程度",
+    "phrases": [
+      "this half",
+      "next half"
+    ],
+    "examples": [
+      "The class lasts one half.",
+      "Put the date on your half plan."
+    ],
+    "example": "The class lasts one half.",
+    "sentence": "The class lasts one ___.",
+    "hint": "选择合适的单词：半数；半，部分地 ； 半，一半"
+  },
+  {
+    "id": "primary-md-231",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "past",
+    "phonetic": "/pæst/",
+    "cn": "晚于，经过，超过；过去的 ； 过去",
+    "pos": "介词/形容词/名词",
+    "rawPos": "prep.&adj.&n.",
+    "scene": "时间数量",
+    "category": "描述评价",
+    "phrases": [
+      "this past",
+      "next past"
+    ],
+    "examples": [
+      "The class lasts one past.",
+      "Put the date on your past plan."
+    ],
+    "example": "The class lasts one past.",
+    "sentence": "The class lasts one ___.",
+    "hint": "选择合适的单词：晚于，经过，超过；过去的 ； 过去"
+  },
+  {
+    "id": "primary-md-232",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "quarter",
+    "phonetic": "/ˈkwɔːrtər/",
+    "cn": "一刻钟；四等份之一",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "时间数量",
+    "category": "名物概念",
+    "phrases": [
+      "this quarter",
+      "next quarter"
+    ],
+    "examples": [
+      "Every quarter has a new goal.",
+      "He checks his work each quarter."
+    ],
+    "example": "Every quarter has a new goal.",
+    "sentence": "Every ___ has a new goal.",
+    "hint": "选择合适的单词：一刻钟；四等份之一"
+  },
+  {
+    "id": "primary-md-233",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "o’clock",
+    "phonetic": "/əˈklɑːk/",
+    "cn": "（表示整点）…点钟",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can o’clock",
+      "o’clock carefully"
+    ],
+    "examples": [
+      "They o’clock together in the park.",
+      "Can you o’clock this afternoon?"
+    ],
+    "example": "They o’clock together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：（表示整点）…点钟"
+  },
+  {
+    "id": "primary-md-234",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "A.M./P.M.",
+    "phonetic": "/ə em piː em/",
+    "cn": "上午/下午",
+    "pos": "缩写",
+    "rawPos": "abbr.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "8 A.M.",
+      "7 P.M."
+    ],
+    "examples": [
+      "School starts at 8 A.M.",
+      "Dinner is at 7 P.M."
+    ],
+    "example": "School starts at 8 A.M.",
+    "sentence": "School starts at 8 A.M. (A.M./P.M.: ___)",
+    "hint": "选择合适的单词：上午/下午"
+  },
+  {
+    "id": "primary-md-235",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "then",
+    "phonetic": "/ðen/",
+    "cn": "然后；那么；当时；那时",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can then",
+      "then carefully"
+    ],
+    "examples": [
+      "They then together in the park.",
+      "Can you then this afternoon?"
+    ],
+    "example": "They then together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：然后；那么；当时；那时"
+  },
+  {
+    "id": "primary-md-236",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "now",
+    "phonetic": "/naʊ/",
+    "cn": "现在；目前",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "时间数量",
+    "category": "方式程度",
+    "phrases": [
+      "now morning",
+      "right now"
+    ],
+    "examples": [
+      "I am busy now.",
+      "We can meet now."
+    ],
+    "example": "I am busy now.",
+    "sentence": "I am busy ___.",
+    "hint": "选择合适的单词：现在；目前"
+  },
+  {
+    "id": "primary-md-237",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "someday",
+    "phonetic": "/ˈsʌmˌdeɪ/",
+    "cn": "将来某一天；总有一天",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "时间数量",
+    "category": "方式程度",
+    "phrases": [
+      "this someday",
+      "next someday"
+    ],
+    "examples": [
+      "Every someday has a new goal.",
+      "He checks his work each someday."
+    ],
+    "example": "Every someday has a new goal.",
+    "sentence": "Every ___ has a new goal.",
+    "hint": "选择合适的单词：将来某一天；总有一天"
+  },
+  {
+    "id": "primary-md-238",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "last",
+    "phonetic": "/læst/",
+    "cn": "上一个的，最后的；持续，持久 ； 最后",
+    "pos": "限定词/动词/副词/名词",
+    "rawPos": "det.&v.&adv.&n.",
+    "scene": "时间数量",
+    "category": "动作行为",
+    "phrases": [
+      "this last",
+      "next last"
+    ],
+    "examples": [
+      "I am busy this last.",
+      "We can meet next last."
+    ],
+    "example": "I am busy this last.",
+    "sentence": "I am busy this ___.",
+    "hint": "选择合适的单词：上一个的，最后的；持续，持久 ； 最后"
+  },
+  {
+    "id": "primary-md-239",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "next",
+    "phonetic": "/nekst/",
+    "cn": "下一个的，接下来的，紧邻的；紧接着，随后",
+    "pos": "形容词/副词",
+    "rawPos": "adj.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can next",
+      "next carefully"
+    ],
+    "examples": [
+      "They next together in the park.",
+      "Can you next this afternoon?"
+    ],
+    "example": "They next together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：下一个的，接下来的，紧邻的；紧接着，随后"
+  },
+  {
+    "id": "primary-md-240",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ago",
+    "phonetic": "/əˈɡoʊ/",
+    "cn": "以前",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can ago",
+      "ago carefully"
+    ],
+    "examples": [
+      "Please ago before you leave.",
+      "I learned how to ago yesterday."
+    ],
+    "example": "Please ago before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：以前"
+  },
+  {
+    "id": "primary-md-241",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "later",
+    "phonetic": "/ˈleɪtər/",
+    "cn": "后来，以后；后来的",
+    "pos": "副词/形容词",
+    "rawPos": "adv.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can later",
+      "later carefully"
+    ],
+    "examples": [
+      "She wants to later after school.",
+      "We should later at the right time."
+    ],
+    "example": "She wants to later after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：后来，以后；后来的"
+  },
+  {
+    "id": "primary-md-242",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "early",
+    "phonetic": "/ˈɜːrli/",
+    "cn": "早到的，早期的；提前，在早期",
+    "pos": "形容词/副词",
+    "rawPos": "adj.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can early",
+      "early carefully"
+    ],
+    "examples": [
+      "Please early before you leave.",
+      "I learned how to early yesterday."
+    ],
+    "example": "Please early before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：早到的，早期的；提前，在早期"
+  },
+  {
+    "id": "primary-md-243",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "late",
+    "phonetic": "/leɪt/",
+    "cn": "迟到，接近末期的；晚，迟，接近末期",
+    "pos": "形容词/副词",
+    "rawPos": "adj.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can late",
+      "late carefully"
+    ],
+    "examples": [
+      "They late together in the park.",
+      "Can you late this afternoon?"
+    ],
+    "example": "They late together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：迟到，接近末期的；晚，迟，接近末期"
+  },
+  {
+    "id": "primary-md-244",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "soon",
+    "phonetic": "/suːn/",
+    "cn": "不久；很快",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can soon",
+      "soon carefully"
+    ],
+    "examples": [
+      "She wants to soon after school.",
+      "We should soon at the right time."
+    ],
+    "example": "She wants to soon after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：不久；很快"
+  },
+  {
+    "id": "primary-md-245",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "never",
+    "phonetic": "/ˈnevər/",
+    "cn": "从不；从未",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can never",
+      "never carefully"
+    ],
+    "examples": [
+      "He will never with his friends.",
+      "Do not never too quickly."
+    ],
+    "example": "He will never with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：从不；从未"
+  },
+  {
+    "id": "primary-md-246",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sometimes",
+    "phonetic": "/ˈsʌmtaɪmz/",
+    "cn": "有时",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can sometimes",
+      "sometimes carefully"
+    ],
+    "examples": [
+      "Please sometimes before you leave.",
+      "I learned how to sometimes yesterday."
+    ],
+    "example": "Please sometimes before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：有时"
+  },
+  {
+    "id": "primary-md-247",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "often",
+    "phonetic": "/ˈɔːfn/",
+    "cn": "时常；常常",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can often",
+      "often carefully"
+    ],
+    "examples": [
+      "She wants to often after school.",
+      "We should often at the right time."
+    ],
+    "example": "She wants to often after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：时常；常常"
+  },
+  {
+    "id": "primary-md-248",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "usually",
+    "phonetic": "/ˈjuːʒuəli/",
+    "cn": "通常地；一般地",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can usually",
+      "usually carefully"
+    ],
+    "examples": [
+      "They usually together in the park.",
+      "Can you usually this afternoon?"
+    ],
+    "example": "They usually together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：通常地；一般地"
+  },
+  {
+    "id": "primary-md-249",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "always",
+    "phonetic": "/ˈɔːlweɪz/",
+    "cn": "总是；一直；（将）永远",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can always",
+      "always carefully"
+    ],
+    "examples": [
+      "She wants to always after school.",
+      "We should always at the right time."
+    ],
+    "example": "She wants to always after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：总是；一直；（将）永远"
+  },
+  {
+    "id": "primary-md-250",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "colour",
+    "phonetic": "/ˈkʌlər/",
+    "cn": "颜色，彩色；为…着色",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can colour",
+      "colour carefully"
+    ],
+    "examples": [
+      "Please colour before you leave.",
+      "I learned how to colour yesterday."
+    ],
+    "example": "Please colour before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：颜色，彩色；为…着色"
+  },
+  {
+    "id": "primary-md-251",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "red",
+    "phonetic": "/red/",
+    "cn": "红色的； 红色",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very red",
+      "a red person"
+    ],
+    "examples": [
+      "His idea sounds red.",
+      "We found a red place to rest."
+    ],
+    "example": "His idea sounds red.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：红色的； 红色"
+  },
+  {
+    "id": "primary-md-252",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "yellow",
+    "phonetic": "/ˈjeloʊ/",
+    "cn": "黄色的； 黄色",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very yellow",
+      "a yellow person"
+    ],
+    "examples": [
+      "The lesson was yellow but useful.",
+      "My teacher wrote a yellow comment."
+    ],
+    "example": "The lesson was yellow but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：黄色的； 黄色"
+  },
+  {
+    "id": "primary-md-253",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "blue",
+    "phonetic": "/bluː/",
+    "cn": "蓝色的； 蓝色",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very blue",
+      "a blue person"
+    ],
+    "examples": [
+      "The road looks blue after the rain.",
+      "It is blue to finish early."
+    ],
+    "example": "The road looks blue after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：蓝色的； 蓝色"
+  },
+  {
+    "id": "primary-md-254",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "green",
+    "phonetic": "/ɡriːn/",
+    "cn": "绿色的； 绿色",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very green",
+      "a green person"
+    ],
+    "examples": [
+      "The lesson was green but useful.",
+      "My teacher wrote a green comment."
+    ],
+    "example": "The lesson was green but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：绿色的； 绿色"
+  },
+  {
+    "id": "primary-md-255",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pink",
+    "phonetic": "/pɪŋk/",
+    "cn": "粉红色的； 粉红色",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very pink",
+      "a pink person"
+    ],
+    "examples": [
+      "His idea sounds pink.",
+      "We found a pink place to rest."
+    ],
+    "example": "His idea sounds pink.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：粉红色的； 粉红色"
+  },
+  {
+    "id": "primary-md-256",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "orange",
+    "phonetic": "/ˈɔːrɪndʒ/",
+    "cn": "橙色的； 橙色，橙子",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very orange",
+      "a orange person"
+    ],
+    "examples": [
+      "His idea sounds orange.",
+      "We found a orange place to rest."
+    ],
+    "example": "His idea sounds orange.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：橙色的； 橙色，橙子"
+  },
+  {
+    "id": "primary-md-257",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "black",
+    "phonetic": "/blæk/",
+    "cn": "黑色的； 黑色",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very black",
+      "a black person"
+    ],
+    "examples": [
+      "The road looks black after the rain.",
+      "It is black to finish early."
+    ],
+    "example": "The road looks black after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：黑色的； 黑色"
+  },
+  {
+    "id": "primary-md-258",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "white",
+    "phonetic": "/waɪt/",
+    "cn": "白色的； 白色",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very white",
+      "a white person"
+    ],
+    "examples": [
+      "The road looks white after the rain.",
+      "It is white to finish early."
+    ],
+    "example": "The road looks white after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：白色的； 白色"
+  },
+  {
+    "id": "primary-md-259",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "brown",
+    "phonetic": "/braʊn/",
+    "cn": "棕色的，褐色的； 棕色，褐色",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very brown",
+      "a brown person"
+    ],
+    "examples": [
+      "His idea sounds brown.",
+      "We found a brown place to rest."
+    ],
+    "example": "His idea sounds brown.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：棕色的，褐色的； 棕色，褐色"
+  },
+  {
+    "id": "primary-md-260",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "purple",
+    "phonetic": "/ˈpɜːrpl/",
+    "cn": "紫色的； 紫色",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very purple",
+      "a purple person"
+    ],
+    "examples": [
+      "His idea sounds purple.",
+      "We found a purple place to rest."
+    ],
+    "example": "His idea sounds purple.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：紫色的； 紫色"
+  },
+  {
+    "id": "primary-md-261",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dark",
+    "phonetic": "/dɑːrk/",
+    "cn": "深色的；黑暗的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very dark",
+      "a dark person"
+    ],
+    "examples": [
+      "The road looks dark after the rain.",
+      "It is dark to finish early."
+    ],
+    "example": "The road looks dark after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：深色的；黑暗的"
+  },
+  {
+    "id": "primary-md-262",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "line",
+    "phonetic": "/laɪn/",
+    "cn": "线；线条；排；行；列；队伍；电话线路",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a line",
+      "the line"
+    ],
+    "examples": [
+      "This story mentions a line.",
+      "We talked about the line after class."
+    ],
+    "example": "This story mentions a line.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：线；线条；排；行；列；队伍；电话线路"
+  },
+  {
+    "id": "primary-md-263",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "circle",
+    "phonetic": "/ˈsɜːrkl/",
+    "cn": "圆形，圆圈，圈；把…圈起来",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can circle",
+      "circle carefully"
+    ],
+    "examples": [
+      "She wants to circle after school.",
+      "We should circle at the right time."
+    ],
+    "example": "She wants to circle after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：圆形，圆圈，圈；把…圈起来"
+  },
+  {
+    "id": "primary-md-264",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "square",
+    "phonetic": "/skwer/",
+    "cn": "正方形，平方，广场；正方形的",
+    "pos": "名词/形容词",
+    "rawPos": "n.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very square",
+      "a square person"
+    ],
+    "examples": [
+      "The lesson was square but useful.",
+      "My teacher wrote a square comment."
+    ],
+    "example": "The lesson was square but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：正方形，平方，广场；正方形的"
+  },
+  {
+    "id": "primary-md-265",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "long",
+    "phonetic": "/lɔːŋ/",
+    "cn": "长的，长，长时间的；长期地，很久地",
+    "pos": "形容词/副词",
+    "rawPos": "adj.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can long",
+      "long carefully"
+    ],
+    "examples": [
+      "He will long with his friends.",
+      "Do not long too quickly."
+    ],
+    "example": "He will long with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：长的，长，长时间的；长期地，很久地"
+  },
+  {
+    "id": "primary-md-266",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "big",
+    "phonetic": "/bɪɡ/",
+    "cn": "大的；年龄较长的；重大的；严重的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very big",
+      "a big person"
+    ],
+    "examples": [
+      "The road looks big after the rain.",
+      "It is big to finish early."
+    ],
+    "example": "The road looks big after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：大的；年龄较长的；重大的；严重的"
+  },
+  {
+    "id": "primary-md-267",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "small",
+    "phonetic": "/smɔːl/",
+    "cn": "小的；小号的；年幼的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very small",
+      "a small person"
+    ],
+    "examples": [
+      "The road looks small after the rain.",
+      "It is small to finish early."
+    ],
+    "example": "The road looks small after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：小的；小号的；年幼的"
+  },
+  {
+    "id": "primary-md-268",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "straight",
+    "phonetic": "/streɪt/",
+    "cn": "直的；笔直地",
+    "pos": "形容词/副词",
+    "rawPos": "adj.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can straight",
+      "straight carefully"
+    ],
+    "examples": [
+      "They straight together in the park.",
+      "Can you straight this afternoon?"
+    ],
+    "example": "They straight together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：直的；笔直地"
+  },
+  {
+    "id": "primary-md-269",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "curly",
+    "phonetic": "/ˈkɜːrli/",
+    "cn": "卷曲的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very curly",
+      "a curly person"
+    ],
+    "examples": [
+      "The road looks curly after the rain.",
+      "It is curly to finish early."
+    ],
+    "example": "The road looks curly after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：卷曲的"
+  },
+  {
+    "id": "primary-md-270",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "house",
+    "phonetic": "/haʊs/",
+    "cn": "房子；房屋",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a house",
+      "the house"
+    ],
+    "examples": [
+      "This story mentions a house.",
+      "We talked about the house after class."
+    ],
+    "example": "This story mentions a house.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：房子；房屋"
+  },
+  {
+    "id": "primary-md-271",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "wall",
+    "phonetic": "/wɔːl/",
+    "cn": "墙；墙壁",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a wall",
+      "the wall"
+    ],
+    "examples": [
+      "The teacher points to the wall.",
+      "I wrote the wall in my notebook."
+    ],
+    "example": "The teacher points to the wall.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：墙；墙壁"
+  },
+  {
+    "id": "primary-md-272",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "floor",
+    "phonetic": "/flɔːr/",
+    "cn": "地板；楼层",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a floor",
+      "the floor"
+    ],
+    "examples": [
+      "The teacher points to the floor.",
+      "I wrote the floor in my notebook."
+    ],
+    "example": "The teacher points to the floor.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：地板；楼层"
+  },
+  {
+    "id": "primary-md-273",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "stair",
+    "phonetic": "/ster/",
+    "cn": "（常用复数）楼梯",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a stair",
+      "the stair"
+    ],
+    "examples": [
+      "This story mentions a stair.",
+      "We talked about the stair after class."
+    ],
+    "example": "This story mentions a stair.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：（常用复数）楼梯"
+  },
+  {
+    "id": "primary-md-274",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "room",
+    "phonetic": "/ruːm/",
+    "cn": "房间；空间",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the room",
+      "near the room"
+    ],
+    "examples": [
+      "The room opens at nine.",
+      "Many people visit the room on weekends."
+    ],
+    "example": "The room opens at nine.",
+    "sentence": "The ___ opens at nine.",
+    "hint": "选择合适的单词：房间；空间"
+  },
+  {
+    "id": "primary-md-275",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bedroom",
+    "phonetic": "/ˈbedruːm/",
+    "cn": "卧室",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the bedroom",
+      "near the bedroom"
+    ],
+    "examples": [
+      "I waited outside the bedroom.",
+      "The bus stops by the bedroom."
+    ],
+    "example": "I waited outside the bedroom.",
+    "sentence": "I waited outside the ___.",
+    "hint": "选择合适的单词：卧室"
+  },
+  {
+    "id": "primary-md-276",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bathroom",
+    "phonetic": "/ˈbæθruːm/",
+    "cn": "浴室；洗手间",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the bathroom",
+      "near the bathroom"
+    ],
+    "examples": [
+      "We met near the bathroom.",
+      "Turn left when you see the bathroom."
+    ],
+    "example": "We met near the bathroom.",
+    "sentence": "We met near the ___.",
+    "hint": "选择合适的单词：浴室；洗手间"
+  },
+  {
+    "id": "primary-md-277",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "kitchen",
+    "phonetic": "/ˈkɪtʃɪn/",
+    "cn": "厨房",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the kitchen",
+      "near the kitchen"
+    ],
+    "examples": [
+      "We met near the kitchen.",
+      "Turn left when you see the kitchen."
+    ],
+    "example": "We met near the kitchen.",
+    "sentence": "We met near the ___.",
+    "hint": "选择合适的单词：厨房"
+  },
+  {
+    "id": "primary-md-278",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "toilet",
+    "phonetic": "/ˈtɔɪlət/",
+    "cn": "卫生间；厕所；坐便器",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a toilet",
+      "the toilet"
+    ],
+    "examples": [
+      "My friend asked about the toilet.",
+      "There is a toilet in the picture."
+    ],
+    "example": "My friend asked about the toilet.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：卫生间；厕所；坐便器"
+  },
+  {
+    "id": "primary-md-279",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "window",
+    "phonetic": "/ˈwɪndoʊ/",
+    "cn": "窗户；窗口",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a window",
+      "the window"
+    ],
+    "examples": [
+      "The teacher points to the window.",
+      "I wrote the window in my notebook."
+    ],
+    "example": "The teacher points to the window.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：窗户；窗口"
+  },
+  {
+    "id": "primary-md-280",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "door",
+    "phonetic": "/dɔːr/",
+    "cn": "门；门口",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a door",
+      "the door"
+    ],
+    "examples": [
+      "This story mentions a door.",
+      "We talked about the door after class."
+    ],
+    "example": "This story mentions a door.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：门；门口"
+  },
+  {
+    "id": "primary-md-281",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bed",
+    "phonetic": "/bed/",
+    "cn": "床",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a bed",
+      "the bed"
+    ],
+    "examples": [
+      "This story mentions a bed.",
+      "We talked about the bed after class."
+    ],
+    "example": "This story mentions a bed.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：床"
+  },
+  {
+    "id": "primary-md-282",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sofa",
+    "phonetic": "/ˈsoʊfə/",
+    "cn": "沙发",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a sofa",
+      "the sofa"
+    ],
+    "examples": [
+      "The teacher points to the sofa.",
+      "I wrote the sofa in my notebook."
+    ],
+    "example": "The teacher points to the sofa.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：沙发"
+  },
+  {
+    "id": "primary-md-283",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "table",
+    "phonetic": "/ˈteɪbl/",
+    "cn": "桌子；表格",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a table",
+      "the table"
+    ],
+    "examples": [
+      "Please put the table on the desk.",
+      "He found a table in the box."
+    ],
+    "example": "Please put the table on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：桌子；表格"
+  },
+  {
+    "id": "primary-md-284",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "shelf",
+    "phonetic": "/ʃelf/",
+    "cn": "架子；搁板",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a shelf",
+      "the shelf"
+    ],
+    "examples": [
+      "The teacher points to the shelf.",
+      "I wrote the shelf in my notebook."
+    ],
+    "example": "The teacher points to the shelf.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：架子；搁板"
+  },
+  {
+    "id": "primary-md-285",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "TV",
+    "phonetic": "/ˌtiː ˈviː/",
+    "cn": "电视；电视机",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a TV",
+      "the TV"
+    ],
+    "examples": [
+      "The teacher points to the TV.",
+      "I wrote the TV in my notebook."
+    ],
+    "example": "The teacher points to the TV.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：电视；电视机"
+  },
+  {
+    "id": "primary-md-286",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fridge",
+    "phonetic": "/frɪdʒ/",
+    "cn": "冰箱",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a fridge",
+      "the fridge"
+    ],
+    "examples": [
+      "My friend asked about the fridge.",
+      "There is a fridge in the picture."
+    ],
+    "example": "My friend asked about the fridge.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：冰箱"
+  },
+  {
+    "id": "primary-md-287",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "clock",
+    "phonetic": "/klɑːk/",
+    "cn": "时钟；钟",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a clock",
+      "the clock"
+    ],
+    "examples": [
+      "This story mentions a clock.",
+      "We talked about the clock after class."
+    ],
+    "example": "This story mentions a clock.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：时钟；钟"
+  },
+  {
+    "id": "primary-md-288",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "radio",
+    "phonetic": "/ˈreɪdioʊ/",
+    "cn": "收音机；无线电广播（节目）",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a radio",
+      "the radio"
+    ],
+    "examples": [
+      "My friend asked about the radio.",
+      "There is a radio in the picture."
+    ],
+    "example": "My friend asked about the radio.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：收音机；无线电广播（节目）"
+  },
+  {
+    "id": "primary-md-289",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fan",
+    "phonetic": "/fæn/",
+    "cn": "风扇；扇子；迷；粉丝",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a fan",
+      "the fan"
+    ],
+    "examples": [
+      "This story mentions a fan.",
+      "We talked about the fan after class."
+    ],
+    "example": "This story mentions a fan.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：风扇；扇子；迷；粉丝"
+  },
+  {
+    "id": "primary-md-290",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "umbrella",
+    "phonetic": "/ʌmˈbrelə/",
+    "cn": "伞；雨伞；阳伞",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an umbrella",
+      "the umbrella"
+    ],
+    "examples": [
+      "The teacher points to the umbrella.",
+      "I wrote the umbrella in my notebook."
+    ],
+    "example": "The teacher points to the umbrella.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：伞；雨伞；阳伞"
+  },
+  {
+    "id": "primary-md-291",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "key",
+    "phonetic": "/kiː/",
+    "cn": "钥匙，关键； 关键的",
+    "pos": "名词/形容词",
+    "rawPos": "n.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very key",
+      "a key person"
+    ],
+    "examples": [
+      "His idea sounds key.",
+      "We found a key place to rest."
+    ],
+    "example": "His idea sounds key.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：钥匙，关键； 关键的"
+  },
+  {
+    "id": "primary-md-292",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "candle",
+    "phonetic": "/ˈkændl/",
+    "cn": "蜡烛",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a candle",
+      "the candle"
+    ],
+    "examples": [
+      "Please put the candle on the desk.",
+      "He found a candle in the box."
+    ],
+    "example": "Please put the candle on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：蜡烛"
+  },
+  {
+    "id": "primary-md-293",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "lantern",
+    "phonetic": "/ˈlæntərn/",
+    "cn": "灯笼",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a lantern",
+      "the lantern"
+    ],
+    "examples": [
+      "Please put the lantern on the desk.",
+      "He found a lantern in the box."
+    ],
+    "example": "Please put the lantern on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：灯笼"
+  },
+  {
+    "id": "primary-md-294",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "photo",
+    "phonetic": "/ˈfoʊtoʊ/",
+    "cn": "照片",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a photo",
+      "the photo"
+    ],
+    "examples": [
+      "The teacher points to the photo.",
+      "I wrote the photo in my notebook."
+    ],
+    "example": "The teacher points to the photo.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：照片"
+  },
+  {
+    "id": "primary-md-295",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "box",
+    "phonetic": "/bɑːks/",
+    "cn": "盒；箱；一盒或一箱（的量）",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a box",
+      "the box"
+    ],
+    "examples": [
+      "Please put the box on the desk.",
+      "He found a box in the box."
+    ],
+    "example": "Please put the box on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：盒；箱；一盒或一箱（的量）"
+  },
+  {
+    "id": "primary-md-296",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bottle",
+    "phonetic": "/ˈbɑːtl/",
+    "cn": "瓶子；一瓶（的量）",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a bottle",
+      "the bottle"
+    ],
+    "examples": [
+      "The teacher points to the bottle.",
+      "I wrote the bottle in my notebook."
+    ],
+    "example": "The teacher points to the bottle.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：瓶子；一瓶（的量）"
+  },
+  {
+    "id": "primary-md-297",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "housework",
+    "phonetic": "/ˈhaʊswɜːrk/",
+    "cn": "家务活",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a housework",
+      "the housework"
+    ],
+    "examples": [
+      "My friend asked about the housework.",
+      "There is a housework in the picture."
+    ],
+    "example": "My friend asked about the housework.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：家务活"
+  },
+  {
+    "id": "primary-md-298",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "chore",
+    "phonetic": "/tʃɔːr/",
+    "cn": "家务",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a chore",
+      "the chore"
+    ],
+    "examples": [
+      "This story mentions a chore.",
+      "We talked about the chore after class."
+    ],
+    "example": "This story mentions a chore.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：家务"
+  },
+  {
+    "id": "primary-md-299",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pack",
+    "phonetic": "/pæk/",
+    "cn": "收拾好；收拾（行李）",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can pack",
+      "pack carefully"
+    ],
+    "examples": [
+      "They pack together in the park.",
+      "Can you pack this afternoon?"
+    ],
+    "example": "They pack together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：收拾好；收拾（行李）"
+  },
+  {
+    "id": "primary-md-300",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "holiday",
+    "phonetic": "/ˈhɑːlədeɪ/",
+    "cn": "假期；假日",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a holiday",
+      "the holiday"
+    ],
+    "examples": [
+      "The teacher points to the holiday.",
+      "I wrote the holiday in my notebook."
+    ],
+    "example": "The teacher points to the holiday.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：假期；假日"
+  },
+  {
+    "id": "primary-md-301",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "vacation",
+    "phonetic": "/veɪˈkeɪʃn/",
+    "cn": "假期",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a vacation",
+      "the vacation"
+    ],
+    "examples": [
+      "The teacher points to the vacation.",
+      "I wrote the vacation in my notebook."
+    ],
+    "example": "The teacher points to the vacation.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：假期"
+  },
+  {
+    "id": "primary-md-302",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "travel",
+    "phonetic": "/ˈtrævl/",
+    "cn": "旅行；游历",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can travel",
+      "travel carefully"
+    ],
+    "examples": [
+      "He will travel with his friends.",
+      "Do not travel too quickly."
+    ],
+    "example": "He will travel with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：旅行；游历"
+  },
+  {
+    "id": "primary-md-303",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "trip",
+    "phonetic": "/trɪp/",
+    "cn": "旅行",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a trip",
+      "the trip"
+    ],
+    "examples": [
+      "This story mentions a trip.",
+      "We talked about the trip after class."
+    ],
+    "example": "This story mentions a trip.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：旅行"
+  },
+  {
+    "id": "primary-md-304",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "guide",
+    "phonetic": "/ɡaɪd/",
+    "cn": "指南；手册；导游",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a guide",
+      "the guide"
+    ],
+    "examples": [
+      "The teacher points to the guide.",
+      "I wrote the guide in my notebook."
+    ],
+    "example": "The teacher points to the guide.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：指南；手册；导游"
+  },
+  {
+    "id": "primary-md-305",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "visit",
+    "phonetic": "/ˈvɪzɪt/",
+    "cn": "参观；访问；看望",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can visit",
+      "visit carefully"
+    ],
+    "examples": [
+      "They visit together in the park.",
+      "Can you visit this afternoon?"
+    ],
+    "example": "They visit together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：参观；访问；看望"
+  },
+  {
+    "id": "primary-md-306",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "camp",
+    "phonetic": "/kæmp/",
+    "cn": "露营； 营地",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can camp",
+      "camp carefully"
+    ],
+    "examples": [
+      "She wants to camp after school.",
+      "We should camp at the right time."
+    ],
+    "example": "She wants to camp after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：露营； 营地"
+  },
+  {
+    "id": "primary-md-307",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "picnic",
+    "phonetic": "/ˈpɪknɪk/",
+    "cn": "野餐",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a picnic",
+      "the picnic"
+    ],
+    "examples": [
+      "My friend asked about the picnic.",
+      "There is a picnic in the picture."
+    ],
+    "example": "My friend asked about the picnic.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：野餐"
+  },
+  {
+    "id": "primary-md-308",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "map",
+    "phonetic": "/mæp/",
+    "cn": "地图",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a map",
+      "the map"
+    ],
+    "examples": [
+      "Please put the map on the desk.",
+      "He found a map in the box."
+    ],
+    "example": "Please put the map on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：地图"
+  },
+  {
+    "id": "primary-md-309",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hiking",
+    "phonetic": "/ˈhaɪkɪŋ/",
+    "cn": "远足；徒步旅行",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a hiking",
+      "the hiking"
+    ],
+    "examples": [
+      "The teacher points to the hiking.",
+      "I wrote the hiking in my notebook."
+    ],
+    "example": "The teacher points to the hiking.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：远足；徒步旅行"
+  },
+  {
+    "id": "primary-md-310",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "traffic",
+    "phonetic": "/ˈtræfɪk/",
+    "cn": "交通",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some traffic",
+      "the traffic"
+    ],
+    "examples": [
+      "My friend asked about the traffic.",
+      "There is some traffic in the picture."
+    ],
+    "example": "My friend asked about the traffic.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：交通"
+  },
+  {
+    "id": "primary-md-311",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "street",
+    "phonetic": "/striːt/",
+    "cn": "大街；街道",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the street",
+      "near the street"
+    ],
+    "examples": [
+      "The street opens at nine.",
+      "Many people visit the street on weekends."
+    ],
+    "example": "The street opens at nine.",
+    "sentence": "The ___ opens at nine.",
+    "hint": "选择合适的单词：大街；街道"
+  },
+  {
+    "id": "primary-md-312",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "way",
+    "phonetic": "/weɪ/",
+    "cn": "方向；路；道；方式；方法",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a way",
+      "the way"
+    ],
+    "examples": [
+      "This story mentions a way.",
+      "We talked about the way after class."
+    ],
+    "example": "This story mentions a way.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：方向；路；道；方式；方法"
+  },
+  {
+    "id": "primary-md-313",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bike",
+    "phonetic": "/baɪk/",
+    "cn": "自行车；脚踏车",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a bike",
+      "the bike"
+    ],
+    "examples": [
+      "This story mentions a bike.",
+      "We talked about the bike after class."
+    ],
+    "example": "This story mentions a bike.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：自行车；脚踏车"
+  },
+  {
+    "id": "primary-md-314",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "car",
+    "phonetic": "/kɑːr/",
+    "cn": "小汽车；轿车",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a car",
+      "the car"
+    ],
+    "examples": [
+      "Please put the car on the desk.",
+      "He found a car in the box."
+    ],
+    "example": "Please put the car on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：小汽车；轿车"
+  },
+  {
+    "id": "primary-md-315",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "taxi",
+    "phonetic": "/ˈtæksi/",
+    "cn": "出租车",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a taxi",
+      "the taxi"
+    ],
+    "examples": [
+      "My friend asked about the taxi.",
+      "There is a taxi in the picture."
+    ],
+    "example": "My friend asked about the taxi.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：出租车"
+  },
+  {
+    "id": "primary-md-316",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bus",
+    "phonetic": "/bʌs/",
+    "cn": "公共汽车",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some bus",
+      "the bus"
+    ],
+    "examples": [
+      "Please put the bus on the desk.",
+      "He found some bus in the box."
+    ],
+    "example": "Please put the bus on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：公共汽车"
+  },
+  {
+    "id": "primary-md-317",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "train",
+    "phonetic": "/treɪn/",
+    "cn": "列车；火车",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a train",
+      "the train"
+    ],
+    "examples": [
+      "Please put the train on the desk.",
+      "He found a train in the box."
+    ],
+    "example": "Please put the train on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：列车；火车"
+  },
+  {
+    "id": "primary-md-318",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "plane",
+    "phonetic": "/pleɪn/",
+    "cn": "飞机",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a plane",
+      "the plane"
+    ],
+    "examples": [
+      "My friend asked about the plane.",
+      "There is a plane in the picture."
+    ],
+    "example": "My friend asked about the plane.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：飞机"
+  },
+  {
+    "id": "primary-md-319",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "boat",
+    "phonetic": "/boʊt/",
+    "cn": "小船",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a boat",
+      "the boat"
+    ],
+    "examples": [
+      "This story mentions a boat.",
+      "We talked about the boat after class."
+    ],
+    "example": "This story mentions a boat.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：小船"
+  },
+  {
+    "id": "primary-md-320",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ship",
+    "phonetic": "/ʃɪp/",
+    "cn": "（大）船；舰",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a ship",
+      "the ship"
+    ],
+    "examples": [
+      "Please put the ship on the desk.",
+      "He found a ship in the box."
+    ],
+    "example": "Please put the ship on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：（大）船；舰"
+  },
+  {
+    "id": "primary-md-321",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "subway",
+    "phonetic": "/ˈsʌbweɪ/",
+    "cn": "地铁",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a subway",
+      "the subway"
+    ],
+    "examples": [
+      "The teacher points to the subway.",
+      "I wrote the subway in my notebook."
+    ],
+    "example": "The teacher points to the subway.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：地铁"
+  },
+  {
+    "id": "primary-md-322",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "wheel",
+    "phonetic": "/wiːl/",
+    "cn": "轮子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a wheel",
+      "the wheel"
+    ],
+    "examples": [
+      "This story mentions a wheel.",
+      "We talked about the wheel after class."
+    ],
+    "example": "This story mentions a wheel.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：轮子"
+  },
+  {
+    "id": "primary-md-323",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "stop",
+    "phonetic": "/stɑːp/",
+    "cn": "停下； 停止，车站",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can stop",
+      "stop carefully"
+    ],
+    "examples": [
+      "They stop together in the park.",
+      "Can you stop this afternoon?"
+    ],
+    "example": "They stop together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：停下； 停止，车站"
+  },
+  {
+    "id": "primary-md-324",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ticket",
+    "phonetic": "/ˈtɪkɪt/",
+    "cn": "票；券；车票；入场券",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a ticket",
+      "the ticket"
+    ],
+    "examples": [
+      "The teacher points to the ticket.",
+      "I wrote the ticket in my notebook."
+    ],
+    "example": "The teacher points to the ticket.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：票；券；车票；入场券"
+  },
+  {
+    "id": "primary-md-325",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "show",
+    "phonetic": "/ʃoʊ/",
+    "cn": "带，领，展示，演出； 节目，演出，展览",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can show",
+      "show carefully"
+    ],
+    "examples": [
+      "They show together in the park.",
+      "Can you show this afternoon?"
+    ],
+    "example": "They show together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：带，领，展示，演出； 节目，演出，展览"
+  },
+  {
+    "id": "primary-md-326",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "leave",
+    "phonetic": "/liːv/",
+    "cn": "离开；留下 ；忘了带",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can leave",
+      "leave carefully"
+    ],
+    "examples": [
+      "Please leave before you leave.",
+      "I learned how to leave yesterday."
+    ],
+    "example": "Please leave before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：离开；留下 ；忘了带"
+  },
+  {
+    "id": "primary-md-327",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "get",
+    "phonetic": "/ɡet/",
+    "cn": "获得；得到；收到；接到",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can get",
+      "get carefully"
+    ],
+    "examples": [
+      "He will get with his friends.",
+      "Do not get too quickly."
+    ],
+    "example": "He will get with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：获得；得到；收到；接到"
+  },
+  {
+    "id": "primary-md-328",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "arrive",
+    "phonetic": "/əˈraɪv/",
+    "cn": "到达；送达；到来",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can arrive",
+      "arrive carefully"
+    ],
+    "examples": [
+      "Please arrive before you leave.",
+      "I learned how to arrive yesterday."
+    ],
+    "example": "Please arrive before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：到达；送达；到来"
+  },
+  {
+    "id": "primary-md-329",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "return",
+    "phonetic": "/rɪˈtɜːrn/",
+    "cn": "返回；归还",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can return",
+      "return carefully"
+    ],
+    "examples": [
+      "They return together in the park.",
+      "Can you return this afternoon?"
+    ],
+    "example": "They return together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：返回；归还"
+  },
+  {
+    "id": "primary-md-330",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "animal",
+    "phonetic": "/ˈænɪml/",
+    "cn": "兽；动物",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the animal",
+      "an animal"
+    ],
+    "examples": [
+      "We watched the animal from the hill.",
+      "A picture of the animal is on the wall."
+    ],
+    "example": "We watched the animal from the hill.",
+    "sentence": "We watched the ___ from the hill.",
+    "hint": "选择合适的单词：兽；动物"
+  },
+  {
+    "id": "primary-md-331",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pet",
+    "phonetic": "/pet/",
+    "cn": "宠物",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a pet",
+      "the pet"
+    ],
+    "examples": [
+      "The teacher points to the pet.",
+      "I wrote the pet in my notebook."
+    ],
+    "example": "The teacher points to the pet.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：宠物"
+  },
+  {
+    "id": "primary-md-332",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bird",
+    "phonetic": "/bɜːrd/",
+    "cn": "鸟",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the bird",
+      "a bird"
+    ],
+    "examples": [
+      "We watched the bird from the hill.",
+      "A picture of the bird is on the wall."
+    ],
+    "example": "We watched the bird from the hill.",
+    "sentence": "We watched the ___ from the hill.",
+    "hint": "选择合适的单词：鸟"
+  },
+  {
+    "id": "primary-md-333",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fish",
+    "phonetic": "/fɪʃ/",
+    "cn": "鱼肉，鱼；钓鱼，捕鱼",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "自然动物",
+    "category": "动作行为",
+    "phrases": [
+      "look at the fish",
+      "a fish"
+    ],
+    "examples": [
+      "The fish looks beautiful today.",
+      "Our teacher showed us a fish."
+    ],
+    "example": "The fish looks beautiful today.",
+    "sentence": "The ___ looks beautiful today.",
+    "hint": "选择合适的单词：鱼肉，鱼；钓鱼，捕鱼"
+  },
+  {
+    "id": "primary-md-334",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "shark",
+    "phonetic": "/ʃɑːrk/",
+    "cn": "鲨鱼",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a shark",
+      "the shark"
+    ],
+    "examples": [
+      "My friend asked about the shark.",
+      "There is a shark in the picture."
+    ],
+    "example": "My friend asked about the shark.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：鲨鱼"
+  },
+  {
+    "id": "primary-md-335",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "lion",
+    "phonetic": "/ˈlaɪən/",
+    "cn": "狮子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the lion",
+      "a lion"
+    ],
+    "examples": [
+      "We watched the lion from the hill.",
+      "A picture of the lion is on the wall."
+    ],
+    "example": "We watched the lion from the hill.",
+    "sentence": "We watched the ___ from the hill.",
+    "hint": "选择合适的单词：狮子"
+  },
+  {
+    "id": "primary-md-336",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "tiger",
+    "phonetic": "/ˈtaɪɡər/",
+    "cn": "老虎",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the tiger",
+      "a tiger"
+    ],
+    "examples": [
+      "We watched the tiger from the hill.",
+      "A picture of the tiger is on the wall."
+    ],
+    "example": "We watched the tiger from the hill.",
+    "sentence": "We watched the ___ from the hill.",
+    "hint": "选择合适的单词：老虎"
+  },
+  {
+    "id": "primary-md-337",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bear",
+    "phonetic": "/ber/",
+    "cn": "熊，玩具熊；忍受",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can bear",
+      "bear carefully"
+    ],
+    "examples": [
+      "He will bear with his friends.",
+      "Do not bear too quickly."
+    ],
+    "example": "He will bear with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：熊，玩具熊；忍受"
+  },
+  {
+    "id": "primary-md-338",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "elephant",
+    "phonetic": "/ˈelɪfənt/",
+    "cn": "大象",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the elephant",
+      "an elephant"
+    ],
+    "examples": [
+      "The children talked about the elephant.",
+      "I drew an elephant in my notebook."
+    ],
+    "example": "The children talked about the elephant.",
+    "sentence": "The children talked about the ___.",
+    "hint": "选择合适的单词：大象"
+  },
+  {
+    "id": "primary-md-339",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fox",
+    "phonetic": "/fɑːks/",
+    "cn": "狐狸",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a fox",
+      "the fox"
+    ],
+    "examples": [
+      "The teacher points to the fox.",
+      "I wrote the fox in my notebook."
+    ],
+    "example": "The teacher points to the fox.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：狐狸"
+  },
+  {
+    "id": "primary-md-340",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "deer",
+    "phonetic": "/dɪr/",
+    "cn": "鹿",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a deer",
+      "the deer"
+    ],
+    "examples": [
+      "This story mentions a deer.",
+      "We talked about the deer after class."
+    ],
+    "example": "This story mentions a deer.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：鹿"
+  },
+  {
+    "id": "primary-md-341",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "giraffe",
+    "phonetic": "/dʒəˈræf/",
+    "cn": "长颈鹿",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a giraffe",
+      "the giraffe"
+    ],
+    "examples": [
+      "My friend asked about the giraffe.",
+      "There is a giraffe in the picture."
+    ],
+    "example": "My friend asked about the giraffe.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：长颈鹿"
+  },
+  {
+    "id": "primary-md-342",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "panda",
+    "phonetic": "/ˈpændə/",
+    "cn": "熊猫",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the panda",
+      "a panda"
+    ],
+    "examples": [
+      "The children talked about the panda.",
+      "I drew a panda in my notebook."
+    ],
+    "example": "The children talked about the panda.",
+    "sentence": "The children talked about the ___.",
+    "hint": "选择合适的单词：熊猫"
+  },
+  {
+    "id": "primary-md-343",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "koala",
+    "phonetic": "/koʊˈɑːlə/",
+    "cn": "考拉；树袋熊",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a koala",
+      "the koala"
+    ],
+    "examples": [
+      "My friend asked about the koala.",
+      "There is a koala in the picture."
+    ],
+    "example": "My friend asked about the koala.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：考拉；树袋熊"
+  },
+  {
+    "id": "primary-md-344",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "monkey",
+    "phonetic": "/ˈmʌŋki/",
+    "cn": "猴子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the monkey",
+      "a monkey"
+    ],
+    "examples": [
+      "The monkey looks beautiful today.",
+      "Our teacher showed us a monkey."
+    ],
+    "example": "The monkey looks beautiful today.",
+    "sentence": "The ___ looks beautiful today.",
+    "hint": "选择合适的单词：猴子"
+  },
+  {
+    "id": "primary-md-345",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "rabbit",
+    "phonetic": "/ˈræbɪt/",
+    "cn": "兔子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a rabbit",
+      "the rabbit"
+    ],
+    "examples": [
+      "Please put the rabbit on the desk.",
+      "He found a rabbit in the box."
+    ],
+    "example": "Please put the rabbit on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：兔子"
+  },
+  {
+    "id": "primary-md-346",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "snake",
+    "phonetic": "/sneɪk/",
+    "cn": "蛇",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a snake",
+      "the snake"
+    ],
+    "examples": [
+      "My friend asked about the snake.",
+      "There is a snake in the picture."
+    ],
+    "example": "My friend asked about the snake.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：蛇"
+  },
+  {
+    "id": "primary-md-347",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "mouse",
+    "phonetic": "/maʊs/",
+    "cn": "老鼠；鼠标",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a mouse",
+      "the mouse"
+    ],
+    "examples": [
+      "Please put the mouse on the desk.",
+      "He found a mouse in the box."
+    ],
+    "example": "Please put the mouse on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：老鼠；鼠标"
+  },
+  {
+    "id": "primary-md-348",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cow",
+    "phonetic": "/kaʊ/",
+    "cn": "母牛；奶牛",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the cow",
+      "a cow"
+    ],
+    "examples": [
+      "We watched the cow from the hill.",
+      "A picture of the cow is on the wall."
+    ],
+    "example": "We watched the cow from the hill.",
+    "sentence": "We watched the ___ from the hill.",
+    "hint": "选择合适的单词：母牛；奶牛"
+  },
+  {
+    "id": "primary-md-349",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "horse",
+    "phonetic": "/hɔːrs/",
+    "cn": "马",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the horse",
+      "a horse"
+    ],
+    "examples": [
+      "The children talked about the horse.",
+      "I drew a horse in my notebook."
+    ],
+    "example": "The children talked about the horse.",
+    "sentence": "The children talked about the ___.",
+    "hint": "选择合适的单词：马"
+  },
+  {
+    "id": "primary-md-350",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sheep",
+    "phonetic": "/ʃiːp/",
+    "cn": "羊；绵羊",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the sheep",
+      "a sheep"
+    ],
+    "examples": [
+      "The children talked about the sheep.",
+      "I drew a sheep in my notebook."
+    ],
+    "example": "The children talked about the sheep.",
+    "sentence": "The children talked about the ___.",
+    "hint": "选择合适的单词：羊；绵羊"
+  },
+  {
+    "id": "primary-md-351",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pig",
+    "phonetic": "/pɪɡ/",
+    "cn": "猪",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a pig",
+      "the pig"
+    ],
+    "examples": [
+      "The teacher points to the pig.",
+      "I wrote the pig in my notebook."
+    ],
+    "example": "The teacher points to the pig.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：猪"
+  },
+  {
+    "id": "primary-md-352",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "chicken",
+    "phonetic": "/ˈtʃɪkɪn/",
+    "cn": "鸡；鸡肉",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a chicken",
+      "the chicken"
+    ],
+    "examples": [
+      "The teacher points to the chicken.",
+      "I wrote the chicken in my notebook."
+    ],
+    "example": "The teacher points to the chicken.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：鸡；鸡肉"
+  },
+  {
+    "id": "primary-md-353",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hen",
+    "phonetic": "/hen/",
+    "cn": "母鸡",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a hen",
+      "the hen"
+    ],
+    "examples": [
+      "The teacher points to the hen.",
+      "I wrote the hen in my notebook."
+    ],
+    "example": "The teacher points to the hen.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：母鸡"
+  },
+  {
+    "id": "primary-md-354",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "duck",
+    "phonetic": "/dʌk/",
+    "cn": "鸭子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a duck",
+      "the duck"
+    ],
+    "examples": [
+      "My friend asked about the duck.",
+      "There is a duck in the picture."
+    ],
+    "example": "My friend asked about the duck.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：鸭子"
+  },
+  {
+    "id": "primary-md-355",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cat",
+    "phonetic": "/kæt/",
+    "cn": "猫",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the cat",
+      "a cat"
+    ],
+    "examples": [
+      "We watched the cat from the hill.",
+      "A picture of the cat is on the wall."
+    ],
+    "example": "We watched the cat from the hill.",
+    "sentence": "We watched the ___ from the hill.",
+    "hint": "选择合适的单词：猫"
+  },
+  {
+    "id": "primary-md-356",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dog",
+    "phonetic": "/dɔːɡ/",
+    "cn": "狗",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the dog",
+      "a dog"
+    ],
+    "examples": [
+      "We watched the dog from the hill.",
+      "A picture of the dog is on the wall."
+    ],
+    "example": "We watched the dog from the hill.",
+    "sentence": "We watched the ___ from the hill.",
+    "hint": "选择合适的单词：狗"
+  },
+  {
+    "id": "primary-md-357",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ant",
+    "phonetic": "/ænt/",
+    "cn": "蚂蚁",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an ant",
+      "the ant"
+    ],
+    "examples": [
+      "Please put the ant on the desk.",
+      "He found an ant in the box."
+    ],
+    "example": "Please put the ant on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：蚂蚁"
+  },
+  {
+    "id": "primary-md-358",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bee",
+    "phonetic": "/biː/",
+    "cn": "蜜蜂",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a bee",
+      "the bee"
+    ],
+    "examples": [
+      "This story mentions a bee.",
+      "We talked about the bee after class."
+    ],
+    "example": "This story mentions a bee.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：蜜蜂"
+  },
+  {
+    "id": "primary-md-359",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "frog",
+    "phonetic": "/frɑːɡ/",
+    "cn": "青蛙",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a frog",
+      "the frog"
+    ],
+    "examples": [
+      "The teacher points to the frog.",
+      "I wrote the frog in my notebook."
+    ],
+    "example": "The teacher points to the frog.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：青蛙"
+  },
+  {
+    "id": "primary-md-360",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dinosaur",
+    "phonetic": "/ˈdaɪnəsɔːr/",
+    "cn": "恐龙",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a dinosaur",
+      "the dinosaur"
+    ],
+    "examples": [
+      "This story mentions a dinosaur.",
+      "We talked about the dinosaur after class."
+    ],
+    "example": "This story mentions a dinosaur.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：恐龙"
+  },
+  {
+    "id": "primary-md-361",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "loong",
+    "phonetic": "/lɔːŋ/",
+    "cn": "（中国）龙",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a loong",
+      "the loong"
+    ],
+    "examples": [
+      "My friend asked about the loong.",
+      "There is a loong in the picture."
+    ],
+    "example": "My friend asked about the loong.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：（中国）龙"
+  },
+  {
+    "id": "primary-md-362",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "tail",
+    "phonetic": "/teɪl/",
+    "cn": "尾巴",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a tail",
+      "the tail"
+    ],
+    "examples": [
+      "Please put the tail on the desk.",
+      "He found a tail in the box."
+    ],
+    "example": "Please put the tail on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：尾巴"
+  },
+  {
+    "id": "primary-md-363",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "forest",
+    "phonetic": "/ˈfɔːrɪst/",
+    "cn": "森林；林区",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the forest",
+      "a forest"
+    ],
+    "examples": [
+      "I took a photo of the forest.",
+      "There is a forest near the park."
+    ],
+    "example": "I took a photo of the forest.",
+    "sentence": "I took a photo of the ___.",
+    "hint": "选择合适的单词：森林；林区"
+  },
+  {
+    "id": "primary-md-364",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "plant",
+    "phonetic": "/plænt/",
+    "cn": "种植",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can plant",
+      "plant carefully"
+    ],
+    "examples": [
+      "He will plant with his friends.",
+      "Do not plant too quickly."
+    ],
+    "example": "He will plant with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：种植"
+  },
+  {
+    "id": "primary-md-365",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "flower",
+    "phonetic": "/ˈflaʊər/",
+    "cn": "花；花朵",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the flower",
+      "a flower"
+    ],
+    "examples": [
+      "We watched the flower from the hill.",
+      "A picture of the flower is on the wall."
+    ],
+    "example": "We watched the flower from the hill.",
+    "sentence": "We watched the ___ from the hill.",
+    "hint": "选择合适的单词：花；花朵"
+  },
+  {
+    "id": "primary-md-366",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "grass",
+    "phonetic": "/ɡræs/",
+    "cn": "草；草坪",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the grass",
+      "some grass"
+    ],
+    "examples": [
+      "We watched the grass from the hill.",
+      "A picture of the grass is on the wall."
+    ],
+    "example": "We watched the grass from the hill.",
+    "sentence": "We watched the ___ from the hill.",
+    "hint": "选择合适的单词：草；草坪"
+  },
+  {
+    "id": "primary-md-367",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "tree",
+    "phonetic": "/triː/",
+    "cn": "树；树木；乔木",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the tree",
+      "a tree"
+    ],
+    "examples": [
+      "I took a photo of the tree.",
+      "There is a tree near the park."
+    ],
+    "example": "I took a photo of the tree.",
+    "sentence": "I took a photo of the ___.",
+    "hint": "选择合适的单词：树；树木；乔木"
+  },
+  {
+    "id": "primary-md-368",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "leaf",
+    "phonetic": "/liːf/",
+    "cn": "叶子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the leaf",
+      "a leaf"
+    ],
+    "examples": [
+      "We watched the leaf from the hill.",
+      "A picture of the leaf is on the wall."
+    ],
+    "example": "We watched the leaf from the hill.",
+    "sentence": "We watched the ___ from the hill.",
+    "hint": "选择合适的单词：叶子"
+  },
+  {
+    "id": "primary-md-369",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bamboo",
+    "phonetic": "/ˌbæmˈbuː/",
+    "cn": "竹；竹子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a bamboo",
+      "the bamboo"
+    ],
+    "examples": [
+      "This story mentions a bamboo.",
+      "We talked about the bamboo after class."
+    ],
+    "example": "This story mentions a bamboo.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：竹；竹子"
+  },
+  {
+    "id": "primary-md-370",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "nature",
+    "phonetic": "/ˈneɪtʃər/",
+    "cn": "自然界；大自然；本性",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a nature",
+      "the nature"
+    ],
+    "examples": [
+      "Please put the nature on the desk.",
+      "He found a nature in the box."
+    ],
+    "example": "Please put the nature on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：自然界；大自然；本性"
+  },
+  {
+    "id": "primary-md-371",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "season",
+    "phonetic": "/ˈsiːzn/",
+    "cn": "季节",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a season",
+      "the season"
+    ],
+    "examples": [
+      "My friend asked about the season.",
+      "There is a season in the picture."
+    ],
+    "example": "My friend asked about the season.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：季节"
+  },
+  {
+    "id": "primary-md-372",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "spring",
+    "phonetic": "/sprɪŋ/",
+    "cn": "春天",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a spring",
+      "the spring"
+    ],
+    "examples": [
+      "Please put the spring on the desk.",
+      "He found a spring in the box."
+    ],
+    "example": "Please put the spring on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：春天"
+  },
+  {
+    "id": "primary-md-373",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "summer",
+    "phonetic": "/ˈsʌmər/",
+    "cn": "夏天",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a summer",
+      "the summer"
+    ],
+    "examples": [
+      "The teacher points to the summer.",
+      "I wrote the summer in my notebook."
+    ],
+    "example": "The teacher points to the summer.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：夏天"
+  },
+  {
+    "id": "primary-md-374",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "autumn",
+    "phonetic": "/ˈɔːtəm/",
+    "cn": "秋天",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an autumn",
+      "the autumn"
+    ],
+    "examples": [
+      "My friend asked about the autumn.",
+      "There is an autumn in the picture."
+    ],
+    "example": "My friend asked about the autumn.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：秋天"
+  },
+  {
+    "id": "primary-md-375",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "winter",
+    "phonetic": "/ˈwɪntər/",
+    "cn": "冬天",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a winter",
+      "the winter"
+    ],
+    "examples": [
+      "The teacher points to the winter.",
+      "I wrote the winter in my notebook."
+    ],
+    "example": "The teacher points to the winter.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：冬天"
+  },
+  {
+    "id": "primary-md-376",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "weather",
+    "phonetic": "/ˈweðər/",
+    "cn": "天气",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some weather",
+      "the weather"
+    ],
+    "examples": [
+      "This story mentions some weather.",
+      "We talked about the weather after class."
+    ],
+    "example": "This story mentions some weather.",
+    "sentence": "This story mentions some ___.",
+    "hint": "选择合适的单词：天气"
+  },
+  {
+    "id": "primary-md-377",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sunny",
+    "phonetic": "/ˈsʌni/",
+    "cn": "阳光充足的；晴朗的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very sunny",
+      "a sunny person"
+    ],
+    "examples": [
+      "This book is sunny for beginners.",
+      "She gave me a sunny answer."
+    ],
+    "example": "This book is sunny for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：阳光充足的；晴朗的"
+  },
+  {
+    "id": "primary-md-378",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cloudy",
+    "phonetic": "/ˈklaʊdi/",
+    "cn": "多云的；阴天的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very cloudy",
+      "a cloudy person"
+    ],
+    "examples": [
+      "His idea sounds cloudy.",
+      "We found a cloudy place to rest."
+    ],
+    "example": "His idea sounds cloudy.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：多云的；阴天的"
+  },
+  {
+    "id": "primary-md-379",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "windy",
+    "phonetic": "/ˈwɪndi/",
+    "cn": "刮风的；多风的；风大的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very windy",
+      "a windy person"
+    ],
+    "examples": [
+      "This book is windy for beginners.",
+      "She gave me a windy answer."
+    ],
+    "example": "This book is windy for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：刮风的；多风的；风大的"
+  },
+  {
+    "id": "primary-md-380",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "rainy",
+    "phonetic": "/ˈreɪni/",
+    "cn": "阴雨的；多雨的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very rainy",
+      "a rainy person"
+    ],
+    "examples": [
+      "His idea sounds rainy.",
+      "We found a rainy place to rest."
+    ],
+    "example": "His idea sounds rainy.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：阴雨的；多雨的"
+  },
+  {
+    "id": "primary-md-381",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "snowy",
+    "phonetic": "/ˈsnoʊi/",
+    "cn": "下雪（多）的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very snowy",
+      "a snowy person"
+    ],
+    "examples": [
+      "The road looks snowy after the rain.",
+      "It is snowy to finish early."
+    ],
+    "example": "The road looks snowy after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：下雪（多）的"
+  },
+  {
+    "id": "primary-md-382",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "foggy",
+    "phonetic": "/ˈfɑːɡi/",
+    "cn": "有雾的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very foggy",
+      "a foggy person"
+    ],
+    "examples": [
+      "His idea sounds foggy.",
+      "We found a foggy place to rest."
+    ],
+    "example": "His idea sounds foggy.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：有雾的"
+  },
+  {
+    "id": "primary-md-383",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sky",
+    "phonetic": "/skaɪ/",
+    "cn": "天；天空",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the sky",
+      "a sky"
+    ],
+    "examples": [
+      "The children talked about the sky.",
+      "I drew a sky in my notebook."
+    ],
+    "example": "The children talked about the sky.",
+    "sentence": "The children talked about the ___.",
+    "hint": "选择合适的单词：天；天空"
+  },
+  {
+    "id": "primary-md-384",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "air",
+    "phonetic": "/er/",
+    "cn": "空气；空中",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an air",
+      "the air"
+    ],
+    "examples": [
+      "This story mentions an air.",
+      "We talked about the air after class."
+    ],
+    "example": "This story mentions an air.",
+    "sentence": "This story mentions an ___.",
+    "hint": "选择合适的单词：空气；空中"
+  },
+  {
+    "id": "primary-md-385",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "wind",
+    "phonetic": "/wɪnd/",
+    "cn": "风",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the wind",
+      "a wind"
+    ],
+    "examples": [
+      "The wind looks beautiful today.",
+      "Our teacher showed us a wind."
+    ],
+    "example": "The wind looks beautiful today.",
+    "sentence": "The ___ looks beautiful today.",
+    "hint": "选择合适的单词：风"
+  },
+  {
+    "id": "primary-md-386",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cloud",
+    "phonetic": "/klaʊd/",
+    "cn": "云",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the cloud",
+      "a cloud"
+    ],
+    "examples": [
+      "The children talked about the cloud.",
+      "I drew a cloud in my notebook."
+    ],
+    "example": "The children talked about the cloud.",
+    "sentence": "The children talked about the ___.",
+    "hint": "选择合适的单词：云"
+  },
+  {
+    "id": "primary-md-387",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "rain",
+    "phonetic": "/reɪn/",
+    "cn": "下雨； 雨，雨水",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "自然动物",
+    "category": "动作行为",
+    "phrases": [
+      "heavy rain",
+      "walk in the rain"
+    ],
+    "examples": [
+      "Heavy rain started after lunch.",
+      "Take an umbrella if you walk in the rain."
+    ],
+    "example": "Heavy rain started after lunch.",
+    "sentence": "Heavy ___ started after lunch.",
+    "hint": "选择合适的单词：下雨； 雨，雨水"
+  },
+  {
+    "id": "primary-md-388",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ice",
+    "phonetic": "/aɪs/",
+    "cn": "冰",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "饮食生活",
+    "category": "名物概念",
+    "phrases": [
+      "an ice",
+      "the ice"
+    ],
+    "examples": [
+      "This story mentions an ice.",
+      "We talked about the ice after class."
+    ],
+    "example": "This story mentions an ice.",
+    "sentence": "This story mentions an ___.",
+    "hint": "选择合适的单词：冰"
+  },
+  {
+    "id": "primary-md-389",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "snow",
+    "phonetic": "/snoʊ/",
+    "cn": "下雪； 雪",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "自然动物",
+    "category": "动作行为",
+    "phrases": [
+      "heavy snow",
+      "play in the snow"
+    ],
+    "examples": [
+      "Heavy snow covered the road last night.",
+      "Children made a snowman in the snow."
+    ],
+    "example": "Heavy snow covered the road last night.",
+    "sentence": "Heavy ___ covered the road last night.",
+    "hint": "选择合适的单词：下雪； 雪"
+  },
+  {
+    "id": "primary-md-390",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "snowman",
+    "phonetic": "/ˈsnoʊmæn/",
+    "cn": "雪人",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the snowman",
+      "a snowman"
+    ],
+    "examples": [
+      "We watched the snowman from the hill.",
+      "A picture of the snowman is on the wall."
+    ],
+    "example": "We watched the snowman from the hill.",
+    "sentence": "We watched the ___ from the hill.",
+    "hint": "选择合适的单词：雪人"
+  },
+  {
+    "id": "primary-md-391",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "rainbow",
+    "phonetic": "/ˈreɪnboʊ/",
+    "cn": "彩虹",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the rainbow",
+      "a rainbow"
+    ],
+    "examples": [
+      "The rainbow looks beautiful today.",
+      "Our teacher showed us a rainbow."
+    ],
+    "example": "The rainbow looks beautiful today.",
+    "sentence": "The ___ looks beautiful today.",
+    "hint": "选择合适的单词：彩虹"
+  },
+  {
+    "id": "primary-md-392",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "light",
+    "phonetic": "/laɪt/",
+    "cn": "光（线），电灯；点燃，照亮",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "自然动物",
+    "category": "动作行为",
+    "phrases": [
+      "turn on the light",
+      "bright light"
+    ],
+    "examples": [
+      "Please turn on the light before reading.",
+      "The bright light hurt my eyes."
+    ],
+    "example": "Please turn on the light before reading.",
+    "sentence": "Please turn on the ___ before reading.",
+    "hint": "选择合适的单词：光（线），电灯；点燃，照亮"
+  },
+  {
+    "id": "primary-md-393",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hot",
+    "phonetic": "/hɑːt/",
+    "cn": "热的；烫的；辛辣的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "自然动物",
+    "category": "描述评价",
+    "phrases": [
+      "very hot",
+      "a hot day"
+    ],
+    "examples": [
+      "The room feels hot.",
+      "Plants grow well in hot weather."
+    ],
+    "example": "The room feels hot.",
+    "sentence": "The room feels ___.",
+    "hint": "选择合适的单词：热的；烫的；辛辣的"
+  },
+  {
+    "id": "primary-md-394",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "warm",
+    "phonetic": "/wɔːrm/",
+    "cn": "温暖的；暖和的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "自然动物",
+    "category": "描述评价",
+    "phrases": [
+      "very warm",
+      "a warm day"
+    ],
+    "examples": [
+      "The soup is still warm.",
+      "A warm wind came through the window."
+    ],
+    "example": "The soup is still warm.",
+    "sentence": "The soup is still ___.",
+    "hint": "选择合适的单词：温暖的；暖和的"
+  },
+  {
+    "id": "primary-md-395",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cold",
+    "phonetic": "/koʊld/",
+    "cn": "寒冷的，冷的； 感冒，冷",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "自然动物",
+    "category": "描述评价",
+    "phrases": [
+      "very cold",
+      "a cold day"
+    ],
+    "examples": [
+      "It became cold after sunset.",
+      "Wear a coat if it is cold."
+    ],
+    "example": "It became cold after sunset.",
+    "sentence": "It became ___ after sunset.",
+    "hint": "选择合适的单词：寒冷的，冷的； 感冒，冷"
+  },
+  {
+    "id": "primary-md-396",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cool",
+    "phonetic": "/kuːl/",
+    "cn": "凉爽的；冷静的；酷的；绝妙的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "自然动物",
+    "category": "描述评价",
+    "phrases": [
+      "very cool",
+      "a cool day"
+    ],
+    "examples": [
+      "The soup is still cool.",
+      "A cool wind came through the window."
+    ],
+    "example": "The soup is still cool.",
+    "sentence": "The soup is still ___.",
+    "hint": "选择合适的单词：凉爽的；冷静的；酷的；绝妙的"
+  },
+  {
+    "id": "primary-md-397",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "mountain",
+    "phonetic": "/ˈmaʊntn/",
+    "cn": "高山；山岳",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the mountain",
+      "a mountain"
+    ],
+    "examples": [
+      "The children talked about the mountain.",
+      "I drew a mountain in my notebook."
+    ],
+    "example": "The children talked about the mountain.",
+    "sentence": "The children talked about the ___.",
+    "hint": "选择合适的单词：高山；山岳"
+  },
+  {
+    "id": "primary-md-398",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hill",
+    "phonetic": "/hɪl/",
+    "cn": "山丘；小山",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a hill",
+      "the hill"
+    ],
+    "examples": [
+      "Please put the hill on the desk.",
+      "He found a hill in the box."
+    ],
+    "example": "Please put the hill on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：山丘；小山"
+  },
+  {
+    "id": "primary-md-399",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cave",
+    "phonetic": "/keɪv/",
+    "cn": "山洞；洞穴",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a cave",
+      "the cave"
+    ],
+    "examples": [
+      "Please put the cave on the desk.",
+      "He found a cave in the box."
+    ],
+    "example": "Please put the cave on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：山洞；洞穴"
+  },
+  {
+    "id": "primary-md-400",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "stone",
+    "phonetic": "/stoʊn/",
+    "cn": "石头",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a stone",
+      "the stone"
+    ],
+    "examples": [
+      "The teacher points to the stone.",
+      "I wrote the stone in my notebook."
+    ],
+    "example": "The teacher points to the stone.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：石头"
+  },
+  {
+    "id": "primary-md-401",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "mud",
+    "phonetic": "/mʌd/",
+    "cn": "泥",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a mud",
+      "the mud"
+    ],
+    "examples": [
+      "This story mentions a mud.",
+      "We talked about the mud after class."
+    ],
+    "example": "This story mentions a mud.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：泥"
+  },
+  {
+    "id": "primary-md-402",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fire",
+    "phonetic": "/ˈfaɪər/",
+    "cn": "火；火灾",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a fire",
+      "the fire"
+    ],
+    "examples": [
+      "This story mentions a fire.",
+      "We talked about the fire after class."
+    ],
+    "example": "This story mentions a fire.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：火；火灾"
+  },
+  {
+    "id": "primary-md-403",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "river",
+    "phonetic": "/ˈrɪvər/",
+    "cn": "河；江",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the river",
+      "a river"
+    ],
+    "examples": [
+      "We watched the river from the hill.",
+      "A picture of the river is on the wall."
+    ],
+    "example": "We watched the river from the hill.",
+    "sentence": "We watched the ___ from the hill.",
+    "hint": "选择合适的单词：河；江"
+  },
+  {
+    "id": "primary-md-404",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "lake",
+    "phonetic": "/leɪk/",
+    "cn": "湖；湖泊",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the lake",
+      "a lake"
+    ],
+    "examples": [
+      "The lake looks beautiful today.",
+      "Our teacher showed us a lake."
+    ],
+    "example": "The lake looks beautiful today.",
+    "sentence": "The ___ looks beautiful today.",
+    "hint": "选择合适的单词：湖；湖泊"
+  },
+  {
+    "id": "primary-md-405",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sea",
+    "phonetic": "/siː/",
+    "cn": "海；海洋",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the sea",
+      "a sea"
+    ],
+    "examples": [
+      "We watched the sea from the hill.",
+      "A picture of the sea is on the wall."
+    ],
+    "example": "We watched the sea from the hill.",
+    "sentence": "We watched the ___ from the hill.",
+    "hint": "选择合适的单词：海；海洋"
+  },
+  {
+    "id": "primary-md-406",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "island",
+    "phonetic": "/ˈaɪlənd/",
+    "cn": "岛",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an island",
+      "the island"
+    ],
+    "examples": [
+      "My friend asked about the island.",
+      "There is an island in the picture."
+    ],
+    "example": "My friend asked about the island.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：岛"
+  },
+  {
+    "id": "primary-md-407",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "field",
+    "phonetic": "/fiːld/",
+    "cn": "田地；场地",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a field",
+      "the field"
+    ],
+    "examples": [
+      "My friend asked about the field.",
+      "There is a field in the picture."
+    ],
+    "example": "My friend asked about the field.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：田地；场地"
+  },
+  {
+    "id": "primary-md-408",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "world",
+    "phonetic": "/wɜːrld/",
+    "cn": "世界",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a world",
+      "the world"
+    ],
+    "examples": [
+      "My friend asked about the world.",
+      "There is a world in the picture."
+    ],
+    "example": "My friend asked about the world.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：世界"
+  },
+  {
+    "id": "primary-md-409",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "planet",
+    "phonetic": "/ˈplænɪt/",
+    "cn": "行星",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a planet",
+      "the planet"
+    ],
+    "examples": [
+      "Please put the planet on the desk.",
+      "He found a planet in the box."
+    ],
+    "example": "Please put the planet on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：行星"
+  },
+  {
+    "id": "primary-md-410",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "earth",
+    "phonetic": "/ɜːrθ/",
+    "cn": "地球；陆地；土",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an earth",
+      "the earth"
+    ],
+    "examples": [
+      "This story mentions an earth.",
+      "We talked about the earth after class."
+    ],
+    "example": "This story mentions an earth.",
+    "sentence": "This story mentions an ___.",
+    "hint": "选择合适的单词：地球；陆地；土"
+  },
+  {
+    "id": "primary-md-411",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sun",
+    "phonetic": "/sʌn/",
+    "cn": "太阳；阳光",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the sun",
+      "a sun"
+    ],
+    "examples": [
+      "The sun looks beautiful today.",
+      "Our teacher showed us a sun."
+    ],
+    "example": "The sun looks beautiful today.",
+    "sentence": "The ___ looks beautiful today.",
+    "hint": "选择合适的单词：太阳；阳光"
+  },
+  {
+    "id": "primary-md-412",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "moon",
+    "phonetic": "/muːn/",
+    "cn": "月亮；月球",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the moon",
+      "a moon"
+    ],
+    "examples": [
+      "I took a photo of the moon.",
+      "There is a moon near the park."
+    ],
+    "example": "I took a photo of the moon.",
+    "sentence": "I took a photo of the ___.",
+    "hint": "选择合适的单词：月亮；月球"
+  },
+  {
+    "id": "primary-md-413",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "star",
+    "phonetic": "/stɑːr/",
+    "cn": "星星；明星",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the star",
+      "a star"
+    ],
+    "examples": [
+      "The children talked about the star.",
+      "I drew a star in my notebook."
+    ],
+    "example": "The children talked about the star.",
+    "sentence": "The children talked about the ___.",
+    "hint": "选择合适的单词：星星；明星"
+  },
+  {
+    "id": "primary-md-414",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "space",
+    "phonetic": "/speɪs/",
+    "cn": "太空；空间",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a space",
+      "the space"
+    ],
+    "examples": [
+      "The teacher points to the space.",
+      "I wrote the space in my notebook."
+    ],
+    "example": "The teacher points to the space.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：太空；空间"
+  },
+  {
+    "id": "primary-md-415",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "spaceship",
+    "phonetic": "/ˈspeɪsʃɪp/",
+    "cn": "宇宙飞船",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a spaceship",
+      "the spaceship"
+    ],
+    "examples": [
+      "My friend asked about the spaceship.",
+      "There is a spaceship in the picture."
+    ],
+    "example": "My friend asked about the spaceship.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：宇宙飞船"
+  },
+  {
+    "id": "primary-md-416",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "taikonaut",
+    "phonetic": "/ˈtaɪkəˌnɔːt/",
+    "cn": "（中国的）太空人；航天员",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a taikonaut",
+      "the taikonaut"
+    ],
+    "examples": [
+      "The teacher points to the taikonaut.",
+      "I wrote the taikonaut in my notebook."
+    ],
+    "example": "The teacher points to the taikonaut.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：（中国的）太空人；航天员"
+  },
+  {
+    "id": "primary-md-417",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "astronaut",
+    "phonetic": "/ˈæstrənɔːt/",
+    "cn": "宇航员；航天员",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an astronaut",
+      "the astronaut"
+    ],
+    "examples": [
+      "The teacher points to the astronaut.",
+      "I wrote the astronaut in my notebook."
+    ],
+    "example": "The teacher points to the astronaut.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：宇航员；航天员"
+  },
+  {
+    "id": "primary-md-418",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "satellite",
+    "phonetic": "/ˈsætəlaɪt/",
+    "cn": "（人造）卫星",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a satellite",
+      "the satellite"
+    ],
+    "examples": [
+      "The teacher points to the satellite.",
+      "I wrote the satellite in my notebook."
+    ],
+    "example": "The teacher points to the satellite.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：（人造）卫星"
+  },
+  {
+    "id": "primary-md-419",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "rocket",
+    "phonetic": "/ˈrɑːkɪt/",
+    "cn": "火箭",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a rocket",
+      "the rocket"
+    ],
+    "examples": [
+      "This story mentions a rocket.",
+      "We talked about the rocket after class."
+    ],
+    "example": "This story mentions a rocket.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：火箭"
+  },
+  {
+    "id": "primary-md-420",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "country",
+    "phonetic": "/ˈkʌntri/",
+    "cn": "国家",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a country",
+      "the country"
+    ],
+    "examples": [
+      "My friend asked about the country.",
+      "There is a country in the picture."
+    ],
+    "example": "My friend asked about the country.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：国家"
+  },
+  {
+    "id": "primary-md-421",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "national",
+    "phonetic": "/ˈnæʃnəl/",
+    "cn": "国家的； （某国的）公民",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very national",
+      "a national person"
+    ],
+    "examples": [
+      "His idea sounds national.",
+      "We found a national place to rest."
+    ],
+    "example": "His idea sounds national.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：国家的； （某国的）公民"
+  },
+  {
+    "id": "primary-md-422",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "foreign",
+    "phonetic": "/ˈfɔːrən/",
+    "cn": "外国的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very foreign",
+      "a foreign person"
+    ],
+    "examples": [
+      "This book is foreign for beginners.",
+      "She gave me a foreign answer."
+    ],
+    "example": "This book is foreign for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：外国的"
+  },
+  {
+    "id": "primary-md-423",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Asia",
+    "phonetic": "/'eɪʒə/",
+    "cn": "亚洲",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an Asia",
+      "the Asia"
+    ],
+    "examples": [
+      "This story mentions an Asia.",
+      "We talked about the Asia after class."
+    ],
+    "example": "This story mentions an Asia.",
+    "sentence": "This story mentions an ___.",
+    "hint": "选择合适的单词：亚洲"
+  },
+  {
+    "id": "primary-md-424",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Africa",
+    "phonetic": "/ˈæfrəkə/",
+    "cn": "非洲",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an Africa",
+      "the Africa"
+    ],
+    "examples": [
+      "My friend asked about the Africa.",
+      "There is an Africa in the picture."
+    ],
+    "example": "My friend asked about the Africa.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：非洲"
+  },
+  {
+    "id": "primary-md-425",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "America",
+    "phonetic": "/əˈmerɪkə/",
+    "cn": "美洲；美国",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an America",
+      "the America"
+    ],
+    "examples": [
+      "This story mentions an America.",
+      "We talked about the America after class."
+    ],
+    "example": "This story mentions an America.",
+    "sentence": "This story mentions an ___.",
+    "hint": "选择合适的单词：美洲；美国"
+  },
+  {
+    "id": "primary-md-426",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Australia",
+    "phonetic": "/ɔːˈstreɪliə/",
+    "cn": "澳大利亚",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an Australia",
+      "the Australia"
+    ],
+    "examples": [
+      "Please put the Australia on the desk.",
+      "He found an Australia in the box."
+    ],
+    "example": "Please put the Australia on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：澳大利亚"
+  },
+  {
+    "id": "primary-md-427",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "China",
+    "phonetic": "/ˈtʃaɪnə/",
+    "cn": "中国",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a China",
+      "the China"
+    ],
+    "examples": [
+      "Please put the China on the desk.",
+      "He found a China in the box."
+    ],
+    "example": "Please put the China on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：中国"
+  },
+  {
+    "id": "primary-md-428",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Canada",
+    "phonetic": "/ˈkænədə/",
+    "cn": "加拿大",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a Canada",
+      "the Canada"
+    ],
+    "examples": [
+      "Please put the Canada on the desk.",
+      "He found a Canada in the box."
+    ],
+    "example": "Please put the Canada on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：加拿大"
+  },
+  {
+    "id": "primary-md-429",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "England",
+    "phonetic": "/ˈɪŋɡlənd/",
+    "cn": "英格兰；英国",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an England",
+      "the England"
+    ],
+    "examples": [
+      "Please put the England on the desk.",
+      "He found an England in the box."
+    ],
+    "example": "Please put the England on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：英格兰；英国"
+  },
+  {
+    "id": "primary-md-430",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "language",
+    "phonetic": "/ˈlæŋɡwɪdʒ/",
+    "cn": "语言",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a language",
+      "the language"
+    ],
+    "examples": [
+      "This story mentions a language.",
+      "We talked about the language after class."
+    ],
+    "example": "This story mentions a language.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：语言"
+  },
+  {
+    "id": "primary-md-431",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "American",
+    "phonetic": "/əˈmerɪkən/",
+    "cn": "美洲的，美国的； 美洲人，美国人",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very American",
+      "a American person"
+    ],
+    "examples": [
+      "The lesson was American but useful.",
+      "My teacher wrote a American comment."
+    ],
+    "example": "The lesson was American but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：美洲的，美国的； 美洲人，美国人"
+  },
+  {
+    "id": "primary-md-432",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "British",
+    "phonetic": "/ˈbrɪtɪʃ/",
+    "cn": "英国的；英国人的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very British",
+      "a British person"
+    ],
+    "examples": [
+      "This book is British for beginners.",
+      "She gave me a British answer."
+    ],
+    "example": "This book is British for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：英国的；英国人的"
+  },
+  {
+    "id": "primary-md-433",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "French",
+    "phonetic": "/frentʃ/",
+    "cn": "法国人，法语；法国（人）的，法语的",
+    "pos": "名词/形容词",
+    "rawPos": "n.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very French",
+      "a French person"
+    ],
+    "examples": [
+      "His idea sounds French.",
+      "We found a French place to rest."
+    ],
+    "example": "His idea sounds French.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：法国人，法语；法国（人）的，法语的"
+  },
+  {
+    "id": "primary-md-434",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "city",
+    "phonetic": "/ˈsɪti/",
+    "cn": "城市",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a city",
+      "the city"
+    ],
+    "examples": [
+      "Please put the city on the desk.",
+      "He found a city in the box."
+    ],
+    "example": "Please put the city on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：城市"
+  },
+  {
+    "id": "primary-md-435",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "capital",
+    "phonetic": "/ˈkæpɪtl/",
+    "cn": "首都 ；大写字母",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a capital",
+      "the capital"
+    ],
+    "examples": [
+      "The teacher points to the capital.",
+      "I wrote the capital in my notebook."
+    ],
+    "example": "The teacher points to the capital.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：首都 ；大写字母"
+  },
+  {
+    "id": "primary-md-436",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "London",
+    "phonetic": "/ˈlʌndən/",
+    "cn": "伦敦",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a London",
+      "the London"
+    ],
+    "examples": [
+      "The teacher points to the London.",
+      "I wrote the London in my notebook."
+    ],
+    "example": "The teacher points to the London.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：伦敦"
+  },
+  {
+    "id": "primary-md-437",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "countryside",
+    "phonetic": "/ˈkʌntrisaɪd/",
+    "cn": "乡村",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a countryside",
+      "the countryside"
+    ],
+    "examples": [
+      "This story mentions a countryside.",
+      "We talked about the countryside after class."
+    ],
+    "example": "This story mentions a countryside.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：乡村"
+  },
+  {
+    "id": "primary-md-438",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "village",
+    "phonetic": "/ˈvɪlɪdʒ/",
+    "cn": "村庄；村镇",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a village",
+      "the village"
+    ],
+    "examples": [
+      "This story mentions a village.",
+      "We talked about the village after class."
+    ],
+    "example": "This story mentions a village.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：村庄；村镇"
+  },
+  {
+    "id": "primary-md-439",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hometown",
+    "phonetic": "/ˈhoʊmtaʊn/",
+    "cn": "家乡；故乡",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a hometown",
+      "the hometown"
+    ],
+    "examples": [
+      "The teacher points to the hometown.",
+      "I wrote the hometown in my notebook."
+    ],
+    "example": "The teacher points to the hometown.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：家乡；故乡"
+  },
+  {
+    "id": "primary-md-440",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Monday",
+    "phonetic": "/ˈmʌndeɪ/",
+    "cn": "星期一",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a Monday",
+      "the Monday"
+    ],
+    "examples": [
+      "My friend asked about the Monday.",
+      "There is a Monday in the picture."
+    ],
+    "example": "My friend asked about the Monday.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：星期一"
+  },
+  {
+    "id": "primary-md-441",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Tuesday",
+    "phonetic": "/ˈtuːzdeɪ/",
+    "cn": "星期二",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a Tuesday",
+      "the Tuesday"
+    ],
+    "examples": [
+      "Please put the Tuesday on the desk.",
+      "He found a Tuesday in the box."
+    ],
+    "example": "Please put the Tuesday on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：星期二"
+  },
+  {
+    "id": "primary-md-442",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Wednesday",
+    "phonetic": "/ˈwenzdeɪ/",
+    "cn": "星期三",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a Wednesday",
+      "the Wednesday"
+    ],
+    "examples": [
+      "The teacher points to the Wednesday.",
+      "I wrote the Wednesday in my notebook."
+    ],
+    "example": "The teacher points to the Wednesday.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：星期三"
+  },
+  {
+    "id": "primary-md-443",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Thursday",
+    "phonetic": "/ˈθɜːrzdeɪ/",
+    "cn": "星期四",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a Thursday",
+      "the Thursday"
+    ],
+    "examples": [
+      "My friend asked about the Thursday.",
+      "There is a Thursday in the picture."
+    ],
+    "example": "My friend asked about the Thursday.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：星期四"
+  },
+  {
+    "id": "primary-md-444",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Friday",
+    "phonetic": "/ˈfraɪdeɪ/",
+    "cn": "星期五",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a Friday",
+      "the Friday"
+    ],
+    "examples": [
+      "The teacher points to the Friday.",
+      "I wrote the Friday in my notebook."
+    ],
+    "example": "The teacher points to the Friday.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：星期五"
+  },
+  {
+    "id": "primary-md-445",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Saturday",
+    "phonetic": "/ˈsætərdeɪ/",
+    "cn": "星期六",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a Saturday",
+      "the Saturday"
+    ],
+    "examples": [
+      "This story mentions a Saturday.",
+      "We talked about the Saturday after class."
+    ],
+    "example": "This story mentions a Saturday.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：星期六"
+  },
+  {
+    "id": "primary-md-446",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Sunday",
+    "phonetic": "/ˈsʌndeɪ/",
+    "cn": "星期日；星期天",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a Sunday",
+      "the Sunday"
+    ],
+    "examples": [
+      "Please put the Sunday on the desk.",
+      "He found a Sunday in the box."
+    ],
+    "example": "Please put the Sunday on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：星期日；星期天"
+  },
+  {
+    "id": "primary-md-447",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "weekend",
+    "phonetic": "/ˈwiːkend/",
+    "cn": "周末；星期六和星期日",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a weekend",
+      "the weekend"
+    ],
+    "examples": [
+      "The teacher points to the weekend.",
+      "I wrote the weekend in my notebook."
+    ],
+    "example": "The teacher points to the weekend.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：周末；星期六和星期日"
+  },
+  {
+    "id": "primary-md-448",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "January",
+    "phonetic": "/ˈdʒænjueri/",
+    "cn": "一月",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a January",
+      "the January"
+    ],
+    "examples": [
+      "The teacher points to the January.",
+      "I wrote the January in my notebook."
+    ],
+    "example": "The teacher points to the January.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：一月"
+  },
+  {
+    "id": "primary-md-449",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "February",
+    "phonetic": "/ˈfebrueri/",
+    "cn": "二月",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a February",
+      "the February"
+    ],
+    "examples": [
+      "My friend asked about the February.",
+      "There is a February in the picture."
+    ],
+    "example": "My friend asked about the February.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：二月"
+  },
+  {
+    "id": "primary-md-450",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "March",
+    "phonetic": "/mɑːrtʃ/",
+    "cn": "三月",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a March",
+      "the March"
+    ],
+    "examples": [
+      "My friend asked about the March.",
+      "There is a March in the picture."
+    ],
+    "example": "My friend asked about the March.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：三月"
+  },
+  {
+    "id": "primary-md-451",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "April",
+    "phonetic": "/ˈeɪprəl/",
+    "cn": "四月",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an April",
+      "the April"
+    ],
+    "examples": [
+      "The teacher points to the April.",
+      "I wrote the April in my notebook."
+    ],
+    "example": "The teacher points to the April.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：四月"
+  },
+  {
+    "id": "primary-md-452",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "May",
+    "phonetic": "/meɪ/",
+    "cn": "五月",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a May",
+      "the May"
+    ],
+    "examples": [
+      "The teacher points to the May.",
+      "I wrote the May in my notebook."
+    ],
+    "example": "The teacher points to the May.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：五月"
+  },
+  {
+    "id": "primary-md-453",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "June",
+    "phonetic": "/dʒuːn/",
+    "cn": "六月",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a June",
+      "the June"
+    ],
+    "examples": [
+      "This story mentions a June.",
+      "We talked about the June after class."
+    ],
+    "example": "This story mentions a June.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：六月"
+  },
+  {
+    "id": "primary-md-454",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "July",
+    "phonetic": "/dʒuˈlaɪ/",
+    "cn": "七月",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a July",
+      "the July"
+    ],
+    "examples": [
+      "This story mentions a July.",
+      "We talked about the July after class."
+    ],
+    "example": "This story mentions a July.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：七月"
+  },
+  {
+    "id": "primary-md-455",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "August",
+    "phonetic": "/ˈɔːɡəst/",
+    "cn": "八月",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an August",
+      "the August"
+    ],
+    "examples": [
+      "This story mentions an August.",
+      "We talked about the August after class."
+    ],
+    "example": "This story mentions an August.",
+    "sentence": "This story mentions an ___.",
+    "hint": "选择合适的单词：八月"
+  },
+  {
+    "id": "primary-md-456",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "September",
+    "phonetic": "/sepˈtembər/",
+    "cn": "九月",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a September",
+      "the September"
+    ],
+    "examples": [
+      "The teacher points to the September.",
+      "I wrote the September in my notebook."
+    ],
+    "example": "The teacher points to the September.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：九月"
+  },
+  {
+    "id": "primary-md-457",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "October",
+    "phonetic": "/ɑːkˈtoʊbər/",
+    "cn": "十月",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an October",
+      "the October"
+    ],
+    "examples": [
+      "My friend asked about the October.",
+      "There is an October in the picture."
+    ],
+    "example": "My friend asked about the October.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：十月"
+  },
+  {
+    "id": "primary-md-458",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "November",
+    "phonetic": "/noʊˈvembər/",
+    "cn": "十一月",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a November",
+      "the November"
+    ],
+    "examples": [
+      "This story mentions a November.",
+      "We talked about the November after class."
+    ],
+    "example": "This story mentions a November.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：十一月"
+  },
+  {
+    "id": "primary-md-459",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "December",
+    "phonetic": "/dɪˈsembər/",
+    "cn": "十二月",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a December",
+      "the December"
+    ],
+    "examples": [
+      "This story mentions a December.",
+      "We talked about the December after class."
+    ],
+    "example": "This story mentions a December.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：十二月"
+  },
+  {
+    "id": "primary-md-460",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "people",
+    "phonetic": "/ˈpiːpl/",
+    "cn": "人；人们",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a people",
+      "the people"
+    ],
+    "examples": [
+      "Please put the people on the desk.",
+      "He found a people in the box."
+    ],
+    "example": "Please put the people on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：人；人们"
+  },
+  {
+    "id": "primary-md-461",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "family",
+    "phonetic": "/ˈfæməli/",
+    "cn": "家；家庭；家人",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a family",
+      "the family"
+    ],
+    "examples": [
+      "My friend asked about the family.",
+      "There is a family in the picture."
+    ],
+    "example": "My friend asked about the family.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：家；家庭；家人"
+  },
+  {
+    "id": "primary-md-462",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "parent",
+    "phonetic": "/ˈperənt/",
+    "cn": "父亲；母亲",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a parent",
+      "the parent"
+    ],
+    "examples": [
+      "The teacher points to the parent.",
+      "I wrote the parent in my notebook."
+    ],
+    "example": "The teacher points to the parent.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：父亲；母亲"
+  },
+  {
+    "id": "primary-md-463",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "father",
+    "phonetic": "/ˈfɑːðər/",
+    "cn": "父亲；爸爸",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a father",
+      "the father"
+    ],
+    "examples": [
+      "Please put the father on the desk.",
+      "He found a father in the box."
+    ],
+    "example": "Please put the father on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：父亲；爸爸"
+  },
+  {
+    "id": "primary-md-464",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "mother",
+    "phonetic": "/ˈmʌðər/",
+    "cn": "母亲；妈妈",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a mother",
+      "the mother"
+    ],
+    "examples": [
+      "My friend asked about the mother.",
+      "There is a mother in the picture."
+    ],
+    "example": "My friend asked about the mother.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：母亲；妈妈"
+  },
+  {
+    "id": "primary-md-465",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "brother",
+    "phonetic": "/ˈbrʌðər/",
+    "cn": "哥哥；弟弟",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a brother",
+      "the brother"
+    ],
+    "examples": [
+      "The teacher points to the brother.",
+      "I wrote the brother in my notebook."
+    ],
+    "example": "The teacher points to the brother.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：哥哥；弟弟"
+  },
+  {
+    "id": "primary-md-466",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sister",
+    "phonetic": "/ˈsɪstər/",
+    "cn": "姐；妹",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a sister",
+      "the sister"
+    ],
+    "examples": [
+      "Please put the sister on the desk.",
+      "He found a sister in the box."
+    ],
+    "example": "Please put the sister on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：姐；妹"
+  },
+  {
+    "id": "primary-md-467",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "uncle",
+    "phonetic": "/ˈʌŋkl/",
+    "cn": "舅父；叔父；伯父；姑父；姨夫",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an uncle",
+      "the uncle"
+    ],
+    "examples": [
+      "The teacher points to the uncle.",
+      "I wrote the uncle in my notebook."
+    ],
+    "example": "The teacher points to the uncle.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：舅父；叔父；伯父；姑父；姨夫"
+  },
+  {
+    "id": "primary-md-468",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "aunt",
+    "phonetic": "/ænt/",
+    "cn": "姑母；姨母；伯母；婶母；舅母",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an aunt",
+      "the aunt"
+    ],
+    "examples": [
+      "This story mentions an aunt.",
+      "We talked about the aunt after class."
+    ],
+    "example": "This story mentions an aunt.",
+    "sentence": "This story mentions an ___.",
+    "hint": "选择合适的单词：姑母；姨母；伯母；婶母；舅母"
+  },
+  {
+    "id": "primary-md-469",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cousin",
+    "phonetic": "/ˈkʌzn/",
+    "cn": "堂兄（或弟、姊、妹）；表兄（或弟、姊、妹）",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a cousin",
+      "the cousin"
+    ],
+    "examples": [
+      "The teacher points to the cousin.",
+      "I wrote the cousin in my notebook."
+    ],
+    "example": "The teacher points to the cousin.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：堂兄（或弟、姊、妹）；表兄（或弟、姊、妹）"
+  },
+  {
+    "id": "primary-md-470",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "grandpa",
+    "phonetic": "/ˈɡrænpɑː/",
+    "cn": "（口语）爷爷；姥爷",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a grandpa",
+      "the grandpa"
+    ],
+    "examples": [
+      "My friend asked about the grandpa.",
+      "There is a grandpa in the picture."
+    ],
+    "example": "My friend asked about the grandpa.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：（口语）爷爷；姥爷"
+  },
+  {
+    "id": "primary-md-471",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "grandma",
+    "phonetic": "/ˈɡrænmɑː/",
+    "cn": "（口语）奶奶；姥姥",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a grandma",
+      "the grandma"
+    ],
+    "examples": [
+      "This story mentions a grandma.",
+      "We talked about the grandma after class."
+    ],
+    "example": "This story mentions a grandma.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：（口语）奶奶；姥姥"
+  },
+  {
+    "id": "primary-md-472",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "twin",
+    "phonetic": "/twɪn/",
+    "cn": "双胞胎中的一个",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a twin",
+      "the twin"
+    ],
+    "examples": [
+      "The teacher points to the twin.",
+      "I wrote the twin in my notebook."
+    ],
+    "example": "The teacher points to the twin.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：双胞胎中的一个"
+  },
+  {
+    "id": "primary-md-473",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "kid",
+    "phonetic": "/kɪd/",
+    "cn": "小孩；年轻人",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a kid",
+      "the kid"
+    ],
+    "examples": [
+      "The teacher points to the kid.",
+      "I wrote the kid in my notebook."
+    ],
+    "example": "The teacher points to the kid.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：小孩；年轻人"
+  },
+  {
+    "id": "primary-md-474",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "child",
+    "phonetic": "/tʃaɪld/",
+    "cn": "儿童；小孩；子女",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a child",
+      "the child"
+    ],
+    "examples": [
+      "Please put the child on the desk.",
+      "He found a child in the box."
+    ],
+    "example": "Please put the child on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：儿童；小孩；子女"
+  },
+  {
+    "id": "primary-md-475",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "baby",
+    "phonetic": "/ˈbeɪbi/",
+    "cn": "婴儿",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a baby",
+      "the baby"
+    ],
+    "examples": [
+      "Please put the baby on the desk.",
+      "He found a baby in the box."
+    ],
+    "example": "Please put the baby on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：婴儿"
+  },
+  {
+    "id": "primary-md-476",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "friend",
+    "phonetic": "/frend/",
+    "cn": "朋友",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a friend",
+      "the friend"
+    ],
+    "examples": [
+      "The teacher points to the friend.",
+      "I wrote the friend in my notebook."
+    ],
+    "example": "The teacher points to the friend.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：朋友"
+  },
+  {
+    "id": "primary-md-477",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "boy",
+    "phonetic": "/bɔɪ/",
+    "cn": "男孩",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a boy",
+      "the boy"
+    ],
+    "examples": [
+      "This story mentions a boy.",
+      "We talked about the boy after class."
+    ],
+    "example": "This story mentions a boy.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：男孩"
+  },
+  {
+    "id": "primary-md-478",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "girl",
+    "phonetic": "/ɡɜːrl/",
+    "cn": "女孩；小姑娘",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a girl",
+      "the girl"
+    ],
+    "examples": [
+      "Please put the girl on the desk.",
+      "He found a girl in the box."
+    ],
+    "example": "Please put the girl on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：女孩；小姑娘"
+  },
+  {
+    "id": "primary-md-479",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "man",
+    "phonetic": "/mæn/",
+    "cn": "男人；人；人类",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a man",
+      "the man"
+    ],
+    "examples": [
+      "My friend asked about the man.",
+      "There is a man in the picture."
+    ],
+    "example": "My friend asked about the man.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：男人；人；人类"
+  },
+  {
+    "id": "primary-md-480",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "woman",
+    "phonetic": "/ˈwʊmən/",
+    "cn": "女人；妇女",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a woman",
+      "the woman"
+    ],
+    "examples": [
+      "Please put the woman on the desk.",
+      "He found a woman in the box."
+    ],
+    "example": "Please put the woman on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：女人；妇女"
+  },
+  {
+    "id": "primary-md-481",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sir",
+    "phonetic": "/sɜːr/",
+    "cn": "先生；（男）老师",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a sir",
+      "the sir"
+    ],
+    "examples": [
+      "This story mentions a sir.",
+      "We talked about the sir after class."
+    ],
+    "example": "This story mentions a sir.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：先生；（男）老师"
+  },
+  {
+    "id": "primary-md-482",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Mr./Mrs.",
+    "phonetic": "/ˈmɪstər ˈmɪsɪz/",
+    "cn": "先生/太太；夫人",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a Mr./Mrs.",
+      "the Mr./Mrs."
+    ],
+    "examples": [
+      "The teacher points to the Mr./Mrs..",
+      "I wrote the Mr./Mrs. in my notebook."
+    ],
+    "example": "The teacher points to the Mr./Mrs..",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：先生/太太；夫人"
+  },
+  {
+    "id": "primary-md-483",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Miss",
+    "phonetic": "/mɪs/",
+    "cn": "小姐；女士；（女）老师",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some Miss",
+      "the Miss"
+    ],
+    "examples": [
+      "The teacher points to the Miss.",
+      "I wrote the Miss in my notebook."
+    ],
+    "example": "The teacher points to the Miss.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：小姐；女士；（女）老师"
+  },
+  {
+    "id": "primary-md-484",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Ms",
+    "phonetic": "/mɪz/",
+    "cn": "女士",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some Ms",
+      "the Ms"
+    ],
+    "examples": [
+      "This story mentions some Ms.",
+      "We talked about the Ms after class."
+    ],
+    "example": "This story mentions some Ms.",
+    "sentence": "This story mentions some ___.",
+    "hint": "选择合适的单词：女士"
+  },
+  {
+    "id": "primary-md-485",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cute",
+    "phonetic": "/kjuːt/",
+    "cn": "可爱的；漂亮迷人的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very cute",
+      "a cute person"
+    ],
+    "examples": [
+      "This book is cute for beginners.",
+      "She gave me a cute answer."
+    ],
+    "example": "This book is cute for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：可爱的；漂亮迷人的"
+  },
+  {
+    "id": "primary-md-486",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "handsome",
+    "phonetic": "/ˈhænsəm/",
+    "cn": "英俊的；漂亮的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very handsome",
+      "a handsome person"
+    ],
+    "examples": [
+      "This book is handsome for beginners.",
+      "She gave me a handsome answer."
+    ],
+    "example": "This book is handsome for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：英俊的；漂亮的"
+  },
+  {
+    "id": "primary-md-487",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "quiet",
+    "phonetic": "/ˈkwaɪət/",
+    "cn": "安静的；寂静的；平静的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very quiet",
+      "a quiet person"
+    ],
+    "examples": [
+      "The lesson was quiet but useful.",
+      "My teacher wrote a quiet comment."
+    ],
+    "example": "The lesson was quiet but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：安静的；寂静的；平静的"
+  },
+  {
+    "id": "primary-md-488",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "shy",
+    "phonetic": "/ʃaɪ/",
+    "cn": "腼腆的；害羞的；害怕（做）",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very shy",
+      "a shy person"
+    ],
+    "examples": [
+      "His idea sounds shy.",
+      "We found a shy place to rest."
+    ],
+    "example": "His idea sounds shy.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：腼腆的；害羞的；害怕（做）"
+  },
+  {
+    "id": "primary-md-489",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "friendly",
+    "phonetic": "/ˈfrendli/",
+    "cn": "友好的；亲切的；善意的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very friendly",
+      "a friendly person"
+    ],
+    "examples": [
+      "The lesson was friendly but useful.",
+      "My teacher wrote a friendly comment."
+    ],
+    "example": "The lesson was friendly but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：友好的；亲切的；善意的"
+  },
+  {
+    "id": "primary-md-490",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "school",
+    "phonetic": "/skuːl/",
+    "cn": "学校",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "学习课堂",
+    "category": "名物概念",
+    "phrases": [
+      "go to the school",
+      "near the school"
+    ],
+    "examples": [
+      "Our class went to the school.",
+      "There is a school across the street."
+    ],
+    "example": "Our class went to the school.",
+    "sentence": "Our class went to the ___.",
+    "hint": "选择合适的单词：学校"
+  },
+  {
+    "id": "primary-md-491",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "primary",
+    "phonetic": "/ˈpraɪmeri/",
+    "cn": "小学的；初等的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very primary",
+      "a primary person"
+    ],
+    "examples": [
+      "His idea sounds primary.",
+      "We found a primary place to rest."
+    ],
+    "example": "His idea sounds primary.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：小学的；初等的"
+  },
+  {
+    "id": "primary-md-492",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "university",
+    "phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+    "cn": "大学",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an university",
+      "the university"
+    ],
+    "examples": [
+      "This story mentions an university.",
+      "We talked about the university after class."
+    ],
+    "example": "This story mentions an university.",
+    "sentence": "This story mentions an ___.",
+    "hint": "选择合适的单词：大学"
+  },
+  {
+    "id": "primary-md-493",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "playground",
+    "phonetic": "/ˈpleɪɡraʊnd/",
+    "cn": "操场",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the playground",
+      "near the playground"
+    ],
+    "examples": [
+      "The playground opens at nine.",
+      "Many people visit the playground on weekends."
+    ],
+    "example": "The playground opens at nine.",
+    "sentence": "The ___ opens at nine.",
+    "hint": "选择合适的单词：操场"
+  },
+  {
+    "id": "primary-md-494",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "library",
+    "phonetic": "/ˈlaɪbreri/",
+    "cn": "图书馆",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the library",
+      "near the library"
+    ],
+    "examples": [
+      "The library opens at nine.",
+      "Many people visit the library on weekends."
+    ],
+    "example": "The library opens at nine.",
+    "sentence": "The ___ opens at nine.",
+    "hint": "选择合适的单词：图书馆"
+  },
+  {
+    "id": "primary-md-495",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "classroom",
+    "phonetic": "/ˈklæsruːm/",
+    "cn": "教室",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the classroom",
+      "near the classroom"
+    ],
+    "examples": [
+      "The classroom opens at nine.",
+      "Many people visit the classroom on weekends."
+    ],
+    "example": "The classroom opens at nine.",
+    "sentence": "The ___ opens at nine.",
+    "hint": "选择合适的单词：教室"
+  },
+  {
+    "id": "primary-md-496",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "blackboard",
+    "phonetic": "/ˈblækbɔːrd/",
+    "cn": "黑板",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a blackboard",
+      "the blackboard"
+    ],
+    "examples": [
+      "Please put the blackboard on the desk.",
+      "He found a blackboard in the box."
+    ],
+    "example": "Please put the blackboard on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：黑板"
+  },
+  {
+    "id": "primary-md-497",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "desk",
+    "phonetic": "/desk/",
+    "cn": "书桌",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a desk",
+      "the desk"
+    ],
+    "examples": [
+      "The teacher points to the desk.",
+      "I wrote the desk in my notebook."
+    ],
+    "example": "The teacher points to the desk.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：书桌"
+  },
+  {
+    "id": "primary-md-498",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "chair",
+    "phonetic": "/tʃer/",
+    "cn": "椅子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a chair",
+      "the chair"
+    ],
+    "examples": [
+      "This story mentions a chair.",
+      "We talked about the chair after class."
+    ],
+    "example": "This story mentions a chair.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：椅子"
+  },
+  {
+    "id": "primary-md-499",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "seat",
+    "phonetic": "/siːt/",
+    "cn": "座位",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a seat",
+      "the seat"
+    ],
+    "examples": [
+      "This story mentions a seat.",
+      "We talked about the seat after class."
+    ],
+    "example": "This story mentions a seat.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：座位"
+  },
+  {
+    "id": "primary-md-500",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "grade",
+    "phonetic": "/ɡreɪd/",
+    "cn": "年级；成绩等级",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a grade",
+      "the grade"
+    ],
+    "examples": [
+      "Please put the grade on the desk.",
+      "He found a grade in the box."
+    ],
+    "example": "Please put the grade on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：年级；成绩等级"
+  },
+  {
+    "id": "primary-md-501",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "class",
+    "phonetic": "/klæs/",
+    "cn": "班；班级；课；上课",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "学习课堂",
+    "category": "名物概念",
+    "phrases": [
+      "use some class",
+      "class at school"
+    ],
+    "examples": [
+      "My friend asked about the class.",
+      "There is some class in the picture."
+    ],
+    "example": "My friend asked about the class.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：班；班级；课；上课"
+  },
+  {
+    "id": "primary-md-502",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "rule",
+    "phonetic": "/ruːl/",
+    "cn": "规则",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a rule",
+      "the rule"
+    ],
+    "examples": [
+      "My friend asked about the rule.",
+      "There is a rule in the picture."
+    ],
+    "example": "My friend asked about the rule.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：规则"
+  },
+  {
+    "id": "primary-md-503",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bell",
+    "phonetic": "/bel/",
+    "cn": "钟（声）；铃（声）",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a bell",
+      "the bell"
+    ],
+    "examples": [
+      "My friend asked about the bell.",
+      "There is a bell in the picture."
+    ],
+    "example": "My friend asked about the bell.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：钟（声）；铃（声）"
+  },
+  {
+    "id": "primary-md-504",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "lesson",
+    "phonetic": "/ˈlesn/",
+    "cn": "课；一节课；经验；教训",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "学习课堂",
+    "category": "名物概念",
+    "phrases": [
+      "use a lesson",
+      "lesson at school"
+    ],
+    "examples": [
+      "The teacher points to the lesson.",
+      "I wrote the lesson in my notebook."
+    ],
+    "example": "The teacher points to the lesson.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：课；一节课；经验；教训"
+  },
+  {
+    "id": "primary-md-505",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "homework",
+    "phonetic": "/ˈhoʊmwɜːrk/",
+    "cn": "家庭作业",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "学习课堂",
+    "category": "名物概念",
+    "phrases": [
+      "use some homework",
+      "homework at school"
+    ],
+    "examples": [
+      "The teacher points to the homework.",
+      "I wrote the homework in my notebook."
+    ],
+    "example": "The teacher points to the homework.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：家庭作业"
+  },
+  {
+    "id": "primary-md-506",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bag",
+    "phonetic": "/bæɡ/",
+    "cn": "包；袋；一袋（的量）",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a bag",
+      "the bag"
+    ],
+    "examples": [
+      "The teacher points to the bag.",
+      "I wrote the bag in my notebook."
+    ],
+    "example": "The teacher points to the bag.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：包；袋；一袋（的量）"
+  },
+  {
+    "id": "primary-md-507",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "book",
+    "phonetic": "/bʊk/",
+    "cn": "书；本子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "学习课堂",
+    "category": "名物概念",
+    "phrases": [
+      "use a book",
+      "book at school"
+    ],
+    "examples": [
+      "The teacher points to the book.",
+      "I wrote the book in my notebook."
+    ],
+    "example": "The teacher points to the book.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：书；本子"
+  },
+  {
+    "id": "primary-md-508",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pen",
+    "phonetic": "/pen/",
+    "cn": "钢笔",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "学习课堂",
+    "category": "名物概念",
+    "phrases": [
+      "use a pen",
+      "pen at school"
+    ],
+    "examples": [
+      "Please put the pen on the desk.",
+      "He found a pen in the box."
+    ],
+    "example": "Please put the pen on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：钢笔"
+  },
+  {
+    "id": "primary-md-509",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pencil",
+    "phonetic": "/ˈpensl/",
+    "cn": "铅笔",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "学习课堂",
+    "category": "名物概念",
+    "phrases": [
+      "use a pencil",
+      "pencil at school"
+    ],
+    "examples": [
+      "My friend asked about the pencil.",
+      "There is a pencil in the picture."
+    ],
+    "example": "My friend asked about the pencil.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：铅笔"
+  },
+  {
+    "id": "primary-md-510",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ruler",
+    "phonetic": "/ˈruːlər/",
+    "cn": "直尺",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "学习课堂",
+    "category": "名物概念",
+    "phrases": [
+      "use a ruler",
+      "ruler at school"
+    ],
+    "examples": [
+      "The teacher points to the ruler.",
+      "I wrote the ruler in my notebook."
+    ],
+    "example": "The teacher points to the ruler.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：直尺"
+  },
+  {
+    "id": "primary-md-511",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "eraser",
+    "phonetic": "/ɪˈreɪsər/",
+    "cn": "橡皮",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an eraser",
+      "the eraser"
+    ],
+    "examples": [
+      "My friend asked about the eraser.",
+      "There is an eraser in the picture."
+    ],
+    "example": "My friend asked about the eraser.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：橡皮"
+  },
+  {
+    "id": "primary-md-512",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "crayon",
+    "phonetic": "/ˈkreɪən/",
+    "cn": "蜡笔",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a crayon",
+      "the crayon"
+    ],
+    "examples": [
+      "My friend asked about the crayon.",
+      "There is a crayon in the picture."
+    ],
+    "example": "My friend asked about the crayon.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：蜡笔"
+  },
+  {
+    "id": "primary-md-513",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "notebook",
+    "phonetic": "/ˈnoʊtbʊk/",
+    "cn": "笔记本（电脑）",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a notebook",
+      "the notebook"
+    ],
+    "examples": [
+      "Please put the notebook on the desk.",
+      "He found a notebook in the box."
+    ],
+    "example": "Please put the notebook on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：笔记本（电脑）"
+  },
+  {
+    "id": "primary-md-514",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "diary",
+    "phonetic": "/ˈdaɪəri/",
+    "cn": "日记；日记簿",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a diary",
+      "the diary"
+    ],
+    "examples": [
+      "This story mentions a diary.",
+      "We talked about the diary after class."
+    ],
+    "example": "This story mentions a diary.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：日记；日记簿"
+  },
+  {
+    "id": "primary-md-515",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "paper",
+    "phonetic": "/ˈpeɪpər/",
+    "cn": "纸；报纸；试卷",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a paper",
+      "the paper"
+    ],
+    "examples": [
+      "The teacher points to the paper.",
+      "I wrote the paper in my notebook."
+    ],
+    "example": "The teacher points to the paper.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：纸；报纸；试卷"
+  },
+  {
+    "id": "primary-md-516",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dictionary",
+    "phonetic": "/ˈdɪkʃəneri/",
+    "cn": "字典；词典",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a dictionary",
+      "the dictionary"
+    ],
+    "examples": [
+      "My friend asked about the dictionary.",
+      "There is a dictionary in the picture."
+    ],
+    "example": "My friend asked about the dictionary.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：字典；词典"
+  },
+  {
+    "id": "primary-md-517",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "teacher",
+    "phonetic": "/ˈtiːtʃər/",
+    "cn": "教师",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "学习课堂",
+    "category": "名物概念",
+    "phrases": [
+      "use a teacher",
+      "teacher at school"
+    ],
+    "examples": [
+      "This story mentions a teacher.",
+      "We talked about the teacher after class."
+    ],
+    "example": "This story mentions a teacher.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：教师"
+  },
+  {
+    "id": "primary-md-518",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "student",
+    "phonetic": "/ˈstuːdnt/",
+    "cn": "学生",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "学习课堂",
+    "category": "名物概念",
+    "phrases": [
+      "use a student",
+      "student at school"
+    ],
+    "examples": [
+      "The teacher points to the student.",
+      "I wrote the student in my notebook."
+    ],
+    "example": "The teacher points to the student.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：学生"
+  },
+  {
+    "id": "primary-md-519",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pupil",
+    "phonetic": "/ˈpjuːpl/",
+    "cn": "（尤指）小学生",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a pupil",
+      "the pupil"
+    ],
+    "examples": [
+      "The teacher points to the pupil.",
+      "I wrote the pupil in my notebook."
+    ],
+    "example": "The teacher points to the pupil.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：（尤指）小学生"
+  },
+  {
+    "id": "primary-md-520",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "classmate",
+    "phonetic": "/ˈklæsmeɪt/",
+    "cn": "同班同学",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a classmate",
+      "the classmate"
+    ],
+    "examples": [
+      "My friend asked about the classmate.",
+      "There is a classmate in the picture."
+    ],
+    "example": "My friend asked about the classmate.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：同班同学"
+  },
+  {
+    "id": "primary-md-521",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hard-working",
+    "phonetic": "/ˌhɑːrd ˈwɜːrkɪŋ/",
+    "cn": "工作努力的；辛勤的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very hard-working",
+      "a hard-working person"
+    ],
+    "examples": [
+      "His idea sounds hard-working.",
+      "We found a hard-working place to rest."
+    ],
+    "example": "His idea sounds hard-working.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：工作努力的；辛勤的"
+  },
+  {
+    "id": "primary-md-522",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "active",
+    "phonetic": "/ˈæktɪv/",
+    "cn": "积极的；活跃的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very active",
+      "a active person"
+    ],
+    "examples": [
+      "This book is active for beginners.",
+      "She gave me a active answer."
+    ],
+    "example": "This book is active for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：积极的；活跃的"
+  },
+  {
+    "id": "primary-md-523",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "teach",
+    "phonetic": "/tiːtʃ/",
+    "cn": "教；讲授",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can teach",
+      "teach carefully"
+    ],
+    "examples": [
+      "Please teach before you leave.",
+      "I learned how to teach yesterday."
+    ],
+    "example": "Please teach before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：教；讲授"
+  },
+  {
+    "id": "primary-md-524",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "learn",
+    "phonetic": "/lɜːrn/",
+    "cn": "学；学习；学会",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can learn",
+      "learn carefully"
+    ],
+    "examples": [
+      "Please learn before you leave.",
+      "I learned how to learn yesterday."
+    ],
+    "example": "Please learn before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：学；学习；学会"
+  },
+  {
+    "id": "primary-md-525",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "study",
+    "phonetic": "/ˈstʌdi/",
+    "cn": "学习； 学习，书房",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can study",
+      "study carefully"
+    ],
+    "examples": [
+      "Please study before you leave.",
+      "I learned how to study yesterday."
+    ],
+    "example": "Please study before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：学习； 学习，书房"
+  },
+  {
+    "id": "primary-md-526",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "question",
+    "phonetic": "/ˈkwestʃən/",
+    "cn": "问题",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a question",
+      "the question"
+    ],
+    "examples": [
+      "My friend asked about the question.",
+      "There is a question in the picture."
+    ],
+    "example": "My friend asked about the question.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：问题"
+  },
+  {
+    "id": "primary-md-527",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "problem",
+    "phonetic": "/ˈprɑːbləm/",
+    "cn": "问题；困难；麻烦",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a problem",
+      "the problem"
+    ],
+    "examples": [
+      "This story mentions a problem.",
+      "We talked about the problem after class."
+    ],
+    "example": "This story mentions a problem.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：问题；困难；麻烦"
+  },
+  {
+    "id": "primary-md-528",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "word",
+    "phonetic": "/wɜːrd/",
+    "cn": "字；词；单词；话语",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a word",
+      "the word"
+    ],
+    "examples": [
+      "The teacher points to the word.",
+      "I wrote the word in my notebook."
+    ],
+    "example": "The teacher points to the word.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：字；词；单词；话语"
+  },
+  {
+    "id": "primary-md-529",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "test",
+    "phonetic": "/test/",
+    "cn": "测验；考查",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "学习课堂",
+    "category": "动作行为",
+    "phrases": [
+      "can test",
+      "test at school"
+    ],
+    "examples": [
+      "I test with my classmates after class.",
+      "Please test the sentence again."
+    ],
+    "example": "I test with my classmates after class.",
+    "sentence": "I ___ with my classmates after class.",
+    "hint": "选择合适的单词：测验；考查"
+  },
+  {
+    "id": "primary-md-530",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "subject",
+    "phonetic": "/ˈsʌbdʒɪkt/",
+    "cn": "学科；主题",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a subject",
+      "the subject"
+    ],
+    "examples": [
+      "Please put the subject on the desk.",
+      "He found a subject in the box."
+    ],
+    "example": "Please put the subject on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：学科；主题"
+  },
+  {
+    "id": "primary-md-531",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "maths",
+    "phonetic": "/mæθs/",
+    "cn": "数学",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some maths",
+      "the maths"
+    ],
+    "examples": [
+      "Please put the maths on the desk.",
+      "He found some maths in the box."
+    ],
+    "example": "Please put the maths on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：数学"
+  },
+  {
+    "id": "primary-md-532",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "English",
+    "phonetic": "/ˈɪŋɡlɪʃ/",
+    "cn": "英语",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an English",
+      "the English"
+    ],
+    "examples": [
+      "This story mentions an English.",
+      "We talked about the English after class."
+    ],
+    "example": "This story mentions an English.",
+    "sentence": "This story mentions an ___.",
+    "hint": "选择合适的单词：英语"
+  },
+  {
+    "id": "primary-md-533",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Chinese",
+    "phonetic": "/ˌtʃaɪˈniːz/",
+    "cn": "语文，汉语，中国人；中国（人）的",
+    "pos": "名词/形容词",
+    "rawPos": "n.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very Chinese",
+      "a Chinese person"
+    ],
+    "examples": [
+      "The road looks Chinese after the rain.",
+      "It is Chinese to finish early."
+    ],
+    "example": "The road looks Chinese after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：语文，汉语，中国人；中国（人）的"
+  },
+  {
+    "id": "primary-md-534",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "history",
+    "phonetic": "/ˈhɪstri/",
+    "cn": "历史",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a history",
+      "the history"
+    ],
+    "examples": [
+      "My friend asked about the history.",
+      "There is a history in the picture."
+    ],
+    "example": "My friend asked about the history.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：历史"
+  },
+  {
+    "id": "primary-md-535",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "art",
+    "phonetic": "/ɑːrt/",
+    "cn": "美术；艺术",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an art",
+      "the art"
+    ],
+    "examples": [
+      "My friend asked about the art.",
+      "There is an art in the picture."
+    ],
+    "example": "My friend asked about the art.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：美术；艺术"
+  },
+  {
+    "id": "primary-md-536",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "geography",
+    "phonetic": "/dʒiˈɑːɡrəfi/",
+    "cn": "地理",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a geography",
+      "the geography"
+    ],
+    "examples": [
+      "The teacher points to the geography.",
+      "I wrote the geography in my notebook."
+    ],
+    "example": "The teacher points to the geography.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：地理"
+  },
+  {
+    "id": "primary-md-537",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "PE",
+    "phonetic": "/ˌpiː ˈiː/",
+    "cn": "体育",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a PE",
+      "the PE"
+    ],
+    "examples": [
+      "This story mentions a PE.",
+      "We talked about the PE after class."
+    ],
+    "example": "This story mentions a PE.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：体育"
+  },
+  {
+    "id": "primary-md-538",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "physics",
+    "phonetic": "/ˈfɪzɪks/",
+    "cn": "物理",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some physics",
+      "the physics"
+    ],
+    "examples": [
+      "My friend asked about the physics.",
+      "There is some physics in the picture."
+    ],
+    "example": "My friend asked about the physics.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：物理"
+  },
+  {
+    "id": "primary-md-539",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "chemistry",
+    "phonetic": "/ˈkemɪstri/",
+    "cn": "化学",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a chemistry",
+      "the chemistry"
+    ],
+    "examples": [
+      "The teacher points to the chemistry.",
+      "I wrote the chemistry in my notebook."
+    ],
+    "example": "The teacher points to the chemistry.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：化学"
+  },
+  {
+    "id": "primary-md-540",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sport",
+    "phonetic": "/spɔːrt/",
+    "cn": "体育运动",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a sport",
+      "the sport"
+    ],
+    "examples": [
+      "My friend asked about the sport.",
+      "There is a sport in the picture."
+    ],
+    "example": "My friend asked about the sport.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：体育运动"
+  },
+  {
+    "id": "primary-md-541",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "exercise",
+    "phonetic": "/ˈeksərsaɪz/",
+    "cn": "锻炼",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can exercise",
+      "exercise carefully"
+    ],
+    "examples": [
+      "He will exercise with his friends.",
+      "Do not exercise too quickly."
+    ],
+    "example": "He will exercise with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：锻炼"
+  },
+  {
+    "id": "primary-md-542",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "run",
+    "phonetic": "/rʌn/",
+    "cn": "跑",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can run",
+      "run carefully"
+    ],
+    "examples": [
+      "He will run with his friends.",
+      "Do not run too quickly."
+    ],
+    "example": "He will run with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：跑"
+  },
+  {
+    "id": "primary-md-543",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "jump",
+    "phonetic": "/dʒʌmp/",
+    "cn": "跳；跳跃",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can jump",
+      "jump carefully"
+    ],
+    "examples": [
+      "They jump together in the park.",
+      "Can you jump this afternoon?"
+    ],
+    "example": "They jump together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：跳；跳跃"
+  },
+  {
+    "id": "primary-md-544",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "swim",
+    "phonetic": "/swɪm/",
+    "cn": "游泳",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can swim",
+      "swim carefully"
+    ],
+    "examples": [
+      "They swim together in the park.",
+      "Can you swim this afternoon?"
+    ],
+    "example": "They swim together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：游泳"
+  },
+  {
+    "id": "primary-md-545",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "skate",
+    "phonetic": "/skeɪt/",
+    "cn": "滑冰；溜冰",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can skate",
+      "skate carefully"
+    ],
+    "examples": [
+      "He will skate with his friends.",
+      "Do not skate too quickly."
+    ],
+    "example": "He will skate with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：滑冰；溜冰"
+  },
+  {
+    "id": "primary-md-546",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ski",
+    "phonetic": "/skiː/",
+    "cn": "滑雪",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can ski",
+      "ski carefully"
+    ],
+    "examples": [
+      "They ski together in the park.",
+      "Can you ski this afternoon?"
+    ],
+    "example": "They ski together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：滑雪"
+  },
+  {
+    "id": "primary-md-547",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fly",
+    "phonetic": "/flaɪ/",
+    "cn": "飞；放（风筝等）；飞行",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can fly",
+      "fly carefully"
+    ],
+    "examples": [
+      "He will fly with his friends.",
+      "Do not fly too quickly."
+    ],
+    "example": "He will fly with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：飞；放（风筝等）；飞行"
+  },
+  {
+    "id": "primary-md-548",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "helmet",
+    "phonetic": "/ˈhelmɪt/",
+    "cn": "头盔",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a helmet",
+      "the helmet"
+    ],
+    "examples": [
+      "Please put the helmet on the desk.",
+      "He found a helmet in the box."
+    ],
+    "example": "Please put the helmet on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：头盔"
+  },
+  {
+    "id": "primary-md-549",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "skip",
+    "phonetic": "/skɪp/",
+    "cn": "跳绳",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can skip",
+      "skip carefully"
+    ],
+    "examples": [
+      "They skip together in the park.",
+      "Can you skip this afternoon?"
+    ],
+    "example": "They skip together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：跳绳"
+  },
+  {
+    "id": "primary-md-550",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "rope",
+    "phonetic": "/roʊp/",
+    "cn": "绳",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a rope",
+      "the rope"
+    ],
+    "examples": [
+      "My friend asked about the rope.",
+      "There is a rope in the picture."
+    ],
+    "example": "My friend asked about the rope.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：绳"
+  },
+  {
+    "id": "primary-md-551",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cycling",
+    "phonetic": "/ˈsaɪklɪŋ/",
+    "cn": "骑自行车运动（或活动）",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a cycling",
+      "the cycling"
+    ],
+    "examples": [
+      "Please put the cycling on the desk.",
+      "He found a cycling in the box."
+    ],
+    "example": "Please put the cycling on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：骑自行车运动（或活动）"
+  },
+  {
+    "id": "primary-md-552",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "boating",
+    "phonetic": "/ˈboʊtɪŋ/",
+    "cn": "划船（运动或消遣）",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a boating",
+      "the boating"
+    ],
+    "examples": [
+      "My friend asked about the boating.",
+      "There is a boating in the picture."
+    ],
+    "example": "My friend asked about the boating.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：划船（运动或消遣）"
+  },
+  {
+    "id": "primary-md-553",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "kung fu",
+    "phonetic": "/ˌkʌŋ ˈfuː/",
+    "cn": "功夫",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some kung fu",
+      "the kung fu"
+    ],
+    "examples": [
+      "My friend asked about the kung fu.",
+      "There is some kung fu in the picture."
+    ],
+    "example": "My friend asked about the kung fu.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：功夫"
+  },
+  {
+    "id": "primary-md-554",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ball",
+    "phonetic": "/bɔːl/",
+    "cn": "球",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a ball",
+      "the ball"
+    ],
+    "examples": [
+      "My friend asked about the ball.",
+      "There is a ball in the picture."
+    ],
+    "example": "My friend asked about the ball.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：球"
+  },
+  {
+    "id": "primary-md-555",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "basketball",
+    "phonetic": "/ˈbæskɪtbɔːl/",
+    "cn": "篮球",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a basketball",
+      "the basketball"
+    ],
+    "examples": [
+      "This story mentions a basketball.",
+      "We talked about the basketball after class."
+    ],
+    "example": "This story mentions a basketball.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：篮球"
+  },
+  {
+    "id": "primary-md-556",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "football",
+    "phonetic": "/ˈfʊtbɔːl/",
+    "cn": "足球",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a football",
+      "the football"
+    ],
+    "examples": [
+      "The teacher points to the football.",
+      "I wrote the football in my notebook."
+    ],
+    "example": "The teacher points to the football.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：足球"
+  },
+  {
+    "id": "primary-md-557",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "baseball",
+    "phonetic": "/ˈbeɪsbɔːl/",
+    "cn": "棒球",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a baseball",
+      "the baseball"
+    ],
+    "examples": [
+      "The teacher points to the baseball.",
+      "I wrote the baseball in my notebook."
+    ],
+    "example": "The teacher points to the baseball.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：棒球"
+  },
+  {
+    "id": "primary-md-558",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ping-pong",
+    "phonetic": "/ˈpɪŋ pɑːŋ/",
+    "cn": "乒乓球",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a ping-pong",
+      "the ping-pong"
+    ],
+    "examples": [
+      "This story mentions a ping-pong.",
+      "We talked about the ping-pong after class."
+    ],
+    "example": "This story mentions a ping-pong.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：乒乓球"
+  },
+  {
+    "id": "primary-md-559",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "badminton",
+    "phonetic": "/ˈbædmɪntən/",
+    "cn": "羽毛球运动",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a badminton",
+      "the badminton"
+    ],
+    "examples": [
+      "My friend asked about the badminton.",
+      "There is a badminton in the picture."
+    ],
+    "example": "My friend asked about the badminton.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：羽毛球运动"
+  },
+  {
+    "id": "primary-md-560",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "game",
+    "phonetic": "/ɡeɪm/",
+    "cn": "比赛；游戏；运动",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a game",
+      "the game"
+    ],
+    "examples": [
+      "The teacher points to the game.",
+      "I wrote the game in my notebook."
+    ],
+    "example": "The teacher points to the game.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：比赛；游戏；运动"
+  },
+  {
+    "id": "primary-md-561",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "chess",
+    "phonetic": "/tʃes/",
+    "cn": "国际象棋",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some chess",
+      "the chess"
+    ],
+    "examples": [
+      "This story mentions some chess.",
+      "We talked about the chess after class."
+    ],
+    "example": "This story mentions some chess.",
+    "sentence": "This story mentions some ___.",
+    "hint": "选择合适的单词：国际象棋"
+  },
+  {
+    "id": "primary-md-562",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "race",
+    "phonetic": "/reɪs/",
+    "cn": "赛跑；竞赛",
+    "pos": "n.＆v",
+    "rawPos": "n.＆v.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "can race",
+      "race carefully"
+    ],
+    "examples": [
+      "She wants to race after school.",
+      "We should race at the right time."
+    ],
+    "example": "She wants to race after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：赛跑；竞赛"
+  },
+  {
+    "id": "primary-md-563",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "contest",
+    "phonetic": "/ˈkɑːntest/",
+    "cn": "比赛；竞赛",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a contest",
+      "the contest"
+    ],
+    "examples": [
+      "Please put the contest on the desk.",
+      "He found a contest in the box."
+    ],
+    "example": "Please put the contest on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：比赛；竞赛"
+  },
+  {
+    "id": "primary-md-564",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "team",
+    "phonetic": "/tiːm/",
+    "cn": "组；队",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a team",
+      "the team"
+    ],
+    "examples": [
+      "The teacher points to the team.",
+      "I wrote the team in my notebook."
+    ],
+    "example": "The teacher points to the team.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：组；队"
+  },
+  {
+    "id": "primary-md-565",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "goal",
+    "phonetic": "/ɡoʊl/",
+    "cn": "进球得分；球门；目标",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a goal",
+      "the goal"
+    ],
+    "examples": [
+      "My friend asked about the goal.",
+      "There is a goal in the picture."
+    ],
+    "example": "My friend asked about the goal.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：进球得分；球门；目标"
+  },
+  {
+    "id": "primary-md-566",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "join",
+    "phonetic": "/dʒɔɪn/",
+    "cn": "参加；加入；连接",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can join",
+      "join carefully"
+    ],
+    "examples": [
+      "They join together in the park.",
+      "Can you join this afternoon?"
+    ],
+    "example": "They join together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：参加；加入；连接"
+  },
+  {
+    "id": "primary-md-567",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "win",
+    "phonetic": "/wɪn/",
+    "cn": "获胜，赢；获得",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can win",
+      "win carefully"
+    ],
+    "examples": [
+      "Please win before you leave.",
+      "I learned how to win yesterday."
+    ],
+    "example": "Please win before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：获胜，赢；获得"
+  },
+  {
+    "id": "primary-md-568",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "winner",
+    "phonetic": "/ˈwɪnər/",
+    "cn": "获胜者",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a winner",
+      "the winner"
+    ],
+    "examples": [
+      "The teacher points to the winner.",
+      "I wrote the winner in my notebook."
+    ],
+    "example": "The teacher points to the winner.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：获胜者"
+  },
+  {
+    "id": "primary-md-569",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "prize",
+    "phonetic": "/praɪz/",
+    "cn": "奖；奖品",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a prize",
+      "the prize"
+    ],
+    "examples": [
+      "Please put the prize on the desk.",
+      "He found a prize in the box."
+    ],
+    "example": "Please put the prize on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：奖；奖品"
+  },
+  {
+    "id": "primary-md-570",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "lose",
+    "phonetic": "/luːz/",
+    "cn": "丢失；失去；输掉",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can lose",
+      "lose carefully"
+    ],
+    "examples": [
+      "She wants to lose after school.",
+      "We should lose at the right time."
+    ],
+    "example": "She wants to lose after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：丢失；失去；输掉"
+  },
+  {
+    "id": "primary-md-571",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "practise",
+    "phonetic": "/ˈpræktɪs/",
+    "cn": "练习；训练",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can practise",
+      "practise carefully"
+    ],
+    "examples": [
+      "They practise together in the park.",
+      "Can you practise this afternoon?"
+    ],
+    "example": "They practise together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：练习；训练"
+  },
+  {
+    "id": "primary-md-572",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "try",
+    "phonetic": "/traɪ/",
+    "cn": "尝试，设法，努力； 尝试",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can try",
+      "try carefully"
+    ],
+    "examples": [
+      "She wants to try after school.",
+      "We should try at the right time."
+    ],
+    "example": "She wants to try after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：尝试，设法，努力； 尝试"
+  },
+  {
+    "id": "primary-md-573",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hard",
+    "phonetic": "/hɑːrd/",
+    "cn": "坚硬的；难做的；努力的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very hard",
+      "a hard person"
+    ],
+    "examples": [
+      "The road looks hard after the rain.",
+      "It is hard to finish early."
+    ],
+    "example": "The road looks hard after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：坚硬的；难做的；努力的"
+  },
+  {
+    "id": "primary-md-574",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "rest",
+    "phonetic": "/rest/",
+    "cn": "休息",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a rest",
+      "the rest"
+    ],
+    "examples": [
+      "My friend asked about the rest.",
+      "There is a rest in the picture."
+    ],
+    "example": "My friend asked about the rest.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：休息"
+  },
+  {
+    "id": "primary-md-575",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "enough",
+    "phonetic": "/ɪˈnʌf/",
+    "cn": "足够的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very enough",
+      "a enough person"
+    ],
+    "examples": [
+      "His idea sounds enough.",
+      "We found a enough place to rest."
+    ],
+    "example": "His idea sounds enough.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：足够的"
+  },
+  {
+    "id": "primary-md-576",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "important",
+    "phonetic": "/ɪmˈpɔːrtnt/",
+    "cn": "重要的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very important",
+      "a important person"
+    ],
+    "examples": [
+      "The road looks important after the rain.",
+      "It is important to finish early."
+    ],
+    "example": "The road looks important after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：重要的"
+  },
+  {
+    "id": "primary-md-577",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "useful",
+    "phonetic": "/ˈjuːsfl/",
+    "cn": "有用的；实用的；有帮助的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very useful",
+      "a useful person"
+    ],
+    "examples": [
+      "The road looks useful after the rain.",
+      "It is useful to finish early."
+    ],
+    "example": "The road looks useful after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：有用的；实用的；有帮助的"
+  },
+  {
+    "id": "primary-md-578",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "helpful",
+    "phonetic": "/ˈhelpfl/",
+    "cn": "有帮助的；有用的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very helpful",
+      "a helpful person"
+    ],
+    "examples": [
+      "The road looks helpful after the rain.",
+      "It is helpful to finish early."
+    ],
+    "example": "The road looks helpful after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：有帮助的；有用的"
+  },
+  {
+    "id": "primary-md-579",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "strong",
+    "phonetic": "/strɔːŋ/",
+    "cn": "强壮的；强健的；强劲的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very strong",
+      "a strong person"
+    ],
+    "examples": [
+      "His idea sounds strong.",
+      "We found a strong place to rest."
+    ],
+    "example": "His idea sounds strong.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：强壮的；强健的；强劲的"
+  },
+  {
+    "id": "primary-md-580",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "job",
+    "phonetic": "/dʒɑːb/",
+    "cn": "工作",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a job",
+      "the job"
+    ],
+    "examples": [
+      "Please put the job on the desk.",
+      "He found a job in the box."
+    ],
+    "example": "Please put the job on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：工作"
+  },
+  {
+    "id": "primary-md-581",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "work",
+    "phonetic": "/wɜːrk/",
+    "cn": "工作；劳动",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can work",
+      "work carefully"
+    ],
+    "examples": [
+      "He will work with his friends.",
+      "Do not work too quickly."
+    ],
+    "example": "He will work with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：工作；劳动"
+  },
+  {
+    "id": "primary-md-582",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cook",
+    "phonetic": "/kʊk/",
+    "cn": "厨师",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a cook",
+      "the cook"
+    ],
+    "examples": [
+      "Please put the cook on the desk.",
+      "He found a cook in the box."
+    ],
+    "example": "Please put the cook on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：厨师"
+  },
+  {
+    "id": "primary-md-583",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "doctor",
+    "phonetic": "/ˈdɑːktər/",
+    "cn": "医生；博士",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a doctor",
+      "the doctor"
+    ],
+    "examples": [
+      "My friend asked about the doctor.",
+      "There is a doctor in the picture."
+    ],
+    "example": "My friend asked about the doctor.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：医生；博士"
+  },
+  {
+    "id": "primary-md-584",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "nurse",
+    "phonetic": "/nɜːrs/",
+    "cn": "护士",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a nurse",
+      "the nurse"
+    ],
+    "examples": [
+      "This story mentions a nurse.",
+      "We talked about the nurse after class."
+    ],
+    "example": "This story mentions a nurse.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：护士"
+  },
+  {
+    "id": "primary-md-585",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "driver",
+    "phonetic": "/ˈdraɪvər/",
+    "cn": "司机",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a driver",
+      "the driver"
+    ],
+    "examples": [
+      "My friend asked about the driver.",
+      "There is a driver in the picture."
+    ],
+    "example": "My friend asked about the driver.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：司机"
+  },
+  {
+    "id": "primary-md-586",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "farmer",
+    "phonetic": "/ˈfɑːrmər/",
+    "cn": "农民",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a farmer",
+      "the farmer"
+    ],
+    "examples": [
+      "The teacher points to the farmer.",
+      "I wrote the farmer in my notebook."
+    ],
+    "example": "The teacher points to the farmer.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：农民"
+  },
+  {
+    "id": "primary-md-587",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "worker",
+    "phonetic": "/ˈwɜːrkər/",
+    "cn": "工人；工作者",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a worker",
+      "the worker"
+    ],
+    "examples": [
+      "The teacher points to the worker.",
+      "I wrote the worker in my notebook."
+    ],
+    "example": "The teacher points to the worker.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：工人；工作者"
+  },
+  {
+    "id": "primary-md-588",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "writer",
+    "phonetic": "/ˈraɪtər/",
+    "cn": "作家；作者",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a writer",
+      "the writer"
+    ],
+    "examples": [
+      "My friend asked about the writer.",
+      "There is a writer in the picture."
+    ],
+    "example": "My friend asked about the writer.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：作家；作者"
+  },
+  {
+    "id": "primary-md-589",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dancer",
+    "phonetic": "/ˈdænsər/",
+    "cn": "舞蹈演员；舞者",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a dancer",
+      "the dancer"
+    ],
+    "examples": [
+      "Please put the dancer on the desk.",
+      "He found a dancer in the box."
+    ],
+    "example": "Please put the dancer on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：舞蹈演员；舞者"
+  },
+  {
+    "id": "primary-md-590",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "player",
+    "phonetic": "/ˈpleɪər/",
+    "cn": "运动员；演奏者；播放机",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a player",
+      "the player"
+    ],
+    "examples": [
+      "My friend asked about the player.",
+      "There is a player in the picture."
+    ],
+    "example": "My friend asked about the player.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：运动员；演奏者；播放机"
+  },
+  {
+    "id": "primary-md-591",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "police",
+    "phonetic": "/pəˈliːs/",
+    "cn": "警方；警察",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a police",
+      "the police"
+    ],
+    "examples": [
+      "This story mentions a police.",
+      "We talked about the police after class."
+    ],
+    "example": "This story mentions a police.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：警方；警察"
+  },
+  {
+    "id": "primary-md-592",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "reporter",
+    "phonetic": "/rɪˈpɔːrtər/",
+    "cn": "记者",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a reporter",
+      "the reporter"
+    ],
+    "examples": [
+      "The teacher points to the reporter.",
+      "I wrote the reporter in my notebook."
+    ],
+    "example": "The teacher points to the reporter.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：记者"
+  },
+  {
+    "id": "primary-md-593",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "scientist",
+    "phonetic": "/ˈsaɪəntɪst/",
+    "cn": "科学家",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a scientist",
+      "the scientist"
+    ],
+    "examples": [
+      "My friend asked about the scientist.",
+      "There is a scientist in the picture."
+    ],
+    "example": "My friend asked about the scientist.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：科学家"
+  },
+  {
+    "id": "primary-md-594",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pilot",
+    "phonetic": "/ˈpaɪlət/",
+    "cn": "飞行员",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a pilot",
+      "the pilot"
+    ],
+    "examples": [
+      "The teacher points to the pilot.",
+      "I wrote the pilot in my notebook."
+    ],
+    "example": "The teacher points to the pilot.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：飞行员"
+  },
+  {
+    "id": "primary-md-595",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "coach",
+    "phonetic": "/koʊtʃ/",
+    "cn": "教练",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a coach",
+      "the coach"
+    ],
+    "examples": [
+      "Please put the coach on the desk.",
+      "He found a coach in the box."
+    ],
+    "example": "Please put the coach on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：教练"
+  },
+  {
+    "id": "primary-md-596",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fisherman",
+    "phonetic": "/ˈfɪʃərmən/",
+    "cn": "渔民",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a fisherman",
+      "the fisherman"
+    ],
+    "examples": [
+      "Please put the fisherman on the desk.",
+      "He found a fisherman in the box."
+    ],
+    "example": "Please put the fisherman on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：渔民"
+  },
+  {
+    "id": "primary-md-597",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "postman",
+    "phonetic": "/ˈpoʊstmən/",
+    "cn": "邮递员",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a postman",
+      "the postman"
+    ],
+    "examples": [
+      "Please put the postman on the desk.",
+      "He found a postman in the box."
+    ],
+    "example": "Please put the postman on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：邮递员"
+  },
+  {
+    "id": "primary-md-598",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "businessman",
+    "phonetic": "/ˈbɪznəsmæn/",
+    "cn": "商人；企业家",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a businessman",
+      "the businessman"
+    ],
+    "examples": [
+      "Please put the businessman on the desk.",
+      "He found a businessman in the box."
+    ],
+    "example": "Please put the businessman on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：商人；企业家"
+  },
+  {
+    "id": "primary-md-599",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "secretary",
+    "phonetic": "/ˈsekrəteri/",
+    "cn": "秘书",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a secretary",
+      "the secretary"
+    ],
+    "examples": [
+      "This story mentions a secretary.",
+      "We talked about the secretary after class."
+    ],
+    "example": "This story mentions a secretary.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：秘书"
+  },
+  {
+    "id": "primary-md-600",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hello",
+    "phonetic": "/həˈloʊ/",
+    "cn": "喂；你好",
+    "pos": "int.＆n",
+    "rawPos": "int.＆n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a hello",
+      "the hello"
+    ],
+    "examples": [
+      "Please put the hello on the desk.",
+      "He found a hello in the box."
+    ],
+    "example": "Please put the hello on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：喂；你好"
+  },
+  {
+    "id": "primary-md-601",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "goodbye",
+    "phonetic": "/ˌɡʊdˈbaɪ/",
+    "cn": "再见",
+    "pos": "int./名词",
+    "rawPos": "int.&n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a goodbye",
+      "the goodbye"
+    ],
+    "examples": [
+      "Please put the goodbye on the desk.",
+      "He found a goodbye in the box."
+    ],
+    "example": "Please put the goodbye on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：再见"
+  },
+  {
+    "id": "primary-md-602",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "name",
+    "phonetic": "/neɪm/",
+    "cn": "名字",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a name",
+      "the name"
+    ],
+    "examples": [
+      "The teacher points to the name.",
+      "I wrote the name in my notebook."
+    ],
+    "example": "The teacher points to the name.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：名字"
+  },
+  {
+    "id": "primary-md-603",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "age",
+    "phonetic": "/eɪdʒ/",
+    "cn": "年龄",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an age",
+      "the age"
+    ],
+    "examples": [
+      "My friend asked about the age.",
+      "There is an age in the picture."
+    ],
+    "example": "My friend asked about the age.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：年龄"
+  },
+  {
+    "id": "primary-md-604",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "address",
+    "phonetic": "/əˈdres/",
+    "cn": "地址",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some address",
+      "the address"
+    ],
+    "examples": [
+      "The teacher points to the address.",
+      "I wrote the address in my notebook."
+    ],
+    "example": "The teacher points to the address.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：地址"
+  },
+  {
+    "id": "primary-md-605",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "OK",
+    "phonetic": "/oʊˈkeɪ/",
+    "cn": "好，行； 安然无恙，可以",
+    "pos": "int./形容词/副词",
+    "rawPos": "int.&adj.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can OK",
+      "OK carefully"
+    ],
+    "examples": [
+      "She wants to OK after school.",
+      "We should OK at the right time."
+    ],
+    "example": "She wants to OK after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：好，行； 安然无恙，可以"
+  },
+  {
+    "id": "primary-md-606",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "yes",
+    "phonetic": "/jes/",
+    "cn": "是，是的",
+    "pos": "int",
+    "rawPos": "int.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some yes",
+      "the yes"
+    ],
+    "examples": [
+      "Please put the yes on the desk.",
+      "He found some yes in the box."
+    ],
+    "example": "Please put the yes on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：是，是的"
+  },
+  {
+    "id": "primary-md-607",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "no",
+    "phonetic": "/noʊ/",
+    "cn": "不，没有，不是；没有，无",
+    "pos": "int",
+    "rawPos": "int.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a no",
+      "the no"
+    ],
+    "examples": [
+      "My friend asked about the no.",
+      "There is a no in the picture."
+    ],
+    "example": "My friend asked about the no.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：不，没有，不是；没有，无"
+  },
+  {
+    "id": "primary-md-608",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "thank",
+    "phonetic": "/θæŋk/",
+    "cn": "感谢",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can thank",
+      "thank carefully"
+    ],
+    "examples": [
+      "She wants to thank after school.",
+      "We should thank at the right time."
+    ],
+    "example": "She wants to thank after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：感谢"
+  },
+  {
+    "id": "primary-md-609",
     "level": "primary",
     "levelLabel": "小学版",
     "word": "sorry",
-    "cn": "对不起，很抱歉",
+    "phonetic": "/ˈsɑːri/",
+    "cn": "对不起；很抱歉",
+    "pos": "int./形容词",
+    "rawPos": "int.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very sorry",
+      "a sorry person"
+    ],
+    "examples": [
+      "This book is sorry for beginners.",
+      "She gave me a sorry answer."
+    ],
+    "example": "This book is sorry for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：对不起；很抱歉"
+  },
+  {
+    "id": "primary-md-610",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "please",
+    "phonetic": "/pliːz/",
+    "cn": "请，请问；使满意，使愉快",
+    "pos": "int./动词",
+    "rawPos": "int.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can please",
+      "please carefully"
+    ],
+    "examples": [
+      "He will please with his friends.",
+      "Do not please too quickly."
+    ],
+    "example": "He will please with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：请，请问；使满意，使愉快"
+  },
+  {
+    "id": "primary-md-611",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "welcome",
+    "phonetic": "/ˈwelkəm/",
+    "cn": "欢迎",
+    "pos": "int.＆v./名词",
+    "rawPos": "int.＆v.&n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "can welcome",
+      "welcome carefully"
+    ],
+    "examples": [
+      "They welcome together in the park.",
+      "Can you welcome this afternoon?"
+    ],
+    "example": "They welcome together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：欢迎"
+  },
+  {
+    "id": "primary-md-612",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "say",
+    "phonetic": "/seɪ/",
+    "cn": "说；讲",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can say",
+      "say carefully"
+    ],
+    "examples": [
+      "She wants to say after school.",
+      "We should say at the right time."
+    ],
+    "example": "She wants to say after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：说；讲"
+  },
+  {
+    "id": "primary-md-613",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "talk",
+    "phonetic": "/tɔːk/",
+    "cn": "交谈；谈话",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can talk",
+      "talk carefully"
+    ],
+    "examples": [
+      "Please talk before you leave.",
+      "I learned how to talk yesterday."
+    ],
+    "example": "Please talk before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：交谈；谈话"
+  },
+  {
+    "id": "primary-md-614",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "tell",
+    "phonetic": "/tel/",
+    "cn": "告诉；说",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can tell",
+      "tell carefully"
+    ],
+    "examples": [
+      "Please tell before you leave.",
+      "I learned how to tell yesterday."
+    ],
+    "example": "Please tell before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：告诉；说"
+  },
+  {
+    "id": "primary-md-615",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "speak",
+    "phonetic": "/spiːk/",
+    "cn": "说，讲；交谈",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can speak",
+      "speak carefully"
+    ],
+    "examples": [
+      "Please speak before you leave.",
+      "I learned how to speak yesterday."
+    ],
+    "example": "Please speak before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：说，讲；交谈"
+  },
+  {
+    "id": "primary-md-616",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "speech",
+    "phonetic": "/spiːtʃ/",
+    "cn": "演说；演讲",
     "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a speech",
+      "the speech"
+    ],
+    "examples": [
+      "This story mentions a speech.",
+      "We talked about the speech after class."
+    ],
+    "example": "This story mentions a speech.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：演说；演讲"
+  },
+  {
+    "id": "primary-md-617",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "topic",
+    "phonetic": "/ˈtɑːpɪk/",
+    "cn": "话题",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a topic",
+      "the topic"
+    ],
+    "examples": [
+      "The teacher points to the topic.",
+      "I wrote the topic in my notebook."
+    ],
+    "example": "The teacher points to the topic.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：话题"
+  },
+  {
+    "id": "primary-md-618",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ask",
+    "phonetic": "/æsk/",
+    "cn": "问；要求；请求",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can ask",
+      "ask carefully"
+    ],
+    "examples": [
+      "Please ask before you leave.",
+      "I learned how to ask yesterday."
+    ],
+    "example": "Please ask before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：问；要求；请求"
+  },
+  {
+    "id": "primary-md-619",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "answer",
+    "phonetic": "/ˈænsər/",
+    "cn": "回答； 回答，答案",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can answer",
+      "answer carefully"
+    ],
+    "examples": [
+      "They answer together in the park.",
+      "Can you answer this afternoon?"
+    ],
+    "example": "They answer together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：回答； 回答，答案"
+  },
+  {
+    "id": "primary-md-620",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "argue",
+    "phonetic": "/ˈɑːrɡjuː/",
+    "cn": "争论；争吵",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can argue",
+      "argue carefully"
+    ],
+    "examples": [
+      "He will argue with his friends.",
+      "Do not argue too quickly."
+    ],
+    "example": "He will argue with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：争论；争吵"
+  },
+  {
+    "id": "primary-md-621",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "call",
+    "phonetic": "/kɔːl/",
+    "cn": "给…打电话； 打电话",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can call",
+      "call carefully"
+    ],
+    "examples": [
+      "He will call with his friends.",
+      "Do not call too quickly."
+    ],
+    "example": "He will call with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：给…打电话； 打电话"
+  },
+  {
+    "id": "primary-md-622",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "meet",
+    "phonetic": "/miːt/",
+    "cn": "相遇；相识；会面",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can meet",
+      "meet carefully"
+    ],
+    "examples": [
+      "They meet together in the park.",
+      "Can you meet this afternoon?"
+    ],
+    "example": "They meet together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：相遇；相识；会面"
+  },
+  {
+    "id": "primary-md-623",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "share",
+    "phonetic": "/ʃer/",
+    "cn": "分享",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can share",
+      "share carefully"
+    ],
+    "examples": [
+      "Please share before you leave.",
+      "I learned how to share yesterday."
+    ],
+    "example": "Please share before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：分享"
+  },
+  {
+    "id": "primary-md-624",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "message",
+    "phonetic": "/ˈmesɪdʒ/",
+    "cn": "信息；消息",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a message",
+      "the message"
+    ],
+    "examples": [
+      "Please put the message on the desk.",
+      "He found a message in the box."
+    ],
+    "example": "Please put the message on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：信息；消息"
+  },
+  {
+    "id": "primary-md-625",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "information",
+    "phonetic": "/ˌɪnfərˈmeɪʃn/",
+    "cn": "信息",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some information",
+      "the information"
+    ],
+    "examples": [
+      "The teacher points to the information.",
+      "I wrote the information in my notebook."
+    ],
+    "example": "The teacher points to the information.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：信息"
+  },
+  {
+    "id": "primary-md-626",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "phone",
+    "phonetic": "/foʊn/",
+    "cn": "电话；手机",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a phone",
+      "the phone"
+    ],
+    "examples": [
+      "My friend asked about the phone.",
+      "There is a phone in the picture."
+    ],
+    "example": "My friend asked about the phone.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：电话；手机"
+  },
+  {
+    "id": "primary-md-627",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "letter",
+    "phonetic": "/ˈletər/",
+    "cn": "信；字母",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a letter",
+      "the letter"
+    ],
+    "examples": [
+      "The teacher points to the letter.",
+      "I wrote the letter in my notebook."
+    ],
+    "example": "The teacher points to the letter.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：信；字母"
+  },
+  {
+    "id": "primary-md-628",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "stamp",
+    "phonetic": "/stæmp/",
+    "cn": "邮票",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a stamp",
+      "the stamp"
+    ],
+    "examples": [
+      "This story mentions a stamp.",
+      "We talked about the stamp after class."
+    ],
+    "example": "This story mentions a stamp.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：邮票"
+  },
+  {
+    "id": "primary-md-629",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "postcard",
+    "phonetic": "/ˈpoʊstkɑːrd/",
+    "cn": "明信片",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a postcard",
+      "the postcard"
+    ],
+    "examples": [
+      "This story mentions a postcard.",
+      "We talked about the postcard after class."
+    ],
+    "example": "This story mentions a postcard.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：明信片"
+  },
+  {
+    "id": "primary-md-630",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "email",
+    "phonetic": "/ˈiːmeɪl/",
+    "cn": "电子邮件",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an email",
+      "the email"
+    ],
+    "examples": [
+      "The teacher points to the email.",
+      "I wrote the email in my notebook."
+    ],
+    "example": "The teacher points to the email.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：电子邮件"
+  },
+  {
+    "id": "primary-md-631",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dear",
+    "phonetic": "/dɪr/",
+    "cn": "亲爱的，宝贵的，珍视的； 糟糕，天哪",
+    "pos": "形容词/int",
+    "rawPos": "adj.&int.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very dear",
+      "a dear person"
+    ],
+    "examples": [
+      "The lesson was dear but useful.",
+      "My teacher wrote a dear comment."
+    ],
+    "example": "The lesson was dear but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：亲爱的，宝贵的，珍视的； 糟糕，天哪"
+  },
+  {
+    "id": "primary-md-632",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "birthday",
+    "phonetic": "/ˈbɜːrθdeɪ/",
+    "cn": "生日",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a birthday",
+      "the birthday"
+    ],
+    "examples": [
+      "Please put the birthday on the desk.",
+      "He found a birthday in the box."
+    ],
+    "example": "Please put the birthday on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：生日"
+  },
+  {
+    "id": "primary-md-633",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "party",
+    "phonetic": "/ˈpɑːrti/",
+    "cn": "聚会；派对",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a party",
+      "the party"
+    ],
+    "examples": [
+      "This story mentions a party.",
+      "We talked about the party after class."
+    ],
+    "example": "This story mentions a party.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：聚会；派对"
+  },
+  {
+    "id": "primary-md-634",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "gift",
+    "phonetic": "/ɡɪft/",
+    "cn": "礼物",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a gift",
+      "the gift"
+    ],
+    "examples": [
+      "Please put the gift on the desk.",
+      "He found a gift in the box."
+    ],
+    "example": "Please put the gift on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：礼物"
+  },
+  {
+    "id": "primary-md-635",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "present",
+    "phonetic": "/ˈpreznt/",
+    "cn": "礼物，目前； 现存的，当前的",
+    "pos": "名词/形容词",
+    "rawPos": "n.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very present",
+      "a present person"
+    ],
+    "examples": [
+      "The road looks present after the rain.",
+      "It is present to finish early."
+    ],
+    "example": "The road looks present after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：礼物，目前； 现存的，当前的"
+  },
+  {
+    "id": "primary-md-636",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "card",
+    "phonetic": "/kɑːrd/",
+    "cn": "贺卡；卡片",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a card",
+      "the card"
+    ],
+    "examples": [
+      "Please put the card on the desk.",
+      "He found a card in the box."
+    ],
+    "example": "Please put the card on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：贺卡；卡片"
+  },
+  {
+    "id": "primary-md-637",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "joke",
+    "phonetic": "/dʒoʊk/",
+    "cn": "笑话",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a joke",
+      "the joke"
+    ],
+    "examples": [
+      "This story mentions a joke.",
+      "We talked about the joke after class."
+    ],
+    "example": "This story mentions a joke.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：笑话"
+  },
+  {
+    "id": "primary-md-638",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "advice",
+    "phonetic": "/ədˈvaɪs/",
+    "cn": "建议；劝告；忠告",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some advice",
+      "the advice"
+    ],
+    "examples": [
+      "Please put the advice on the desk.",
+      "He found some advice in the box."
+    ],
+    "example": "Please put the advice on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：建议；劝告；忠告"
+  },
+  {
+    "id": "primary-md-639",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "interviewer",
+    "phonetic": "/ˈɪntərvjuːər/",
+    "cn": "采访者；面试官",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an interviewer",
+      "the interviewer"
+    ],
+    "examples": [
+      "Please put the interviewer on the desk.",
+      "He found an interviewer in the box."
+    ],
+    "example": "Please put the interviewer on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：采访者；面试官"
+  },
+  {
+    "id": "primary-md-640",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "place",
+    "phonetic": "/pleɪs/",
+    "cn": "地点，地方；放置",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can place",
+      "place carefully"
+    ],
+    "examples": [
+      "She wants to place after school.",
+      "We should place at the right time."
+    ],
+    "example": "She wants to place after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：地点，地方；放置"
+  },
+  {
+    "id": "primary-md-641",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "town",
+    "phonetic": "/taʊn/",
+    "cn": "城镇；市镇",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a town",
+      "the town"
+    ],
+    "examples": [
+      "This story mentions a town.",
+      "We talked about the town after class."
+    ],
+    "example": "This story mentions a town.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：城镇；市镇"
+  },
+  {
+    "id": "primary-md-642",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "downtown",
+    "phonetic": "/ˈdaʊntaʊn/",
+    "cn": "市中心； 在（往）市中心",
+    "pos": "名词/副词",
+    "rawPos": "n.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can downtown",
+      "downtown carefully"
+    ],
+    "examples": [
+      "She wants to downtown after school.",
+      "We should downtown at the right time."
+    ],
+    "example": "She wants to downtown after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：市中心； 在（往）市中心"
+  },
+  {
+    "id": "primary-md-643",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "building",
+    "phonetic": "/ˈbɪldɪŋ/",
+    "cn": "建筑物；大楼",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a building",
+      "the building"
+    ],
+    "examples": [
+      "Please put the building on the desk.",
+      "He found a building in the box."
+    ],
+    "example": "Please put the building on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：建筑物；大楼"
+  },
+  {
+    "id": "primary-md-644",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hall",
+    "phonetic": "/hɔːl/",
+    "cn": "大厅",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a hall",
+      "the hall"
+    ],
+    "examples": [
+      "Please put the hall on the desk.",
+      "He found a hall in the box."
+    ],
+    "example": "Please put the hall on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：大厅"
+  },
+  {
+    "id": "primary-md-645",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "office",
+    "phonetic": "/ˈɑːfɪs/",
+    "cn": "办公室",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an office",
+      "the office"
+    ],
+    "examples": [
+      "This story mentions an office.",
+      "We talked about the office after class."
+    ],
+    "example": "This story mentions an office.",
+    "sentence": "This story mentions an ___.",
+    "hint": "选择合适的单词：办公室"
+  },
+  {
+    "id": "primary-md-646",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "airport",
+    "phonetic": "/ˈerpɔːrt/",
+    "cn": "机场",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the airport",
+      "near the airport"
+    ],
+    "examples": [
+      "We met near the airport.",
+      "Turn left when you see the airport."
+    ],
+    "example": "We met near the airport.",
+    "sentence": "We met near the ___.",
+    "hint": "选择合适的单词：机场"
+  },
+  {
+    "id": "primary-md-647",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "station",
+    "phonetic": "/ˈsteɪʃn/",
+    "cn": "车站",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the station",
+      "near the station"
+    ],
+    "examples": [
+      "We met near the station.",
+      "Turn left when you see the station."
+    ],
+    "example": "We met near the station.",
+    "sentence": "We met near the ___.",
+    "hint": "选择合适的单词：车站"
+  },
+  {
+    "id": "primary-md-648",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "home",
+    "phonetic": "/hoʊm/",
+    "cn": "家；住所",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the home",
+      "near the home"
+    ],
+    "examples": [
+      "We met near the home.",
+      "Turn left when you see the home."
+    ],
+    "example": "We met near the home.",
+    "sentence": "We met near the ___.",
+    "hint": "选择合适的单词：家；住所"
+  },
+  {
+    "id": "primary-md-649",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "garden",
+    "phonetic": "/ˈɡɑːrdn/",
+    "cn": "花园；菜园",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a garden",
+      "the garden"
+    ],
+    "examples": [
+      "The teacher points to the garden.",
+      "I wrote the garden in my notebook."
+    ],
+    "example": "The teacher points to the garden.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：花园；菜园"
+  },
+  {
+    "id": "primary-md-650",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "shop",
+    "phonetic": "/ʃɑːp/",
+    "cn": "商店； 购物",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "地点出行",
+    "category": "动作行为",
+    "phrases": [
+      "go to the shop",
+      "near the shop"
+    ],
+    "examples": [
+      "The shop opens at nine.",
+      "Many people visit the shop on weekends."
+    ],
+    "example": "The shop opens at nine.",
+    "sentence": "The ___ opens at nine.",
+    "hint": "选择合适的单词：商店； 购物"
+  },
+  {
+    "id": "primary-md-651",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "supermarket",
+    "phonetic": "/ˈsuːpərmɑːrkɪt/",
+    "cn": "超市",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a supermarket",
+      "the supermarket"
+    ],
+    "examples": [
+      "My friend asked about the supermarket.",
+      "There is a supermarket in the picture."
+    ],
+    "example": "My friend asked about the supermarket.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：超市"
+  },
+  {
+    "id": "primary-md-652",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bookstore",
+    "phonetic": "/ˈbʊkˌstɔr/",
+    "cn": "书店",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a bookstore",
+      "the bookstore"
+    ],
+    "examples": [
+      "This story mentions a bookstore.",
+      "We talked about the bookstore after class."
+    ],
+    "example": "This story mentions a bookstore.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：书店"
+  },
+  {
+    "id": "primary-md-653",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cinema",
+    "phonetic": "/ˈsɪnəmə/",
+    "cn": "电影院",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a cinema",
+      "the cinema"
+    ],
+    "examples": [
+      "My friend asked about the cinema.",
+      "There is a cinema in the picture."
+    ],
+    "example": "My friend asked about the cinema.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：电影院"
+  },
+  {
+    "id": "primary-md-654",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "theatre",
+    "phonetic": "/ˈθiːətər/",
+    "cn": "戏院；剧场; 戏剧",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a theatre",
+      "the theatre"
+    ],
+    "examples": [
+      "This story mentions a theatre.",
+      "We talked about the theatre after class."
+    ],
+    "example": "This story mentions a theatre.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：戏院；剧场; 戏剧"
+  },
+  {
+    "id": "primary-md-655",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "museum",
+    "phonetic": "/mjuˈziːəm/",
+    "cn": "博物馆",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a museum",
+      "the museum"
+    ],
+    "examples": [
+      "The teacher points to the museum.",
+      "I wrote the museum in my notebook."
+    ],
+    "example": "The teacher points to the museum.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：博物馆"
+  },
+  {
+    "id": "primary-md-656",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "gym",
+    "phonetic": "/dʒɪm/",
+    "cn": "体育馆",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a gym",
+      "the gym"
+    ],
+    "examples": [
+      "My friend asked about the gym.",
+      "There is a gym in the picture."
+    ],
+    "example": "My friend asked about the gym.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：体育馆"
+  },
+  {
+    "id": "primary-md-657",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "park",
+    "phonetic": "/pɑːrk/",
+    "cn": "公园； 停（车）",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "地点出行",
+    "category": "动作行为",
+    "phrases": [
+      "go to the park",
+      "near the park"
+    ],
+    "examples": [
+      "We met near the park.",
+      "Turn left when you see the park."
+    ],
+    "example": "We met near the park.",
+    "sentence": "We met near the ___.",
+    "hint": "选择合适的单词：公园； 停（车）"
+  },
+  {
+    "id": "primary-md-658",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "zoo",
+    "phonetic": "/zuː/",
+    "cn": "动物园",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the zoo",
+      "near the zoo"
+    ],
+    "examples": [
+      "Our class went to the zoo.",
+      "There is a zoo across the street."
+    ],
+    "example": "Our class went to the zoo.",
+    "sentence": "Our class went to the ___.",
+    "hint": "选择合适的单词：动物园"
+  },
+  {
+    "id": "primary-md-659",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "restaurant",
+    "phonetic": "/ˈrestrɑːnt/",
+    "cn": "餐馆，餐厅",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the restaurant",
+      "near the restaurant"
+    ],
+    "examples": [
+      "I waited outside the restaurant.",
+      "The bus stops by the restaurant."
+    ],
+    "example": "I waited outside the restaurant.",
+    "sentence": "I waited outside the ___.",
+    "hint": "选择合适的单词：餐馆，餐厅"
+  },
+  {
+    "id": "primary-md-660",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hotel",
+    "phonetic": "/hoʊˈtel/",
+    "cn": "旅馆；酒店",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the hotel",
+      "near the hotel"
+    ],
+    "examples": [
+      "The hotel opens at nine.",
+      "Many people visit the hotel on weekends."
+    ],
+    "example": "The hotel opens at nine.",
+    "sentence": "The ___ opens at nine.",
+    "hint": "选择合适的单词：旅馆；酒店"
+  },
+  {
+    "id": "primary-md-661",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hospital",
+    "phonetic": "/ˈhɑːspɪtl/",
+    "cn": "医院",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the hospital",
+      "near the hospital"
+    ],
+    "examples": [
+      "The hospital opens at nine.",
+      "Many people visit the hospital on weekends."
+    ],
+    "example": "The hospital opens at nine.",
+    "sentence": "The ___ opens at nine.",
+    "hint": "选择合适的单词：医院"
+  },
+  {
+    "id": "primary-md-662",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bank",
+    "phonetic": "/bæŋk/",
+    "cn": "银行；岸",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the bank",
+      "near the bank"
+    ],
+    "examples": [
+      "I waited outside the bank.",
+      "The bus stops by the bank."
+    ],
+    "example": "I waited outside the bank.",
+    "sentence": "I waited outside the ___.",
+    "hint": "选择合适的单词：银行；岸"
+  },
+  {
+    "id": "primary-md-663",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "factory",
+    "phonetic": "/ˈfæktri/",
+    "cn": "工厂",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a factory",
+      "the factory"
+    ],
+    "examples": [
+      "The teacher points to the factory.",
+      "I wrote the factory in my notebook."
+    ],
+    "example": "The teacher points to the factory.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：工厂"
+  },
+  {
+    "id": "primary-md-664",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "farm",
+    "phonetic": "/fɑːrm/",
+    "cn": "农场",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a farm",
+      "the farm"
+    ],
+    "examples": [
+      "My friend asked about the farm.",
+      "There is a farm in the picture."
+    ],
+    "example": "My friend asked about the farm.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：农场"
+  },
+  {
+    "id": "primary-md-665",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bridge",
+    "phonetic": "/brɪdʒ/",
+    "cn": "桥",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a bridge",
+      "the bridge"
+    ],
+    "examples": [
+      "My friend asked about the bridge.",
+      "There is a bridge in the picture."
+    ],
+    "example": "My friend asked about the bridge.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：桥"
+  },
+  {
+    "id": "primary-md-666",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "beach",
+    "phonetic": "/biːtʃ/",
+    "cn": "海滩，海滨",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a beach",
+      "the beach"
+    ],
+    "examples": [
+      "Please put the beach on the desk.",
+      "He found a beach in the box."
+    ],
+    "example": "Please put the beach on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：海滩，海滨"
+  },
+  {
+    "id": "primary-md-667",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pond",
+    "phonetic": "/pɑːnd/",
+    "cn": "水池；池塘",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a pond",
+      "the pond"
+    ],
+    "examples": [
+      "My friend asked about the pond.",
+      "There is a pond in the picture."
+    ],
+    "example": "My friend asked about the pond.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：水池；池塘"
+  },
+  {
+    "id": "primary-md-668",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "road",
+    "phonetic": "/roʊd/",
+    "cn": "道路；公路",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the road",
+      "near the road"
+    ],
+    "examples": [
+      "We met near the road.",
+      "Turn left when you see the road."
+    ],
+    "example": "We met near the road.",
+    "sentence": "We met near the ___.",
+    "hint": "选择合适的单词：道路；公路"
+  },
+  {
+    "id": "primary-md-669",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sidewalk",
+    "phonetic": "/ˈsaɪdwɔːk/",
+    "cn": "人行道",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a sidewalk",
+      "the sidewalk"
+    ],
+    "examples": [
+      "My friend asked about the sidewalk.",
+      "There is a sidewalk in the picture."
+    ],
+    "example": "My friend asked about the sidewalk.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：人行道"
+  },
+  {
+    "id": "primary-md-670",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "crossing",
+    "phonetic": "/ˈkrɔːsɪŋ/",
+    "cn": "十字路口",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a crossing",
+      "the crossing"
+    ],
+    "examples": [
+      "This story mentions a crossing.",
+      "We talked about the crossing after class."
+    ],
+    "example": "This story mentions a crossing.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：十字路口"
+  },
+  {
+    "id": "primary-md-671",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ground",
+    "phonetic": "/ɡraʊnd/",
+    "cn": "地面",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a ground",
+      "the ground"
+    ],
+    "examples": [
+      "This story mentions a ground.",
+      "We talked about the ground after class."
+    ],
+    "example": "This story mentions a ground.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：地面"
+  },
+  {
+    "id": "primary-md-672",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "here",
+    "phonetic": "/hɪr/",
+    "cn": "在这里；向这里",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can here",
+      "here carefully"
+    ],
+    "examples": [
+      "He will here with his friends.",
+      "Do not here too quickly."
+    ],
+    "example": "He will here with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：在这里；向这里"
+  },
+  {
+    "id": "primary-md-673",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "there",
+    "phonetic": "/ðer/",
+    "cn": "在那里；到那里",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can there",
+      "there carefully"
+    ],
+    "examples": [
+      "Please there before you leave.",
+      "I learned how to there yesterday."
+    ],
+    "example": "Please there before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：在那里；到那里"
+  },
+  {
+    "id": "primary-md-674",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "far",
+    "phonetic": "/fɑːr/",
+    "cn": "较远的；远",
+    "pos": "形容词/副词",
+    "rawPos": "adj.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can far",
+      "far carefully"
+    ],
+    "examples": [
+      "Please far before you leave.",
+      "I learned how to far yesterday."
+    ],
+    "example": "Please far before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：较远的；远"
+  },
+  {
+    "id": "primary-md-675",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "front",
+    "phonetic": "/frʌnt/",
+    "cn": "前面的； 前面",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very front",
+      "a front person"
+    ],
+    "examples": [
+      "The lesson was front but useful.",
+      "My teacher wrote a front comment."
+    ],
+    "example": "The lesson was front but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：前面的； 前面"
+  },
+  {
+    "id": "primary-md-676",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "left",
+    "phonetic": "/left/",
+    "cn": "向左； 左，左边； 左边的",
+    "pos": "副词/名词/形容词",
+    "rawPos": "adv.&n.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can left",
+      "left carefully"
+    ],
+    "examples": [
+      "She wants to left after school.",
+      "We should left at the right time."
+    ],
+    "example": "She wants to left after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：向左； 左，左边； 左边的"
+  },
+  {
+    "id": "primary-md-677",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "right",
+    "phonetic": "/raɪt/",
+    "cn": "向右； 右，右边 ； 对的，正确的，右边的",
+    "pos": "副词/名词/形容词",
+    "rawPos": "adv.&n.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can right",
+      "right carefully"
+    ],
+    "examples": [
+      "Please right before you leave.",
+      "I learned how to right yesterday."
+    ],
+    "example": "Please right before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：向右； 右，右边 ； 对的，正确的，右边的"
+  },
+  {
+    "id": "primary-md-678",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "east",
+    "phonetic": "/iːst/",
+    "cn": "东方； 东方的 ； 向东",
+    "pos": "名词/形容词/副词",
+    "rawPos": "n.&adj.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can east",
+      "east carefully"
+    ],
+    "examples": [
+      "He will east with his friends.",
+      "Do not east too quickly."
+    ],
+    "example": "He will east with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：东方； 东方的 ； 向东"
+  },
+  {
+    "id": "primary-md-679",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "west",
+    "phonetic": "/west/",
+    "cn": "西方； 西方的 ； 向西",
+    "pos": "名词/形容词/副词",
+    "rawPos": "n.&adj.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can west",
+      "west carefully"
+    ],
+    "examples": [
+      "He will west with his friends.",
+      "Do not west too quickly."
+    ],
+    "example": "He will west with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：西方； 西方的 ； 向西"
+  },
+  {
+    "id": "primary-md-680",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "south",
+    "phonetic": "/saʊθ/",
+    "cn": "南方； 南方的 ； 向南",
+    "pos": "名词/形容词/副词",
+    "rawPos": "n.&adj.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can south",
+      "south carefully"
+    ],
+    "examples": [
+      "He will south with his friends.",
+      "Do not south too quickly."
+    ],
+    "example": "He will south with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：南方； 南方的 ； 向南"
+  },
+  {
+    "id": "primary-md-681",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "north",
+    "phonetic": "/nɔːrθ/",
+    "cn": "北方； 北方的 ； 向北",
+    "pos": "名词/形容词/副词",
+    "rawPos": "n.&adj.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can north",
+      "north carefully"
+    ],
+    "examples": [
+      "He will north with his friends.",
+      "Do not north too quickly."
+    ],
+    "example": "He will north with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：北方； 北方的 ； 向北"
+  },
+  {
+    "id": "primary-md-682",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "top",
+    "phonetic": "/tɑːp/",
+    "cn": "顶部；最高的",
+    "pos": "名词/形容词",
+    "rawPos": "n.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very top",
+      "a top person"
+    ],
+    "examples": [
+      "The road looks top after the rain.",
+      "It is top to finish early."
+    ],
+    "example": "The road looks top after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：顶部；最高的"
+  },
+  {
+    "id": "primary-md-683",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bottom",
+    "phonetic": "/ˈbɑːtəm/",
+    "cn": "底部",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a bottom",
+      "the bottom"
+    ],
+    "examples": [
+      "My friend asked about the bottom.",
+      "There is a bottom in the picture."
+    ],
+    "example": "My friend asked about the bottom.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：底部"
+  },
+  {
+    "id": "primary-md-684",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "between",
+    "phonetic": "/bɪˈtwiːn/",
+    "cn": "在…中间",
+    "pos": "介词",
+    "rawPos": "prep.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "between the desk",
+      "between school"
+    ],
+    "examples": [
+      "The book is between the desk.",
+      "We waited between school."
+    ],
+    "example": "The book is between the desk.",
+    "sentence": "The book is ___ the desk.",
+    "hint": "选择合适的单词：在…中间"
+  },
+  {
+    "id": "primary-md-685",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "centre",
+    "phonetic": "/ˈsentər/",
+    "cn": "中心；中央",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a centre",
+      "the centre"
+    ],
+    "examples": [
+      "Please put the centre on the desk.",
+      "He found a centre in the box."
+    ],
+    "example": "Please put the centre on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：中心；中央"
+  },
+  {
+    "id": "primary-md-686",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "middle",
+    "phonetic": "/ˈmɪdl/",
+    "cn": "中间",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a middle",
+      "the middle"
+    ],
+    "examples": [
+      "This story mentions a middle.",
+      "We talked about the middle after class."
+    ],
+    "example": "This story mentions a middle.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：中间"
+  },
+  {
+    "id": "primary-md-687",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "side",
+    "phonetic": "/saɪd/",
+    "cn": "边；一边；侧面；旁边",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a side",
+      "the side"
+    ],
+    "examples": [
+      "My friend asked about the side.",
+      "There is a side in the picture."
+    ],
+    "example": "My friend asked about the side.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：边；一边；侧面；旁边"
+  },
+  {
+    "id": "primary-md-688",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "out",
+    "phonetic": "/aʊt/",
+    "cn": "（从…里）出来；向外；在室外",
+    "pos": "副词/介词",
+    "rawPos": "adv.&prep.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can out",
+      "out carefully"
+    ],
+    "examples": [
+      "She wants to out after school.",
+      "We should out at the right time."
+    ],
+    "example": "She wants to out after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：（从…里）出来；向外；在室外"
+  },
+  {
+    "id": "primary-md-689",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "where",
+    "phonetic": "/wer/",
+    "cn": "在哪里，到哪里； （在）…的地方",
+    "pos": "副词/连词",
+    "rawPos": "adv.&conj.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can where",
+      "where carefully"
+    ],
+    "examples": [
+      "He will where with his friends.",
+      "Do not where too quickly."
+    ],
+    "example": "He will where with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：在哪里，到哪里； （在）…的地方"
+  },
+  {
+    "id": "primary-md-690",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sing",
+    "phonetic": "/sɪŋ/",
+    "cn": "唱（歌）；演唱",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can sing",
+      "sing carefully"
+    ],
+    "examples": [
+      "He will sing with his friends.",
+      "Do not sing too quickly."
+    ],
+    "example": "He will sing with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：唱（歌）；演唱"
+  },
+  {
+    "id": "primary-md-691",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dance",
+    "phonetic": "/dæns/",
+    "cn": "跳舞",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can dance",
+      "dance carefully"
+    ],
+    "examples": [
+      "Please dance before you leave.",
+      "I learned how to dance yesterday."
+    ],
+    "example": "Please dance before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：跳舞"
+  },
+  {
+    "id": "primary-md-692",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "draw",
+    "phonetic": "/drɔː/",
+    "cn": "画；描绘",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can draw",
+      "draw carefully"
+    ],
+    "examples": [
+      "Please draw before you leave.",
+      "I learned how to draw yesterday."
+    ],
+    "example": "Please draw before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：画；描绘"
+  },
+  {
+    "id": "primary-md-693",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "paint",
+    "phonetic": "/peɪnt/",
+    "cn": "用颜料画，刷漆； 油漆",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can paint",
+      "paint carefully"
+    ],
+    "examples": [
+      "She wants to paint after school.",
+      "We should paint at the right time."
+    ],
+    "example": "She wants to paint after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：用颜料画，刷漆； 油漆"
+  },
+  {
+    "id": "primary-md-694",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "act",
+    "phonetic": "/ækt/",
+    "cn": "扮演，行动； 行为",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can act",
+      "act carefully"
+    ],
+    "examples": [
+      "She wants to act after school.",
+      "We should act at the right time."
+    ],
+    "example": "She wants to act after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：扮演，行动； 行为"
+  },
+  {
+    "id": "primary-md-695",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "music",
+    "phonetic": "/ˈmjuːzɪk/",
+    "cn": "音乐；乐曲",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some music",
+      "the music"
+    ],
+    "examples": [
+      "This story mentions some music.",
+      "We talked about the music after class."
+    ],
+    "example": "This story mentions some music.",
+    "sentence": "This story mentions some ___.",
+    "hint": "选择合适的单词：音乐；乐曲"
+  },
+  {
+    "id": "primary-md-696",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "song",
+    "phonetic": "/sɔːŋ/",
+    "cn": "歌；歌曲",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a song",
+      "the song"
+    ],
+    "examples": [
+      "This story mentions a song.",
+      "We talked about the song after class."
+    ],
+    "example": "This story mentions a song.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：歌；歌曲"
+  },
+  {
+    "id": "primary-md-697",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "piano",
+    "phonetic": "/piˈænoʊ/",
+    "cn": "钢琴",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a piano",
+      "the piano"
+    ],
+    "examples": [
+      "My friend asked about the piano.",
+      "There is a piano in the picture."
+    ],
+    "example": "My friend asked about the piano.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：钢琴"
+  },
+  {
+    "id": "primary-md-698",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "flute",
+    "phonetic": "/fluːt/",
+    "cn": "长笛",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a flute",
+      "the flute"
+    ],
+    "examples": [
+      "This story mentions a flute.",
+      "We talked about the flute after class."
+    ],
+    "example": "This story mentions a flute.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：长笛"
+  },
+  {
+    "id": "primary-md-699",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "concert",
+    "phonetic": "/ˈkɑːnsərt/",
+    "cn": "音乐会",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a concert",
+      "the concert"
+    ],
+    "examples": [
+      "The teacher points to the concert.",
+      "I wrote the concert in my notebook."
+    ],
+    "example": "The teacher points to the concert.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：音乐会"
+  },
+  {
+    "id": "primary-md-700",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "camera",
+    "phonetic": "/ˈkæmərə/",
+    "cn": "照相机",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a camera",
+      "the camera"
+    ],
+    "examples": [
+      "The teacher points to the camera.",
+      "I wrote the camera in my notebook."
+    ],
+    "example": "The teacher points to the camera.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：照相机"
+  },
+  {
+    "id": "primary-md-701",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "video",
+    "phonetic": "/ˈvɪdioʊ/",
+    "cn": "录像；录像带",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a video",
+      "the video"
+    ],
+    "examples": [
+      "My friend asked about the video.",
+      "There is a video in the picture."
+    ],
+    "example": "My friend asked about the video.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：录像；录像带"
+  },
+  {
+    "id": "primary-md-702",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "film",
+    "phonetic": "/fɪlm/",
+    "cn": "电影",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a film",
+      "the film"
+    ],
+    "examples": [
+      "This story mentions a film.",
+      "We talked about the film after class."
+    ],
+    "example": "This story mentions a film.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：电影"
+  },
+  {
+    "id": "primary-md-703",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cartoon",
+    "phonetic": "/kɑːrˈtuːn/",
+    "cn": "漫画；动画片",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a cartoon",
+      "the cartoon"
+    ],
+    "examples": [
+      "Please put the cartoon on the desk.",
+      "He found a cartoon in the box."
+    ],
+    "example": "Please put the cartoon on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：漫画；动画片"
+  },
+  {
+    "id": "primary-md-704",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "picture",
+    "phonetic": "/ˈpɪktʃər/",
+    "cn": "图画；相片",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a picture",
+      "the picture"
+    ],
+    "examples": [
+      "The teacher points to the picture.",
+      "I wrote the picture in my notebook."
+    ],
+    "example": "The teacher points to the picture.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：图画；相片"
+  },
+  {
+    "id": "primary-md-705",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "poem",
+    "phonetic": "/ˈpoʊəm/",
+    "cn": "诗",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a poem",
+      "the poem"
+    ],
+    "examples": [
+      "The teacher points to the poem.",
+      "I wrote the poem in my notebook."
+    ],
+    "example": "The teacher points to the poem.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：诗"
+  },
+  {
+    "id": "primary-md-706",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "story",
+    "phonetic": "/ˈstɔːri/",
+    "cn": "故事",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a story",
+      "the story"
+    ],
+    "examples": [
+      "This story mentions a story.",
+      "We talked about the story after class."
+    ],
+    "example": "This story mentions a story.",
+    "sentence": "This ___ mentions a story.",
+    "hint": "选择合适的单词：故事"
+  },
+  {
+    "id": "primary-md-707",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "storybook",
+    "phonetic": "/ˈstɔːribʊk/",
+    "cn": "故事书",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a storybook",
+      "the storybook"
+    ],
+    "examples": [
+      "My friend asked about the storybook.",
+      "There is a storybook in the picture."
+    ],
+    "example": "My friend asked about the storybook.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：故事书"
+  },
+  {
+    "id": "primary-md-708",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "newspaper",
+    "phonetic": "/ˈnuːzpeɪpər/",
+    "cn": "报纸",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a newspaper",
+      "the newspaper"
+    ],
+    "examples": [
+      "Please put the newspaper on the desk.",
+      "He found a newspaper in the box."
+    ],
+    "example": "Please put the newspaper on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：报纸"
+  },
+  {
+    "id": "primary-md-709",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "magazine",
+    "phonetic": "/ˈmæɡəziːn/",
+    "cn": "杂志；期刊",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a magazine",
+      "the magazine"
+    ],
+    "examples": [
+      "The teacher points to the magazine.",
+      "I wrote the magazine in my notebook."
+    ],
+    "example": "The teacher points to the magazine.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：杂志；期刊"
+  },
+  {
+    "id": "primary-md-710",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "love",
+    "phonetic": "/lʌv/",
+    "cn": "爱，喜欢； 热爱",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can love",
+      "love carefully"
+    ],
+    "examples": [
+      "He will love with his friends.",
+      "Do not love too quickly."
+    ],
+    "example": "He will love with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：爱，喜欢； 热爱"
+  },
+  {
+    "id": "primary-md-711",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "like",
+    "phonetic": "/laɪk/",
+    "cn": "喜欢； 像…一样",
+    "pos": "动词/介词",
+    "rawPos": "v.&prep.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can like",
+      "like carefully"
+    ],
+    "examples": [
+      "He will like with his friends.",
+      "Do not like too quickly."
+    ],
+    "example": "He will like with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：喜欢； 像…一样"
+  },
+  {
+    "id": "primary-md-712",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "enjoy",
+    "phonetic": "/ɪnˈdʒɔɪ/",
+    "cn": "享受…的乐趣；喜爱；欣赏",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can enjoy",
+      "enjoy carefully"
+    ],
+    "examples": [
+      "They enjoy together in the park.",
+      "Can you enjoy this afternoon?"
+    ],
+    "example": "They enjoy together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：享受…的乐趣；喜爱；欣赏"
+  },
+  {
+    "id": "primary-md-713",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hobby",
+    "phonetic": "/ˈhɑːbi/",
+    "cn": "业余爱好",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a hobby",
+      "the hobby"
+    ],
+    "examples": [
+      "My friend asked about the hobby.",
+      "There is a hobby in the picture."
+    ],
+    "example": "My friend asked about the hobby.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：业余爱好"
+  },
+  {
+    "id": "primary-md-714",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "club",
+    "phonetic": "/klʌb/",
+    "cn": "俱乐部；社团",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a club",
+      "the club"
+    ],
+    "examples": [
+      "Please put the club on the desk.",
+      "He found a club in the box."
+    ],
+    "example": "Please put the club on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：俱乐部；社团"
+  },
+  {
+    "id": "primary-md-715",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "computer",
+    "phonetic": "/kəmˈpjuːtər/",
+    "cn": "计算机；电脑",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a computer",
+      "the computer"
+    ],
+    "examples": [
+      "Please put the computer on the desk.",
+      "He found a computer in the box."
+    ],
+    "example": "Please put the computer on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：计算机；电脑"
+  },
+  {
+    "id": "primary-md-716",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Internet",
+    "phonetic": "/ˈɪntərnet/",
+    "cn": "互联网",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an Internet",
+      "the Internet"
+    ],
+    "examples": [
+      "Please put the Internet on the desk.",
+      "He found an Internet in the box."
+    ],
+    "example": "Please put the Internet on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：互联网"
+  },
+  {
+    "id": "primary-md-717",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "robot",
+    "phonetic": "/ˈroʊbɑːt/",
+    "cn": "机器人",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a robot",
+      "the robot"
+    ],
+    "examples": [
+      "This story mentions a robot.",
+      "We talked about the robot after class."
+    ],
+    "example": "This story mentions a robot.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：机器人"
+  },
+  {
+    "id": "primary-md-718",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "science",
+    "phonetic": "/ˈsaɪəns/",
+    "cn": "科学",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a science",
+      "the science"
+    ],
+    "examples": [
+      "My friend asked about the science.",
+      "There is a science in the picture."
+    ],
+    "example": "My friend asked about the science.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：科学"
+  },
+  {
+    "id": "primary-md-719",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "future",
+    "phonetic": "/ˈfjuːtʃər/",
+    "cn": "将来；前途",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a future",
+      "the future"
+    ],
+    "examples": [
+      "My friend asked about the future.",
+      "There is a future in the picture."
+    ],
+    "example": "My friend asked about the future.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：将来；前途"
+  },
+  {
+    "id": "primary-md-720",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "thing",
+    "phonetic": "/θɪŋ/",
+    "cn": "事物；事情",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a thing",
+      "the thing"
+    ],
+    "examples": [
+      "My friend asked about the thing.",
+      "There is a thing in the picture."
+    ],
+    "example": "My friend asked about the thing.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：事物；事情"
+  },
+  {
+    "id": "primary-md-721",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "matter",
+    "phonetic": "/ˈmætər/",
+    "cn": "事情，问题； 要紧",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can matter",
+      "matter carefully"
+    ],
+    "examples": [
+      "They matter together in the park.",
+      "Can you matter this afternoon?"
+    ],
+    "example": "They matter together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：事情，问题； 要紧"
+  },
+  {
+    "id": "primary-md-722",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "idea",
+    "phonetic": "/aɪˈdiːə/",
+    "cn": "主意；想法",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an idea",
+      "the idea"
+    ],
+    "examples": [
+      "My friend asked about the idea.",
+      "There is an idea in the picture."
+    ],
+    "example": "My friend asked about the idea.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：主意；想法"
+  },
+  {
+    "id": "primary-md-723",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "habit",
+    "phonetic": "/ˈhæbɪt/",
+    "cn": "习惯；习性",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a habit",
+      "the habit"
+    ],
+    "examples": [
+      "My friend asked about the habit.",
+      "There is a habit in the picture."
+    ],
+    "example": "My friend asked about the habit.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：习惯；习性"
+  },
+  {
+    "id": "primary-md-724",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "noise",
+    "phonetic": "/nɔɪz/",
+    "cn": "声音；响声；噪音",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a noise",
+      "the noise"
+    ],
+    "examples": [
+      "This story mentions a noise.",
+      "We talked about the noise after class."
+    ],
+    "example": "This story mentions a noise.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：声音；响声；噪音"
+  },
+  {
+    "id": "primary-md-725",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "mistake",
+    "phonetic": "/mɪˈsteɪk/",
+    "cn": "错误；失误",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a mistake",
+      "the mistake"
+    ],
+    "examples": [
+      "My friend asked about the mistake.",
+      "There is a mistake in the picture."
+    ],
+    "example": "My friend asked about the mistake.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：错误；失误"
+  },
+  {
+    "id": "primary-md-726",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "end",
+    "phonetic": "/end/",
+    "cn": "末端，结局； 结束，终止",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can end",
+      "end carefully"
+    ],
+    "examples": [
+      "Please end before you leave.",
+      "I learned how to end yesterday."
+    ],
+    "example": "Please end before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：末端，结局； 结束，终止"
+  },
+  {
+    "id": "primary-md-727",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "life",
+    "phonetic": "/laɪf/",
+    "cn": "生活；生命",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a life",
+      "the life"
+    ],
+    "examples": [
+      "My friend asked about the life.",
+      "There is a life in the picture."
+    ],
+    "example": "My friend asked about the life.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：生活；生命"
+  },
+  {
+    "id": "primary-md-728",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dream",
+    "phonetic": "/driːm/",
+    "cn": "梦，梦想，理想； 做梦，梦见，梦想",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can dream",
+      "dream carefully"
+    ],
+    "examples": [
+      "They dream together in the park.",
+      "Can you dream this afternoon?"
+    ],
+    "example": "They dream together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：梦，梦想，理想； 做梦，梦见，梦想"
+  },
+  {
+    "id": "primary-md-729",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "list",
+    "phonetic": "/lɪst/",
+    "cn": "清单",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a list",
+      "the list"
+    ],
+    "examples": [
+      "My friend asked about the list.",
+      "There is a list in the picture."
+    ],
+    "example": "My friend asked about the list.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：清单"
+  },
+  {
+    "id": "primary-md-730",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "row",
+    "phonetic": "/roʊ/",
+    "cn": "一排，一列，一行； 划（船）",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can row",
+      "row carefully"
+    ],
+    "examples": [
+      "They row together in the park.",
+      "Can you row this afternoon?"
+    ],
+    "example": "They row together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：一排，一列，一行； 划（船）"
+  },
+  {
+    "id": "primary-md-731",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "piece",
+    "phonetic": "/piːs/",
+    "cn": "片；块；段；张；条",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a piece",
+      "the piece"
+    ],
+    "examples": [
+      "This story mentions a piece.",
+      "We talked about the piece after class."
+    ],
+    "example": "This story mentions a piece.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：片；块；段；张；条"
+  },
+  {
+    "id": "primary-md-732",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "kind",
+    "phonetic": "/kaɪnd/",
+    "cn": "种类",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a kind",
+      "the kind"
+    ],
+    "examples": [
+      "My friend asked about the kind.",
+      "There is a kind in the picture."
+    ],
+    "example": "My friend asked about the kind.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：种类"
+  },
+  {
+    "id": "primary-md-733",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "string",
+    "phonetic": "/strɪŋ/",
+    "cn": "线；绳子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a string",
+      "the string"
+    ],
+    "examples": [
+      "The teacher points to the string.",
+      "I wrote the string in my notebook."
+    ],
+    "example": "The teacher points to the string.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：线；绳子"
+  },
+  {
+    "id": "primary-md-734",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "kite",
+    "phonetic": "/kaɪt/",
+    "cn": "风筝",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a kite",
+      "the kite"
+    ],
+    "examples": [
+      "Please put the kite on the desk.",
+      "He found a kite in the box."
+    ],
+    "example": "Please put the kite on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：风筝"
+  },
+  {
+    "id": "primary-md-735",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "balloon",
+    "phonetic": "/bəˈluːn/",
+    "cn": "气球",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a balloon",
+      "the balloon"
+    ],
+    "examples": [
+      "My friend asked about the balloon.",
+      "There is a balloon in the picture."
+    ],
+    "example": "My friend asked about the balloon.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：气球"
+  },
+  {
+    "id": "primary-md-736",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "model",
+    "phonetic": "/ˈmɑːdl/",
+    "cn": "模型",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a model",
+      "the model"
+    ],
+    "examples": [
+      "My friend asked about the model.",
+      "There is a model in the picture."
+    ],
+    "example": "My friend asked about the model.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：模型"
+  },
+  {
+    "id": "primary-md-737",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "doll",
+    "phonetic": "/dɑːl/",
+    "cn": "玩偶；玩具娃娃",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a doll",
+      "the doll"
+    ],
+    "examples": [
+      "Please put the doll on the desk.",
+      "He found a doll in the box."
+    ],
+    "example": "Please put the doll on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：玩偶；玩具娃娃"
+  },
+  {
+    "id": "primary-md-738",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "toy",
+    "phonetic": "/tɔɪ/",
+    "cn": "玩具",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a toy",
+      "the toy"
+    ],
+    "examples": [
+      "Please put the toy on the desk.",
+      "He found a toy in the box."
+    ],
+    "example": "Please put the toy on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：玩具"
+  },
+  {
+    "id": "primary-md-739",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "poster",
+    "phonetic": "/ˈpoʊstər/",
+    "cn": "海报；招贴画",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a poster",
+      "the poster"
+    ],
+    "examples": [
+      "My friend asked about the poster.",
+      "There is a poster in the picture."
+    ],
+    "example": "My friend asked about the poster.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：海报；招贴画"
+  },
+  {
+    "id": "primary-md-740",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "riddle",
+    "phonetic": "/ˈrɪdl/",
+    "cn": "谜；谜语",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a riddle",
+      "the riddle"
+    ],
+    "examples": [
+      "My friend asked about the riddle.",
+      "There is a riddle in the picture."
+    ],
+    "example": "My friend asked about the riddle.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：谜；谜语"
+  },
+  {
+    "id": "primary-md-741",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "feature",
+    "phonetic": "/ˈfiːtʃər/",
+    "cn": "特点；特征；特色",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a feature",
+      "the feature"
+    ],
+    "examples": [
+      "This story mentions a feature.",
+      "We talked about the feature after class."
+    ],
+    "example": "This story mentions a feature.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：特点；特征；特色"
+  },
+  {
+    "id": "primary-md-742",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "shadow",
+    "phonetic": "/ˈʃædoʊ/",
+    "cn": "阴影；影子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a shadow",
+      "the shadow"
+    ],
+    "examples": [
+      "Please put the shadow on the desk.",
+      "He found a shadow in the box."
+    ],
+    "example": "Please put the shadow on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：阴影；影子"
+  },
+  {
+    "id": "primary-md-743",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "attention",
+    "phonetic": "/əˈtenʃn/",
+    "cn": "注意",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an attention",
+      "the attention"
+    ],
+    "examples": [
+      "My friend asked about the attention.",
+      "There is an attention in the picture."
+    ],
+    "example": "My friend asked about the attention.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：注意"
+  },
+  {
+    "id": "primary-md-744",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "queen",
+    "phonetic": "/kwiːn/",
+    "cn": "女王",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a queen",
+      "the queen"
+    ],
+    "examples": [
+      "My friend asked about the queen.",
+      "There is a queen in the picture."
+    ],
+    "example": "My friend asked about the queen.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：女王"
+  },
+  {
+    "id": "primary-md-745",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "flag",
+    "phonetic": "/flæɡ/",
+    "cn": "旗；国旗",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a flag",
+      "the flag"
+    ],
+    "examples": [
+      "My friend asked about the flag.",
+      "There is a flag in the picture."
+    ],
+    "example": "My friend asked about the flag.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：旗；国旗"
+  },
+  {
+    "id": "primary-md-746",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "peace",
+    "phonetic": "/piːs/",
+    "cn": "和平；平静；宁静",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a peace",
+      "the peace"
+    ],
+    "examples": [
+      "Please put the peace on the desk.",
+      "He found a peace in the box."
+    ],
+    "example": "Please put the peace on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：和平；平静；宁静"
+  },
+  {
+    "id": "primary-md-747",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "festival",
+    "phonetic": "/ˈfestɪvl/",
+    "cn": "节日；节",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a festival",
+      "the festival"
+    ],
+    "examples": [
+      "The teacher points to the festival.",
+      "I wrote the festival in my notebook."
+    ],
+    "example": "The teacher points to the festival.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：节日；节"
+  },
+  {
+    "id": "primary-md-748",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Christmas",
+    "phonetic": "/ˈkrɪsməs/",
+    "cn": "圣诞节",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some Christmas",
+      "the Christmas"
+    ],
+    "examples": [
+      "The teacher points to the Christmas.",
+      "I wrote the Christmas in my notebook."
+    ],
+    "example": "The teacher points to the Christmas.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：圣诞节"
+  },
+  {
+    "id": "primary-md-749",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "Thanksgiving",
+    "phonetic": "/ˌθæŋksˈɡɪvɪŋ/",
+    "cn": "感恩节",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a Thanksgiving",
+      "the Thanksgiving"
+    ],
+    "examples": [
+      "This story mentions a Thanksgiving.",
+      "We talked about the Thanksgiving after class."
+    ],
+    "example": "This story mentions a Thanksgiving.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：感恩节"
+  },
+  {
+    "id": "primary-md-750",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "I",
+    "phonetic": "/aɪ/",
+    "cn": "我",
+    "pos": "代词",
+    "rawPos": "pron.",
     "scene": "通用基础",
     "category": "基础功能词",
-    "example": "This is a sorry.",
-    "sentence": "This is a ___.",
-    "hint": "这是：对不起，很抱歉。"
+    "phrases": [
+      "I book",
+      "I one"
+    ],
+    "examples": [
+      "I answer is correct.",
+      "Can you show me I picture?"
+    ],
+    "example": "I answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：我"
+  },
+  {
+    "id": "primary-md-751",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "me",
+    "phonetic": "/mi/",
+    "cn": "我（I的宾格）",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "me book",
+      "me one"
+    ],
+    "examples": [
+      "Me answer is correct.",
+      "Can you show me me picture?"
+    ],
+    "example": "Me answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：我（I的宾格）"
+  },
+  {
+    "id": "primary-md-752",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "you",
+    "phonetic": "/jə/",
+    "cn": "你；你们",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "you book",
+      "you one"
+    ],
+    "examples": [
+      "You book is on the desk.",
+      "I like you one better."
+    ],
+    "example": "You book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：你；你们"
+  },
+  {
+    "id": "primary-md-753",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "he",
+    "phonetic": "/hi/",
+    "cn": "他",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "he book",
+      "he one"
+    ],
+    "examples": [
+      "He answer is correct.",
+      "Can you show me he picture?"
+    ],
+    "example": "He answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：他"
+  },
+  {
+    "id": "primary-md-754",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "him",
+    "phonetic": "/hɪm/",
+    "cn": "他（he的宾格）",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "him book",
+      "him one"
+    ],
+    "examples": [
+      "Him book is on the desk.",
+      "I like him one better."
+    ],
+    "example": "Him book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：他（he的宾格）"
+  },
+  {
+    "id": "primary-md-755",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "she",
+    "phonetic": "/ʃi/",
+    "cn": "她",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "she book",
+      "she one"
+    ],
+    "examples": [
+      "She book is on the desk.",
+      "I like she one better."
+    ],
+    "example": "She book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：她"
+  },
+  {
+    "id": "primary-md-756",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "it",
+    "phonetic": "/ɪt/",
+    "cn": "它",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "it book",
+      "it one"
+    ],
+    "examples": [
+      "It book is on the desk.",
+      "I like it one better."
+    ],
+    "example": "It book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：它"
+  },
+  {
+    "id": "primary-md-757",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "they",
+    "phonetic": "/ðeɪ/",
+    "cn": "他/她/它们",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "they book",
+      "they one"
+    ],
+    "examples": [
+      "They answer is correct.",
+      "Can you show me they picture?"
+    ],
+    "example": "They answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：他/她/它们"
+  },
+  {
+    "id": "primary-md-758",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "them",
+    "phonetic": "/ðəm/",
+    "cn": "他们；她们；它们",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "them book",
+      "them one"
+    ],
+    "examples": [
+      "Them book is on the desk.",
+      "I like them one better."
+    ],
+    "example": "Them book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：他们；她们；它们"
+  },
+  {
+    "id": "primary-md-759",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "we",
+    "phonetic": "/wi; wiː/",
+    "cn": "我们",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "we book",
+      "we one"
+    ],
+    "examples": [
+      "We answer is correct.",
+      "Can you show me we picture?"
+    ],
+    "example": "We answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：我们"
+  },
+  {
+    "id": "primary-md-760",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "us",
+    "phonetic": "/əs/",
+    "cn": "我们（we的宾格）",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "us book",
+      "us one"
+    ],
+    "examples": [
+      "Us book is on the desk.",
+      "I like us one better."
+    ],
+    "example": "Us book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：我们（we的宾格）"
+  },
+  {
+    "id": "primary-md-761",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "my",
+    "phonetic": "/maɪ/",
+    "cn": "我的",
+    "pos": "限定词",
+    "rawPos": "det.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "my book",
+      "my one"
+    ],
+    "examples": [
+      "My answer is correct.",
+      "Can you show me my picture?"
+    ],
+    "example": "My answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：我的"
+  },
+  {
+    "id": "primary-md-762",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "your",
+    "phonetic": "/jʊr/",
+    "cn": "你的；你们的",
+    "pos": "限定词",
+    "rawPos": "det.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "your book",
+      "your one"
+    ],
+    "examples": [
+      "Your book is on the desk.",
+      "I like your one better."
+    ],
+    "example": "Your book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：你的；你们的"
+  },
+  {
+    "id": "primary-md-763",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "his",
+    "phonetic": "/hɪz/",
+    "cn": "他的",
+    "pos": "限定词/代词",
+    "rawPos": "det.&pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "his book",
+      "his one"
+    ],
+    "examples": [
+      "His book is on the desk.",
+      "I like his one better."
+    ],
+    "example": "His book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：他的"
+  },
+  {
+    "id": "primary-md-764",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "her",
+    "phonetic": "/hər/",
+    "cn": "她的；她",
+    "pos": "限定词/代词",
+    "rawPos": "det.&pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "her book",
+      "her one"
+    ],
+    "examples": [
+      "Her book is on the desk.",
+      "I like her one better."
+    ],
+    "example": "Her book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：她的；她"
+  },
+  {
+    "id": "primary-md-765",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "its",
+    "phonetic": "/ɪts/",
+    "cn": "它的",
+    "pos": "限定词",
+    "rawPos": "det.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "its book",
+      "its one"
+    ],
+    "examples": [
+      "Its answer is correct.",
+      "Can you show me its picture?"
+    ],
+    "example": "Its answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：它的"
+  },
+  {
+    "id": "primary-md-766",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "our",
+    "phonetic": "/aʊər/",
+    "cn": "我们的",
+    "pos": "限定词",
+    "rawPos": "det.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "our book",
+      "our one"
+    ],
+    "examples": [
+      "Our answer is correct.",
+      "Can you show me our picture?"
+    ],
+    "example": "Our answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：我们的"
+  },
+  {
+    "id": "primary-md-767",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "their",
+    "phonetic": "/ðer/",
+    "cn": "他们的；她们的；它们的",
+    "pos": "限定词",
+    "rawPos": "det.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "their book",
+      "their one"
+    ],
+    "examples": [
+      "Their book is on the desk.",
+      "I like their one better."
+    ],
+    "example": "Their book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：他们的；她们的；它们的"
+  },
+  {
+    "id": "primary-md-768",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "mine",
+    "phonetic": "/maɪn/",
+    "cn": "我的",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "mine book",
+      "mine one"
+    ],
+    "examples": [
+      "Mine answer is correct.",
+      "Can you show me mine picture?"
+    ],
+    "example": "Mine answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：我的"
+  },
+  {
+    "id": "primary-md-769",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "yours",
+    "phonetic": "/jərz/",
+    "cn": "你的；你们的",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "yours book",
+      "yours one"
+    ],
+    "examples": [
+      "Yours book is on the desk.",
+      "I like yours one better."
+    ],
+    "example": "Yours book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：你的；你们的"
+  },
+  {
+    "id": "primary-md-770",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "myself",
+    "phonetic": "/maɪˈself/",
+    "cn": "我自己",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "myself book",
+      "myself one"
+    ],
+    "examples": [
+      "Myself answer is correct.",
+      "Can you show me myself picture?"
+    ],
+    "example": "Myself answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：我自己"
+  },
+  {
+    "id": "primary-md-771",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "yourself",
+    "phonetic": "/jɔːrˈself/",
+    "cn": "你自己；你们自己",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "yourself book",
+      "yourself one"
+    ],
+    "examples": [
+      "Yourself book is on the desk.",
+      "I like yourself one better."
+    ],
+    "example": "Yourself book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：你自己；你们自己"
+  },
+  {
+    "id": "primary-md-772",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "what",
+    "phonetic": "/wɑːt/",
+    "cn": "什么；多么",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "what book",
+      "what one"
+    ],
+    "examples": [
+      "What book is on the desk.",
+      "I like what one better."
+    ],
+    "example": "What book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：什么；多么"
+  },
+  {
+    "id": "primary-md-773",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "which",
+    "phonetic": "/wɪtʃ/",
+    "cn": "哪一个；哪一些",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "which book",
+      "which one"
+    ],
+    "examples": [
+      "Which book is on the desk.",
+      "I like which one better."
+    ],
+    "example": "Which book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：哪一个；哪一些"
+  },
+  {
+    "id": "primary-md-774",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "who",
+    "phonetic": "/huː/",
+    "cn": "谁；什么人",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "who book",
+      "who one"
+    ],
+    "examples": [
+      "Who answer is correct.",
+      "Can you show me who picture?"
+    ],
+    "example": "Who answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：谁；什么人"
+  },
+  {
+    "id": "primary-md-775",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "whose",
+    "phonetic": "/huːz/",
+    "cn": "谁的",
+    "pos": "限定词/代词",
+    "rawPos": "det.&pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "whose book",
+      "whose one"
+    ],
+    "examples": [
+      "Whose book is on the desk.",
+      "I like whose one better."
+    ],
+    "example": "Whose book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：谁的"
+  },
+  {
+    "id": "primary-md-776",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "this",
+    "phonetic": "/ðɪs/",
+    "cn": "这；这个",
+    "pos": "限定词/代词",
+    "rawPos": "det.&pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "this book",
+      "this one"
+    ],
+    "examples": [
+      "This answer is correct.",
+      "Can you show me this picture?"
+    ],
+    "example": "This answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：这；这个"
+  },
+  {
+    "id": "primary-md-777",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "that",
+    "phonetic": "/ðæt/",
+    "cn": "那；那个",
+    "pos": "限定词/代词",
+    "rawPos": "det.&pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "that book",
+      "that one"
+    ],
+    "examples": [
+      "That book is on the desk.",
+      "I like that one better."
+    ],
+    "example": "That book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：那；那个"
+  },
+  {
+    "id": "primary-md-778",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "these",
+    "phonetic": "/ðiːz/",
+    "cn": "这些",
+    "pos": "限定词/代词",
+    "rawPos": "det.&pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "these book",
+      "these one"
+    ],
+    "examples": [
+      "These answer is correct.",
+      "Can you show me these picture?"
+    ],
+    "example": "These answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：这些"
+  },
+  {
+    "id": "primary-md-779",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "those",
+    "phonetic": "/ðoʊz/",
+    "cn": "那些",
+    "pos": "限定词/代词",
+    "rawPos": "det.&pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "those book",
+      "those one"
+    ],
+    "examples": [
+      "Those book is on the desk.",
+      "I like those one better."
+    ],
+    "example": "Those book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：那些"
+  },
+  {
+    "id": "primary-md-780",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "both",
+    "phonetic": "/boʊθ/",
+    "cn": "两个；两个都",
+    "pos": "限定词/代词",
+    "rawPos": "det.&pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "both book",
+      "both one"
+    ],
+    "examples": [
+      "Both answer is correct.",
+      "Can you show me both picture?"
+    ],
+    "example": "Both answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：两个；两个都"
+  },
+  {
+    "id": "primary-md-781",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "all",
+    "phonetic": "/ɔːl/",
+    "cn": "所有；全部；一切",
+    "pos": "限定词/代词",
+    "rawPos": "det.&pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "all book",
+      "all one"
+    ],
+    "examples": [
+      "All answer is correct.",
+      "Can you show me all picture?"
+    ],
+    "example": "All answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：所有；全部；一切"
+  },
+  {
+    "id": "primary-md-782",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "other",
+    "phonetic": "/ˈʌðər/",
+    "cn": "另外；其他",
+    "pos": "形容词/代词",
+    "rawPos": "adj.&pron.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very other",
+      "a other person"
+    ],
+    "examples": [
+      "His idea sounds other.",
+      "We found a other place to rest."
+    ],
+    "example": "His idea sounds other.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：另外；其他"
+  },
+  {
+    "id": "primary-md-783",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "another",
+    "phonetic": "/əˈnʌðər/",
+    "cn": "又一；另一（事物或人）",
+    "pos": "限定词/代词",
+    "rawPos": "det.&pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "another book",
+      "another one"
+    ],
+    "examples": [
+      "Another answer is correct.",
+      "Can you show me another picture?"
+    ],
+    "example": "Another answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：又一；另一（事物或人）"
+  },
+  {
+    "id": "primary-md-784",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "every",
+    "phonetic": "/ˈevri/",
+    "cn": "每；每个",
+    "pos": "限定词",
+    "rawPos": "det.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "every book",
+      "every one"
+    ],
+    "examples": [
+      "Every answer is correct.",
+      "Can you show me every picture?"
+    ],
+    "example": "Every answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：每；每个"
+  },
+  {
+    "id": "primary-md-785",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "each",
+    "phonetic": "/iːtʃ/",
+    "cn": "每个；各个；各自",
+    "pos": "限定词/代词",
+    "rawPos": "det.&pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "each book",
+      "each one"
+    ],
+    "examples": [
+      "Each answer is correct.",
+      "Can you show me each picture?"
+    ],
+    "example": "Each answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：每个；各个；各自"
+  },
+  {
+    "id": "primary-md-786",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "something",
+    "phonetic": "/ˈsʌmθɪŋ/",
+    "cn": "某事；某物",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "something book",
+      "something one"
+    ],
+    "examples": [
+      "Something answer is correct.",
+      "Can you show me something picture?"
+    ],
+    "example": "Something answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：某事；某物"
+  },
+  {
+    "id": "primary-md-787",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "anything",
+    "phonetic": "/ˈeniθɪŋ/",
+    "cn": "任何事物",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "anything book",
+      "anything one"
+    ],
+    "examples": [
+      "Anything book is on the desk.",
+      "I like anything one better."
+    ],
+    "example": "Anything book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：任何事物"
+  },
+  {
+    "id": "primary-md-788",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "nothing",
+    "phonetic": "/ˈnʌθɪŋ/",
+    "cn": "没有什么；没有一件东西",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "nothing book",
+      "nothing one"
+    ],
+    "examples": [
+      "Nothing book is on the desk.",
+      "I like nothing one better."
+    ],
+    "example": "Nothing book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：没有什么；没有一件东西"
+  },
+  {
+    "id": "primary-md-789",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "everything",
+    "phonetic": "/ˈevriθɪŋ/",
+    "cn": "所有事物；一切",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "everything book",
+      "everything one"
+    ],
+    "examples": [
+      "Everything answer is correct.",
+      "Can you show me everything picture?"
+    ],
+    "example": "Everything answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：所有事物；一切"
+  },
+  {
+    "id": "primary-md-790",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "everyone",
+    "phonetic": "/ˈevriwʌn/",
+    "cn": "每人；人人；所有人",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "everyone book",
+      "everyone one"
+    ],
+    "examples": [
+      "Everyone book is on the desk.",
+      "I like everyone one better."
+    ],
+    "example": "Everyone book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：每人；人人；所有人"
+  },
+  {
+    "id": "primary-md-791",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "everywhere",
+    "phonetic": "/ˈevriwer/",
+    "cn": "处处；到处",
+    "pos": "副词/代词/连词",
+    "rawPos": "adv.&pron.&conj.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can everywhere",
+      "everywhere carefully"
+    ],
+    "examples": [
+      "Please everywhere before you leave.",
+      "I learned how to everywhere yesterday."
+    ],
+    "example": "Please everywhere before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：处处；到处"
+  },
+  {
+    "id": "primary-md-792",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "some",
+    "phonetic": "/səm/",
+    "cn": "有些人，有些事物；一些  ；大约",
+    "pos": "代词/副词",
+    "rawPos": "pron.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can some",
+      "some carefully"
+    ],
+    "examples": [
+      "She wants to some after school.",
+      "We should some at the right time."
+    ],
+    "example": "She wants to some after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：有些人，有些事物；一些  ；大约"
+  },
+  {
+    "id": "primary-md-793",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "any",
+    "phonetic": "/ˈeni/",
+    "cn": "任一，任何一些；任何的 ；一点儿也（不）",
+    "pos": "代词/副词",
+    "rawPos": "pron.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can any",
+      "any carefully"
+    ],
+    "examples": [
+      "They any together in the park.",
+      "Can you any this afternoon?"
+    ],
+    "example": "They any together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：任一，任何一些；任何的 ；一点儿也（不）"
+  },
+  {
+    "id": "primary-md-794",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "lot",
+    "phonetic": "/lɑːt/",
+    "cn": "许多，大量；非常",
+    "pos": "代词/副词",
+    "rawPos": "pron.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can lot",
+      "lot carefully"
+    ],
+    "examples": [
+      "Please lot before you leave.",
+      "I learned how to lot yesterday."
+    ],
+    "example": "Please lot before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：许多，大量；非常"
+  },
+  {
+    "id": "primary-md-795",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "few",
+    "phonetic": "/fjuː/",
+    "cn": "有些，一些；几个，很少",
+    "pos": "代词/形容词",
+    "rawPos": "pron.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very few",
+      "a few person"
+    ],
+    "examples": [
+      "The road looks few after the rain.",
+      "It is few to finish early."
+    ],
+    "example": "The road looks few after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：有些，一些；几个，很少"
+  },
+  {
+    "id": "primary-md-796",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "many",
+    "phonetic": "/ˈmeni/",
+    "cn": "许多",
+    "pos": "限定词/代词",
+    "rawPos": "det.&pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "many book",
+      "many one"
+    ],
+    "examples": [
+      "Many book is on the desk.",
+      "I like many one better."
+    ],
+    "example": "Many book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：许多"
+  },
+  {
+    "id": "primary-md-797",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "much",
+    "phonetic": "/mʌtʃ/",
+    "cn": "许多，大量；很，非常",
+    "pos": "限定词/代词/副词",
+    "rawPos": "det.&pron.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can much",
+      "much carefully"
+    ],
+    "examples": [
+      "Please much before you leave.",
+      "I learned how to much yesterday."
+    ],
+    "example": "Please much before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：许多，大量；很，非常"
+  },
+  {
+    "id": "primary-md-798",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "more",
+    "phonetic": "/mɔːr/",
+    "cn": "更多的，更大的；更，更强，更多",
+    "pos": "限定词/代词/副词",
+    "rawPos": "det.&pron.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can more",
+      "more carefully"
+    ],
+    "examples": [
+      "She wants to more after school.",
+      "We should more at the right time."
+    ],
+    "example": "She wants to more after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：更多的，更大的；更，更强，更多"
+  },
+  {
+    "id": "primary-md-799",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "less",
+    "phonetic": "/les/",
+    "cn": "较少的，更少的；较小，较少",
+    "pos": "限定词/代词/副词",
+    "rawPos": "det.&pron.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can less",
+      "less carefully"
+    ],
+    "examples": [
+      "They less together in the park.",
+      "Can you less this afternoon?"
+    ],
+    "example": "They less together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：较少的，更少的；较小，较少"
+  },
+  {
+    "id": "primary-md-800",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "one",
+    "phonetic": "/wʌn/",
+    "cn": "一； 一个",
+    "pos": "数词/代词",
+    "rawPos": "num.&pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "one book",
+      "one one"
+    ],
+    "examples": [
+      "One answer is correct.",
+      "Can you show me one picture?"
+    ],
+    "example": "One answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：一； 一个"
+  },
+  {
+    "id": "primary-md-801",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "two",
+    "phonetic": "/tuː/",
+    "cn": "二",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "two books",
+      "page two"
+    ],
+    "examples": [
+      "Two students joined the game.",
+      "The answer is two."
+    ],
+    "example": "Two students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：二"
+  },
+  {
+    "id": "primary-md-802",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "three",
+    "phonetic": "/θriː/",
+    "cn": "三",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "three books",
+      "page three"
+    ],
+    "examples": [
+      "I have three books.",
+      "Please open page three."
+    ],
+    "example": "I have three books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：三"
+  },
+  {
+    "id": "primary-md-803",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "four",
+    "phonetic": "/fɔːr/",
+    "cn": "四",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "four books",
+      "page four"
+    ],
+    "examples": [
+      "I have four books.",
+      "Please open page four."
+    ],
+    "example": "I have four books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：四"
+  },
+  {
+    "id": "primary-md-804",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "five",
+    "phonetic": "/faɪv/",
+    "cn": "五",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "five books",
+      "page five"
+    ],
+    "examples": [
+      "I have five books.",
+      "Please open page five."
+    ],
+    "example": "I have five books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：五"
+  },
+  {
+    "id": "primary-md-805",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "first",
+    "phonetic": "/fɜːrst/",
+    "cn": "第一",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "first books",
+      "page first"
+    ],
+    "examples": [
+      "First students joined the game.",
+      "The answer is first."
+    ],
+    "example": "First students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：第一"
+  },
+  {
+    "id": "primary-md-806",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "second",
+    "phonetic": "/ˈsekənd/",
+    "cn": "第二",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "second books",
+      "page second"
+    ],
+    "examples": [
+      "I have second books.",
+      "Please open page second."
+    ],
+    "example": "I have second books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：第二"
+  },
+  {
+    "id": "primary-md-807",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "third",
+    "phonetic": "/θɜːrd/",
+    "cn": "第三",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "third books",
+      "page third"
+    ],
+    "examples": [
+      "Third students joined the game.",
+      "The answer is third."
+    ],
+    "example": "Third students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：第三"
+  },
+  {
+    "id": "primary-md-808",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fourth",
+    "phonetic": "/fɔːrθ/",
+    "cn": "第四",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "fourth books",
+      "page fourth"
+    ],
+    "examples": [
+      "I have fourth books.",
+      "Please open page fourth."
+    ],
+    "example": "I have fourth books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：第四"
+  },
+  {
+    "id": "primary-md-809",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fifth",
+    "phonetic": "/fɪfθ/",
+    "cn": "第五",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "fifth books",
+      "page fifth"
+    ],
+    "examples": [
+      "I have fifth books.",
+      "Please open page fifth."
+    ],
+    "example": "I have fifth books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：第五"
+  },
+  {
+    "id": "primary-md-810",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "six",
+    "phonetic": "/sɪks/",
+    "cn": "六",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "six books",
+      "page six"
+    ],
+    "examples": [
+      "I have six books.",
+      "Please open page six."
+    ],
+    "example": "I have six books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：六"
+  },
+  {
+    "id": "primary-md-811",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "seven",
+    "phonetic": "/ˈsevn/",
+    "cn": "七",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "seven books",
+      "page seven"
+    ],
+    "examples": [
+      "Seven students joined the game.",
+      "The answer is seven."
+    ],
+    "example": "Seven students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：七"
+  },
+  {
+    "id": "primary-md-812",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "eight",
+    "phonetic": "/eɪt/",
+    "cn": "八",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "eight books",
+      "page eight"
+    ],
+    "examples": [
+      "I have eight books.",
+      "Please open page eight."
+    ],
+    "example": "I have eight books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：八"
+  },
+  {
+    "id": "primary-md-813",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "nine",
+    "phonetic": "/naɪn/",
+    "cn": "九",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "nine books",
+      "page nine"
+    ],
+    "examples": [
+      "Nine students joined the game.",
+      "The answer is nine."
+    ],
+    "example": "Nine students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：九"
+  },
+  {
+    "id": "primary-md-814",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ten",
+    "phonetic": "/ten/",
+    "cn": "十",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "ten books",
+      "page ten"
+    ],
+    "examples": [
+      "I have ten books.",
+      "Please open page ten."
+    ],
+    "example": "I have ten books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：十"
+  },
+  {
+    "id": "primary-md-815",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sixth",
+    "phonetic": "/sɪksθ/",
+    "cn": "第六",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "sixth books",
+      "page sixth"
+    ],
+    "examples": [
+      "Sixth students joined the game.",
+      "The answer is sixth."
+    ],
+    "example": "Sixth students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：第六"
+  },
+  {
+    "id": "primary-md-816",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "seventh",
+    "phonetic": "/ˈsevnθ/",
+    "cn": "第七",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "seventh books",
+      "page seventh"
+    ],
+    "examples": [
+      "Seventh students joined the game.",
+      "The answer is seventh."
+    ],
+    "example": "Seventh students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：第七"
+  },
+  {
+    "id": "primary-md-817",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "eighth",
+    "phonetic": "/eɪtθ/",
+    "cn": "第八",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "eighth books",
+      "page eighth"
+    ],
+    "examples": [
+      "Eighth students joined the game.",
+      "The answer is eighth."
+    ],
+    "example": "Eighth students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：第八"
+  },
+  {
+    "id": "primary-md-818",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ninth",
+    "phonetic": "/naɪnθ/",
+    "cn": "第九",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "ninth books",
+      "page ninth"
+    ],
+    "examples": [
+      "Ninth students joined the game.",
+      "The answer is ninth."
+    ],
+    "example": "Ninth students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：第九"
+  },
+  {
+    "id": "primary-md-819",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "tenth",
+    "phonetic": "/tenθ/",
+    "cn": "第十",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "tenth books",
+      "page tenth"
+    ],
+    "examples": [
+      "Tenth students joined the game.",
+      "The answer is tenth."
+    ],
+    "example": "Tenth students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：第十"
+  },
+  {
+    "id": "primary-md-820",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "eleven",
+    "phonetic": "/ɪˈlevn/",
+    "cn": "十一",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "eleven books",
+      "page eleven"
+    ],
+    "examples": [
+      "Eleven students joined the game.",
+      "The answer is eleven."
+    ],
+    "example": "Eleven students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：十一"
+  },
+  {
+    "id": "primary-md-821",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "twelve",
+    "phonetic": "/twelv/",
+    "cn": "十二",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "twelve books",
+      "page twelve"
+    ],
+    "examples": [
+      "I have twelve books.",
+      "Please open page twelve."
+    ],
+    "example": "I have twelve books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：十二"
+  },
+  {
+    "id": "primary-md-822",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "thirteen",
+    "phonetic": "/ˌθɜːrˈtiːn/",
+    "cn": "十三",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "thirteen books",
+      "page thirteen"
+    ],
+    "examples": [
+      "I have thirteen books.",
+      "Please open page thirteen."
+    ],
+    "example": "I have thirteen books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：十三"
+  },
+  {
+    "id": "primary-md-823",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fourteen",
+    "phonetic": "/ˌfɔːrˈtiːn/",
+    "cn": "十四",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "fourteen books",
+      "page fourteen"
+    ],
+    "examples": [
+      "I have fourteen books.",
+      "Please open page fourteen."
+    ],
+    "example": "I have fourteen books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：十四"
+  },
+  {
+    "id": "primary-md-824",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fifteen",
+    "phonetic": "/ˌfɪfˈtiːn/",
+    "cn": "十五",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "fifteen books",
+      "page fifteen"
+    ],
+    "examples": [
+      "I have fifteen books.",
+      "Please open page fifteen."
+    ],
+    "example": "I have fifteen books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：十五"
+  },
+  {
+    "id": "primary-md-825",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sixteen",
+    "phonetic": "/ˌsɪksˈtiːn/",
+    "cn": "十六",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "sixteen books",
+      "page sixteen"
+    ],
+    "examples": [
+      "Sixteen students joined the game.",
+      "The answer is sixteen."
+    ],
+    "example": "Sixteen students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：十六"
+  },
+  {
+    "id": "primary-md-826",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "seventeen",
+    "phonetic": "/ˌsevnˈtiːn/",
+    "cn": "十七",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "seventeen books",
+      "page seventeen"
+    ],
+    "examples": [
+      "Seventeen students joined the game.",
+      "The answer is seventeen."
+    ],
+    "example": "Seventeen students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：十七"
+  },
+  {
+    "id": "primary-md-827",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "eighteen",
+    "phonetic": "/ˌeɪˈtiːn/",
+    "cn": "十八",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "eighteen books",
+      "page eighteen"
+    ],
+    "examples": [
+      "I have eighteen books.",
+      "Please open page eighteen."
+    ],
+    "example": "I have eighteen books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：十八"
+  },
+  {
+    "id": "primary-md-828",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "nineteen",
+    "phonetic": "/ˌnaɪnˈtiːn/",
+    "cn": "十九",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "nineteen books",
+      "page nineteen"
+    ],
+    "examples": [
+      "Nineteen students joined the game.",
+      "The answer is nineteen."
+    ],
+    "example": "Nineteen students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：十九"
+  },
+  {
+    "id": "primary-md-829",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "twenty",
+    "phonetic": "/ˈtwenti/",
+    "cn": "二十",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "twenty books",
+      "page twenty"
+    ],
+    "examples": [
+      "I have twenty books.",
+      "Please open page twenty."
+    ],
+    "example": "I have twenty books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：二十"
+  },
+  {
+    "id": "primary-md-830",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "thirty",
+    "phonetic": "/ˈθɜːrti/",
+    "cn": "三十",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "thirty books",
+      "page thirty"
+    ],
+    "examples": [
+      "I have thirty books.",
+      "Please open page thirty."
+    ],
+    "example": "I have thirty books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：三十"
+  },
+  {
+    "id": "primary-md-831",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "forty",
+    "phonetic": "/ˈfɔːrti/",
+    "cn": "四十",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "forty books",
+      "page forty"
+    ],
+    "examples": [
+      "Forty students joined the game.",
+      "The answer is forty."
+    ],
+    "example": "Forty students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：四十"
+  },
+  {
+    "id": "primary-md-832",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fifty",
+    "phonetic": "/ˈfɪfti/",
+    "cn": "五十",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "fifty books",
+      "page fifty"
+    ],
+    "examples": [
+      "I have fifty books.",
+      "Please open page fifty."
+    ],
+    "example": "I have fifty books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：五十"
+  },
+  {
+    "id": "primary-md-833",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sixty",
+    "phonetic": "/ˈsɪksti/",
+    "cn": "六十",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "sixty books",
+      "page sixty"
+    ],
+    "examples": [
+      "I have sixty books.",
+      "Please open page sixty."
+    ],
+    "example": "I have sixty books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：六十"
+  },
+  {
+    "id": "primary-md-834",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "seventy",
+    "phonetic": "/ˈsevnti/",
+    "cn": "七十",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "seventy books",
+      "page seventy"
+    ],
+    "examples": [
+      "Seventy students joined the game.",
+      "The answer is seventy."
+    ],
+    "example": "Seventy students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：七十"
+  },
+  {
+    "id": "primary-md-835",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "eighty",
+    "phonetic": "/ˈeɪti/",
+    "cn": "八十",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "eighty books",
+      "page eighty"
+    ],
+    "examples": [
+      "Eighty students joined the game.",
+      "The answer is eighty."
+    ],
+    "example": "Eighty students joined the game.",
+    "sentence": "___ students joined the game.",
+    "hint": "选择合适的单词：八十"
+  },
+  {
+    "id": "primary-md-836",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ninety",
+    "phonetic": "/ˈnaɪnti/",
+    "cn": "九十",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "ninety books",
+      "page ninety"
+    ],
+    "examples": [
+      "I have ninety books.",
+      "Please open page ninety."
+    ],
+    "example": "I have ninety books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：九十"
+  },
+  {
+    "id": "primary-md-837",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hundred",
+    "phonetic": "/ˈhʌndrəd/",
+    "cn": "一百",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "hundred books",
+      "page hundred"
+    ],
+    "examples": [
+      "I have hundred books.",
+      "Please open page hundred."
+    ],
+    "example": "I have hundred books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：一百"
+  },
+  {
+    "id": "primary-md-838",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "thousand",
+    "phonetic": "/ˈθaʊznd/",
+    "cn": "一千",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "thousand books",
+      "page thousand"
+    ],
+    "examples": [
+      "I have thousand books.",
+      "Please open page thousand."
+    ],
+    "example": "I have thousand books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：一千"
+  },
+  {
+    "id": "primary-md-839",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "million",
+    "phonetic": "/ˈmɪljən/",
+    "cn": "一百万",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "million books",
+      "page million"
+    ],
+    "examples": [
+      "I have million books.",
+      "Please open page million."
+    ],
+    "example": "I have million books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：一百万"
+  },
+  {
+    "id": "primary-md-840",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "new",
+    "phonetic": "/nuː/",
+    "cn": "新的；新来的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very new",
+      "a new person"
+    ],
+    "examples": [
+      "The road looks new after the rain.",
+      "It is new to finish early."
+    ],
+    "example": "The road looks new after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：新的；新来的"
+  },
+  {
+    "id": "primary-md-841",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "old",
+    "phonetic": "/oʊld/",
+    "cn": "年老的；（多少）岁；年纪；陈旧的；结识久的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very old",
+      "a old person"
+    ],
+    "examples": [
+      "His idea sounds old.",
+      "We found a old place to rest."
+    ],
+    "example": "His idea sounds old.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：年老的；（多少）岁；年纪；陈旧的；结识久的"
+  },
+  {
+    "id": "primary-md-842",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "young",
+    "phonetic": "/jʌŋ/",
+    "cn": "年轻的；年幼的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very young",
+      "a young person"
+    ],
+    "examples": [
+      "The lesson was young but useful.",
+      "My teacher wrote a young comment."
+    ],
+    "example": "The lesson was young but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：年轻的；年幼的"
+  },
+  {
+    "id": "primary-md-843",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "little",
+    "phonetic": "/ˈlɪtl/",
+    "cn": "小的，年幼的； 少量的 ；不多，少量",
+    "pos": "形容词/代词/副词",
+    "rawPos": "adj.&pron.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can little",
+      "little carefully"
+    ],
+    "examples": [
+      "She wants to little after school.",
+      "We should little at the right time."
+    ],
+    "example": "She wants to little after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：小的，年幼的； 少量的 ；不多，少量"
+  },
+  {
+    "id": "primary-md-844",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "smart",
+    "phonetic": "/smɑːrt/",
+    "cn": "聪明的；机敏的；智能的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very smart",
+      "a smart person"
+    ],
+    "examples": [
+      "This book is smart for beginners.",
+      "She gave me a smart answer."
+    ],
+    "example": "This book is smart for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：聪明的；机敏的；智能的"
+  },
+  {
+    "id": "primary-md-845",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "clever",
+    "phonetic": "/ˈklevər/",
+    "cn": "聪明的；精明的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very clever",
+      "a clever person"
+    ],
+    "examples": [
+      "The lesson was clever but useful.",
+      "My teacher wrote a clever comment."
+    ],
+    "example": "The lesson was clever but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：聪明的；精明的"
+  },
+  {
+    "id": "primary-md-846",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "lovely",
+    "phonetic": "/ˈlʌvli/",
+    "cn": "可爱的；美丽的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very lovely",
+      "a lovely person"
+    ],
+    "examples": [
+      "The lesson was lovely but useful.",
+      "My teacher wrote a lovely comment."
+    ],
+    "example": "The lesson was lovely but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：可爱的；美丽的"
+  },
+  {
+    "id": "primary-md-847",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "polite",
+    "phonetic": "/pəˈlaɪt/",
+    "cn": "有礼貌的；客气的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very polite",
+      "a polite person"
+    ],
+    "examples": [
+      "His idea sounds polite.",
+      "We found a polite place to rest."
+    ],
+    "example": "His idea sounds polite.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：有礼貌的；客气的"
+  },
+  {
+    "id": "primary-md-848",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "careful",
+    "phonetic": "/ˈkerfl/",
+    "cn": "小心的；仔细的；谨慎的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very careful",
+      "a careful person"
+    ],
+    "examples": [
+      "His idea sounds careful.",
+      "We found a careful place to rest."
+    ],
+    "example": "His idea sounds careful.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：小心的；仔细的；谨慎的"
+  },
+  {
+    "id": "primary-md-849",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "strict",
+    "phonetic": "/strɪkt/",
+    "cn": "严格的；严厉的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very strict",
+      "a strict person"
+    ],
+    "examples": [
+      "The road looks strict after the rain.",
+      "It is strict to finish early."
+    ],
+    "example": "The road looks strict after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：严格的；严厉的"
+  },
+  {
+    "id": "primary-md-850",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fresh",
+    "phonetic": "/freʃ/",
+    "cn": "新鲜的；清新的；淡的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very fresh",
+      "a fresh person"
+    ],
+    "examples": [
+      "This book is fresh for beginners.",
+      "She gave me a fresh answer."
+    ],
+    "example": "This book is fresh for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：新鲜的；清新的；淡的"
+  },
+  {
+    "id": "primary-md-851",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "delicious",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "cn": "美味的；可口的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very delicious",
+      "a delicious person"
+    ],
+    "examples": [
+      "The lesson was delicious but useful.",
+      "My teacher wrote a delicious comment."
+    ],
+    "example": "The lesson was delicious but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：美味的；可口的"
+  },
+  {
+    "id": "primary-md-852",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dry",
+    "phonetic": "/draɪ/",
+    "cn": "干的；干燥的；干旱的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "自然动物",
+    "category": "描述评价",
+    "phrases": [
+      "very dry",
+      "a dry day"
+    ],
+    "examples": [
+      "It became dry after sunset.",
+      "Wear a coat if it is dry."
+    ],
+    "example": "It became dry after sunset.",
+    "sentence": "It became ___ after sunset.",
+    "hint": "选择合适的单词：干的；干燥的；干旱的"
+  },
+  {
+    "id": "primary-md-853",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "wet",
+    "phonetic": "/wet/",
+    "cn": "湿的；潮的；有雨的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "自然动物",
+    "category": "描述评价",
+    "phrases": [
+      "very wet",
+      "a wet day"
+    ],
+    "examples": [
+      "It became wet after sunset.",
+      "Wear a coat if it is wet."
+    ],
+    "example": "It became wet after sunset.",
+    "sentence": "It became ___ after sunset.",
+    "hint": "选择合适的单词：湿的；潮的；有雨的"
+  },
+  {
+    "id": "primary-md-854",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dirty",
+    "phonetic": "/ˈdɜːrti/",
+    "cn": "肮脏的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very dirty",
+      "a dirty person"
+    ],
+    "examples": [
+      "The lesson was dirty but useful.",
+      "My teacher wrote a dirty comment."
+    ],
+    "example": "The lesson was dirty but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：肮脏的"
+  },
+  {
+    "id": "primary-md-855",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "high",
+    "phonetic": "/haɪ/",
+    "cn": "高的； 在高处，向高处，（成本、价值）高",
+    "pos": "形容词/副词",
+    "rawPos": "adj.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can high",
+      "high carefully"
+    ],
+    "examples": [
+      "She wants to high after school.",
+      "We should high at the right time."
+    ],
+    "example": "She wants to high after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：高的； 在高处，向高处，（成本、价值）高"
+  },
+  {
+    "id": "primary-md-856",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "deep",
+    "phonetic": "/diːp/",
+    "cn": "深的；深深地，在深处",
+    "pos": "形容词/副词",
+    "rawPos": "adj.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can deep",
+      "deep carefully"
+    ],
+    "examples": [
+      "She wants to deep after school.",
+      "We should deep at the right time."
+    ],
+    "example": "She wants to deep after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：深的；深深地，在深处"
+  },
+  {
+    "id": "primary-md-857",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "wide",
+    "phonetic": "/waɪd/",
+    "cn": "广泛的；宽的；宽阔的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very wide",
+      "a wide person"
+    ],
+    "examples": [
+      "The lesson was wide but useful.",
+      "My teacher wrote a wide comment."
+    ],
+    "example": "The lesson was wide but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：广泛的；宽的；宽阔的"
+  },
+  {
+    "id": "primary-md-858",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "safe",
+    "phonetic": "/seɪf/",
+    "cn": "安全的；没有危险的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very safe",
+      "a safe person"
+    ],
+    "examples": [
+      "His idea sounds safe.",
+      "We found a safe place to rest."
+    ],
+    "example": "His idea sounds safe.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：安全的；没有危险的"
+  },
+  {
+    "id": "primary-md-859",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dangerous",
+    "phonetic": "/ˈdeɪndʒərəs/",
+    "cn": "有危险的；不安全的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very dangerous",
+      "a dangerous person"
+    ],
+    "examples": [
+      "This book is dangerous for beginners.",
+      "She gave me a dangerous answer."
+    ],
+    "example": "This book is dangerous for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：有危险的；不安全的"
+  },
+  {
+    "id": "primary-md-860",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "busy",
+    "phonetic": "/ˈbɪzi/",
+    "cn": "忙碌的；繁忙的；占线的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very busy",
+      "a busy person"
+    ],
+    "examples": [
+      "This book is busy for beginners.",
+      "She gave me a busy answer."
+    ],
+    "example": "This book is busy for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：忙碌的；繁忙的；占线的"
+  },
+  {
+    "id": "primary-md-861",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "free",
+    "phonetic": "/friː/",
+    "cn": "空闲的；自由的；免费的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very free",
+      "a free person"
+    ],
+    "examples": [
+      "The lesson was free but useful.",
+      "My teacher wrote a free comment."
+    ],
+    "example": "The lesson was free but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：空闲的；自由的；免费的"
+  },
+  {
+    "id": "primary-md-862",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "easy",
+    "phonetic": "/ˈiːzi/",
+    "cn": "容易的；简单的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very easy",
+      "a easy person"
+    ],
+    "examples": [
+      "His idea sounds easy.",
+      "We found a easy place to rest."
+    ],
+    "example": "His idea sounds easy.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：容易的；简单的"
+  },
+  {
+    "id": "primary-md-863",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "difficult",
+    "phonetic": "/ˈdɪfɪkəlt/",
+    "cn": "困难的；艰难的；费力的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very difficult",
+      "a difficult person"
+    ],
+    "examples": [
+      "This book is difficult for beginners.",
+      "She gave me a difficult answer."
+    ],
+    "example": "This book is difficult for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：困难的；艰难的；费力的"
+  },
+  {
+    "id": "primary-md-864",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "same",
+    "phonetic": "/seɪm/",
+    "cn": "相同的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very same",
+      "a same person"
+    ],
+    "examples": [
+      "His idea sounds same.",
+      "We found a same place to rest."
+    ],
+    "example": "His idea sounds same.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：相同的"
+  },
+  {
+    "id": "primary-md-865",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "different",
+    "phonetic": "/ˈdɪfrənt/",
+    "cn": "不同的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very different",
+      "a different person"
+    ],
+    "examples": [
+      "The lesson was different but useful.",
+      "My teacher wrote a different comment."
+    ],
+    "example": "The lesson was different but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：不同的"
+  },
+  {
+    "id": "primary-md-866",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "favourite",
+    "phonetic": "/ˈfeɪvərɪt/",
+    "cn": "最喜欢的； 特别喜爱的人（或事物）",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very favourite",
+      "a favourite person"
+    ],
+    "examples": [
+      "The lesson was favourite but useful.",
+      "My teacher wrote a favourite comment."
+    ],
+    "example": "The lesson was favourite but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：最喜欢的； 特别喜爱的人（或事物）"
+  },
+  {
+    "id": "primary-md-867",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "popular",
+    "phonetic": "/ˈpɑːpjələr/",
+    "cn": "受欢迎的；流行的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very popular",
+      "a popular person"
+    ],
+    "examples": [
+      "The lesson was popular but useful.",
+      "My teacher wrote a popular comment."
+    ],
+    "example": "The lesson was popular but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：受欢迎的；流行的"
+  },
+  {
+    "id": "primary-md-868",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "traditional",
+    "phonetic": "/trəˈdɪʃənl/",
+    "cn": "传统的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very traditional",
+      "a traditional person"
+    ],
+    "examples": [
+      "This book is traditional for beginners.",
+      "She gave me a traditional answer."
+    ],
+    "example": "This book is traditional for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：传统的"
+  },
+  {
+    "id": "primary-md-869",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "famous",
+    "phonetic": "/ˈfeɪməs/",
+    "cn": "著名的；出名的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very famous",
+      "a famous person"
+    ],
+    "examples": [
+      "This book is famous for beginners.",
+      "She gave me a famous answer."
+    ],
+    "example": "This book is famous for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：著名的；出名的"
+  },
+  {
+    "id": "primary-md-870",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "special",
+    "phonetic": "/ˈspeʃl/",
+    "cn": "特殊的；特别的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very special",
+      "a special person"
+    ],
+    "examples": [
+      "The road looks special after the rain.",
+      "It is special to finish early."
+    ],
+    "example": "The road looks special after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：特殊的；特别的"
+  },
+  {
+    "id": "primary-md-871",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "comic",
+    "phonetic": "/ˈkɑːmɪk/",
+    "cn": "滑稽的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very comic",
+      "a comic person"
+    ],
+    "examples": [
+      "The lesson was comic but useful.",
+      "My teacher wrote a comic comment."
+    ],
+    "example": "The lesson was comic but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：滑稽的"
+  },
+  {
+    "id": "primary-md-872",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "soft",
+    "phonetic": "/sɔːft/",
+    "cn": "软的；柔软的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very soft",
+      "a soft person"
+    ],
+    "examples": [
+      "The lesson was soft but useful.",
+      "My teacher wrote a soft comment."
+    ],
+    "example": "The lesson was soft but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：软的；柔软的"
+  },
+  {
+    "id": "primary-md-873",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ready",
+    "phonetic": "/ˈredi/",
+    "cn": "准备好；已完成",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very ready",
+      "a ready person"
+    ],
+    "examples": [
+      "The lesson was ready but useful.",
+      "My teacher wrote a ready comment."
+    ],
+    "example": "The lesson was ready but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：准备好；已完成"
+  },
+  {
+    "id": "primary-md-874",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "loud",
+    "phonetic": "/laʊd/",
+    "cn": "喧闹的，大声的，吵闹的；大声地，喧闹地",
+    "pos": "形容词/副词",
+    "rawPos": "adj.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can loud",
+      "loud carefully"
+    ],
+    "examples": [
+      "She wants to loud after school.",
+      "We should loud at the right time."
+    ],
+    "example": "She wants to loud after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：喧闹的，大声的，吵闹的；大声地，喧闹地"
+  },
+  {
+    "id": "primary-md-875",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "broken",
+    "phonetic": "/ˈbroʊkən/",
+    "cn": "破损的；残缺的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very broken",
+      "a broken person"
+    ],
+    "examples": [
+      "The lesson was broken but useful.",
+      "My teacher wrote a broken comment."
+    ],
+    "example": "The lesson was broken but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：破损的；残缺的"
+  },
+  {
+    "id": "primary-md-876",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "poor",
+    "phonetic": "/pʊr/",
+    "cn": "可怜的；贫穷的；劣质的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very poor",
+      "a poor person"
+    ],
+    "examples": [
+      "The lesson was poor but useful.",
+      "My teacher wrote a poor comment."
+    ],
+    "example": "The lesson was poor but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：可怜的；贫穷的；劣质的"
+  },
+  {
+    "id": "primary-md-877",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "slow",
+    "phonetic": "/sloʊ/",
+    "cn": "慢的；（使）放慢速度",
+    "pos": "形容词/动词",
+    "rawPos": "adj.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can slow",
+      "slow carefully"
+    ],
+    "examples": [
+      "He will slow with his friends.",
+      "Do not slow too quickly."
+    ],
+    "example": "He will slow with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：慢的；（使）放慢速度"
+  },
+  {
+    "id": "primary-md-878",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "secret",
+    "phonetic": "/ˈsiːkrət/",
+    "cn": "秘密的，保密的； 秘密",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very secret",
+      "a secret person"
+    ],
+    "examples": [
+      "This book is secret for beginners.",
+      "She gave me a secret answer."
+    ],
+    "example": "This book is secret for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：秘密的，保密的； 秘密"
+  },
+  {
+    "id": "primary-md-879",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "only",
+    "phonetic": "/ˈoʊnli/",
+    "cn": "仅有的，唯一的；只有，仅",
+    "pos": "形容词/副词",
+    "rawPos": "adj.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can only",
+      "only carefully"
+    ],
+    "examples": [
+      "Please only before you leave.",
+      "I learned how to only yesterday."
+    ],
+    "example": "Please only before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：仅有的，唯一的；只有，仅"
+  },
+  {
+    "id": "primary-md-880",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "do",
+    "phonetic": "/duː/",
+    "cn": "做，从事；助动词",
+    "pos": "动词/aux. v",
+    "rawPos": "v.&aux. v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can do",
+      "do carefully"
+    ],
+    "examples": [
+      "She wants to do after school.",
+      "We should do at the right time."
+    ],
+    "example": "She wants to do after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：做，从事；助动词"
+  },
+  {
+    "id": "primary-md-881",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "have",
+    "phonetic": "/hæv/",
+    "cn": "有；占有；得病",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can have",
+      "have carefully"
+    ],
+    "examples": [
+      "Please have before you leave.",
+      "I learned how to have yesterday."
+    ],
+    "example": "Please have before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：有；占有；得病"
+  },
+  {
+    "id": "primary-md-882",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "let",
+    "phonetic": "/let/",
+    "cn": "让；允许",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can let",
+      "let carefully"
+    ],
+    "examples": [
+      "Please let before you leave.",
+      "I learned how to let yesterday."
+    ],
+    "example": "Please let before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：让；允许"
+  },
+  {
+    "id": "primary-md-883",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "use",
+    "phonetic": "/juːz/",
+    "cn": "使用",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can use",
+      "use carefully"
+    ],
+    "examples": [
+      "Please use before you leave.",
+      "I learned how to use yesterday."
+    ],
+    "example": "Please use before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：使用"
+  },
+  {
+    "id": "primary-md-884",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "live",
+    "phonetic": "/lɪv/",
+    "cn": "居住，生存；活的",
+    "pos": "动词/形容词",
+    "rawPos": "v.&adj.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can live",
+      "live carefully"
+    ],
+    "examples": [
+      "They live together in the park.",
+      "Can you live this afternoon?"
+    ],
+    "example": "They live together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：居住，生存；活的"
+  },
+  {
+    "id": "primary-md-885",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "help",
+    "phonetic": "/help/",
+    "cn": "帮助；援助",
+    "pos": "v.＆n",
+    "rawPos": "v.＆n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "can help",
+      "help carefully"
+    ],
+    "examples": [
+      "They help together in the park.",
+      "Can you help this afternoon?"
+    ],
+    "example": "They help together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：帮助；援助"
+  },
+  {
+    "id": "primary-md-886",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "come",
+    "phonetic": "/kʌm/",
+    "cn": "来",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can come",
+      "come carefully"
+    ],
+    "examples": [
+      "They come together in the park.",
+      "Can you come this afternoon?"
+    ],
+    "example": "They come together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：来"
+  },
+  {
+    "id": "primary-md-887",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "go",
+    "phonetic": "/ɡoʊ/",
+    "cn": "去；走；离开",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can go",
+      "go carefully"
+    ],
+    "examples": [
+      "He will go with his friends.",
+      "Do not go too quickly."
+    ],
+    "example": "He will go with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：去；走；离开"
+  },
+  {
+    "id": "primary-md-888",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "give",
+    "phonetic": "/ɡɪv/",
+    "cn": "给；赠送",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can give",
+      "give carefully"
+    ],
+    "examples": [
+      "They give together in the park.",
+      "Can you give this afternoon?"
+    ],
+    "example": "They give together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：给；赠送"
+  },
+  {
+    "id": "primary-md-889",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bring",
+    "phonetic": "/brɪŋ/",
+    "cn": "带来；取来",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can bring",
+      "bring carefully"
+    ],
+    "examples": [
+      "Please bring before you leave.",
+      "I learned how to bring yesterday."
+    ],
+    "example": "Please bring before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：带来；取来"
+  },
+  {
+    "id": "primary-md-890",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "build",
+    "phonetic": "/bɪld/",
+    "cn": "建筑，建造； 身材",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can build",
+      "build carefully"
+    ],
+    "examples": [
+      "They build together in the park.",
+      "Can you build this afternoon?"
+    ],
+    "example": "They build together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：建筑，建造； 身材"
+  },
+  {
+    "id": "primary-md-891",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "wish",
+    "phonetic": "/wɪʃ/",
+    "cn": "祝愿，想要，盼望； 愿望，祝愿",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can wish",
+      "wish carefully"
+    ],
+    "examples": [
+      "She wants to wish after school.",
+      "We should wish at the right time."
+    ],
+    "example": "She wants to wish after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：祝愿，想要，盼望； 愿望，祝愿"
+  },
+  {
+    "id": "primary-md-892",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hope",
+    "phonetic": "/hoʊp/",
+    "cn": "希望；期望",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can hope",
+      "hope carefully"
+    ],
+    "examples": [
+      "Please hope before you leave.",
+      "I learned how to hope yesterday."
+    ],
+    "example": "Please hope before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：希望；期望"
+  },
+  {
+    "id": "primary-md-893",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "want",
+    "phonetic": "/wɑːnt/",
+    "cn": "要；想要；希望",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can want",
+      "want carefully"
+    ],
+    "examples": [
+      "Please want before you leave.",
+      "I learned how to want yesterday."
+    ],
+    "example": "Please want before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：要；想要；希望"
+  },
+  {
+    "id": "primary-md-894",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "need",
+    "phonetic": "/niːd/",
+    "cn": "需要",
+    "pos": "动词/名词/aux",
+    "rawPos": "v., n. &aux.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can need",
+      "need carefully"
+    ],
+    "examples": [
+      "She wants to need after school.",
+      "We should need at the right time."
+    ],
+    "example": "She wants to need after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：需要"
+  },
+  {
+    "id": "primary-md-895",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "keep",
+    "phonetic": "/kiːp/",
+    "cn": "（使）保持；继续",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can keep",
+      "keep carefully"
+    ],
+    "examples": [
+      "They keep together in the park.",
+      "Can you keep this afternoon?"
+    ],
+    "example": "They keep together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：（使）保持；继续"
+  },
+  {
+    "id": "primary-md-896",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "stay",
+    "phonetic": "/steɪ/",
+    "cn": "保持；停留",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can stay",
+      "stay carefully"
+    ],
+    "examples": [
+      "She wants to stay after school.",
+      "We should stay at the right time."
+    ],
+    "example": "She wants to stay after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：保持；停留"
+  },
+  {
+    "id": "primary-md-897",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "know",
+    "phonetic": "/noʊ/",
+    "cn": "知道；了解；懂得",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can know",
+      "know carefully"
+    ],
+    "examples": [
+      "They know together in the park.",
+      "Can you know this afternoon?"
+    ],
+    "example": "They know together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：知道；了解；懂得"
+  },
+  {
+    "id": "primary-md-898",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "wait",
+    "phonetic": "/weɪt/",
+    "cn": "等；等待",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can wait",
+      "wait carefully"
+    ],
+    "examples": [
+      "Please wait before you leave.",
+      "I learned how to wait yesterday."
+    ],
+    "example": "Please wait before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：等；等待"
+  },
+  {
+    "id": "primary-md-899",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "guess",
+    "phonetic": "/ɡes/",
+    "cn": "猜测；估计",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can guess",
+      "guess carefully"
+    ],
+    "examples": [
+      "Please guess before you leave.",
+      "I learned how to guess yesterday."
+    ],
+    "example": "Please guess before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：猜测；估计"
+  },
+  {
+    "id": "primary-md-900",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "think",
+    "phonetic": "/θɪŋk/",
+    "cn": "想；思考；认为",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can think",
+      "think carefully"
+    ],
+    "examples": [
+      "Please think before you leave.",
+      "I learned how to think yesterday."
+    ],
+    "example": "Please think before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：想；思考；认为"
+  },
+  {
+    "id": "primary-md-901",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "forget",
+    "phonetic": "/fərˈɡet/",
+    "cn": "忘记；遗忘",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can forget",
+      "forget carefully"
+    ],
+    "examples": [
+      "Please forget before you leave.",
+      "I learned how to forget yesterday."
+    ],
+    "example": "Please forget before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：忘记；遗忘"
+  },
+  {
+    "id": "primary-md-902",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "remember",
+    "phonetic": "/rɪˈmembər/",
+    "cn": "记得",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can remember",
+      "remember carefully"
+    ],
+    "examples": [
+      "He will remember with his friends.",
+      "Do not remember too quickly."
+    ],
+    "example": "He will remember with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：记得"
+  },
+  {
+    "id": "primary-md-903",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "change",
+    "phonetic": "/tʃeɪndʒ/",
+    "cn": "改变；变化",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can change",
+      "change carefully"
+    ],
+    "examples": [
+      "She wants to change after school.",
+      "We should change at the right time."
+    ],
+    "example": "She wants to change after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：改变；变化"
+  },
+  {
+    "id": "primary-md-904",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "miss",
+    "phonetic": "/mɪs/",
+    "cn": "错过；想念",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can miss",
+      "miss carefully"
+    ],
+    "examples": [
+      "Please miss before you leave.",
+      "I learned how to miss yesterday."
+    ],
+    "example": "Please miss before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：错过；想念"
+  },
+  {
+    "id": "primary-md-905",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "start",
+    "phonetic": "/stɑːrt/",
+    "cn": "开始",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can start",
+      "start carefully"
+    ],
+    "examples": [
+      "She wants to start after school.",
+      "We should start at the right time."
+    ],
+    "example": "She wants to start after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：开始"
+  },
+  {
+    "id": "primary-md-906",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "begin",
+    "phonetic": "/bɪˈɡɪn/",
+    "cn": "开始；启动",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can begin",
+      "begin carefully"
+    ],
+    "examples": [
+      "She wants to begin after school.",
+      "We should begin at the right time."
+    ],
+    "example": "She wants to begin after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：开始；启动"
+  },
+  {
+    "id": "primary-md-907",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "finish",
+    "phonetic": "/ˈfɪnɪʃ/",
+    "cn": "做完；完成；结束",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can finish",
+      "finish carefully"
+    ],
+    "examples": [
+      "They finish together in the park.",
+      "Can you finish this afternoon?"
+    ],
+    "example": "They finish together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：做完；完成；结束"
+  },
+  {
+    "id": "primary-md-908",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "become",
+    "phonetic": "/bɪˈkʌm/",
+    "cn": "开始变得；变成；成为",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can become",
+      "become carefully"
+    ],
+    "examples": [
+      "Please become before you leave.",
+      "I learned how to become yesterday."
+    ],
+    "example": "Please become before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：开始变得；变成；成为"
+  },
+  {
+    "id": "primary-md-909",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "turn",
+    "phonetic": "/tɜːrn/",
+    "cn": "转弯，（使）转动； （依次轮到的）机会",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can turn",
+      "turn carefully"
+    ],
+    "examples": [
+      "Please turn before you leave.",
+      "I learned how to turn yesterday."
+    ],
+    "example": "Please turn before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：转弯，（使）转动； （依次轮到的）机会"
+  },
+  {
+    "id": "primary-md-910",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "clean",
+    "phonetic": "/kliːn/",
+    "cn": "干净的；打扫",
+    "pos": "形容词/动词",
+    "rawPos": "adj.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can clean",
+      "clean carefully"
+    ],
+    "examples": [
+      "Please clean before you leave.",
+      "I learned how to clean yesterday."
+    ],
+    "example": "Please clean before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：干净的；打扫"
+  },
+  {
+    "id": "primary-md-911",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sweep",
+    "phonetic": "/swiːp/",
+    "cn": "扫；打扫",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can sweep",
+      "sweep carefully"
+    ],
+    "examples": [
+      "She wants to sweep after school.",
+      "We should sweep at the right time."
+    ],
+    "example": "She wants to sweep after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：扫；打扫"
+  },
+  {
+    "id": "primary-md-912",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "wash",
+    "phonetic": "/wɑːʃ/",
+    "cn": "洗（涤）",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can wash",
+      "wash carefully"
+    ],
+    "examples": [
+      "She wants to wash after school.",
+      "We should wash at the right time."
+    ],
+    "example": "She wants to wash after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：洗（涤）"
+  },
+  {
+    "id": "primary-md-913",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hurry",
+    "phonetic": "/ˈhɜːri/",
+    "cn": "赶快，匆忙； 匆忙，急忙",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can hurry",
+      "hurry carefully"
+    ],
+    "examples": [
+      "She wants to hurry after school.",
+      "We should hurry at the right time."
+    ],
+    "example": "She wants to hurry after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：赶快，匆忙； 匆忙，急忙"
+  },
+  {
+    "id": "primary-md-914",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "point",
+    "phonetic": "/pɔɪnt/",
+    "cn": "点，得分；指向",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can point",
+      "point carefully"
+    ],
+    "examples": [
+      "She wants to point after school.",
+      "We should point at the right time."
+    ],
+    "example": "She wants to point after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：点，得分；指向"
+  },
+  {
+    "id": "primary-md-915",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "send",
+    "phonetic": "/send/",
+    "cn": "邮寄；发送",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can send",
+      "send carefully"
+    ],
+    "examples": [
+      "Please send before you leave.",
+      "I learned how to send yesterday."
+    ],
+    "example": "Please send before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：邮寄；发送"
+  },
+  {
+    "id": "primary-md-916",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cut",
+    "phonetic": "/kʌt/",
+    "cn": "切；割；修剪；切成",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can cut",
+      "cut carefully"
+    ],
+    "examples": [
+      "Please cut before you leave.",
+      "I learned how to cut yesterday."
+    ],
+    "example": "Please cut before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：切；割；修剪；切成"
+  },
+  {
+    "id": "primary-md-917",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fix",
+    "phonetic": "/fɪks/",
+    "cn": "修理；安装",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can fix",
+      "fix carefully"
+    ],
+    "examples": [
+      "He will fix with his friends.",
+      "Do not fix too quickly."
+    ],
+    "example": "He will fix with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：修理；安装"
+  },
+  {
+    "id": "primary-md-918",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "break",
+    "phonetic": "/breɪk/",
+    "cn": "（使）破，裂，碎，弄坏，； 休息",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can break",
+      "break carefully"
+    ],
+    "examples": [
+      "Please break before you leave.",
+      "I learned how to break yesterday."
+    ],
+    "example": "Please break before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：（使）破，裂，碎，弄坏，； 休息"
+  },
+  {
+    "id": "primary-md-919",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hurt",
+    "phonetic": "/hɜːrt/",
+    "cn": "（使）疼痛，受伤；受伤的",
+    "pos": "动词/形容词",
+    "rawPos": "v.&adj.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can hurt",
+      "hurt carefully"
+    ],
+    "examples": [
+      "They hurt together in the park.",
+      "Can you hurt this afternoon?"
+    ],
+    "example": "They hurt together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：（使）疼痛，受伤；受伤的"
+  },
+  {
+    "id": "primary-md-920",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "worry",
+    "phonetic": "/ˈwɜːri/",
+    "cn": "担心；担忧",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can worry",
+      "worry carefully"
+    ],
+    "examples": [
+      "They worry together in the park.",
+      "Can you worry this afternoon?"
+    ],
+    "example": "They worry together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：担心；担忧"
+  },
+  {
+    "id": "primary-md-921",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "happen",
+    "phonetic": "/ˈhæpən/",
+    "cn": "发生；出现；碰巧",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can happen",
+      "happen carefully"
+    ],
+    "examples": [
+      "She wants to happen after school.",
+      "We should happen at the right time."
+    ],
+    "example": "She wants to happen after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：发生；出现；碰巧"
+  },
+  {
+    "id": "primary-md-922",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "report",
+    "phonetic": "/rɪˈpɔːrt/",
+    "cn": "报道；汇报；报告",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can report",
+      "report carefully"
+    ],
+    "examples": [
+      "Please report before you leave.",
+      "I learned how to report yesterday."
+    ],
+    "example": "Please report before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：报道；汇报；报告"
+  },
+  {
+    "id": "primary-md-923",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "type",
+    "phonetic": "/taɪp/",
+    "cn": "打字； 类型，种类",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can type",
+      "type carefully"
+    ],
+    "examples": [
+      "She wants to type after school.",
+      "We should type at the right time."
+    ],
+    "example": "She wants to type after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：打字； 类型，种类"
+  },
+  {
+    "id": "primary-md-924",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "follow",
+    "phonetic": "/ˈfɑːloʊ/",
+    "cn": "跟随；跟踪；遵循",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can follow",
+      "follow carefully"
+    ],
+    "examples": [
+      "They follow together in the park.",
+      "Can you follow this afternoon?"
+    ],
+    "example": "They follow together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：跟随；跟踪；遵循"
+  },
+  {
+    "id": "primary-md-925",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hang",
+    "phonetic": "/hæŋ/",
+    "cn": "悬挂",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can hang",
+      "hang carefully"
+    ],
+    "examples": [
+      "Please hang before you leave.",
+      "I learned how to hang yesterday."
+    ],
+    "example": "Please hang before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：悬挂"
+  },
+  {
+    "id": "primary-md-926",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "stick",
+    "phonetic": "/stɪk/",
+    "cn": "粘贴；粘住",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can stick",
+      "stick carefully"
+    ],
+    "examples": [
+      "He will stick with his friends.",
+      "Do not stick too quickly."
+    ],
+    "example": "He will stick with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：粘贴；粘住"
+  },
+  {
+    "id": "primary-md-927",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "shine",
+    "phonetic": "/ʃaɪn/",
+    "cn": "发光；照耀；擦亮",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can shine",
+      "shine carefully"
+    ],
+    "examples": [
+      "She wants to shine after school.",
+      "We should shine at the right time."
+    ],
+    "example": "She wants to shine after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：发光；照耀；擦亮"
+  },
+  {
+    "id": "primary-md-928",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cross",
+    "phonetic": "/krɔːs/",
+    "cn": "穿过（马路等）；渡过（河）",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can cross",
+      "cross carefully"
+    ],
+    "examples": [
+      "She wants to cross after school.",
+      "We should cross at the right time."
+    ],
+    "example": "She wants to cross after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：穿过（马路等）；渡过（河）"
+  },
+  {
+    "id": "primary-md-929",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "count",
+    "phonetic": "/kaʊnt/",
+    "cn": "数数",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can count",
+      "count carefully"
+    ],
+    "examples": [
+      "Please count before you leave.",
+      "I learned how to count yesterday."
+    ],
+    "example": "Please count before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：数数"
+  },
+  {
+    "id": "primary-md-930",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "why",
+    "phonetic": "/waɪ/",
+    "cn": "为什么；为何",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can why",
+      "why carefully"
+    ],
+    "examples": [
+      "She wants to why after school.",
+      "We should why at the right time."
+    ],
+    "example": "She wants to why after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：为什么；为何"
+  },
+  {
+    "id": "primary-md-931",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "how",
+    "phonetic": "/haʊ/",
+    "cn": "如何；怎样；多么",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can how",
+      "how carefully"
+    ],
+    "examples": [
+      "They how together in the park.",
+      "Can you how this afternoon?"
+    ],
+    "example": "They how together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：如何；怎样；多么"
+  },
+  {
+    "id": "primary-md-932",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "not",
+    "phonetic": "/nɑːt/",
+    "cn": "不，没有",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can not",
+      "not carefully"
+    ],
+    "examples": [
+      "They not together in the park.",
+      "Can you not this afternoon?"
+    ],
+    "example": "They not together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：不，没有"
+  },
+  {
+    "id": "primary-md-933",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "too",
+    "phonetic": "/tuː/",
+    "cn": "也；太；过于",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can too",
+      "too carefully"
+    ],
+    "examples": [
+      "Please too before you leave.",
+      "I learned how to too yesterday."
+    ],
+    "example": "Please too before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：也；太；过于"
+  },
+  {
+    "id": "primary-md-934",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "also",
+    "phonetic": "/ˈɔːlsoʊ/",
+    "cn": "也；而且；此外",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can also",
+      "also carefully"
+    ],
+    "examples": [
+      "She wants to also after school.",
+      "We should also at the right time."
+    ],
+    "example": "She wants to also after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：也；而且；此外"
+  },
+  {
+    "id": "primary-md-935",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "very",
+    "phonetic": "/ˈveri/",
+    "cn": "很；非常",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can very",
+      "very carefully"
+    ],
+    "examples": [
+      "They very together in the park.",
+      "Can you very this afternoon?"
+    ],
+    "example": "They very together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：很；非常"
+  },
+  {
+    "id": "primary-md-936",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "quite",
+    "phonetic": "/kwaɪt/",
+    "cn": "相当；完全；非常；很",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can quite",
+      "quite carefully"
+    ],
+    "examples": [
+      "She wants to quite after school.",
+      "We should quite at the right time."
+    ],
+    "example": "She wants to quite after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：相当；完全；非常；很"
+  },
+  {
+    "id": "primary-md-937",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "just",
+    "phonetic": "/dʒʌst/",
+    "cn": "正好，仅仅，只是；公正的，合适的",
+    "pos": "副词/形容词",
+    "rawPos": "adv.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can just",
+      "just carefully"
+    ],
+    "examples": [
+      "Please just before you leave.",
+      "I learned how to just yesterday."
+    ],
+    "example": "Please just before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：正好，仅仅，只是；公正的，合适的"
+  },
+  {
+    "id": "primary-md-938",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "again",
+    "phonetic": "/əˈɡen/",
+    "cn": "再一次；又一次",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can again",
+      "again carefully"
+    ],
+    "examples": [
+      "She wants to again after school.",
+      "We should again at the right time."
+    ],
+    "example": "She wants to again after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：再一次；又一次"
+  },
+  {
+    "id": "primary-md-939",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "nearly",
+    "phonetic": "/ˈnɪrli/",
+    "cn": "几乎；差不多",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can nearly",
+      "nearly carefully"
+    ],
+    "examples": [
+      "They nearly together in the park.",
+      "Can you nearly this afternoon?"
+    ],
+    "example": "They nearly together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：几乎；差不多"
+  },
+  {
+    "id": "primary-md-940",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "still",
+    "phonetic": "/stɪl/",
+    "cn": "仍然，还；静止的",
+    "pos": "副词/形容词",
+    "rawPos": "adv.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can still",
+      "still carefully"
+    ],
+    "examples": [
+      "He will still with his friends.",
+      "Do not still too quickly."
+    ],
+    "example": "He will still with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：仍然，还；静止的"
+  },
+  {
+    "id": "primary-md-941",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sure",
+    "phonetic": "/ʃʊr/",
+    "cn": "（表示同意）当然；确信，肯定，必定，无疑",
+    "pos": "副词/形容词",
+    "rawPos": "adv.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can sure",
+      "sure carefully"
+    ],
+    "examples": [
+      "He will sure with his friends.",
+      "Do not sure too quickly."
+    ],
+    "example": "He will sure with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：（表示同意）当然；确信，肯定，必定，无疑"
+  },
+  {
+    "id": "primary-md-942",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "together",
+    "phonetic": "/təˈɡeðər/",
+    "cn": "在一起；共同",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can together",
+      "together carefully"
+    ],
+    "examples": [
+      "She wants to together after school.",
+      "We should together at the right time."
+    ],
+    "example": "She wants to together after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：在一起；共同"
+  },
+  {
+    "id": "primary-md-943",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "away",
+    "phonetic": "/əˈweɪ/",
+    "cn": "离开；去别处；在（某距离）处",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can away",
+      "away carefully"
+    ],
+    "examples": [
+      "They away together in the park.",
+      "Can you away this afternoon?"
+    ],
+    "example": "They away together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：离开；去别处；在（某距离）处"
+  },
+  {
+    "id": "primary-md-944",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "else",
+    "phonetic": "/els/",
+    "cn": "其他的；别的；另外的",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can else",
+      "else carefully"
+    ],
+    "examples": [
+      "She wants to else after school.",
+      "We should else at the right time."
+    ],
+    "example": "She wants to else after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：其他的；别的；另外的"
+  },
+  {
+    "id": "primary-md-945",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "maybe",
+    "phonetic": "/ˈmeɪbi/",
+    "cn": "可能；也许；或许；大概",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can maybe",
+      "maybe carefully"
+    ],
+    "examples": [
+      "He will maybe with his friends.",
+      "Do not maybe too quickly."
+    ],
+    "example": "He will maybe with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：可能；也许；或许；大概"
+  },
+  {
+    "id": "primary-md-946",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fast",
+    "phonetic": "/fæst/",
+    "cn": "快的；迅速的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very fast",
+      "a fast person"
+    ],
+    "examples": [
+      "The lesson was fast but useful.",
+      "My teacher wrote a fast comment."
+    ],
+    "example": "The lesson was fast but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：快的；迅速的"
+  },
+  {
+    "id": "primary-md-947",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "quickly",
+    "phonetic": "/ˈkwɪkli/",
+    "cn": "迅速地；很快地",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can quickly",
+      "quickly carefully"
+    ],
+    "examples": [
+      "Please quickly before you leave.",
+      "I learned how to quickly yesterday."
+    ],
+    "example": "Please quickly before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：迅速地；很快地"
+  },
+  {
+    "id": "primary-md-948",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "finally",
+    "phonetic": "/ˈfaɪnəli/",
+    "cn": "终于；最终",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can finally",
+      "finally carefully"
+    ],
+    "examples": [
+      "Please finally before you leave.",
+      "I learned how to finally yesterday."
+    ],
+    "example": "Please finally before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：终于；最终"
+  },
+  {
+    "id": "primary-md-949",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "really",
+    "phonetic": "/ˈriːəli/",
+    "cn": "事实上；真正地；确实",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can really",
+      "really carefully"
+    ],
+    "examples": [
+      "They really together in the park.",
+      "Can you really this afternoon?"
+    ],
+    "example": "They really together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：事实上；真正地；确实"
+  },
+  {
+    "id": "primary-md-950",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "am",
+    "phonetic": "/əm/",
+    "cn": "是（be的第一人称现在时单数形式）",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can am",
+      "am carefully"
+    ],
+    "examples": [
+      "She wants to am after school.",
+      "We should am at the right time."
+    ],
+    "example": "She wants to am after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：是（be的第一人称现在时单数形式）"
+  },
+  {
+    "id": "primary-md-951",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "is",
+    "phonetic": "/ɪz/",
+    "cn": "是（be的第三人称现在时单数形式）",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can is",
+      "is carefully"
+    ],
+    "examples": [
+      "She wants to is after school.",
+      "We should is at the right time."
+    ],
+    "example": "She wants to is after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：是（be的第三人称现在时单数形式）"
+  },
+  {
+    "id": "primary-md-952",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "are",
+    "phonetic": "/ɑːr/",
+    "cn": "是（be的现在时复数以及第二人称单数形式)",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can are",
+      "are carefully"
+    ],
+    "examples": [
+      "She wants to are after school.",
+      "We should are at the right time."
+    ],
+    "example": "She wants to are after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：是（be的现在时复数以及第二人称单数形式)"
+  },
+  {
+    "id": "primary-md-953",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "can",
+    "phonetic": "/kæn/",
+    "cn": "可以，能够； 金属罐",
+    "pos": "aux./名词",
+    "rawPos": "aux.&n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a can",
+      "the can"
+    ],
+    "examples": [
+      "My friend asked about the can.",
+      "There is a can in the picture."
+    ],
+    "example": "My friend asked about the can.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：可以，能够； 金属罐"
+  },
+  {
+    "id": "primary-md-954",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "may",
+    "phonetic": "/meɪ/",
+    "cn": "也许；可能",
+    "pos": "aux",
+    "rawPos": "aux.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a may",
+      "the may"
+    ],
+    "examples": [
+      "The teacher points to the may.",
+      "I wrote the may in my notebook."
+    ],
+    "example": "The teacher points to the may.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：也许；可能"
+  },
+  {
+    "id": "primary-md-955",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "would",
+    "phonetic": "/wʊd/",
+    "cn": "（客气地建议或邀请）",
+    "pos": "aux",
+    "rawPos": "aux.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a would",
+      "the would"
+    ],
+    "examples": [
+      "My friend asked about the would.",
+      "There is a would in the picture."
+    ],
+    "example": "My friend asked about the would.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：（客气地建议或邀请）"
+  },
+  {
+    "id": "primary-md-956",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "will",
+    "phonetic": "/wɪl/",
+    "cn": "（谈及将来），将要； 意志",
+    "pos": "aux./名词",
+    "rawPos": "aux.&n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a will",
+      "the will"
+    ],
+    "examples": [
+      "This story mentions a will.",
+      "We talked about the will after class."
+    ],
+    "example": "This story mentions a will.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：（谈及将来），将要； 意志"
+  },
+  {
+    "id": "primary-md-957",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "shall",
+    "phonetic": "/ʃæl/",
+    "cn": "（用于第一人称）将要；必定；应该",
+    "pos": "aux",
+    "rawPos": "aux.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a shall",
+      "the shall"
+    ],
+    "examples": [
+      "Please put the shall on the desk.",
+      "He found a shall in the box."
+    ],
+    "example": "Please put the shall on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：（用于第一人称）将要；必定；应该"
+  },
+  {
+    "id": "primary-md-958",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "must",
+    "phonetic": "/mʌst/",
+    "cn": "必须；一定",
+    "pos": "aux",
+    "rawPos": "aux.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a must",
+      "the must"
+    ],
+    "examples": [
+      "The teacher points to the must.",
+      "I wrote the must in my notebook."
+    ],
+    "example": "The teacher points to the must.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：必须；一定"
+  },
+  {
+    "id": "primary-md-959",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "should",
+    "phonetic": "/ʃʊd/",
+    "cn": "应该",
+    "pos": "aux",
+    "rawPos": "aux.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a should",
+      "the should"
+    ],
+    "examples": [
+      "This story mentions a should.",
+      "We talked about the should after class."
+    ],
+    "example": "This story mentions a should.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：应该"
+  },
+  {
+    "id": "primary-md-960",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "in",
+    "phonetic": "/ɪn/",
+    "cn": "在里面，在内；在…里",
+    "pos": "副词/介词",
+    "rawPos": "adv.&prep.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can in",
+      "in carefully"
+    ],
+    "examples": [
+      "They in together in the park.",
+      "Can you in this afternoon?"
+    ],
+    "example": "They in together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：在里面，在内；在…里"
+  },
+  {
+    "id": "primary-md-961",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "on",
+    "phonetic": "/ɑːn/",
+    "cn": "在…上",
+    "pos": "介词",
+    "rawPos": "prep.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "on the desk",
+      "on school"
+    ],
+    "examples": [
+      "Put the chair on the table.",
+      "The path goes on the river."
+    ],
+    "example": "Put the chair on the table.",
+    "sentence": "Put the chair ___ the table.",
+    "hint": "选择合适的单词：在…上"
+  },
+  {
+    "id": "primary-md-962",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "at",
+    "phonetic": "/æt/",
+    "cn": "在；向；朝",
+    "pos": "介词",
+    "rawPos": "prep.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "at the desk",
+      "at school"
+    ],
+    "examples": [
+      "Put the chair at the table.",
+      "The path goes at the river."
+    ],
+    "example": "Put the chair at the table.",
+    "sentence": "Put the chair ___ the table.",
+    "hint": "选择合适的单词：在；向；朝"
+  },
+  {
+    "id": "primary-md-963",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "to",
+    "phonetic": "/tu/",
+    "cn": "向，朝，往； 不定式符号",
+    "pos": "介词/inf. m",
+    "rawPos": "prep.&inf. m.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "to the desk",
+      "to school"
+    ],
+    "examples": [
+      "Put the chair to the table.",
+      "The path goes to the river."
+    ],
+    "example": "Put the chair to the table.",
+    "sentence": "Put the chair ___ the table.",
+    "hint": "选择合适的单词：向，朝，往； 不定式符号"
+  },
+  {
+    "id": "primary-md-964",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "of",
+    "phonetic": "/əv/",
+    "cn": "关于；属于",
+    "pos": "介词",
+    "rawPos": "prep.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "of the desk",
+      "of school"
+    ],
+    "examples": [
+      "Put the chair of the table.",
+      "The path goes of the river."
+    ],
+    "example": "Put the chair of the table.",
+    "sentence": "Put the chair ___ the table.",
+    "hint": "选择合适的单词：关于；属于"
+  },
+  {
+    "id": "primary-md-965",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "by",
+    "phonetic": "/baɪ/",
+    "cn": "在…之前，在…旁边，由于；经过",
+    "pos": "介词/副词",
+    "rawPos": "prep.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can by",
+      "by carefully"
+    ],
+    "examples": [
+      "They by together in the park.",
+      "Can you by this afternoon?"
+    ],
+    "example": "They by together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：在…之前，在…旁边，由于；经过"
+  },
+  {
+    "id": "primary-md-966",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "for",
+    "phonetic": "/fɔːr/",
+    "cn": "给，为了，支持，由于；因为，由于",
+    "pos": "介词/连词",
+    "rawPos": "prep.&conj.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "for the desk",
+      "for school"
+    ],
+    "examples": [
+      "The book is for the desk.",
+      "We waited for school."
+    ],
+    "example": "The book is for the desk.",
+    "sentence": "The book is ___ the desk.",
+    "hint": "选择合适的单词：给，为了，支持，由于；因为，由于"
+  },
+  {
+    "id": "primary-md-967",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "off",
+    "phonetic": "/ɔːf/",
+    "cn": "从（某处）落下，离开；离开（某处）",
+    "pos": "介词/副词",
+    "rawPos": "prep.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can off",
+      "off carefully"
+    ],
+    "examples": [
+      "They off together in the park.",
+      "Can you off this afternoon?"
+    ],
+    "example": "They off together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：从（某处）落下，离开；离开（某处）"
+  },
+  {
+    "id": "primary-md-968",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "from",
+    "phonetic": "/frəm/",
+    "cn": "从…起；来自",
+    "pos": "介词",
+    "rawPos": "prep.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "from the desk",
+      "from school"
+    ],
+    "examples": [
+      "Put the chair from the table.",
+      "The path goes from the river."
+    ],
+    "example": "Put the chair from the table.",
+    "sentence": "Put the chair ___ the table.",
+    "hint": "选择合适的单词：从…起；来自"
+  },
+  {
+    "id": "primary-md-969",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "with",
+    "phonetic": "/wɪð/",
+    "cn": "和…在一起；和；同",
+    "pos": "介词",
+    "rawPos": "prep.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "with the desk",
+      "with school"
+    ],
+    "examples": [
+      "The book is with the desk.",
+      "We waited with school."
+    ],
+    "example": "The book is with the desk.",
+    "sentence": "The book is ___ the desk.",
+    "hint": "选择合适的单词：和…在一起；和；同"
+  },
+  {
+    "id": "primary-md-970",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "about",
+    "phonetic": "/əˈbaʊt/",
+    "cn": "关于，对于；大约，到处",
+    "pos": "介词/副词",
+    "rawPos": "prep.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can about",
+      "about carefully"
+    ],
+    "examples": [
+      "He will about with his friends.",
+      "Do not about too quickly."
+    ],
+    "example": "He will about with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：关于，对于；大约，到处"
+  },
+  {
+    "id": "primary-md-971",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "after",
+    "phonetic": "/ˈæftər/",
+    "cn": "在…之后；后来，以后 ；后来的，以后的",
+    "pos": "介词/连词/副词/形容词",
+    "rawPos": "prep.&conj.&adv.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can after",
+      "after carefully"
+    ],
+    "examples": [
+      "She wants to after after school.",
+      "We should after at the right time."
+    ],
+    "example": "She wants to after after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：在…之后；后来，以后 ；后来的，以后的"
+  },
+  {
+    "id": "primary-md-972",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "around",
+    "phonetic": "/əˈraʊnd/",
+    "cn": "围绕；大约，周围",
+    "pos": "介词/副词",
+    "rawPos": "prep.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can around",
+      "around carefully"
+    ],
+    "examples": [
+      "She wants to around after school.",
+      "We should around at the right time."
+    ],
+    "example": "She wants to around after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：围绕；大约，周围"
+  },
+  {
+    "id": "primary-md-973",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "under",
+    "phonetic": "/ˈʌndər/",
+    "cn": "在…下面；在下面",
+    "pos": "介词/副词",
+    "rawPos": "prep.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can under",
+      "under carefully"
+    ],
+    "examples": [
+      "Please under before you leave.",
+      "I learned how to under yesterday."
+    ],
+    "example": "Please under before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：在…下面；在下面"
+  },
+  {
+    "id": "primary-md-974",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "above",
+    "phonetic": "/əˈbʌv/",
+    "cn": "在（或向）…上面",
+    "pos": "介词",
+    "rawPos": "prep.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "above the desk",
+      "above school"
+    ],
+    "examples": [
+      "She stood above the door.",
+      "The ball rolled above the box."
+    ],
+    "example": "She stood above the door.",
+    "sentence": "She stood ___ the door.",
+    "hint": "选择合适的单词：在（或向）…上面"
+  },
+  {
+    "id": "primary-md-975",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "over",
+    "phonetic": "/ˈoʊvər/",
+    "cn": "在…上面；结束，大于，穿过",
+    "pos": "介词/副词",
+    "rawPos": "prep.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can over",
+      "over carefully"
+    ],
+    "examples": [
+      "Please over before you leave.",
+      "I learned how to over yesterday."
+    ],
+    "example": "Please over before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：在…上面；结束，大于，穿过"
+  },
+  {
+    "id": "primary-md-976",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "behind",
+    "phonetic": "/bɪˈhaɪnd/",
+    "cn": "在…后面；在后面",
+    "pos": "介词/副词",
+    "rawPos": "prep.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can behind",
+      "behind carefully"
+    ],
+    "examples": [
+      "He will behind with his friends.",
+      "Do not behind too quickly."
+    ],
+    "example": "He will behind with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：在…后面；在后面"
+  },
+  {
+    "id": "primary-md-977",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "near",
+    "phonetic": "/nɪr/",
+    "cn": "在…附近；附近的",
+    "pos": "介词/形容词",
+    "rawPos": "prep.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very near",
+      "a near person"
+    ],
+    "examples": [
+      "This book is near for beginners.",
+      "She gave me a near answer."
+    ],
+    "example": "This book is near for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：在…附近；附近的"
+  },
+  {
+    "id": "primary-md-978",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "beside",
+    "phonetic": "/bɪˈsaɪd/",
+    "cn": "在旁边（或附近）",
+    "pos": "介词",
+    "rawPos": "prep.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "beside the desk",
+      "beside school"
+    ],
+    "examples": [
+      "The book is beside the desk.",
+      "We waited beside school."
+    ],
+    "example": "The book is beside the desk.",
+    "sentence": "The book is ___ the desk.",
+    "hint": "选择合适的单词：在旁边（或附近）"
+  },
+  {
+    "id": "primary-md-979",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "as",
+    "phonetic": "/æz/",
+    "cn": "作为；如同；像",
+    "pos": "介词",
+    "rawPos": "prep.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "as the desk",
+      "as school"
+    ],
+    "examples": [
+      "The book is as the desk.",
+      "We waited as school."
+    ],
+    "example": "The book is as the desk.",
+    "sentence": "The book is ___ the desk.",
+    "hint": "选择合适的单词：作为；如同；像"
+  },
+  {
+    "id": "primary-md-980",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "up",
+    "phonetic": "/ʌp/",
+    "cn": "向上，在上面；向，在（较高位置） ；向上的",
+    "pos": "副词/介词/形容词",
+    "rawPos": "adv.&prep.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can up",
+      "up carefully"
+    ],
+    "examples": [
+      "Please up before you leave.",
+      "I learned how to up yesterday."
+    ],
+    "example": "Please up before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：向上，在上面；向，在（较高位置） ；向上的"
+  },
+  {
+    "id": "primary-md-981",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "down",
+    "phonetic": "/daʊn/",
+    "cn": "向下；在下面",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can down",
+      "down carefully"
+    ],
+    "examples": [
+      "She wants to down after school.",
+      "We should down at the right time."
+    ],
+    "example": "She wants to down after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：向下；在下面"
+  },
+  {
+    "id": "primary-md-982",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "into",
+    "phonetic": "/ˈɪntu/",
+    "cn": "到…里面；进入",
+    "pos": "介词",
+    "rawPos": "prep.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "into the desk",
+      "into school"
+    ],
+    "examples": [
+      "Put the chair into the table.",
+      "The path goes into the river."
+    ],
+    "example": "Put the chair into the table.",
+    "sentence": "Put the chair ___ the table.",
+    "hint": "选择合适的单词：到…里面；进入"
+  },
+  {
+    "id": "primary-md-983",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "than",
+    "phonetic": "/ðæn/",
+    "cn": "比",
+    "pos": "介词/连词",
+    "rawPos": "prep.&conj.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "than the desk",
+      "than school"
+    ],
+    "examples": [
+      "She stood than the door.",
+      "The ball rolled than the box."
+    ],
+    "example": "She stood than the door.",
+    "sentence": "She stood ___ the door.",
+    "hint": "选择合适的单词：比"
+  },
+  {
+    "id": "primary-md-984",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "until",
+    "phonetic": "/ənˈtɪl/",
+    "cn": "直到…为止",
+    "pos": "介词/连词",
+    "rawPos": "prep.&conj.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "until the desk",
+      "until school"
+    ],
+    "examples": [
+      "The book is until the desk.",
+      "We waited until school."
+    ],
+    "example": "The book is until the desk.",
+    "sentence": "The book is ___ the desk.",
+    "hint": "选择合适的单词：直到…为止"
+  },
+  {
+    "id": "primary-md-985",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "along",
+    "phonetic": "/əˈlɔːŋ/",
+    "cn": "沿着",
+    "pos": "介词",
+    "rawPos": "prep.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "along the desk",
+      "along school"
+    ],
+    "examples": [
+      "Put the chair along the table.",
+      "The path goes along the river."
+    ],
+    "example": "Put the chair along the table.",
+    "sentence": "Put the chair ___ the table.",
+    "hint": "选择合适的单词：沿着"
+  },
+  {
+    "id": "primary-md-986",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "across",
+    "phonetic": "/əˈkrɔːs/",
+    "cn": "横过；在…对面",
+    "pos": "介词",
+    "rawPos": "prep.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "across the desk",
+      "across school"
+    ],
+    "examples": [
+      "The book is across the desk.",
+      "We waited across school."
+    ],
+    "example": "The book is across the desk.",
+    "sentence": "The book is ___ the desk.",
+    "hint": "选择合适的单词：横过；在…对面"
+  },
+  {
+    "id": "primary-md-987",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "through",
+    "phonetic": "/θruː/",
+    "cn": "穿过；通过；从头到尾",
+    "pos": "介词/副词",
+    "rawPos": "prep.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can through",
+      "through carefully"
+    ],
+    "examples": [
+      "Please through before you leave.",
+      "I learned how to through yesterday."
+    ],
+    "example": "Please through before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：穿过；通过；从头到尾"
+  },
+  {
+    "id": "primary-md-988",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "inside",
+    "phonetic": "/ˌɪnˈsaɪd/",
+    "cn": "在（…）里面； 里面 ；里面的",
+    "pos": "介词/副词/名词/形容词",
+    "rawPos": "prep.&adv.&n.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can inside",
+      "inside carefully"
+    ],
+    "examples": [
+      "Please inside before you leave.",
+      "I learned how to inside yesterday."
+    ],
+    "example": "Please inside before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：在（…）里面； 里面 ；里面的"
+  },
+  {
+    "id": "primary-md-989",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "outside",
+    "phonetic": "/ˌaʊtˈsaɪd/",
+    "cn": "在…外面； 外部 ；外部的",
+    "pos": "介词/副词/名词/形容词",
+    "rawPos": "prep.&adv.&n.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can outside",
+      "outside carefully"
+    ],
+    "examples": [
+      "They outside together in the park.",
+      "Can you outside this afternoon?"
+    ],
+    "example": "They outside together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：在…外面； 外部 ；外部的"
+  },
+  {
+    "id": "primary-md-990",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "a/an",
+    "phonetic": "/ə ən/",
+    "cn": "一（个）",
+    "pos": "冠词",
+    "rawPos": "art.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "an a/an",
+      "the a/an"
+    ],
+    "examples": [
+      "Please put the a/an on the desk.",
+      "He found an a/an in the box."
+    ],
+    "example": "Please put the a/an on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：一（个）"
+  },
+  {
+    "id": "primary-md-991",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "the",
+    "phonetic": "/ðə/",
+    "cn": "（放在名词前，特指人、事或物）",
+    "pos": "冠词",
+    "rawPos": "art.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "a the",
+      "the the"
+    ],
+    "examples": [
+      "This story mentions a the.",
+      "We talked about the the after class."
+    ],
+    "example": "This story mentions a the.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：（放在名词前，特指人、事或物）"
+  },
+  {
+    "id": "primary-md-992",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "and",
+    "phonetic": "/ənd/",
+    "cn": "和；与；又；而",
+    "pos": "连词",
+    "rawPos": "conj.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "and then",
+      "and I can"
+    ],
+    "examples": [
+      "She opened the door, and she smiled.",
+      "He was tired, and he kept reading."
+    ],
+    "example": "She opened the door, and she smiled.",
+    "sentence": "She opened the door, ___ she smiled.",
+    "hint": "选择合适的单词：和；与；又；而"
+  },
+  {
+    "id": "primary-md-993",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "or",
+    "phonetic": "/ɔːr/",
+    "cn": "或者；还是",
+    "pos": "连词",
+    "rawPos": "conj.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "or then",
+      "or I can"
+    ],
+    "examples": [
+      "She opened the door, or she smiled.",
+      "He was tired, or he kept reading."
+    ],
+    "example": "She opened the door, or she smiled.",
+    "sentence": "She opened the door, ___ she smiled.",
+    "hint": "选择合适的单词：或者；还是"
+  },
+  {
+    "id": "primary-md-994",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "but",
+    "phonetic": "/bət/",
+    "cn": "但是",
+    "pos": "连词",
+    "rawPos": "conj.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "but then",
+      "but I can"
+    ],
+    "examples": [
+      "She opened the door, but she smiled.",
+      "He was tired, but he kept reading."
+    ],
+    "example": "She opened the door, but she smiled.",
+    "sentence": "She opened the door, ___ she smiled.",
+    "hint": "选择合适的单词：但是"
+  },
+  {
+    "id": "primary-md-995",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "because",
+    "phonetic": "/bɪˈkɔːz/",
+    "cn": "因为",
+    "pos": "连词",
+    "rawPos": "conj.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "because then",
+      "because I can"
+    ],
+    "examples": [
+      "She opened the door, because she smiled.",
+      "He was tired, because he kept reading."
+    ],
+    "example": "She opened the door, because she smiled.",
+    "sentence": "She opened the door, ___ she smiled.",
+    "hint": "选择合适的单词：因为"
+  },
+  {
+    "id": "primary-md-996",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "so",
+    "phonetic": "/soʊ/",
+    "cn": "所以，因此；这么，那么，很",
+    "pos": "连词/副词",
+    "rawPos": "conj.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can so",
+      "so carefully"
+    ],
+    "examples": [
+      "He will so with his friends.",
+      "Do not so too quickly."
+    ],
+    "example": "He will so with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：所以，因此；这么，那么，很"
+  },
+  {
+    "id": "primary-md-997",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "when",
+    "phonetic": "/wen/",
+    "cn": "什么时候，何时；当…时",
+    "pos": "副词/代词/连词",
+    "rawPos": "adv.&pron.&conj.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can when",
+      "when carefully"
+    ],
+    "examples": [
+      "They when together in the park.",
+      "Can you when this afternoon?"
+    ],
+    "example": "They when together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：什么时候，何时；当…时"
+  },
+  {
+    "id": "primary-md-998",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "before",
+    "phonetic": "/bɪˈfɔːr/",
+    "cn": "在…之前；以前，过去",
+    "pos": "介词/连词/副词",
+    "rawPos": "prep.&conj.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can before",
+      "before carefully"
+    ],
+    "examples": [
+      "They before together in the park.",
+      "Can you before this afternoon?"
+    ],
+    "example": "They before together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：在…之前；以前，过去"
+  },
+  {
+    "id": "primary-md-999",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "if",
+    "phonetic": "/ɪf/",
+    "cn": "如果；是否",
+    "pos": "连词",
+    "rawPos": "conj.",
+    "scene": "通用基础",
+    "category": "关系连接",
+    "phrases": [
+      "if then",
+      "if I can"
+    ],
+    "examples": [
+      "I study hard, if I can do well.",
+      "We can go, if we must be careful."
+    ],
+    "example": "I study hard, if I can do well.",
+    "sentence": "I study hard, ___ I can do well.",
+    "hint": "选择合适的单词：如果；是否"
+  },
+  {
+    "id": "primary-md-1000",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "able",
+    "phonetic": "/ˈeɪbl/",
+    "cn": "能够；有才能的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very able",
+      "a able person"
+    ],
+    "examples": [
+      "His idea sounds able.",
+      "We found a able place to rest."
+    ],
+    "example": "His idea sounds able.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：能够；有才能的"
+  },
+  {
+    "id": "primary-md-1001",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "agree",
+    "phonetic": "/əˈɡriː/",
+    "cn": "同意；取得一致意见；（与…）相符",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can agree",
+      "agree carefully"
+    ],
+    "examples": [
+      "Please agree before you leave.",
+      "I learned how to agree yesterday."
+    ],
+    "example": "Please agree before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：同意；取得一致意见；（与…）相符"
+  },
+  {
+    "id": "primary-md-1002",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "anywhere",
+    "phonetic": "/ˈeniwer/",
+    "cn": "在（或去）任何地方；任何地方",
+    "pos": "副词/代词",
+    "rawPos": "adv.&pron.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can anywhere",
+      "anywhere carefully"
+    ],
+    "examples": [
+      "They anywhere together in the park.",
+      "Can you anywhere this afternoon?"
+    ],
+    "example": "They anywhere together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：在（或去）任何地方；任何地方"
+  },
+  {
+    "id": "primary-md-1003",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "appear",
+    "phonetic": "/əˈpɪr/",
+    "cn": "显得；似乎；出现；显现",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can appear",
+      "appear carefully"
+    ],
+    "examples": [
+      "She wants to appear after school.",
+      "We should appear at the right time."
+    ],
+    "example": "She wants to appear after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：显得；似乎；出现；显现"
+  },
+  {
+    "id": "primary-md-1004",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "artist",
+    "phonetic": "/ˈɑːrtɪst/",
+    "cn": "艺术家；画家",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an artist",
+      "the artist"
+    ],
+    "examples": [
+      "Please put the artist on the desk.",
+      "He found an artist in the box."
+    ],
+    "example": "Please put the artist on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：艺术家；画家"
+  },
+  {
+    "id": "primary-md-1005",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "awake",
+    "phonetic": "/əˈweɪk/",
+    "cn": "醒着；（使）醒来",
+    "pos": "形容词/动词",
+    "rawPos": "adj.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can awake",
+      "awake carefully"
+    ],
+    "examples": [
+      "They awake together in the park.",
+      "Can you awake this afternoon?"
+    ],
+    "example": "They awake together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：醒着；（使）醒来"
+  },
+  {
+    "id": "primary-md-1006",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "basket",
+    "phonetic": "/ˈbæskɪt/",
+    "cn": "篮；筐；一篮或一筐（的量）",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a basket",
+      "the basket"
+    ],
+    "examples": [
+      "Please put the basket on the desk.",
+      "He found a basket in the box."
+    ],
+    "example": "Please put the basket on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：篮；筐；一篮或一筐（的量）"
+  },
+  {
+    "id": "primary-md-1007",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "believe",
+    "phonetic": "/bɪˈliːv/",
+    "cn": "相信；认定",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can believe",
+      "believe carefully"
+    ],
+    "examples": [
+      "Please believe before you leave.",
+      "I learned how to believe yesterday."
+    ],
+    "example": "Please believe before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：相信；认定"
+  },
+  {
+    "id": "primary-md-1008",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bin",
+    "phonetic": "/bɪn/",
+    "cn": "垃圾箱；箱，柜",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a bin",
+      "the bin"
+    ],
+    "examples": [
+      "This story mentions a bin.",
+      "We talked about the bin after class."
+    ],
+    "example": "This story mentions a bin.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：垃圾箱；箱，柜"
+  },
+  {
+    "id": "primary-md-1009",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "biscuit",
+    "phonetic": "/ˈbɪskɪt/",
+    "cn": "饼干",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a biscuit",
+      "the biscuit"
+    ],
+    "examples": [
+      "My friend asked about the biscuit.",
+      "There is a biscuit in the picture."
+    ],
+    "example": "My friend asked about the biscuit.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：饼干"
+  },
+  {
+    "id": "primary-md-1010",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bite",
+    "phonetic": "/baɪt/",
+    "cn": "咬",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can bite",
+      "bite carefully"
+    ],
+    "examples": [
+      "They bite together in the park.",
+      "Can you bite this afternoon?"
+    ],
+    "example": "They bite together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：咬"
+  },
+  {
+    "id": "primary-md-1011",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "board",
+    "phonetic": "/bɔːrd/",
+    "cn": "板，木板；上船（或火车、飞机、公共汽车等）",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can board",
+      "board carefully"
+    ],
+    "examples": [
+      "He will board with his friends.",
+      "Do not board too quickly."
+    ],
+    "example": "He will board with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：板，木板；上船（或火车、飞机、公共汽车等）"
+  },
+  {
+    "id": "primary-md-1012",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "boot",
+    "phonetic": "/buːt/",
+    "cn": "靴子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a boot",
+      "the boot"
+    ],
+    "examples": [
+      "This story mentions a boot.",
+      "We talked about the boot after class."
+    ],
+    "example": "This story mentions a boot.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：靴子"
+  },
+  {
+    "id": "primary-md-1013",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "born",
+    "phonetic": "/bɔːrn/",
+    "cn": "出生；诞生",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can born",
+      "born carefully"
+    ],
+    "examples": [
+      "She wants to born after school.",
+      "We should born at the right time."
+    ],
+    "example": "She wants to born after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：出生；诞生"
+  },
+  {
+    "id": "primary-md-1014",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "brave",
+    "phonetic": "/breɪv/",
+    "cn": "勇敢的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very brave",
+      "a brave person"
+    ],
+    "examples": [
+      "The lesson was brave but useful.",
+      "My teacher wrote a brave comment."
+    ],
+    "example": "The lesson was brave but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：勇敢的"
+  },
+  {
+    "id": "primary-md-1015",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "bump",
+    "phonetic": "/bʌmp/",
+    "cn": "撞（上）",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can bump",
+      "bump carefully"
+    ],
+    "examples": [
+      "Please bump before you leave.",
+      "I learned how to bump yesterday."
+    ],
+    "example": "Please bump before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：撞（上）"
+  },
+  {
+    "id": "primary-md-1016",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "butterfly",
+    "phonetic": "/ˈbʌtərflaɪ/",
+    "cn": "蝴蝶",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a butterfly",
+      "the butterfly"
+    ],
+    "examples": [
+      "Please put the butterfly on the desk.",
+      "He found a butterfly in the box."
+    ],
+    "example": "Please put the butterfly on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：蝴蝶"
+  },
+  {
+    "id": "primary-md-1017",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cabbage",
+    "phonetic": "/ˈkæbɪdʒ/",
+    "cn": "卷心菜；洋白菜",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a cabbage",
+      "the cabbage"
+    ],
+    "examples": [
+      "Please put the cabbage on the desk.",
+      "He found a cabbage in the box."
+    ],
+    "example": "Please put the cabbage on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：卷心菜；洋白菜"
+  },
+  {
+    "id": "primary-md-1018",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "canteen",
+    "phonetic": "/kænˈtiːn/",
+    "cn": "食堂；餐厅",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a canteen",
+      "the canteen"
+    ],
+    "examples": [
+      "This story mentions a canteen.",
+      "We talked about the canteen after class."
+    ],
+    "example": "This story mentions a canteen.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：食堂；餐厅"
+  },
+  {
+    "id": "primary-md-1019",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "celebrate",
+    "phonetic": "/ˈselɪbreɪt/",
+    "cn": "庆祝",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can celebrate",
+      "celebrate carefully"
+    ],
+    "examples": [
+      "They celebrate together in the park.",
+      "Can you celebrate this afternoon?"
+    ],
+    "example": "They celebrate together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：庆祝"
+  },
+  {
+    "id": "primary-md-1020",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "chat",
+    "phonetic": "/tʃæt/",
+    "cn": "聊天；闲谈",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can chat",
+      "chat carefully"
+    ],
+    "examples": [
+      "He will chat with his friends.",
+      "Do not chat too quickly."
+    ],
+    "example": "He will chat with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：聊天；闲谈"
+  },
+  {
+    "id": "primary-md-1021",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "check",
+    "phonetic": "/tʃek/",
+    "cn": "检查",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can check",
+      "check carefully"
+    ],
+    "examples": [
+      "She wants to check after school.",
+      "We should check at the right time."
+    ],
+    "example": "She wants to check after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：检查"
+  },
+  {
+    "id": "primary-md-1022",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cheer",
+    "phonetic": "/tʃɪr/",
+    "cn": "欢呼声，喝彩声；欢呼，喝彩",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can cheer",
+      "cheer carefully"
+    ],
+    "examples": [
+      "He will cheer with his friends.",
+      "Do not cheer too quickly."
+    ],
+    "example": "He will cheer with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：欢呼声，喝彩声；欢呼，喝彩"
+  },
+  {
+    "id": "primary-md-1023",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cheetah",
+    "phonetic": "/ˈtʃiːtə/",
+    "cn": "猎豹",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a cheetah",
+      "the cheetah"
+    ],
+    "examples": [
+      "Please put the cheetah on the desk.",
+      "He found a cheetah in the box."
+    ],
+    "example": "Please put the cheetah on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：猎豹"
+  },
+  {
+    "id": "primary-md-1024",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cleaner",
+    "phonetic": "/ˈkliːnər/",
+    "cn": "清洁工；清洁剂；吸尘器",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a cleaner",
+      "the cleaner"
+    ],
+    "examples": [
+      "Please put the cleaner on the desk.",
+      "He found a cleaner in the box."
+    ],
+    "example": "Please put the cleaner on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：清洁工；清洁剂；吸尘器"
+  },
+  {
+    "id": "primary-md-1025",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "climber",
+    "phonetic": "/ˈklaɪmər/",
+    "cn": "攀登者；登山者",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a climber",
+      "the climber"
+    ],
+    "examples": [
+      "My friend asked about the climber.",
+      "There is a climber in the picture."
+    ],
+    "example": "My friend asked about the climber.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：攀登者；登山者"
+  },
+  {
+    "id": "primary-md-1026",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "closet",
+    "phonetic": "/ˈklɑːzɪt/",
+    "cn": "壁橱",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a closet",
+      "the closet"
+    ],
+    "examples": [
+      "This story mentions a closet.",
+      "We talked about the closet after class."
+    ],
+    "example": "This story mentions a closet.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：壁橱"
+  },
+  {
+    "id": "primary-md-1027",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "clown",
+    "phonetic": "/klaʊn/",
+    "cn": "丑角；小丑",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a clown",
+      "the clown"
+    ],
+    "examples": [
+      "Please put the clown on the desk.",
+      "He found a clown in the box."
+    ],
+    "example": "Please put the clown on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：丑角；小丑"
+  },
+  {
+    "id": "primary-md-1028",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "coal",
+    "phonetic": "/koʊl/",
+    "cn": "煤",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a coal",
+      "the coal"
+    ],
+    "examples": [
+      "The teacher points to the coal.",
+      "I wrote the coal in my notebook."
+    ],
+    "example": "The teacher points to the coal.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：煤"
+  },
+  {
+    "id": "primary-md-1029",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "collect",
+    "phonetic": "/kəˈlekt/",
+    "cn": "收集；采集；积累；募捐",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can collect",
+      "collect carefully"
+    ],
+    "examples": [
+      "She wants to collect after school.",
+      "We should collect at the right time."
+    ],
+    "example": "She wants to collect after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：收集；采集；积累；募捐"
+  },
+  {
+    "id": "primary-md-1030",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "colourful",
+    "phonetic": "/ˈkʌlərfl/",
+    "cn": "颜色鲜艳的；五彩缤纷的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very colourful",
+      "a colourful person"
+    ],
+    "examples": [
+      "The road looks colourful after the rain.",
+      "It is colourful to finish early."
+    ],
+    "example": "The road looks colourful after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：颜色鲜艳的；五彩缤纷的"
+  },
+  {
+    "id": "primary-md-1031",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "company",
+    "phonetic": "/ˈkʌmpəni/",
+    "cn": "公司；陪伴",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a company",
+      "the company"
+    ],
+    "examples": [
+      "This story mentions a company.",
+      "We talked about the company after class."
+    ],
+    "example": "This story mentions a company.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：公司；陪伴"
+  },
+  {
+    "id": "primary-md-1032",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "control",
+    "phonetic": "/kənˈtroʊl/",
+    "cn": "控制，掌管；管理权，控制权",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can control",
+      "control carefully"
+    ],
+    "examples": [
+      "He will control with his friends.",
+      "Do not control too quickly."
+    ],
+    "example": "He will control with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：控制，掌管；管理权，控制权"
+  },
+  {
+    "id": "primary-md-1033",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "copy",
+    "phonetic": "/ˈkɑːpi/",
+    "cn": "复制，复印，抄写，作弊；副本，复印件",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can copy",
+      "copy carefully"
+    ],
+    "examples": [
+      "She wants to copy after school.",
+      "We should copy at the right time."
+    ],
+    "example": "She wants to copy after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：复制，复印，抄写，作弊；副本，复印件"
+  },
+  {
+    "id": "primary-md-1034",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "cucumber",
+    "phonetic": "/ˈkjuːkʌmbər/",
+    "cn": "黄瓜",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a cucumber",
+      "the cucumber"
+    ],
+    "examples": [
+      "My friend asked about the cucumber.",
+      "There is a cucumber in the picture."
+    ],
+    "example": "My friend asked about the cucumber.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：黄瓜"
+  },
+  {
+    "id": "primary-md-1035",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "curtain",
+    "phonetic": "/ˈkɜːrtn/",
+    "cn": "窗帘",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a curtain",
+      "the curtain"
+    ],
+    "examples": [
+      "This story mentions a curtain.",
+      "We talked about the curtain after class."
+    ],
+    "example": "This story mentions a curtain.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：窗帘"
+  },
+  {
+    "id": "primary-md-1036",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "danger",
+    "phonetic": "/ˈdeɪndʒər/",
+    "cn": "危险；危害",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a danger",
+      "the danger"
+    ],
+    "examples": [
+      "The teacher points to the danger.",
+      "I wrote the danger in my notebook."
+    ],
+    "example": "The teacher points to the danger.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：危险；危害"
+  },
+  {
+    "id": "primary-md-1037",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "date",
+    "phonetic": "/deɪt/",
+    "cn": "日期；约会",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can date",
+      "date carefully"
+    ],
+    "examples": [
+      "They date together in the park.",
+      "Can you date this afternoon?"
+    ],
+    "example": "They date together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：日期；约会"
+  },
+  {
+    "id": "primary-md-1038",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dead",
+    "phonetic": "/ded/",
+    "cn": "死的；死，死者",
+    "pos": "形容词/名词",
+    "rawPos": "adj.&n.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very dead",
+      "a dead person"
+    ],
+    "examples": [
+      "This book is dead for beginners.",
+      "She gave me a dead answer."
+    ],
+    "example": "This book is dead for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：死的；死，死者"
+  },
+  {
+    "id": "primary-md-1039",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "degree",
+    "phonetic": "/dɪˈɡriː/",
+    "cn": "度；度数；程度",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a degree",
+      "the degree"
+    ],
+    "examples": [
+      "Please put the degree on the desk.",
+      "He found a degree in the box."
+    ],
+    "example": "Please put the degree on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：度；度数；程度"
+  },
+  {
+    "id": "primary-md-1040",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dentist",
+    "phonetic": "/ˈdentɪst/",
+    "cn": "牙科医生",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a dentist",
+      "the dentist"
+    ],
+    "examples": [
+      "Please put the dentist on the desk.",
+      "He found a dentist in the box."
+    ],
+    "example": "Please put the dentist on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：牙科医生"
+  },
+  {
+    "id": "primary-md-1041",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "design",
+    "phonetic": "/dɪˈzaɪn/",
+    "cn": "设计；构思",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can design",
+      "design carefully"
+    ],
+    "examples": [
+      "He will design with his friends.",
+      "Do not design too quickly."
+    ],
+    "example": "He will design with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：设计；构思"
+  },
+  {
+    "id": "primary-md-1042",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "dragon",
+    "phonetic": "/ˈdræɡən/",
+    "cn": "龙",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a dragon",
+      "the dragon"
+    ],
+    "examples": [
+      "My friend asked about the dragon.",
+      "There is a dragon in the picture."
+    ],
+    "example": "My friend asked about the dragon.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：龙"
+  },
+  {
+    "id": "primary-md-1043",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "drive",
+    "phonetic": "/draɪv/",
+    "cn": "驾驶，开车；驱车旅行，车道",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can drive",
+      "drive carefully"
+    ],
+    "examples": [
+      "They drive together in the park.",
+      "Can you drive this afternoon?"
+    ],
+    "example": "They drive together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：驾驶，开车；驱车旅行，车道"
+  },
+  {
+    "id": "primary-md-1044",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "drop",
+    "phonetic": "/drɑːp/",
+    "cn": "掉下，（使）落下；滴，水珠，少量",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can drop",
+      "drop carefully"
+    ],
+    "examples": [
+      "She wants to drop after school.",
+      "We should drop at the right time."
+    ],
+    "example": "She wants to drop after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：掉下，（使）落下；滴，水珠，少量"
+  },
+  {
+    "id": "primary-md-1045",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "either",
+    "phonetic": "/ˈiːðər/",
+    "cn": "（两者中的）任何一个；也",
+    "pos": "代词/副词",
+    "rawPos": "pron.&adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can either",
+      "either carefully"
+    ],
+    "examples": [
+      "She wants to either after school.",
+      "We should either at the right time."
+    ],
+    "example": "She wants to either after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：（两者中的）任何一个；也"
+  },
+  {
+    "id": "primary-md-1046",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "energy",
+    "phonetic": "/ˈenərdʒi/",
+    "cn": "精力；活力；能源；能量",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an energy",
+      "the energy"
+    ],
+    "examples": [
+      "Please put the energy on the desk.",
+      "He found an energy in the box."
+    ],
+    "example": "Please put the energy on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：精力；活力；能源；能量"
+  },
+  {
+    "id": "primary-md-1047",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "engineer",
+    "phonetic": "/ˌendʒɪˈnɪr/",
+    "cn": "工程师；机械师",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an engineer",
+      "the engineer"
+    ],
+    "examples": [
+      "My friend asked about the engineer.",
+      "There is an engineer in the picture."
+    ],
+    "example": "My friend asked about the engineer.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：工程师；机械师"
+  },
+  {
+    "id": "primary-md-1048",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "even",
+    "phonetic": "/ˈiːvn/",
+    "cn": "甚至；连；即使",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can even",
+      "even carefully"
+    ],
+    "examples": [
+      "He will even with his friends.",
+      "Do not even too quickly."
+    ],
+    "example": "He will even with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：甚至；连；即使"
+  },
+  {
+    "id": "primary-md-1049",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "everybody",
+    "phonetic": "/ˈevribɑːdi/",
+    "cn": "每人；人人",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "everybody book",
+      "everybody one"
+    ],
+    "examples": [
+      "Everybody answer is correct.",
+      "Can you show me everybody picture?"
+    ],
+    "example": "Everybody answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：每人；人人"
+  },
+  {
+    "id": "primary-md-1050",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "exhibition",
+    "phonetic": "/ˌeksɪˈbɪʃn/",
+    "cn": "展览（会）；展览品",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an exhibition",
+      "the exhibition"
+    ],
+    "examples": [
+      "Please put the exhibition on the desk.",
+      "He found an exhibition in the box."
+    ],
+    "example": "Please put the exhibition on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：展览（会）；展览品"
+  },
+  {
+    "id": "primary-md-1051",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fail",
+    "phonetic": "/feɪl/",
+    "cn": "失败，未做到，不及格；（考试）不及格",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can fail",
+      "fail carefully"
+    ],
+    "examples": [
+      "She wants to fail after school.",
+      "We should fail at the right time."
+    ],
+    "example": "She wants to fail after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：失败，未做到，不及格；（考试）不及格"
+  },
+  {
+    "id": "primary-md-1052",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "feed",
+    "phonetic": "/fiːd/",
+    "cn": "喂养；养活",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can feed",
+      "feed carefully"
+    ],
+    "examples": [
+      "He will feed with his friends.",
+      "Do not feed too quickly."
+    ],
+    "example": "He will feed with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：喂养；养活"
+  },
+  {
+    "id": "primary-md-1053",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ferry",
+    "phonetic": "/ˈferi/",
+    "cn": "轮渡；渡船",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a ferry",
+      "the ferry"
+    ],
+    "examples": [
+      "My friend asked about the ferry.",
+      "There is a ferry in the picture."
+    ],
+    "example": "My friend asked about the ferry.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：轮渡；渡船"
+  },
+  {
+    "id": "primary-md-1054",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fight",
+    "phonetic": "/faɪt/",
+    "cn": "打架；战斗",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can fight",
+      "fight carefully"
+    ],
+    "examples": [
+      "He will fight with his friends.",
+      "Do not fight too quickly."
+    ],
+    "example": "He will fight with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：打架；战斗"
+  },
+  {
+    "id": "primary-md-1055",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "finger",
+    "phonetic": "/ˈfɪŋɡər/",
+    "cn": "手指",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a finger",
+      "the finger"
+    ],
+    "examples": [
+      "The teacher points to the finger.",
+      "I wrote the finger in my notebook."
+    ],
+    "example": "The teacher points to the finger.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：手指"
+  },
+  {
+    "id": "primary-md-1056",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "firework",
+    "phonetic": "/ˈfaɪərwɜːrk/",
+    "cn": "烟火；烟花表演",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a firework",
+      "the firework"
+    ],
+    "examples": [
+      "My friend asked about the firework.",
+      "There is a firework in the picture."
+    ],
+    "example": "My friend asked about the firework.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：烟火；烟花表演"
+  },
+  {
+    "id": "primary-md-1057",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fishing",
+    "phonetic": "/ˈfɪʃɪŋ/",
+    "cn": "钓鱼；捕鱼业",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a fishing",
+      "the fishing"
+    ],
+    "examples": [
+      "My friend asked about the fishing.",
+      "There is a fishing in the picture."
+    ],
+    "example": "My friend asked about the fishing.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：钓鱼；捕鱼业"
+  },
+  {
+    "id": "primary-md-1058",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fit",
+    "phonetic": "/fɪt/",
+    "cn": "适合，合身；适合的，健壮的",
+    "pos": "动词/形容词",
+    "rawPos": "v.&adj.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can fit",
+      "fit carefully"
+    ],
+    "examples": [
+      "She wants to fit after school.",
+      "We should fit at the right time."
+    ],
+    "example": "She wants to fit after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：适合，合身；适合的，健壮的"
+  },
+  {
+    "id": "primary-md-1059",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "flat",
+    "phonetic": "/flæt/",
+    "cn": "公寓；平坦的",
+    "pos": "名词/形容词",
+    "rawPos": "n.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very flat",
+      "a flat person"
+    ],
+    "examples": [
+      "His idea sounds flat.",
+      "We found a flat place to rest."
+    ],
+    "example": "His idea sounds flat.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：公寓；平坦的"
+  },
+  {
+    "id": "primary-md-1060",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "flu",
+    "phonetic": "/fluː/",
+    "cn": "流感",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a flu",
+      "the flu"
+    ],
+    "examples": [
+      "My friend asked about the flu.",
+      "There is a flu in the picture."
+    ],
+    "example": "My friend asked about the flu.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：流感"
+  },
+  {
+    "id": "primary-md-1061",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "forever",
+    "phonetic": "/fərˈevər/",
+    "cn": "永远",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can forever",
+      "forever carefully"
+    ],
+    "examples": [
+      "He will forever with his friends.",
+      "Do not forever too quickly."
+    ],
+    "example": "He will forever with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：永远"
+  },
+  {
+    "id": "primary-md-1062",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "full",
+    "phonetic": "/fʊl/",
+    "cn": "满的；充满的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very full",
+      "a full person"
+    ],
+    "examples": [
+      "The lesson was full but useful.",
+      "My teacher wrote a full comment."
+    ],
+    "example": "The lesson was full but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：满的；充满的"
+  },
+  {
+    "id": "primary-md-1063",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "fur",
+    "phonetic": "/fɜːr/",
+    "cn": "毛；皮毛",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a fur",
+      "the fur"
+    ],
+    "examples": [
+      "My friend asked about the fur.",
+      "There is a fur in the picture."
+    ],
+    "example": "My friend asked about the fur.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：毛；皮毛"
+  },
+  {
+    "id": "primary-md-1064",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "gate",
+    "phonetic": "/ɡeɪt/",
+    "cn": "大门",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a gate",
+      "the gate"
+    ],
+    "examples": [
+      "Please put the gate on the desk.",
+      "He found a gate in the box."
+    ],
+    "example": "Please put the gate on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：大门"
+  },
+  {
+    "id": "primary-md-1065",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "gold",
+    "phonetic": "/ɡoʊld/",
+    "cn": "黄金，金色；金色的",
+    "pos": "名词/形容词",
+    "rawPos": "n.&adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very gold",
+      "a gold person"
+    ],
+    "examples": [
+      "His idea sounds gold.",
+      "We found a gold place to rest."
+    ],
+    "example": "His idea sounds gold.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：黄金，金色；金色的"
+  },
+  {
+    "id": "primary-md-1066",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "group",
+    "phonetic": "/ɡruːp/",
+    "cn": "组，群；（使）成群，把…分组",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can group",
+      "group carefully"
+    ],
+    "examples": [
+      "He will group with his friends.",
+      "Do not group too quickly."
+    ],
+    "example": "He will group with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：组，群；（使）成群，把…分组"
+  },
+  {
+    "id": "primary-md-1067",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "grow",
+    "phonetic": "/ɡroʊ/",
+    "cn": "长大；成长",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can grow",
+      "grow carefully"
+    ],
+    "examples": [
+      "She wants to grow after school.",
+      "We should grow at the right time."
+    ],
+    "example": "She wants to grow after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：长大；成长"
+  },
+  {
+    "id": "primary-md-1068",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "happiness",
+    "phonetic": "/ˈhæpinəs/",
+    "cn": "幸福；愉快",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some happiness",
+      "the happiness"
+    ],
+    "examples": [
+      "This story mentions some happiness.",
+      "We talked about the happiness after class."
+    ],
+    "example": "This story mentions some happiness.",
+    "sentence": "This story mentions some ___.",
+    "hint": "选择合适的单词：幸福；愉快"
+  },
+  {
+    "id": "primary-md-1069",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hardly",
+    "phonetic": "/ˈhɑːrdli/",
+    "cn": "几乎不；几乎没有",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can hardly",
+      "hardly carefully"
+    ],
+    "examples": [
+      "Please hardly before you leave.",
+      "I learned how to hardly yesterday."
+    ],
+    "example": "Please hardly before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：几乎不；几乎没有"
+  },
+  {
+    "id": "primary-md-1070",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hero",
+    "phonetic": "/ˈhɪroʊ/",
+    "cn": "英雄；男主角；偶像",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a hero",
+      "the hero"
+    ],
+    "examples": [
+      "My friend asked about the hero.",
+      "There is a hero in the picture."
+    ],
+    "example": "My friend asked about the hero.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：英雄；男主角；偶像"
+  },
+  {
+    "id": "primary-md-1071",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hit",
+    "phonetic": "/hɪt/",
+    "cn": "击；打",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can hit",
+      "hit carefully"
+    ],
+    "examples": [
+      "Please hit before you leave.",
+      "I learned how to hit yesterday."
+    ],
+    "example": "Please hit before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：击；打"
+  },
+  {
+    "id": "primary-md-1072",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "hole",
+    "phonetic": "/hoʊl/",
+    "cn": "洞；孔；坑",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a hole",
+      "the hole"
+    ],
+    "examples": [
+      "Please put the hole on the desk.",
+      "He found a hole in the box."
+    ],
+    "example": "Please put the hole on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：洞；孔；坑"
+  },
+  {
+    "id": "primary-md-1073",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "honey",
+    "phonetic": "/ˈhʌni/",
+    "cn": "蜂蜜；亲爱的",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a honey",
+      "the honey"
+    ],
+    "examples": [
+      "My friend asked about the honey.",
+      "There is a honey in the picture."
+    ],
+    "example": "My friend asked about the honey.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：蜂蜜；亲爱的"
+  },
+  {
+    "id": "primary-md-1074",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "however",
+    "phonetic": "/haʊˈevər/",
+    "cn": "无论如何；然而",
+    "pos": "副词",
+    "rawPos": "adv.",
+    "scene": "通用基础",
+    "category": "方式程度",
+    "phrases": [
+      "can however",
+      "however carefully"
+    ],
+    "examples": [
+      "Please however before you leave.",
+      "I learned how to however yesterday."
+    ],
+    "example": "Please however before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：无论如何；然而"
+  },
+  {
+    "id": "primary-md-1075",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "insect",
+    "phonetic": "/ˈɪnsekt/",
+    "cn": "昆虫",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an insect",
+      "the insect"
+    ],
+    "examples": [
+      "My friend asked about the insect.",
+      "There is an insect in the picture."
+    ],
+    "example": "My friend asked about the insect.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：昆虫"
+  },
+  {
+    "id": "primary-md-1076",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "invent",
+    "phonetic": "/ɪnˈvent/",
+    "cn": "发明",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can invent",
+      "invent carefully"
+    ],
+    "examples": [
+      "They invent together in the park.",
+      "Can you invent this afternoon?"
+    ],
+    "example": "They invent together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：发明"
+  },
+  {
+    "id": "primary-md-1077",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "invitation",
+    "phonetic": "/ˌɪnvɪˈteɪʃn/",
+    "cn": "请柬；邀请",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an invitation",
+      "the invitation"
+    ],
+    "examples": [
+      "Please put the invitation on the desk.",
+      "He found an invitation in the box."
+    ],
+    "example": "Please put the invitation on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：请柬；邀请"
+  },
+  {
+    "id": "primary-md-1078",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "jeans",
+    "phonetic": "/dʒiːnz/",
+    "cn": "牛仔裤",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some jeans",
+      "the jeans"
+    ],
+    "examples": [
+      "My friend asked about the jeans.",
+      "There is some jeans in the picture."
+    ],
+    "example": "My friend asked about the jeans.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：牛仔裤"
+  },
+  {
+    "id": "primary-md-1079",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "jeep",
+    "phonetic": "/dʒiːp/",
+    "cn": "吉普车；越野车",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a jeep",
+      "the jeep"
+    ],
+    "examples": [
+      "Please put the jeep on the desk.",
+      "He found a jeep in the box."
+    ],
+    "example": "Please put the jeep on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：吉普车；越野车"
+  },
+  {
+    "id": "primary-md-1080",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "kangaroo",
+    "phonetic": "/ˌkæŋɡəˈruː/",
+    "cn": "袋鼠",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a kangaroo",
+      "the kangaroo"
+    ],
+    "examples": [
+      "This story mentions a kangaroo.",
+      "We talked about the kangaroo after class."
+    ],
+    "example": "This story mentions a kangaroo.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：袋鼠"
+  },
+  {
+    "id": "primary-md-1081",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "kick",
+    "phonetic": "/kɪk/",
+    "cn": "踢",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can kick",
+      "kick carefully"
+    ],
+    "examples": [
+      "Please kick before you leave.",
+      "I learned how to kick yesterday."
+    ],
+    "example": "Please kick before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：踢"
+  },
+  {
+    "id": "primary-md-1082",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "king",
+    "phonetic": "/kɪŋ/",
+    "cn": "君主；国王",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a king",
+      "the king"
+    ],
+    "examples": [
+      "The teacher points to the king.",
+      "I wrote the king in my notebook."
+    ],
+    "example": "The teacher points to the king.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：君主；国王"
+  },
+  {
+    "id": "primary-md-1083",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "knee",
+    "phonetic": "/niː/",
+    "cn": "膝盖；膝关节",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a knee",
+      "the knee"
+    ],
+    "examples": [
+      "Please put the knee on the desk.",
+      "He found a knee in the box."
+    ],
+    "example": "Please put the knee on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：膝盖；膝关节"
+  },
+  {
+    "id": "primary-md-1084",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "lady",
+    "phonetic": "/ˈleɪdi/",
+    "cn": "女士；女子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a lady",
+      "the lady"
+    ],
+    "examples": [
+      "My friend asked about the lady.",
+      "There is a lady in the picture."
+    ],
+    "example": "My friend asked about the lady.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：女士；女子"
+  },
+  {
+    "id": "primary-md-1085",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "lamb",
+    "phonetic": "/læm/",
+    "cn": "羔羊；羊羔肉",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a lamb",
+      "the lamb"
+    ],
+    "examples": [
+      "The teacher points to the lamb.",
+      "I wrote the lamb in my notebook."
+    ],
+    "example": "The teacher points to the lamb.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：羔羊；羊羔肉"
+  },
+  {
+    "id": "primary-md-1086",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "lamp",
+    "phonetic": "/læmp/",
+    "cn": "灯",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a lamp",
+      "the lamp"
+    ],
+    "examples": [
+      "My friend asked about the lamp.",
+      "There is a lamp in the picture."
+    ],
+    "example": "My friend asked about the lamp.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：灯"
+  },
+  {
+    "id": "primary-md-1087",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "large",
+    "phonetic": "/lɑːrdʒ/",
+    "cn": "大的；大量的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very large",
+      "a large person"
+    ],
+    "examples": [
+      "His idea sounds large.",
+      "We found a large place to rest."
+    ],
+    "example": "His idea sounds large.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：大的；大量的"
+  },
+  {
+    "id": "primary-md-1088",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "lift",
+    "phonetic": "/lɪft/",
+    "cn": "提起，举起；电梯",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can lift",
+      "lift carefully"
+    ],
+    "examples": [
+      "She wants to lift after school.",
+      "We should lift at the right time."
+    ],
+    "example": "She wants to lift after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：提起，举起；电梯"
+  },
+  {
+    "id": "primary-md-1089",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "litter",
+    "phonetic": "/ˈlɪtər/",
+    "cn": "垃圾，废弃物；乱扔，使凌乱",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can litter",
+      "litter carefully"
+    ],
+    "examples": [
+      "Please litter before you leave.",
+      "I learned how to litter yesterday."
+    ],
+    "example": "Please litter before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：垃圾，废弃物；乱扔，使凌乱"
+  },
+  {
+    "id": "primary-md-1090",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "magic",
+    "phonetic": "/ˈmædʒɪk/",
+    "cn": "魔法，魔术；有魔力的，神奇的",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can magic",
+      "magic carefully"
+    ],
+    "examples": [
+      "Please magic before you leave.",
+      "I learned how to magic yesterday."
+    ],
+    "example": "Please magic before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：魔法，魔术；有魔力的，神奇的"
+  },
+  {
+    "id": "primary-md-1091",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "mango",
+    "phonetic": "/ˈmæŋɡoʊ/",
+    "cn": "芒果",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a mango",
+      "the mango"
+    ],
+    "examples": [
+      "This story mentions a mango.",
+      "We talked about the mango after class."
+    ],
+    "example": "This story mentions a mango.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：芒果"
+  },
+  {
+    "id": "primary-md-1092",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "mark",
+    "phonetic": "/mɑːrk/",
+    "cn": "成绩，分数，等级；做记号，做标记",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can mark",
+      "mark carefully"
+    ],
+    "examples": [
+      "Please mark before you leave.",
+      "I learned how to mark yesterday."
+    ],
+    "example": "Please mark before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：成绩，分数，等级；做记号，做标记"
+  },
+  {
+    "id": "primary-md-1093",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "match",
+    "phonetic": "/mætʃ/",
+    "cn": "火柴，比赛；相配",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can match",
+      "match carefully"
+    ],
+    "examples": [
+      "They match together in the park.",
+      "Can you match this afternoon?"
+    ],
+    "example": "They match together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：火柴，比赛；相配"
+  },
+  {
+    "id": "primary-md-1094",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "member",
+    "phonetic": "/ˈmembər/",
+    "cn": "成员；分子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a member",
+      "the member"
+    ],
+    "examples": [
+      "The teacher points to the member.",
+      "I wrote the member in my notebook."
+    ],
+    "example": "The teacher points to the member.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：成员；分子"
+  },
+  {
+    "id": "primary-md-1095",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "menu",
+    "phonetic": "/ˈmenjuː/",
+    "cn": "菜单",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a menu",
+      "the menu"
+    ],
+    "examples": [
+      "The teacher points to the menu.",
+      "I wrote the menu in my notebook."
+    ],
+    "example": "The teacher points to the menu.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：菜单"
+  },
+  {
+    "id": "primary-md-1096",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "mess",
+    "phonetic": "/mes/",
+    "cn": "杂乱；不整洁",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some mess",
+      "the mess"
+    ],
+    "examples": [
+      "Please put the mess on the desk.",
+      "He found some mess in the box."
+    ],
+    "example": "Please put the mess on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：杂乱；不整洁"
+  },
+  {
+    "id": "primary-md-1097",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "mirror",
+    "phonetic": "/ˈmɪrər/",
+    "cn": "镜子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a mirror",
+      "the mirror"
+    ],
+    "examples": [
+      "The teacher points to the mirror.",
+      "I wrote the mirror in my notebook."
+    ],
+    "example": "The teacher points to the mirror.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：镜子"
+  },
+  {
+    "id": "primary-md-1098",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "monster",
+    "phonetic": "/ˈmɑːnstər/",
+    "cn": "怪物，怪兽",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a monster",
+      "the monster"
+    ],
+    "examples": [
+      "This story mentions a monster.",
+      "We talked about the monster after class."
+    ],
+    "example": "This story mentions a monster.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：怪物，怪兽"
+  },
+  {
+    "id": "primary-md-1099",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "most",
+    "phonetic": "/moʊst/",
+    "cn": "最多，最大；大多数",
+    "pos": "限定词/代词",
+    "rawPos": "det.&pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "most book",
+      "most one"
+    ],
+    "examples": [
+      "Most answer is correct.",
+      "Can you show me most picture?"
+    ],
+    "example": "Most answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：最多，最大；大多数"
+  },
+  {
+    "id": "primary-md-1100",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "mule",
+    "phonetic": "/mjuːl/",
+    "cn": "骡子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a mule",
+      "the mule"
+    ],
+    "examples": [
+      "My friend asked about the mule.",
+      "There is a mule in the picture."
+    ],
+    "example": "My friend asked about the mule.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：骡子"
+  },
+  {
+    "id": "primary-md-1101",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "mushroom",
+    "phonetic": "/ˈmʌʃrʊm/",
+    "cn": "蘑菇",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a mushroom",
+      "the mushroom"
+    ],
+    "examples": [
+      "My friend asked about the mushroom.",
+      "There is a mushroom in the picture."
+    ],
+    "example": "My friend asked about the mushroom.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：蘑菇"
+  },
+  {
+    "id": "primary-md-1102",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "naughty",
+    "phonetic": "/ˈnɔːti/",
+    "cn": "顽皮的；淘气的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very naughty",
+      "a naughty person"
+    ],
+    "examples": [
+      "His idea sounds naughty.",
+      "We found a naughty place to rest."
+    ],
+    "example": "His idea sounds naughty.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：顽皮的；淘气的"
+  },
+  {
+    "id": "primary-md-1103",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "neck",
+    "phonetic": "/nek/",
+    "cn": "颈；脖子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a neck",
+      "the neck"
+    ],
+    "examples": [
+      "This story mentions a neck.",
+      "We talked about the neck after class."
+    ],
+    "example": "This story mentions a neck.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：颈；脖子"
+  },
+  {
+    "id": "primary-md-1104",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "neighbour",
+    "phonetic": "/ˈneɪbər/",
+    "cn": "邻居",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a neighbour",
+      "the neighbour"
+    ],
+    "examples": [
+      "Please put the neighbour on the desk.",
+      "He found a neighbour in the box."
+    ],
+    "example": "Please put the neighbour on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：邻居"
+  },
+  {
+    "id": "primary-md-1105",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "news",
+    "phonetic": "/nuːz/",
+    "cn": "消息；新闻（报道）",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some news",
+      "the news"
+    ],
+    "examples": [
+      "The teacher points to the news.",
+      "I wrote the news in my notebook."
+    ],
+    "example": "The teacher points to the news.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：消息；新闻（报道）"
+  },
+  {
+    "id": "primary-md-1106",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "noisy",
+    "phonetic": "/ˈnɔɪzi/",
+    "cn": "吵闹的；嘈杂的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very noisy",
+      "a noisy person"
+    ],
+    "examples": [
+      "The lesson was noisy but useful.",
+      "My teacher wrote a noisy comment."
+    ],
+    "example": "The lesson was noisy but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：吵闹的；嘈杂的"
+  },
+  {
+    "id": "primary-md-1107",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "number",
+    "phonetic": "/ˈnʌmbər/",
+    "cn": "数字，数量；给…编号",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can number",
+      "number carefully"
+    ],
+    "examples": [
+      "She wants to number after school.",
+      "We should number at the right time."
+    ],
+    "example": "She wants to number after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：数字，数量；给…编号"
+  },
+  {
+    "id": "primary-md-1108",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "oil",
+    "phonetic": "/ɔɪl/",
+    "cn": "石油；原油",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "an oil",
+      "the oil"
+    ],
+    "examples": [
+      "My friend asked about the oil.",
+      "There is an oil in the picture."
+    ],
+    "example": "My friend asked about the oil.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：石油；原油"
+  },
+  {
+    "id": "primary-md-1109",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "own",
+    "phonetic": "/oʊn/",
+    "cn": "自己的；拥有",
+    "pos": "形容词/代词/动词",
+    "rawPos": "adj.&pron.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can own",
+      "own carefully"
+    ],
+    "examples": [
+      "She wants to own after school.",
+      "We should own at the right time."
+    ],
+    "example": "She wants to own after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：自己的；拥有"
+  },
+  {
+    "id": "primary-md-1110",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "painting",
+    "phonetic": "/ˈpeɪntɪŋ/",
+    "cn": "绘画；油画",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a painting",
+      "the painting"
+    ],
+    "examples": [
+      "This story mentions a painting.",
+      "We talked about the painting after class."
+    ],
+    "example": "This story mentions a painting.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：绘画；油画"
+  },
+  {
+    "id": "primary-md-1111",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "parrot",
+    "phonetic": "/ˈpærət/",
+    "cn": "鹦鹉",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a parrot",
+      "the parrot"
+    ],
+    "examples": [
+      "My friend asked about the parrot.",
+      "There is a parrot in the picture."
+    ],
+    "example": "My friend asked about the parrot.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：鹦鹉"
+  },
+  {
+    "id": "primary-md-1112",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "part",
+    "phonetic": "/pɑːrt/",
+    "cn": "部分",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a part",
+      "the part"
+    ],
+    "examples": [
+      "My friend asked about the part.",
+      "There is a part in the picture."
+    ],
+    "example": "My friend asked about the part.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：部分"
+  },
+  {
+    "id": "primary-md-1113",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "passport",
+    "phonetic": "/ˈpæspɔːrt/",
+    "cn": "护照",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a passport",
+      "the passport"
+    ],
+    "examples": [
+      "My friend asked about the passport.",
+      "There is a passport in the picture."
+    ],
+    "example": "My friend asked about the passport.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：护照"
+  },
+  {
+    "id": "primary-md-1114",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "path",
+    "phonetic": "/pæθ/",
+    "cn": "小路；路线",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a path",
+      "the path"
+    ],
+    "examples": [
+      "My friend asked about the path.",
+      "There is a path in the picture."
+    ],
+    "example": "My friend asked about the path.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：小路；路线"
+  },
+  {
+    "id": "primary-md-1115",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "penguin",
+    "phonetic": "/ˈpeŋɡwɪn/",
+    "cn": "企鹅",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a penguin",
+      "the penguin"
+    ],
+    "examples": [
+      "My friend asked about the penguin.",
+      "There is a penguin in the picture."
+    ],
+    "example": "My friend asked about the penguin.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：企鹅"
+  },
+  {
+    "id": "primary-md-1116",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pianist",
+    "phonetic": "/ˈpiːənɪst/",
+    "cn": "钢琴弹奏者；钢琴家",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a pianist",
+      "the pianist"
+    ],
+    "examples": [
+      "The teacher points to the pianist.",
+      "I wrote the pianist in my notebook."
+    ],
+    "example": "The teacher points to the pianist.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：钢琴弹奏者；钢琴家"
+  },
+  {
+    "id": "primary-md-1117",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pity",
+    "phonetic": "/ˈpɪti/",
+    "cn": "同情；遗憾",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a pity",
+      "the pity"
+    ],
+    "examples": [
+      "My friend asked about the pity.",
+      "There is a pity in the picture."
+    ],
+    "example": "My friend asked about the pity.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：同情；遗憾"
+  },
+  {
+    "id": "primary-md-1118",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "plan",
+    "phonetic": "/plæn/",
+    "cn": "计划；打算",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can plan",
+      "plan carefully"
+    ],
+    "examples": [
+      "He will plan with his friends.",
+      "Do not plan too quickly."
+    ],
+    "example": "He will plan with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：计划；打算"
+  },
+  {
+    "id": "primary-md-1119",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "plastic",
+    "phonetic": "/ˈplæstɪk/",
+    "cn": "塑料",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a plastic",
+      "the plastic"
+    ],
+    "examples": [
+      "The teacher points to the plastic.",
+      "I wrote the plastic in my notebook."
+    ],
+    "example": "The teacher points to the plastic.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：塑料"
+  },
+  {
+    "id": "primary-md-1120",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "playtime",
+    "phonetic": "/ˈpleɪtaɪm/",
+    "cn": "娱乐时间",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a playtime",
+      "the playtime"
+    ],
+    "examples": [
+      "My friend asked about the playtime.",
+      "There is a playtime in the picture."
+    ],
+    "example": "My friend asked about the playtime.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：娱乐时间"
+  },
+  {
+    "id": "primary-md-1121",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "poet",
+    "phonetic": "/ˈpoʊət/",
+    "cn": "诗人",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a poet",
+      "the poet"
+    ],
+    "examples": [
+      "The teacher points to the poet.",
+      "I wrote the poet in my notebook."
+    ],
+    "example": "The teacher points to the poet.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：诗人"
+  },
+  {
+    "id": "primary-md-1122",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pop",
+    "phonetic": "/pɑːp/",
+    "cn": "流行音乐的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very pop",
+      "a pop person"
+    ],
+    "examples": [
+      "This book is pop for beginners.",
+      "She gave me a pop answer."
+    ],
+    "example": "This book is pop for beginners.",
+    "sentence": "This book is ___ for beginners.",
+    "hint": "选择合适的单词：流行音乐的"
+  },
+  {
+    "id": "primary-md-1123",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "pork",
+    "phonetic": "/pɔːrk/",
+    "cn": "猪肉",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a pork",
+      "the pork"
+    ],
+    "examples": [
+      "Please put the pork on the desk.",
+      "He found a pork in the box."
+    ],
+    "example": "Please put the pork on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：猪肉"
+  },
+  {
+    "id": "primary-md-1124",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "practice",
+    "phonetic": "/ˈpræktɪs/",
+    "cn": "训练；练习；实践；惯例",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a practice",
+      "the practice"
+    ],
+    "examples": [
+      "The teacher points to the practice.",
+      "I wrote the practice in my notebook."
+    ],
+    "example": "The teacher points to the practice.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：训练；练习；实践；惯例"
+  },
+  {
+    "id": "primary-md-1125",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "prepare",
+    "phonetic": "/prɪˈper/",
+    "cn": "准备；把…预备好",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can prepare",
+      "prepare carefully"
+    ],
+    "examples": [
+      "She wants to prepare after school.",
+      "We should prepare at the right time."
+    ],
+    "example": "She wants to prepare after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：准备；把…预备好"
+  },
+  {
+    "id": "primary-md-1126",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "prince",
+    "phonetic": "/prɪns/",
+    "cn": "王子；王室男性成员",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a prince",
+      "the prince"
+    ],
+    "examples": [
+      "Please put the prince on the desk.",
+      "He found a prince in the box."
+    ],
+    "example": "Please put the prince on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：王子；王室男性成员"
+  },
+  {
+    "id": "primary-md-1127",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "print",
+    "phonetic": "/prɪnt/",
+    "cn": "打印；印刷",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can print",
+      "print carefully"
+    ],
+    "examples": [
+      "They print together in the park.",
+      "Can you print this afternoon?"
+    ],
+    "example": "They print together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：打印；印刷"
+  },
+  {
+    "id": "primary-md-1128",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "programme",
+    "phonetic": "/ˈproʊɡræm/",
+    "cn": "计划；节目；程序",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a programme",
+      "the programme"
+    ],
+    "examples": [
+      "The teacher points to the programme.",
+      "I wrote the programme in my notebook."
+    ],
+    "example": "The teacher points to the programme.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：计划；节目；程序"
+  },
+  {
+    "id": "primary-md-1129",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "project",
+    "phonetic": "/ˈprɑːdʒekt/",
+    "cn": "项目",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a project",
+      "the project"
+    ],
+    "examples": [
+      "Please put the project on the desk.",
+      "He found a project in the box."
+    ],
+    "example": "Please put the project on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：项目"
+  },
+  {
+    "id": "primary-md-1130",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "protect",
+    "phonetic": "/prəˈtekt/",
+    "cn": "保护；防护",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can protect",
+      "protect carefully"
+    ],
+    "examples": [
+      "They protect together in the park.",
+      "Can you protect this afternoon?"
+    ],
+    "example": "They protect together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：保护；防护"
+  },
+  {
+    "id": "primary-md-1131",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "push",
+    "phonetic": "/pʊʃ/",
+    "cn": "推动；移动",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can push",
+      "push carefully"
+    ],
+    "examples": [
+      "They push together in the park.",
+      "Can you push this afternoon?"
+    ],
+    "example": "They push together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：推动；移动"
+  },
+  {
+    "id": "primary-md-1132",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "puzzle",
+    "phonetic": "/ˈpʌzl/",
+    "cn": "谜；智力游戏",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a puzzle",
+      "the puzzle"
+    ],
+    "examples": [
+      "Please put the puzzle on the desk.",
+      "He found a puzzle in the box."
+    ],
+    "example": "Please put the puzzle on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：谜；智力游戏"
+  },
+  {
+    "id": "primary-md-1133",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "reach",
+    "phonetic": "/riːtʃ/",
+    "cn": "到达；达到；伸手",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can reach",
+      "reach carefully"
+    ],
+    "examples": [
+      "Please reach before you leave.",
+      "I learned how to reach yesterday."
+    ],
+    "example": "Please reach before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：到达；达到；伸手"
+  },
+  {
+    "id": "primary-md-1134",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "relax",
+    "phonetic": "/rɪˈlæks/",
+    "cn": "放松；休息",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can relax",
+      "relax carefully"
+    ],
+    "examples": [
+      "They relax together in the park.",
+      "Can you relax this afternoon?"
+    ],
+    "example": "They relax together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：放松；休息"
+  },
+  {
+    "id": "primary-md-1135",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "reply",
+    "phonetic": "/rɪˈplaɪ/",
+    "cn": "回复",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can reply",
+      "reply carefully"
+    ],
+    "examples": [
+      "He will reply with his friends.",
+      "Do not reply too quickly."
+    ],
+    "example": "He will reply with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：回复"
+  },
+  {
+    "id": "primary-md-1136",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "reuse",
+    "phonetic": "/ˌriːˈjuːs/",
+    "cn": "再次使用；重复使用",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can reuse",
+      "reuse carefully"
+    ],
+    "examples": [
+      "He will reuse with his friends.",
+      "Do not reuse too quickly."
+    ],
+    "example": "He will reuse with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：再次使用；重复使用"
+  },
+  {
+    "id": "primary-md-1137",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "rich",
+    "phonetic": "/rɪtʃ/",
+    "cn": "富有的；富裕的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very rich",
+      "a rich person"
+    ],
+    "examples": [
+      "The road looks rich after the rain.",
+      "It is rich to finish early."
+    ],
+    "example": "The road looks rich after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：富有的；富裕的"
+  },
+  {
+    "id": "primary-md-1138",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "ring",
+    "phonetic": "/rɪŋ/",
+    "cn": "戒指；给…打电话",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can ring",
+      "ring carefully"
+    ],
+    "examples": [
+      "Please ring before you leave.",
+      "I learned how to ring yesterday."
+    ],
+    "example": "Please ring before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：戒指；给…打电话"
+  },
+  {
+    "id": "primary-md-1139",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "round",
+    "phonetic": "/raʊnd/",
+    "cn": "圆形的，环形的；环绕 ； 到处，转过来",
+    "pos": "形容词/介词/副词",
+    "rawPos": "adj.&prep.&adv.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "can round",
+      "round carefully"
+    ],
+    "examples": [
+      "They round together in the park.",
+      "Can you round this afternoon?"
+    ],
+    "example": "They round together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：圆形的，环形的；环绕 ； 到处，转过来"
+  },
+  {
+    "id": "primary-md-1140",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "rubber",
+    "phonetic": "/ˈrʌbər/",
+    "cn": "橡皮；橡胶",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a rubber",
+      "the rubber"
+    ],
+    "examples": [
+      "The teacher points to the rubber.",
+      "I wrote the rubber in my notebook."
+    ],
+    "example": "The teacher points to the rubber.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：橡皮；橡胶"
+  },
+  {
+    "id": "primary-md-1141",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "rubbish",
+    "phonetic": "/ˈrʌbɪʃ/",
+    "cn": "垃圾；废弃物",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a rubbish",
+      "the rubbish"
+    ],
+    "examples": [
+      "My friend asked about the rubbish.",
+      "There is a rubbish in the picture."
+    ],
+    "example": "My friend asked about the rubbish.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：垃圾；废弃物"
+  },
+  {
+    "id": "primary-md-1142",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "safety",
+    "phonetic": "/ˈseɪfti/",
+    "cn": "安全；安全处所",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a safety",
+      "the safety"
+    ],
+    "examples": [
+      "The teacher points to the safety.",
+      "I wrote the safety in my notebook."
+    ],
+    "example": "The teacher points to the safety.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：安全；安全处所"
+  },
+  {
+    "id": "primary-md-1143",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "salty",
+    "phonetic": "/ˈsɔːlti/",
+    "cn": "咸的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very salty",
+      "a salty person"
+    ],
+    "examples": [
+      "The road looks salty after the rain.",
+      "It is salty to finish early."
+    ],
+    "example": "The road looks salty after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：咸的"
+  },
+  {
+    "id": "primary-md-1144",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "save",
+    "phonetic": "/seɪv/",
+    "cn": "救助；储蓄",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can save",
+      "save carefully"
+    ],
+    "examples": [
+      "They save together in the park.",
+      "Can you save this afternoon?"
+    ],
+    "example": "They save together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：救助；储蓄"
+  },
+  {
+    "id": "primary-md-1145",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "schedule",
+    "phonetic": "/ˈskedʒuːl/",
+    "cn": "工作计划；日程安排",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a schedule",
+      "the schedule"
+    ],
+    "examples": [
+      "This story mentions a schedule.",
+      "We talked about the schedule after class."
+    ],
+    "example": "This story mentions a schedule.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：工作计划；日程安排"
+  },
+  {
+    "id": "primary-md-1146",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "scissors",
+    "phonetic": "/ˈsɪzərz/",
+    "cn": "剪刀",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "some scissors",
+      "the scissors"
+    ],
+    "examples": [
+      "My friend asked about the scissors.",
+      "There is some scissors in the picture."
+    ],
+    "example": "My friend asked about the scissors.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：剪刀"
+  },
+  {
+    "id": "primary-md-1147",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "seed",
+    "phonetic": "/siːd/",
+    "cn": "种子；起源",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a seed",
+      "the seed"
+    ],
+    "examples": [
+      "The teacher points to the seed.",
+      "I wrote the seed in my notebook."
+    ],
+    "example": "The teacher points to the seed.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：种子；起源"
+  },
+  {
+    "id": "primary-md-1148",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "seek",
+    "phonetic": "/siːk/",
+    "cn": "寻找；征求；试图；设法",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can seek",
+      "seek carefully"
+    ],
+    "examples": [
+      "She wants to seek after school.",
+      "We should seek at the right time."
+    ],
+    "example": "She wants to seek after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：寻找；征求；试图；设法"
+  },
+  {
+    "id": "primary-md-1149",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "several",
+    "phonetic": "/ˈsevrəl/",
+    "cn": "几个；一些",
+    "pos": "限定词/代词",
+    "rawPos": "det.&pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "several book",
+      "several one"
+    ],
+    "examples": [
+      "Several answer is correct.",
+      "Can you show me several picture?"
+    ],
+    "example": "Several answer is correct.",
+    "sentence": "___ answer is correct.",
+    "hint": "选择合适的单词：几个；一些"
+  },
+  {
+    "id": "primary-md-1150",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sharp",
+    "phonetic": "/ʃɑːrp/",
+    "cn": "锋利的；锐利的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very sharp",
+      "a sharp person"
+    ],
+    "examples": [
+      "His idea sounds sharp.",
+      "We found a sharp place to rest."
+    ],
+    "example": "His idea sounds sharp.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：锋利的；锐利的"
+  },
+  {
+    "id": "primary-md-1151",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "shoulder",
+    "phonetic": "/ˈʃoʊldər/",
+    "cn": "肩膀",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a shoulder",
+      "the shoulder"
+    ],
+    "examples": [
+      "My friend asked about the shoulder.",
+      "There is a shoulder in the picture."
+    ],
+    "example": "My friend asked about the shoulder.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：肩膀"
+  },
+  {
+    "id": "primary-md-1152",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sign",
+    "phonetic": "/saɪn/",
+    "cn": "招牌；标志；迹象；手势",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a sign",
+      "the sign"
+    ],
+    "examples": [
+      "The teacher points to the sign.",
+      "I wrote the sign in my notebook."
+    ],
+    "example": "The teacher points to the sign.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：招牌；标志；迹象；手势"
+  },
+  {
+    "id": "primary-md-1153",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "silence",
+    "phonetic": "/ˈsaɪləns/",
+    "cn": "寂静；无声；沉默；缄默",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a silence",
+      "the silence"
+    ],
+    "examples": [
+      "The teacher points to the silence.",
+      "I wrote the silence in my notebook."
+    ],
+    "example": "The teacher points to the silence.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：寂静；无声；沉默；缄默"
+  },
+  {
+    "id": "primary-md-1154",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "silk",
+    "phonetic": "/sɪlk/",
+    "cn": "丝绸",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a silk",
+      "the silk"
+    ],
+    "examples": [
+      "This story mentions a silk.",
+      "We talked about the silk after class."
+    ],
+    "example": "This story mentions a silk.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：丝绸"
+  },
+  {
+    "id": "primary-md-1155",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "singer",
+    "phonetic": "/ˈsɪŋər/",
+    "cn": "唱歌的人；歌唱家；歌手",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a singer",
+      "the singer"
+    ],
+    "examples": [
+      "My friend asked about the singer.",
+      "There is a singer in the picture."
+    ],
+    "example": "My friend asked about the singer.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：唱歌的人；歌唱家；歌手"
+  },
+  {
+    "id": "primary-md-1156",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "skin",
+    "phonetic": "/skɪn/",
+    "cn": "皮；皮肤",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a skin",
+      "the skin"
+    ],
+    "examples": [
+      "This story mentions a skin.",
+      "We talked about the skin after class."
+    ],
+    "example": "This story mentions a skin.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：皮；皮肤"
+  },
+  {
+    "id": "primary-md-1157",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sled",
+    "phonetic": "/sled/",
+    "cn": "雪橇",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a sled",
+      "the sled"
+    ],
+    "examples": [
+      "This story mentions a sled.",
+      "We talked about the sled after class."
+    ],
+    "example": "This story mentions a sled.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：雪橇"
+  },
+  {
+    "id": "primary-md-1158",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sleepy",
+    "phonetic": "/ˈsliːpi/",
+    "cn": "困倦的；瞌睡的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very sleepy",
+      "a sleepy person"
+    ],
+    "examples": [
+      "His idea sounds sleepy.",
+      "We found a sleepy place to rest."
+    ],
+    "example": "His idea sounds sleepy.",
+    "sentence": "His idea sounds ___.",
+    "hint": "选择合适的单词：困倦的；瞌睡的"
+  },
+  {
+    "id": "primary-md-1159",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "slim",
+    "phonetic": "/slɪm/",
+    "cn": "苗条的；纤细的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very slim",
+      "a slim person"
+    ],
+    "examples": [
+      "The lesson was slim but useful.",
+      "My teacher wrote a slim comment."
+    ],
+    "example": "The lesson was slim but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：苗条的；纤细的"
+  },
+  {
+    "id": "primary-md-1160",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "slipper",
+    "phonetic": "/ˈslɪpər/",
+    "cn": "拖鞋",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a slipper",
+      "the slipper"
+    ],
+    "examples": [
+      "My friend asked about the slipper.",
+      "There is a slipper in the picture."
+    ],
+    "example": "My friend asked about the slipper.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：拖鞋"
+  },
+  {
+    "id": "primary-md-1161",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "smoke",
+    "phonetic": "/smoʊk/",
+    "cn": "烟，吸烟；吸（烟），冒烟",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can smoke",
+      "smoke carefully"
+    ],
+    "examples": [
+      "Please smoke before you leave.",
+      "I learned how to smoke yesterday."
+    ],
+    "example": "Please smoke before you leave.",
+    "sentence": "Please ___ before you leave.",
+    "hint": "选择合适的单词：烟，吸烟；吸（烟），冒烟"
+  },
+  {
+    "id": "primary-md-1162",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "soil",
+    "phonetic": "/sɔɪl/",
+    "cn": "土壤",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a soil",
+      "the soil"
+    ],
+    "examples": [
+      "Please put the soil on the desk.",
+      "He found a soil in the box."
+    ],
+    "example": "Please put the soil on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：土壤"
+  },
+  {
+    "id": "primary-md-1163",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "solve",
+    "phonetic": "/sɑːlv/",
+    "cn": "解决；处理；解答",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can solve",
+      "solve carefully"
+    ],
+    "examples": [
+      "She wants to solve after school.",
+      "We should solve at the right time."
+    ],
+    "example": "She wants to solve after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：解决；处理；解答"
+  },
+  {
+    "id": "primary-md-1164",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "someone",
+    "phonetic": "/ˈsʌmwʌn/",
+    "cn": "某人",
+    "pos": "代词",
+    "rawPos": "pron.",
+    "scene": "通用基础",
+    "category": "基础功能词",
+    "phrases": [
+      "someone book",
+      "someone one"
+    ],
+    "examples": [
+      "Someone book is on the desk.",
+      "I like someone one better."
+    ],
+    "example": "Someone book is on the desk.",
+    "sentence": "___ book is on the desk.",
+    "hint": "选择合适的单词：某人"
+  },
+  {
+    "id": "primary-md-1165",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "son",
+    "phonetic": "/sʌn/",
+    "cn": "儿子",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a son",
+      "the son"
+    ],
+    "examples": [
+      "My friend asked about the son.",
+      "There is a son in the picture."
+    ],
+    "example": "My friend asked about the son.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：儿子"
+  },
+  {
+    "id": "primary-md-1166",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sore",
+    "phonetic": "/sɔːr/",
+    "cn": "疼痛的；酸痛的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very sore",
+      "a sore person"
+    ],
+    "examples": [
+      "The lesson was sore but useful.",
+      "My teacher wrote a sore comment."
+    ],
+    "example": "The lesson was sore but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：疼痛的；酸痛的"
+  },
+  {
+    "id": "primary-md-1167",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sour",
+    "phonetic": "/ˈsaʊər/",
+    "cn": "酸的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very sour",
+      "a sour person"
+    ],
+    "examples": [
+      "The road looks sour after the rain.",
+      "It is sour to finish early."
+    ],
+    "example": "The road looks sour after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：酸的"
+  },
+  {
+    "id": "primary-md-1168",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "spicy",
+    "phonetic": "/ˈspaɪsi/",
+    "cn": "辛辣的；加有香料的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very spicy",
+      "a spicy person"
+    ],
+    "examples": [
+      "The lesson was spicy but useful.",
+      "My teacher wrote a spicy comment."
+    ],
+    "example": "The lesson was spicy but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：辛辣的；加有香料的"
+  },
+  {
+    "id": "primary-md-1169",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "squirrel",
+    "phonetic": "/ˈskwɜːrəl/",
+    "cn": "松鼠",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a squirrel",
+      "the squirrel"
+    ],
+    "examples": [
+      "The teacher points to the squirrel.",
+      "I wrote the squirrel in my notebook."
+    ],
+    "example": "The teacher points to the squirrel.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：松鼠"
+  },
+  {
+    "id": "primary-md-1170",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "stadium",
+    "phonetic": "/ˈsteɪdiəm/",
+    "cn": "体育场（馆）；运动场",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a stadium",
+      "the stadium"
+    ],
+    "examples": [
+      "This story mentions a stadium.",
+      "We talked about the stadium after class."
+    ],
+    "example": "This story mentions a stadium.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：体育场（馆）；运动场"
+  },
+  {
+    "id": "primary-md-1171",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "step",
+    "phonetic": "/step/",
+    "cn": "踏，踩，迈步；步骤，脚步（声），迈步，台阶",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can step",
+      "step carefully"
+    ],
+    "examples": [
+      "They step together in the park.",
+      "Can you step this afternoon?"
+    ],
+    "example": "They step together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：踏，踩，迈步；步骤，脚步（声），迈步，台阶"
+  },
+  {
+    "id": "primary-md-1172",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "stream",
+    "phonetic": "/striːm/",
+    "cn": "小河；溪",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a stream",
+      "the stream"
+    ],
+    "examples": [
+      "Please put the stream on the desk.",
+      "He found a stream in the box."
+    ],
+    "example": "Please put the stream on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：小河；溪"
+  },
+  {
+    "id": "primary-md-1173",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "stuck",
+    "phonetic": "/stʌk/",
+    "cn": "卡住；无法移动",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very stuck",
+      "a stuck person"
+    ],
+    "examples": [
+      "The lesson was stuck but useful.",
+      "My teacher wrote a stuck comment."
+    ],
+    "example": "The lesson was stuck but useful.",
+    "sentence": "The lesson was ___ but useful.",
+    "hint": "选择合适的单词：卡住；无法移动"
+  },
+  {
+    "id": "primary-md-1174",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "suggest",
+    "phonetic": "/səˈdʒest/",
+    "cn": "建议；表明；暗示",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can suggest",
+      "suggest carefully"
+    ],
+    "examples": [
+      "She wants to suggest after school.",
+      "We should suggest at the right time."
+    ],
+    "example": "She wants to suggest after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：建议；表明；暗示"
+  },
+  {
+    "id": "primary-md-1175",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "summary",
+    "phonetic": "/ˈsʌməri/",
+    "cn": "总结；概括",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a summary",
+      "the summary"
+    ],
+    "examples": [
+      "The teacher points to the summary.",
+      "I wrote the summary in my notebook."
+    ],
+    "example": "The teacher points to the summary.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：总结；概括"
+  },
+  {
+    "id": "primary-md-1176",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "sunrise",
+    "phonetic": "/ˈsʌnraɪz/",
+    "cn": "日出；朝霞",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a sunrise",
+      "the sunrise"
+    ],
+    "examples": [
+      "My friend asked about the sunrise.",
+      "There is a sunrise in the picture."
+    ],
+    "example": "My friend asked about the sunrise.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：日出；朝霞"
+  },
+  {
+    "id": "primary-md-1177",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "surprise",
+    "phonetic": "/sərˈpraɪz/",
+    "cn": "惊奇，令人惊奇的事；使惊奇",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can surprise",
+      "surprise carefully"
+    ],
+    "examples": [
+      "They surprise together in the park.",
+      "Can you surprise this afternoon?"
+    ],
+    "example": "They surprise together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：惊奇，令人惊奇的事；使惊奇"
+  },
+  {
+    "id": "primary-md-1178",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "swan",
+    "phonetic": "/swɑːn/",
+    "cn": "天鹅",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a swan",
+      "the swan"
+    ],
+    "examples": [
+      "This story mentions a swan.",
+      "We talked about the swan after class."
+    ],
+    "example": "This story mentions a swan.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：天鹅"
+  },
+  {
+    "id": "primary-md-1179",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "swing",
+    "phonetic": "/swɪŋ/",
+    "cn": "（使）摆动，摇摆；摆动，挥动，秋千",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can swing",
+      "swing carefully"
+    ],
+    "examples": [
+      "They swing together in the park.",
+      "Can you swing this afternoon?"
+    ],
+    "example": "They swing together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：（使）摆动，摇摆；摆动，挥动，秋千"
+  },
+  {
+    "id": "primary-md-1180",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "temple",
+    "phonetic": "/ˈtempl/",
+    "cn": "庙宇；寺院",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a temple",
+      "the temple"
+    ],
+    "examples": [
+      "My friend asked about the temple.",
+      "There is a temple in the picture."
+    ],
+    "example": "My friend asked about the temple.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：庙宇；寺院"
+  },
+  {
+    "id": "primary-md-1181",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "throw",
+    "phonetic": "/θroʊ/",
+    "cn": "投；掷；抛",
+    "pos": "动词/名词",
+    "rawPos": "v.&n.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can throw",
+      "throw carefully"
+    ],
+    "examples": [
+      "They throw together in the park.",
+      "Can you throw this afternoon?"
+    ],
+    "example": "They throw together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：投；掷；抛"
+  },
+  {
+    "id": "primary-md-1182",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "tip",
+    "phonetic": "/tɪp/",
+    "cn": "尖端，建议，小费；给小费",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can tip",
+      "tip carefully"
+    ],
+    "examples": [
+      "She wants to tip after school.",
+      "We should tip at the right time."
+    ],
+    "example": "She wants to tip after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：尖端，建议，小费；给小费"
+  },
+  {
+    "id": "primary-md-1183",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "toothbrush",
+    "phonetic": "/ˈtuːθbrʌʃ/",
+    "cn": "牙刷",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a toothbrush",
+      "the toothbrush"
+    ],
+    "examples": [
+      "Please put the toothbrush on the desk.",
+      "He found a toothbrush in the box."
+    ],
+    "example": "Please put the toothbrush on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：牙刷"
+  },
+  {
+    "id": "primary-md-1184",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "tourist",
+    "phonetic": "/ˈtʊrɪst/",
+    "cn": "旅游者；游客",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a tourist",
+      "the tourist"
+    ],
+    "examples": [
+      "Please put the tourist on the desk.",
+      "He found a tourist in the box."
+    ],
+    "example": "Please put the tourist on the desk.",
+    "sentence": "Please put the ___ on the desk.",
+    "hint": "选择合适的单词：旅游者；游客"
+  },
+  {
+    "id": "primary-md-1185",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "traveller",
+    "phonetic": "/ˈtrævələr/",
+    "cn": "旅行者；游客",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a traveller",
+      "the traveller"
+    ],
+    "examples": [
+      "The teacher points to the traveller.",
+      "I wrote the traveller in my notebook."
+    ],
+    "example": "The teacher points to the traveller.",
+    "sentence": "The teacher points to the ___.",
+    "hint": "选择合适的单词：旅行者；游客"
+  },
+  {
+    "id": "primary-md-1186",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "trunk",
+    "phonetic": "/trʌŋk/",
+    "cn": "树干；象鼻",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a trunk",
+      "the trunk"
+    ],
+    "examples": [
+      "My friend asked about the trunk.",
+      "There is a trunk in the picture."
+    ],
+    "example": "My friend asked about the trunk.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：树干；象鼻"
+  },
+  {
+    "id": "primary-md-1187",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "turtle",
+    "phonetic": "/ˈtɜːrtl/",
+    "cn": "海龟；龟",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a turtle",
+      "the turtle"
+    ],
+    "examples": [
+      "My friend asked about the turtle.",
+      "There is a turtle in the picture."
+    ],
+    "example": "My friend asked about the turtle.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：海龟；龟"
+  },
+  {
+    "id": "primary-md-1188",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "understand",
+    "phonetic": "/ˌʌndərˈstænd/",
+    "cn": "理解；认识到",
+    "pos": "动词",
+    "rawPos": "v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can understand",
+      "understand carefully"
+    ],
+    "examples": [
+      "They understand together in the park.",
+      "Can you understand this afternoon?"
+    ],
+    "example": "They understand together in the park.",
+    "sentence": "They ___ together in the park.",
+    "hint": "选择合适的单词：理解；认识到"
+  },
+  {
+    "id": "primary-md-1189",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "visitor",
+    "phonetic": "/ˈvɪzɪtər/",
+    "cn": "来访者；游客",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a visitor",
+      "the visitor"
+    ],
+    "examples": [
+      "My friend asked about the visitor.",
+      "There is a visitor in the picture."
+    ],
+    "example": "My friend asked about the visitor.",
+    "sentence": "My friend asked about the ___.",
+    "hint": "选择合适的单词：来访者；游客"
+  },
+  {
+    "id": "primary-md-1190",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "voice",
+    "phonetic": "/vɔɪs/",
+    "cn": "嗓音；说话声",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "通用基础",
+    "category": "名物概念",
+    "phrases": [
+      "a voice",
+      "the voice"
+    ],
+    "examples": [
+      "This story mentions a voice.",
+      "We talked about the voice after class."
+    ],
+    "example": "This story mentions a voice.",
+    "sentence": "This story mentions a ___.",
+    "hint": "选择合适的单词：嗓音；说话声"
+  },
+  {
+    "id": "primary-md-1191",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "volunteer",
+    "phonetic": "/ˌvɑːlənˈtɪr/",
+    "cn": "志愿者；自愿做",
+    "pos": "名词/动词",
+    "rawPos": "n.&v.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can volunteer",
+      "volunteer carefully"
+    ],
+    "examples": [
+      "She wants to volunteer after school.",
+      "We should volunteer at the right time."
+    ],
+    "example": "She wants to volunteer after school.",
+    "sentence": "She wants to ___ after school.",
+    "hint": "选择合适的单词：志愿者；自愿做"
+  },
+  {
+    "id": "primary-md-1192",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "washroom",
+    "phonetic": "/ˈwɑːʃruːm/",
+    "cn": "洗手间，厕所",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "地点出行",
+    "category": "名物概念",
+    "phrases": [
+      "go to the washroom",
+      "near the washroom"
+    ],
+    "examples": [
+      "We met near the washroom.",
+      "Turn left when you see the washroom."
+    ],
+    "example": "We met near the washroom.",
+    "sentence": "We met near the ___.",
+    "hint": "选择合适的单词：洗手间，厕所"
+  },
+  {
+    "id": "primary-md-1193",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "waste",
+    "phonetic": "/weɪst/",
+    "cn": "浪费；废弃的",
+    "pos": "动词/名词/形容词",
+    "rawPos": "v.&n.&adj.",
+    "scene": "通用基础",
+    "category": "动作行为",
+    "phrases": [
+      "can waste",
+      "waste carefully"
+    ],
+    "examples": [
+      "He will waste with his friends.",
+      "Do not waste too quickly."
+    ],
+    "example": "He will waste with his friends.",
+    "sentence": "He will ___ with his friends.",
+    "hint": "选择合适的单词：浪费；废弃的"
+  },
+  {
+    "id": "primary-md-1194",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "weak",
+    "phonetic": "/wiːk/",
+    "cn": "虚弱的；无力的",
+    "pos": "形容词",
+    "rawPos": "adj.",
+    "scene": "通用基础",
+    "category": "描述评价",
+    "phrases": [
+      "very weak",
+      "a weak person"
+    ],
+    "examples": [
+      "The road looks weak after the rain.",
+      "It is weak to finish early."
+    ],
+    "example": "The road looks weak after the rain.",
+    "sentence": "The road looks ___ after the rain.",
+    "hint": "选择合适的单词：虚弱的；无力的"
+  },
+  {
+    "id": "primary-md-1195",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "whale",
+    "phonetic": "/weɪl/",
+    "cn": "鲸",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the whale",
+      "a whale"
+    ],
+    "examples": [
+      "The children talked about the whale.",
+      "I drew a whale in my notebook."
+    ],
+    "example": "The children talked about the whale.",
+    "sentence": "The children talked about the ___.",
+    "hint": "选择合适的单词：鲸"
+  },
+  {
+    "id": "primary-md-1196",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "wing",
+    "phonetic": "/wɪŋ/",
+    "cn": "翅膀；翼",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the wing",
+      "a wing"
+    ],
+    "examples": [
+      "I took a photo of the wing.",
+      "There is a wing near the park."
+    ],
+    "example": "I took a photo of the wing.",
+    "sentence": "I took a photo of the ___.",
+    "hint": "选择合适的单词：翅膀；翼"
+  },
+  {
+    "id": "primary-md-1197",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "wolf",
+    "phonetic": "/wʊlf/",
+    "cn": "狼",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "look at the wolf",
+      "a wolf"
+    ],
+    "examples": [
+      "We watched the wolf from the hill.",
+      "A picture of the wolf is on the wall."
+    ],
+    "example": "We watched the wolf from the hill.",
+    "sentence": "We watched the ___ from the hill.",
+    "hint": "选择合适的单词：狼"
+  },
+  {
+    "id": "primary-md-1198",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "wood",
+    "phonetic": "/wʊd/",
+    "cn": "木头；木材；树林",
+    "pos": "名词",
+    "rawPos": "n.",
+    "scene": "自然动物",
+    "category": "名物概念",
+    "phrases": [
+      "a piece of wood",
+      "wooden chair"
+    ],
+    "examples": [
+      "This chair is made of wood.",
+      "He picked up a piece of wood near the tree."
+    ],
+    "example": "This chair is made of wood.",
+    "sentence": "This chair is made of ___.",
+    "hint": "选择合适的单词：木头；木材；树林"
+  },
+  {
+    "id": "primary-md-1199",
+    "level": "primary",
+    "levelLabel": "小学版",
+    "word": "zero",
+    "phonetic": "/ˈzɪroʊ/",
+    "cn": "零",
+    "pos": "数词",
+    "rawPos": "num.",
+    "scene": "通用基础",
+    "category": "数量时间",
+    "phrases": [
+      "zero books",
+      "page zero"
+    ],
+    "examples": [
+      "I have zero books.",
+      "Please open page zero."
+    ],
+    "example": "I have zero books.",
+    "sentence": "I have ___ books.",
+    "hint": "选择合适的单词：零"
   },
   {
     "id": "high-610",
