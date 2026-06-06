@@ -118,7 +118,7 @@ const els = {
 
 const levelLabels = { primary: "小学版", high: "高中版", read: "读句子" };
 const READ_REQUIRED_ATTEMPTS = 10;
-const ASSET_VERSION = "33";
+const ASSET_VERSION = "34";
 const petLevelNames = [
   "小奶狗",
   "萌萌狗",
@@ -772,19 +772,12 @@ function renderPet() {
 
   if (meta.imageDir) {
     const petSrc = `./${meta.imageDir}/${meta.imagePrefix}${rank.growth}-${rank.level}.png?v=${ASSET_VERSION}`;
-    const fallbackSrc = `./${meta.imageDir}/${meta.imagePrefix}1-1.png?v=${ASSET_VERSION}`;
     els.petPhoto.hidden = false;
     els.petPhoto.onerror = null;
-    els.petPhoto.dataset.fallbackTried = "0";
     els.petPhoto.onload = () => {
       els.petPhoto.hidden = false;
     };
     els.petPhoto.onerror = () => {
-      if (els.petPhoto.dataset.fallbackTried !== "1") {
-        els.petPhoto.dataset.fallbackTried = "1";
-        els.petPhoto.src = fallbackSrc;
-        return;
-      }
       els.petPhoto.hidden = true;
     };
     els.petPhoto.src = petSrc;
