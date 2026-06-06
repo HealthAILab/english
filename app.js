@@ -1404,10 +1404,14 @@ function playReadAttempt(index) {
 function rerunReadAttempt(index) {
   const item = activeSentenceChallenge();
   if (!item) return;
+  cancelActiveReadSession();
   const sentenceProgress = activeSentenceProgress(item);
   sentenceProgress.activeAttemptIndex = Math.max(0, Math.min(index, READ_REQUIRED_ATTEMPTS - 1));
   saveProgress();
   renderReadChallenge();
+  setTimeout(() => {
+    recordSentenceReading();
+  }, 80);
 }
 
 function renderReadChallenge() {
@@ -1461,6 +1465,7 @@ function renderReadChallenge() {
 
 function changeReadSentence(step) {
   if (!sentenceChallenges.length) return;
+  cancelActiveReadSession();
   const progress = activeReadState();
   progress.index = (progress.index + step + sentenceChallenges.length) % sentenceChallenges.length;
   saveProgress();
@@ -1474,6 +1479,27 @@ function speakSentenceExample() {
 
 let readMicStream = null;
 let activeReadRecognition = null;
+let activeReadCancel = null;
+let activeReadFinish = null;
+
+function cancelActiveReadSession(message = "") {
+  if (activeReadCancel) {
+    activeReadCancel();
+    activeReadCancel = null;
+  } else if (activeReadRecognition) {
+    try {
+      activeReadRecognition.abort?.();
+      activeReadRecognition.stop?.();
+    } catch {
+      // Ignore stale browser speech-recognition sessions.
+    }
+  }
+  activeReadRecognition = null;
+  activeReadFinish = null;
+  els.finishReadingBtn.disabled = true;
+  els.recordSentenceBtn.disabled = false;
+  if (message) els.readFeedback.textContent = message;
+}
 
 async function ensureMicrophoneReady() {
   if (readMicStream?.active) return true;
@@ -1485,6 +1511,7 @@ async function ensureMicrophoneReady() {
 async function recordSentenceReading() {
   const item = activeSentenceChallenge();
   if (!item) return;
+  cancelActiveReadSession();
   const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
   if (!SpeechRecognition) {
     els.readFeedback.textContent = "当前浏览器不支持语音识别，请使用 Chrome 或 Edge。";
@@ -1501,13 +1528,17 @@ async function recordSentenceReading() {
   }
   const recognition = new SpeechRecognition();
   recognition.lang = "en-US";
+  recognition.continuous = true;
   recognition.interimResults = false;
   recognition.maxAlternatives = 1;
-  els.readFeedback.textContent = "正在听，请读出英文句子。";
+  els.readFeedback.textContent = "正在听，请读完后点“已读完”。";
   let spoken = "";
   let score = 0;
   let gotResult = false;
   let finished = false;
+  let cancelled = false;
+  let userFinished = false;
+  let restartCount = 0;
   let listenTimer = null;
   let recorder = null;
   const audioChunks = [];
@@ -1557,44 +1588,109 @@ async function recordSentenceReading() {
     score = scoreReading(item.en, spoken);
   };
   recognition.onerror = () => {
+    if (cancelled) return;
     gotResult = false;
     els.readFeedback.textContent = "没有识别成功，请再试一次。";
   };
   const finishListening = () => {
     if (finished) return;
+    if (!cancelled && !userFinished && !gotResult && restartCount < 3) {
+      restartCount += 1;
+      els.readFeedback.textContent = "正在听，请继续读，读完后点“已读完”。";
+      setTimeout(() => {
+        try {
+          recognition.start();
+        } catch {
+          userFinished = true;
+          finishListening();
+        }
+      }, 200);
+      return;
+    }
     finished = true;
     if (listenTimer) {
       clearTimeout(listenTimer);
       listenTimer = null;
     }
-    activeReadRecognition = null;
+    if (activeReadRecognition === recognition) activeReadRecognition = null;
+    if (activeReadCancel === cancelThisSession) activeReadCancel = null;
+    if (activeReadFinish === finishThisSession) activeReadFinish = null;
     els.finishReadingBtn.disabled = true;
-    if (recorder && recorder.state !== "inactive") {
-      recorder.onstop = () => {
-        saveAttempt().finally(() => {
-          els.recordSentenceBtn.disabled = false;
-        });
-      };
-      recorder.stop();
-    } else {
+    const finish = () => {
+      if (cancelled) {
+        els.recordSentenceBtn.disabled = false;
+        return;
+      }
       saveAttempt().finally(() => {
         els.recordSentenceBtn.disabled = false;
       });
+    };
+    if (recorder && recorder.state !== "inactive") {
+      recorder.onstop = finish;
+      recorder.stop();
+    } else {
+      finish();
+    }
+  };
+  const cancelThisSession = () => {
+    cancelled = true;
+    if (listenTimer) {
+      clearTimeout(listenTimer);
+      listenTimer = null;
+    }
+    els.finishReadingBtn.disabled = true;
+    els.recordSentenceBtn.disabled = false;
+    try {
+      recognition.abort?.();
+    } catch {
+      try {
+        recognition.stop?.();
+      } catch {
+        // Ignore stale browser speech-recognition sessions.
+      }
+    }
+    if (recorder && recorder.state !== "inactive") {
+      try {
+        recorder.stop();
+      } catch {
+        // Ignore stale recorder sessions.
+      }
+    }
+  };
+  const finishThisSession = () => {
+    userFinished = true;
+    try {
+      recognition.stop();
+    } catch {
+      finishListening();
     }
   };
   recognition.onend = finishListening;
   activeReadRecognition = recognition;
+  activeReadCancel = cancelThisSession;
+  activeReadFinish = finishThisSession;
   els.finishReadingBtn.disabled = false;
-  recognition.start();
+  try {
+    recognition.start();
+  } catch {
+    activeReadRecognition = null;
+    activeReadCancel = null;
+    activeReadFinish = null;
+    els.finishReadingBtn.disabled = true;
+    els.recordSentenceBtn.disabled = false;
+    els.readFeedback.textContent = "语音识别启动失败，请重新点击跟读评分。";
+    return;
+  }
   listenTimer = setTimeout(() => {
-    if (finished) return;
+    if (finished || cancelled) return;
+    userFinished = true;
     els.readFeedback.textContent = "已自动停止，正在识别。";
     try {
       recognition.stop();
     } catch {
       finishListening();
     }
-  }, 12000);
+  }, 30000);
 }
 
 function finishSentenceReading() {
@@ -1604,10 +1700,17 @@ function finishSentenceReading() {
   }
   els.readFeedback.textContent = "已读完，正在识别。";
   els.finishReadingBtn.disabled = true;
+  if (activeReadFinish) {
+    activeReadFinish();
+    return;
+  }
   try {
     activeReadRecognition.stop();
   } catch {
     activeReadRecognition = null;
+    activeReadCancel = null;
+    activeReadFinish = null;
+    els.finishReadingBtn.disabled = true;
     els.recordSentenceBtn.disabled = false;
   }
 }
