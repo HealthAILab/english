@@ -12,7 +12,7 @@
         <div class="title-block">
           <p class="eyebrow">Primary & High School Vocabulary</p>
           <h1>英语单词分级记忆</h1>
-          <p class="subtitle">按小学版/高中版、词性和语义分类筛选，用单词卡、选择题和应用题练习。</p>
+          <p class="subtitle">按小学版/高中版、词性和分类筛选，用单词卡、中选英和单选题练习。</p>
         </div>
         <div class="scene" aria-hidden="true">
           <div class="sun"></div>
@@ -91,8 +91,8 @@
         </div>
         <div class="mode-tabs word-only-filter" aria-label="模式">
           <button class="tab active" data-mode="cards">单词卡</button>
-          <button class="tab" data-mode="choice">选择题</button>
-          <button class="tab" data-mode="sentence">应用题</button>
+          <button class="tab" data-mode="choice">中选英</button>
+          <button class="tab" data-mode="sentence">单选题</button>
           <button class="tab" data-mode="wrong">错词本</button>
         </div>
       </section>
@@ -123,14 +123,14 @@
           </div>
 
           <div class="quiz-mode panel" id="choiceMode">
-            <p class="question-label">选择英文</p>
+            <p class="question-label">中选英</p>
             <h2 id="choicePrompt">学习</h2>
             <div class="option-grid" id="choiceOptions"></div>
             <p class="feedback" id="choiceFeedback"></p>
           </div>
 
           <div class="quiz-mode panel" id="sentenceMode">
-            <p class="question-label">选择合适的单词</p>
+            <p class="question-label">单选题</p>
             <h2 id="sentencePrompt">I can ___.</h2>
             <p class="sentence-hint" id="sentenceHint">我会/可以：学习。</p>
             <div class="option-grid" id="sentenceOptions"></div>
@@ -143,8 +143,8 @@
               <button class="text-button" id="clearWrong">清空</button>
             </div>
             <div class="action-row">
-              <button class="primary-button" id="wrongChoiceBtn">错题选择题</button>
-              <button class="primary-button" id="wrongSentenceBtn">错题应用题</button>
+              <button class="primary-button" id="wrongChoiceBtn">错题中选英</button>
+              <button class="primary-button" id="wrongSentenceBtn">错题单选题</button>
             </div>
             <div class="quiz-mode wrong-practice" id="wrongPractice" hidden>
               <p class="question-label" id="wrongPracticeLabel">错题练习</p>
@@ -182,8 +182,8 @@
         </section>
       </section>
     </main>
-    <script src="./vocabulary-data.js?v=29"></script>
+    <script src="./vocabulary-data.js?v=30"></script>
     <script src="./sentences-data.js?v=1"></script>
-    <script src="./app.js?v=35"></script>
+    <script src="./app.js?v=39"></script>
   </body>
 </html>

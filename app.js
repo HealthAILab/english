@@ -119,6 +119,7 @@ const els = {
 const levelLabels = { primary: "小学版", high: "高中版", read: "读句子" };
 const READ_REQUIRED_ATTEMPTS = 10;
 const ASSET_VERSION = "34";
+const GROUP_SIZE_BY_LEVEL = { primary: 10, high: 50 };
 const petLevelNames = [
   "小奶狗",
   "萌萌狗",
@@ -153,6 +154,14 @@ function baseLevelWords() {
 
 function activePetLevel() {
   return state.level === "read" ? "primary" : state.level;
+}
+
+function currentGroupSize(level = state.level) {
+  return GROUP_SIZE_BY_LEVEL[level] || 10;
+}
+
+function isHighLevel(level = state.level) {
+  return level === "high";
 }
 
 function wordsAfterPos() {
@@ -198,7 +207,12 @@ function semanticClass(item) {
 
 function wordsAfterSemantic() {
   const list = wordsAfterPos();
+  if (isHighLevel()) return state.semantic === "all" ? list : list.filter((item) => item.frequency === state.semantic);
   return state.semantic === "all" ? list : list.filter((item) => semanticClass(item) === state.semantic);
+}
+
+function displayClass(item) {
+  return item.level === "high" ? item.frequency || "" : semanticClass(item);
 }
 
 function wordsBeforeGroup() {
@@ -206,8 +220,9 @@ function wordsBeforeGroup() {
 }
 
 function filteredWords() {
-  const start = (state.group - 1) * 10;
-  return wordsBeforeGroup().slice(start, start + 10);
+  const groupSize = currentGroupSize();
+  const start = (state.group - 1) * groupSize;
+  return wordsBeforeGroup().slice(start, start + groupSize);
 }
 
 function currentGroupKey() {
@@ -230,19 +245,20 @@ function groupProgress() {
 
 function currentGroupCardDone() {
   const groupWords = filteredWords();
-  return groupWords.length === 10 && groupWords.every((item) => state.mastered.has(item.id));
+  return groupWords.length === currentGroupSize() && groupWords.every((item) => state.mastered.has(item.id));
 }
 
 function ensureLevelGroupCount(progress, targetLevel = state.level) {
   const levelIds = new Set(words.filter((item) => item.level === targetLevel).map((item) => item.id));
-  const masteredLevelGroups = Math.floor([...state.mastered].filter((id) => levelIds.has(id)).length / 10);
+  const groupSize = currentGroupSize(targetLevel);
+  const masteredLevelGroups = Math.floor([...state.mastered].filter((id) => levelIds.has(id)).length / groupSize);
   progress.legacyLevelGroupCount = Math.max(Number(progress.legacyLevelGroupCount || 0), masteredLevelGroups);
   if (!Number.isFinite(progress.levelGroupCount)) {
     const completedGroups = Array.isArray(progress.completedGroups) ? progress.completedGroups : [];
     const uniqueGroups = new Set(
       completedGroups.filter((key) => {
         const ids = String(key).split("|")[1]?.split(",") || [];
-        return ids.length === 10;
+        return ids.length === groupSize;
       })
     );
     progress.levelGroupCount = Math.max(Number(progress.legacyLevelGroupCount || 0), uniqueGroups.size);
@@ -550,14 +566,155 @@ function examplesFor(item) {
   return [`I use ${word} every day.`, `We choose ${word} here.`, `The word means "${cn}".`];
 }
 
+function mainMeaning(item) {
+  return String(item.cn || "")
+    .replace(/[（(].*?[）)]/g, "")
+    .split(/[；;，,、]/)[0]
+    .trim();
+}
+
+function pronounTranslation(word, meaning) {
+  const key = String(word || "").toLowerCase();
+  const map = {
+    i: "我",
+    me: "我",
+    my: "我的",
+    mine: "我的",
+    you: "你",
+    your: "你的",
+    yours: "你的",
+    he: "他",
+    him: "他",
+    his: "他的",
+    she: "她",
+    her: "她的",
+    hers: "她的",
+    it: "它",
+    its: "它的",
+    we: "我们",
+    us: "我们",
+    our: "我们的",
+    ours: "我们的",
+    they: "他们",
+    them: "他们",
+    their: "他们的",
+    theirs: "他们的",
+    this: "这个",
+    that: "那个",
+    these: "这些",
+    those: "那些",
+    anybody: "任何人",
+    anyone: "任何人",
+    everybody: "每个人",
+    everyone: "每个人",
+    somebody: "某人",
+    someone: "某人",
+    nobody: "没有人",
+    noone: "没有人",
+  };
+  return map[key] || meaning;
+}
+
+function sentenceTranslationFor(item, example) {
+  if (Array.isArray(item.translations) && item.translations.length) {
+    const examples = examplesFor(item);
+    const index = examples.indexOf(example);
+    return item.translations[index >= 0 ? index : 0] || item.translations[0];
+  }
+  const meaning = mainMeaning(item) || item.cn || item.word;
+  const pronoun = pronounTranslation(item.word, meaning);
+  const lower = example.toLowerCase();
+
+  const exact = {
+    "the answer is written on the board.": "答案写在黑板上。",
+    "we visited the museum on the first day.": "第一天我们参观了博物馆。",
+    "a useful tool can save time.": "一个有用的工具可以节省时间。",
+    "an important idea should be explained clearly.": "一个重要的想法应该解释清楚。",
+    "many students go to school by bus.": "许多学生乘公共汽车去上学。",
+    "she listens to music after finishing homework.": "她完成作业后听音乐。",
+    "the report is ready for the meeting.": "这份报告已为会议准备好了。",
+    "a clear goal is important for success.": "清晰的目标对成功很重要。",
+    "bread and milk are on the table.": "面包和牛奶在桌子上。",
+    "students read and write in english class.": "学生们在英语课上读写。",
+    "it seems difficult at first.": "起初它看起来很难。",
+    "practice makes it easier.": "练习会让它变得更容易。",
+  };
+  if (exact[lower]) return exact[lower];
+
+  const patterns = [
+    [/^(.+) are part of a healthy (.+)\.$/i, () => `${meaning}是健康生活的一部分。`],
+    [/^he goes on a diet to stay healthy\.$/i, () => "他节食以保持健康。"],
+    [/^healthy food gives us energy\.$/i, () => "健康食物给我们能量。"],
+    [/^fast food is not good every day\.$/i, () => "每天吃快餐并不好。"],
+    [/^we enjoyed a warm (.+) after class\.$/i, () => `课后我们享用了一顿温暖的${meaning}。`],
+    [/^a good (.+) can make people happy\.$/i, () => `好的${meaning}能让人开心。`],
+    [/^i have (.+) at seven\.$/i, () => `我七点吃${meaning}。`],
+    [/^she eats (.+) with her family\.$/i, () => `她和家人一起吃${meaning}。`],
+    [/^we have (.+) at school\.$/i, () => `我们在学校吃${meaning}。`],
+    [/^(.+) time is at twelve\.$/i, () => `${meaning}时间在十二点。`],
+    [/^we have (.+) at home\.$/i, () => `我们在家吃${meaning}。`],
+    [/^my father cooks (.+) today\.$/i, () => `我爸爸今天做${meaning}。`],
+    [/^i like (.+)\.$/i, () => `我喜欢${meaning}。`],
+    [/^we have (.+) for lunch\.$/i, () => `我们午餐吃${meaning}。`],
+    [/^mom puts (.+) on the table\.$/i, () => `妈妈把${meaning}放在桌子上。`],
+    [/^we share (.+) after class\.$/i, () => `课后我们分享${meaning}。`],
+    [/^there is (.+) in my lunch box\.$/i, () => `我的午餐盒里有${meaning}。`],
+    [/^my sister wants more (.+)\.$/i, () => `我妹妹还想要更多${meaning}。`],
+    [/^this (.+) is fresh\.$/i, () => `这个${meaning}很新鲜。`],
+    [/^please pass me (.+)\.$/i, () => `请把${meaning}递给我。`],
+    [/^this (.+) fits me well\.$/i, () => `这件${meaning}很适合我。`],
+    [/^she wears (.+) on cold days\.$/i, () => `她在冷天穿${meaning}。`],
+    [/^put (.+) on the chair\.$/i, () => `把${meaning}放在椅子上。`],
+    [/^my brother bought (.+) yesterday\.$/i, () => `我哥哥昨天买了${meaning}。`],
+    [/^my (.+) hurts a little\.$/i, () => `我的${meaning}有点疼。`],
+    [/^wash your (.+) before dinner\.$/i, () => `晚饭前洗你的${meaning}。`],
+    [/^the doctor checks (.+)\.$/i, () => `医生检查${meaning}。`],
+    [/^the teacher explained (.+) before class ended\.$/i, () => `下课前老师讲解了${meaning}。`],
+    [/^students wrote (.+) in their notebooks\.$/i, () => `学生们把${meaning}写在笔记本里。`],
+    [/^students (.+) the new material before the test\.$/i, () => `考试前学生们学习新材料中的${meaning}。`],
+    [/^the teacher asked us to (.+) carefully\.$/i, () => `老师要求我们认真${meaning}。`],
+    [/^the team discussed (.+) at the meeting\.$/i, () => `团队在会议上讨论了${meaning}。`],
+    [/^a clear (.+) helped the project move faster\.$/i, () => `清晰的${meaning}帮助项目进展更快。`],
+    [/^the article discusses (.+) in modern society\.$/i, () => `这篇文章讨论了现代社会中的${meaning}。`],
+    [/^people have different opinions about (.+)\.$/i, () => `人们对${meaning}有不同看法。`],
+    [/^the children observed (.+) during the field trip\.$/i, () => `孩子们在实地考察中观察了${meaning}。`],
+    [/^protecting (.+) is important for the environment\.$/i, () => `保护${meaning}对环境很重要。`],
+    [/^the doctor asked about (.+) during the checkup\.$/i, () => `体检时医生询问了${meaning}。`],
+    [/^regular exercise can improve (.+)\.$/i, () => `规律锻炼可以改善${meaning}。`],
+    [/^the passage uses (.+) to explain the idea\.$/i, () => `这篇文章用${meaning}来解释这个想法。`],
+    [/^context helps readers understand (.+)\.$/i, () => `上下文帮助读者理解${meaning}。`],
+    [/^the story shows (.+) through a small detail\.$/i, () => `这个故事通过一个小细节表现了${meaning}。`],
+    [/^her speech gave us a clear sense of (.+)\.$/i, () => `她的演讲让我们清楚感受到${meaning}。`],
+    [/^you can notice (.+) in daily life\.$/i, () => `你可以在日常生活中注意到${meaning}。`],
+    [/^the writer chose (.+) for comparison\.$/i, () => `作者选择${meaning}来进行比较。`],
+    [/^the class raised a question about (.+)\.$/i, () => `课堂上提出了一个关于${meaning}的问题。`],
+    [/^the role of (.+) changes in different situations\.$/i, () => `${meaning}的作用在不同情境中会变化。`],
+    [/^the report described recent (.+)\.$/i, () => `报告描述了最近的${meaning}。`],
+    [/^a new (.+) appeared in the final paragraph\.$/i, () => `最后一段出现了新的${meaning}。`],
+    [/^this example is (.+) enough for beginners\.$/i, () => `这个例子对初学者来说足够${meaning}。`],
+    [/^the answer seemed (.+) after the explanation\.$/i, () => `解释之后，答案似乎很${meaning}。`],
+    [/^the website provides (.+) information\.$/i, () => `这个网站提供${meaning}信息。`],
+    [/^they discussed (.+) problem in groups\.$/i, () => `他们分组讨论了一个${meaning}问题。`],
+    [/^(.+) answer surprised the class\.$/i, () => `${pronoun}回答让全班很惊讶。`],
+    [/^the teacher asked (.+) to explain the idea\.$/i, () => `老师让${pronoun}解释这个想法。`],
+    [/^(.+) idea surprised the class\.$/i, () => `${pronoun}想法让全班很惊讶。`],
+    [/^(.+) own way/i, () => `${pronoun}自己的方式。`],
+  ];
+
+  const hit = patterns.find(([pattern]) => pattern.test(example));
+  if (hit) return hit[1]();
+  return `这句话表达的是“${meaning}”在具体语境中的用法。`;
+}
+
 function sentenceQuestionFor(item, variant = 0) {
   const word = mainWord(item);
   const examples = examplesFor(item);
   const example = examples[variant % examples.length] || `Students use ${word} every day.`;
   const pattern = new RegExp(`\\b${word.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`, "i");
-  const prompt = pattern.test(example) ? example.replace(pattern, "___") : `${example} (${item.cn}: ___)`;
+  const prompt = pattern.test(example) ? example.replace(pattern, "___") : item.level === "high" ? `${example} ___` : `${example} (${item.cn}: ___)`;
   return {
     prompt,
+    translation: `整句翻译：${sentenceTranslationFor(item, example)}`,
     hint: `选择合适的单词：${item.cn}`,
   };
 }
@@ -619,6 +776,9 @@ function renderFilters() {
   }
 
   const levelWords = baseLevelWords();
+  if (els.semanticFilters.previousElementSibling) {
+    els.semanticFilters.previousElementSibling.textContent = isHighLevel() ? "频次" : "语义分类";
+  }
   els.posFilters.innerHTML = "";
   makeChip(els.posFilters, "全部词性", state.pos === "all", () => updateFilter({ pos: "all", semantic: "all", group: 1 }));
   uniqueValues(levelWords, "pos").forEach((pos) => {
@@ -628,20 +788,29 @@ function renderFilters() {
 
   const posWords = wordsAfterPos();
   els.semanticFilters.innerHTML = "";
-  makeChip(els.semanticFilters, "全部语义", state.semantic === "all", () => updateFilter({ semantic: "all", group: 1 }));
-  uniqueComputedValues(posWords, semanticClass).forEach((semantic) => {
-    const count = posWords.filter((item) => semanticClass(item) === semantic).length;
-    makeChip(els.semanticFilters, `${semantic} ${count}`, state.semantic === semantic, () => updateFilter({ semantic, group: 1 }));
-  });
+  if (isHighLevel()) {
+    makeChip(els.semanticFilters, "全部频次", state.semantic === "all", () => updateFilter({ semantic: "all", group: 1 }));
+    ["高频词", "中频词", "低频词"].filter((frequency) => posWords.some((item) => item.frequency === frequency)).forEach((frequency) => {
+      const count = posWords.filter((item) => item.frequency === frequency).length;
+      makeChip(els.semanticFilters, `${frequency} ${count}`, state.semantic === frequency, () => updateFilter({ semantic: frequency, group: 1 }));
+    });
+  } else {
+    makeChip(els.semanticFilters, "全部语义", state.semantic === "all", () => updateFilter({ semantic: "all", group: 1 }));
+    uniqueComputedValues(posWords, semanticClass).forEach((semantic) => {
+      const count = posWords.filter((item) => semanticClass(item) === semantic).length;
+      makeChip(els.semanticFilters, `${semantic} ${count}`, state.semantic === semantic, () => updateFilter({ semantic, group: 1 }));
+    });
+  }
 
   const groupedWords = wordsBeforeGroup();
-  const groupCount = Math.max(1, Math.ceil(groupedWords.length / 10));
+  const groupSize = currentGroupSize();
+  const groupCount = Math.max(1, Math.ceil(groupedWords.length / groupSize));
   if (state.group > groupCount) state.group = groupCount;
   els.groupFilters.innerHTML = "";
   for (let group = 1; group <= groupCount; group += 1) {
-    const groupWords = groupedWords.slice((group - 1) * 10, group * 10);
-    const start = groupedWords.length ? (group - 1) * 10 + 1 : 0;
-    const end = Math.min(group * 10, groupedWords.length);
+    const groupWords = groupedWords.slice((group - 1) * groupSize, group * groupSize);
+    const start = groupedWords.length ? (group - 1) * groupSize + 1 : 0;
+    const end = Math.min(group * groupSize, groupedWords.length);
     const done = groupWords.length > 0 && groupWords.every((item) => state.mastered.has(item.id));
     makeChip(els.groupFilters, `第${group}组 ${start}-${end}`, state.group === group, () => updateFilter({ group }), done ? "done" : "");
   }
@@ -792,7 +961,7 @@ function renderPet() {
   els.petProgress.style.width = `${rank.level * 10}%`;
   els.petMessage.textContent = asleep
     ? `达标升级 ${rank.completed} 次。超过 48 小时未完成本学段题组，${meta.sleepText}。`
-    : `达标升级 ${rank.completed} 次，活力 ${vitality}%。选择题、应用题都达到 60 分后升 1 级。`;
+    : `达标升级 ${rank.completed} 次，活力 ${vitality}%。中选英、单选题都达到 60 分后升 1 级。`;
 }
 
 function touchPet() {
@@ -868,7 +1037,7 @@ function renderWordList() {
     button.innerHTML = `
       <div>
         <strong>${escapeHtml(item.word)}</strong>
-        <span>${escapeHtml(item.cn)} · ${escapeHtml(item.pos)} · ${escapeHtml(semanticClass(item))}</span>
+        <span>${escapeHtml(item.cn)} · ${escapeHtml(item.pos)} · ${escapeHtml(displayClass(item))}</span>
         <span>记 ${stats.studied} 次 · 题 ${stats.quiz} 次 · 对 ${stats.correct} · 错 ${stats.wrong}</span>
       </div>
       <i class="mastered-dot"></i>
@@ -950,8 +1119,9 @@ function wrongLevelWords() {
 function resetBatch(mode) {
   const sourceWords = mode.startsWith("wrong") ? wrongLevelWords() : filteredWords();
   const ids = sourceWords.map((item) => item.id);
+  const variantsPerWord = isHighLevel() && ["choice", "sentence"].includes(mode) ? 1 : 2;
   const batchItems = ["choice", "sentence", "wrongChoice", "wrongSentence"].includes(mode)
-    ? ids.flatMap((id) => [{ id, variant: 0 }, { id, variant: 1 }])
+    ? ids.flatMap((id) => Array.from({ length: variantsPerWord }, (_, variant) => ({ id, variant })))
     : ids.map((id) => ({ id, variant: 0 }));
   state.queues[mode] = batchItems.sort(() => Math.random() - 0.5);
   state.batchDone[mode] = false;
@@ -1030,7 +1200,7 @@ function newSentenceQuestion() {
   state.currentQuiz = answer;
   const sentenceQuestion = sentenceQuestionFor(answer, state.currentQuizVariant || 0);
   els.sentencePrompt.textContent = sentenceQuestion.prompt;
-  els.sentenceHint.textContent = sentenceQuestion.hint;
+  els.sentenceHint.textContent = sentenceQuestion.translation;
   els.sentenceFeedback.textContent = `本批次剩余 ${state.queues.sentence.length + 1} 个`;
   els.sentenceOptions.innerHTML = "";
   sampleOptions(answer).forEach((item) => {
@@ -1046,7 +1216,7 @@ function newWrongQuestion(mode) {
   const answer = takeQuestionWord(mode);
   const kind = quizKind(mode);
   els.wrongPractice.hidden = false;
-  els.wrongPracticeLabel.textContent = kind === "choice" ? "错题选择题" : "错题应用题";
+  els.wrongPracticeLabel.textContent = kind === "choice" ? "错题中选英" : "错题单选题";
   els.wrongHint.textContent = "";
 
   if (!answer) {
@@ -1064,7 +1234,7 @@ function newWrongQuestion(mode) {
   } else {
     const sentenceQuestion = sentenceQuestionFor(answer, state.currentQuizVariant || 0);
     els.wrongPrompt.textContent = sentenceQuestion.prompt;
-    els.wrongHint.textContent = sentenceQuestion.hint;
+    els.wrongHint.textContent = sentenceQuestion.translation;
   }
   sampleOptions(answer).forEach((item) => {
     const button = document.createElement("button");
@@ -1135,7 +1305,7 @@ function renderWrongList() {
     const stats = statFor(item.id);
     const row = document.createElement("div");
     row.className = "wrong-card";
-    row.innerHTML = `<div><strong>${escapeHtml(item.word)}</strong><div>${escapeHtml(item.cn)} · ${escapeHtml(item.pos)} · ${escapeHtml(semanticClass(item))}</div><div>记 ${stats.studied} 次 · 题 ${stats.quiz} 次 · 对 ${stats.correct} · 错 ${stats.wrong}</div></div>`;
+    row.innerHTML = `<div><strong>${escapeHtml(item.word)}</strong><div>${escapeHtml(item.cn)} · ${escapeHtml(item.pos)} · ${escapeHtml(displayClass(item))}</div><div>记 ${stats.studied} 次 · 题 ${stats.quiz} 次 · 对 ${stats.correct} · 错 ${stats.wrong}</div></div>`;
     const button = document.createElement("button");
     button.className = "primary-button";
     button.textContent = "发音";
