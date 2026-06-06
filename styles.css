@@ -771,6 +771,30 @@ h1 {
   overflow-wrap: anywhere;
 }
 
+.read-card.reciting h2,
+.read-card.reciting .read-attempts {
+  display: none;
+}
+
+.read-card.reciting .sentence-hint {
+  margin-top: 18px;
+}
+
+.read-card.reciting::after {
+  content: "背诵中";
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 140px;
+  margin: 16px 0;
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+  color: var(--muted);
+  font-size: 28px;
+  font-weight: 800;
+  background: rgba(255, 255, 255, 0.7);
+}
+
 .read-score-bar {
   margin: 12px 0;
 }

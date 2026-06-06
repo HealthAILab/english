@@ -102,6 +102,7 @@ const els = {
   wrongHint: document.getElementById("wrongHint"),
   wrongOptions: document.getElementById("wrongOptions"),
   wrongFeedback: document.getElementById("wrongFeedback"),
+  readCard: document.getElementById("readCard"),
   readSentenceNo: document.getElementById("readSentenceNo"),
   readEnglish: document.getElementById("readEnglish"),
   readChinese: document.getElementById("readChinese"),
@@ -1508,6 +1509,17 @@ let readMicStream = null;
 let activeReadRecognition = null;
 let activeReadCancel = null;
 let activeReadFinish = null;
+let readReciteActive = false;
+
+function setReadReciteActive(active) {
+  readReciteActive = active;
+  els.readCard.classList.toggle("reciting", active);
+  els.readEnglish.setAttribute("aria-hidden", active ? "true" : "false");
+  els.readAttempts.setAttribute("aria-hidden", active ? "true" : "false");
+  els.sampleSentenceBtn.disabled = active;
+  els.prevSentenceBtn.disabled = active;
+  els.nextSentenceBtn.disabled = active;
+}
 
 function cancelActiveReadSession(message = "") {
   if (activeReadCancel) {
@@ -1523,6 +1535,7 @@ function cancelActiveReadSession(message = "") {
   }
   activeReadRecognition = null;
   activeReadFinish = null;
+  setReadReciteActive(false);
   els.finishReadingBtn.disabled = true;
   els.recordSentenceBtn.disabled = false;
   if (message) els.readFeedback.textContent = message;
@@ -1776,6 +1789,7 @@ async function recordSentenceRecite() {
   recognition.continuous = true;
   recognition.interimResults = false;
   recognition.maxAlternatives = 1;
+  setReadReciteActive(true);
   els.readFeedback.textContent = "正在听背诵，请背完后点“已读完”。";
 
   let spoken = "";
@@ -1788,6 +1802,7 @@ async function recordSentenceRecite() {
   let listenTimer = null;
 
   const saveRecite = () => {
+    setReadReciteActive(false);
     if (!gotResult) {
       els.readFeedback.textContent = "没有识别到背诵内容，请靠近麦克风再试。";
       renderReadChallenge();
@@ -1843,6 +1858,7 @@ async function recordSentenceRecite() {
     if (activeReadFinish === finishThisSession) activeReadFinish = null;
     els.finishReadingBtn.disabled = true;
     if (cancelled) {
+      setReadReciteActive(false);
       els.recordSentenceBtn.disabled = false;
       renderReadChallenge();
       return;
@@ -1857,6 +1873,7 @@ async function recordSentenceRecite() {
       listenTimer = null;
     }
     els.finishReadingBtn.disabled = true;
+    setReadReciteActive(false);
     els.recordSentenceBtn.disabled = false;
     renderReadChallenge();
     try {
@@ -1889,6 +1906,7 @@ async function recordSentenceRecite() {
     activeReadCancel = null;
     activeReadFinish = null;
     els.finishReadingBtn.disabled = true;
+    setReadReciteActive(false);
     els.recordSentenceBtn.disabled = false;
     renderReadChallenge();
     els.readFeedback.textContent = "背诵识别启动失败，请重新点击背诵评分。";
