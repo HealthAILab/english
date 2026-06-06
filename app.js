@@ -114,6 +114,7 @@ const els = {
   nextSentenceBtn: document.getElementById("nextSentenceBtn"),
   sampleSentenceBtn: document.getElementById("sampleSentenceBtn"),
   recordSentenceBtn: document.getElementById("recordSentenceBtn"),
+  finishReadingBtn: document.getElementById("finishReadingBtn"),
 };
 
 const levelLabels = { primary: "小学版", high: "高中版", read: "读句子" };
@@ -1472,6 +1473,7 @@ function speakSentenceExample() {
 }
 
 let readMicStream = null;
+let activeReadRecognition = null;
 
 async function ensureMicrophoneReady() {
   if (readMicStream?.active) return true;
@@ -1505,6 +1507,8 @@ async function recordSentenceReading() {
   let spoken = "";
   let score = 0;
   let gotResult = false;
+  let finished = false;
+  let listenTimer = null;
   let recorder = null;
   const audioChunks = [];
   if (readMicStream && window.MediaRecorder) {
@@ -1519,7 +1523,10 @@ async function recordSentenceReading() {
     }
   }
   const saveAttempt = async () => {
-    if (!gotResult) return;
+    if (!gotResult) {
+      els.readFeedback.textContent = "没有识别到声音。iPad 浏览器语音识别不稳定，请靠近麦克风再试，或改用电脑 Chrome/Edge。";
+      return;
+    }
     const sentenceProgress = activeSentenceProgress(item);
     const activeIndex = Math.max(0, Math.min(Number(sentenceProgress.activeAttemptIndex || 0), READ_REQUIRED_ATTEMPTS - 1));
     let audio = "";
@@ -1550,9 +1557,18 @@ async function recordSentenceReading() {
     score = scoreReading(item.en, spoken);
   };
   recognition.onerror = () => {
+    gotResult = false;
     els.readFeedback.textContent = "没有识别成功，请再试一次。";
   };
-  recognition.onend = () => {
+  const finishListening = () => {
+    if (finished) return;
+    finished = true;
+    if (listenTimer) {
+      clearTimeout(listenTimer);
+      listenTimer = null;
+    }
+    activeReadRecognition = null;
+    els.finishReadingBtn.disabled = true;
     if (recorder && recorder.state !== "inactive") {
       recorder.onstop = () => {
         saveAttempt().finally(() => {
@@ -1566,7 +1582,34 @@ async function recordSentenceReading() {
       });
     }
   };
+  recognition.onend = finishListening;
+  activeReadRecognition = recognition;
+  els.finishReadingBtn.disabled = false;
   recognition.start();
+  listenTimer = setTimeout(() => {
+    if (finished) return;
+    els.readFeedback.textContent = "已自动停止，正在识别。";
+    try {
+      recognition.stop();
+    } catch {
+      finishListening();
+    }
+  }, 12000);
+}
+
+function finishSentenceReading() {
+  if (!activeReadRecognition) {
+    els.readFeedback.textContent = "当前没有正在进行的跟读。";
+    return;
+  }
+  els.readFeedback.textContent = "已读完，正在识别。";
+  els.finishReadingBtn.disabled = true;
+  try {
+    activeReadRecognition.stop();
+  } catch {
+    activeReadRecognition = null;
+    els.recordSentenceBtn.disabled = false;
+  }
 }
 
 function refreshPractice() {
@@ -1686,6 +1729,7 @@ els.prevSentenceBtn.addEventListener("click", () => changeReadSentence(-1));
 els.nextSentenceBtn.addEventListener("click", () => changeReadSentence(1));
 els.sampleSentenceBtn.addEventListener("click", speakSentenceExample);
 els.recordSentenceBtn.addEventListener("click", recordSentenceReading);
+els.finishReadingBtn.addEventListener("click", finishSentenceReading);
 
 els.petTouchBtn.addEventListener("click", touchPet);
 
