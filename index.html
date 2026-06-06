@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>英语单词分级记忆</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="top-band">
+        <div class="title-block">
+          <p class="eyebrow">Primary & High School Vocabulary</p>
+          <h1>英语单词分级记忆</h1>
+          <p class="subtitle">按小学版/高中版、词性和语义分类筛选，用单词卡、选择题和应用题练习。</p>
+        </div>
+        <div class="scene" aria-hidden="true">
+          <div class="sun"></div>
+          <div class="board">
+            <span>learn</span>
+            <span>word</span>
+            <span>use</span>
+          </div>
+          <div class="desk"></div>
+          <div class="pencil"></div>
+        </div>
+      </section>
+
+      <section class="stats-band" aria-label="学习进度">
+        <div>
+          <span class="stat-value" id="learnedCount">0</span>
+          <span class="stat-label">已掌握</span>
+        </div>
+        <div>
+          <span class="stat-value" id="streakCount">0</span>
+          <span class="stat-label">累计答对</span>
+        </div>
+        <div>
+          <span class="stat-value" id="wrongCount">0</span>
+          <span class="stat-label">错词</span>
+        </div>
+      </section>
+
+      <section class="pet-band" aria-label="学习宠物">
+        <div class="pet-card">
+          <div class="pet-dog stage-0" id="petDog" aria-hidden="true">
+            <video class="pet-video" id="petVideo" autoplay muted loop playsinline hidden></video>
+            <img class="pet-photo" id="petPhoto" alt="" />
+            <span class="ear left"></span>
+            <span class="ear right"></span>
+            <span class="head">
+              <i class="eye left"></i>
+              <i class="eye right"></i>
+              <i class="nose"></i>
+            </span>
+            <span class="body"></span>
+            <span class="tail"></span>
+            <span class="leg one"></span>
+            <span class="leg two"></span>
+          </div>
+          <div>
+            <div class="pet-title-row">
+              <strong id="petName">单词小狗</strong>
+            </div>
+            <p id="petLevel">等级 1 / 10 · 睡觉中</p>
+            <div class="pet-progress"><span id="petProgress"></span></div>
+            <small id="petMessage">完成一组题获得饲料，当前学段宠物会变活泼。</small>
+            <div class="pet-actions">
+              <button class="text-button" id="petTouchBtn">摸一摸</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="controls-band">
+        <div class="filter-block">
+          <div class="filter-title">学段</div>
+          <div class="control-group" id="levelFilters" aria-label="学段筛选"></div>
+        </div>
+        <div class="filter-block word-only-filter">
+          <div class="filter-title">词性</div>
+          <div class="control-group" id="posFilters" aria-label="词性筛选"></div>
+        </div>
+        <div class="filter-block word-only-filter">
+          <div class="filter-title">语义分类</div>
+          <div class="control-group" id="semanticFilters" aria-label="语义分类筛选"></div>
+        </div>
+        <div class="filter-block word-only-filter">
+          <div class="filter-title">分组</div>
+          <div class="control-group" id="groupFilters" aria-label="分组筛选"></div>
+        </div>
+        <div class="mode-tabs word-only-filter" aria-label="模式">
+          <button class="tab active" data-mode="cards">单词卡</button>
+          <button class="tab" data-mode="choice">选择题</button>
+          <button class="tab" data-mode="sentence">应用题</button>
+          <button class="tab" data-mode="wrong">错词本</button>
+        </div>
+      </section>
+
+      <section class="study-layout">
+        <aside class="word-list" aria-label="单词列表">
+          <div class="list-header">
+            <strong>词表</strong>
+            <span id="wordTotal">0 个</span>
+          </div>
+          <div id="wordList"></div>
+        </aside>
+
+        <section class="practice-area" aria-live="polite">
+          <div class="card-mode panel active" id="cardsMode">
+            <div class="flash-card" id="flashCard">
+              <p class="category-tag" id="cardCategory">小学版 · 动词 · 学校课堂</p>
+              <div class="word-main" id="cardWord">learn</div>
+              <div class="word-cn" id="cardCn">学习</div>
+              <div class="example" id="cardExample">I can learn.</div>
+            </div>
+            <div class="action-row">
+              <button class="icon-button" id="prevBtn" title="上一个">←</button>
+              <button class="primary-button" id="speakBtn">发音</button>
+              <button class="primary-button" id="knownBtn">已掌握</button>
+              <button class="icon-button" id="nextBtn" title="下一个">→</button>
+            </div>
+          </div>
+
+          <div class="quiz-mode panel" id="choiceMode">
+            <p class="question-label">选择英文</p>
+            <h2 id="choicePrompt">学习</h2>
+            <div class="option-grid" id="choiceOptions"></div>
+            <p class="feedback" id="choiceFeedback"></p>
+          </div>
+
+          <div class="quiz-mode panel" id="sentenceMode">
+            <p class="question-label">选择合适的单词</p>
+            <h2 id="sentencePrompt">I can ___.</h2>
+            <p class="sentence-hint" id="sentenceHint">我会/可以：学习。</p>
+            <div class="option-grid" id="sentenceOptions"></div>
+            <p class="feedback" id="sentenceFeedback"></p>
+          </div>
+
+          <div class="wrong-mode panel" id="wrongMode">
+            <div class="list-header">
+              <strong>错词复习</strong>
+              <button class="text-button" id="clearWrong">清空</button>
+            </div>
+            <div class="action-row">
+              <button class="primary-button" id="wrongChoiceBtn">错题选择题</button>
+              <button class="primary-button" id="wrongSentenceBtn">错题应用题</button>
+            </div>
+            <div class="quiz-mode wrong-practice" id="wrongPractice" hidden>
+              <p class="question-label" id="wrongPracticeLabel">错题练习</p>
+              <h2 id="wrongPrompt"></h2>
+              <p class="sentence-hint" id="wrongHint"></p>
+              <div class="option-grid" id="wrongOptions"></div>
+              <p class="feedback" id="wrongFeedback"></p>
+            </div>
+            <div id="wrongList" class="wrong-list"></div>
+          </div>
+
+          <div class="read-mode panel" id="read100Mode">
+            <div class="read-card">
+              <div class="read-header">
+                <p class="question-label">100句子挑战</p>
+                <span id="readSentenceNo">Sentence 01 / 100</span>
+              </div>
+              <h2 id="readEnglish">It's time for us to have lunch.</h2>
+              <p class="sentence-hint" id="readChinese">我们该吃午饭了。</p>
+              <div class="read-progress">
+                <span id="readAttemptText">跟读 0 / 10</span>
+                <span id="readAverageText">平均分 --</span>
+              </div>
+              <div class="pet-progress read-score-bar"><span id="readScoreProgress"></span></div>
+              <p class="feedback" id="readFeedback">先听示例发音，再点击跟读评分。</p>
+              <div class="action-row">
+                <button class="icon-button" id="prevSentenceBtn" title="上一句">←</button>
+                <button class="primary-button" id="sampleSentenceBtn">示例读</button>
+                <button class="primary-button" id="recordSentenceBtn">跟读评分</button>
+                <button class="icon-button" id="nextSentenceBtn" title="下一句">→</button>
+              </div>
+              <div class="read-attempts" id="readAttempts"></div>
+            </div>
+          </div>
+        </section>
+      </section>
+    </main>
+    <script src="./vocabulary-data.js?v=27"></script>
+    <script src="./sentences-data.js?v=1"></script>
+    <script src="./app.js?v=31"></script>
+  </body>
+</html>
