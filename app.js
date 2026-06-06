@@ -970,8 +970,10 @@ function renderPet() {
 
 function touchPet() {
   const runId = (petTouchRun += 1);
-  const videoSrc = `./dog/dog1-1.mp4?t=${Date.now()}`;
-  const gifSrc = "./dog/dog1-1.gif";
+  const rank = petRank();
+  const videoSrc = `./dog/dog${rank.growth}-1.mp4?t=${Date.now()}`;
+  const gifSrc = `./dog/dog${rank.growth}-1.gif`;
+  const fallbackGifSrc = "./dog/dog1-1.gif";
 
   const clearVideoEvents = () => {
     els.petVideo.onloadeddata = null;
@@ -991,6 +993,10 @@ function touchPet() {
     els.petVideo.removeAttribute("src");
     els.petPhoto.hidden = false;
     els.petPhoto.src = `${gifSrc}?t=${Date.now()}`;
+    els.petPhoto.onerror = () => {
+      els.petPhoto.onerror = null;
+      els.petPhoto.src = `${fallbackGifSrc}?t=${Date.now()}`;
+    };
     getGifDuration(gifSrc)
       .then((duration) => {
         setTimeout(restorePet, duration || touchGifFallbackDuration);
@@ -1390,7 +1396,7 @@ function activeSentenceProgress(item) {
   if (!Array.isArray(sentenceProgress.attempts)) sentenceProgress.attempts = [];
   if (!("recite" in sentenceProgress)) sentenceProgress.recite = null;
   if (!("reciteRewarded" in sentenceProgress)) sentenceProgress.reciteRewarded = false;
-  if (!Number.isFinite(sentenceProgress.activeAttemptIndex)) {
+  if (!Number.isFinite(sentenceProgress.activeAttemptIndex) || sentenceProgress.activeAttemptIndex < sentenceProgress.attempts.length) {
     sentenceProgress.activeAttemptIndex = sentenceProgress.attempts.length;
   }
   return sentenceProgress;
@@ -1418,19 +1424,6 @@ function playReadAttempt(index) {
     return;
   }
   speak(attempt?.text || item.en);
-}
-
-function rerunReadAttempt(index) {
-  const item = activeSentenceChallenge();
-  if (!item) return;
-  cancelActiveReadSession();
-  const sentenceProgress = activeSentenceProgress(item);
-  sentenceProgress.activeAttemptIndex = Math.max(0, Math.min(index, sentenceProgress.attempts.length));
-  saveProgress();
-  renderReadChallenge();
-  setTimeout(() => {
-    recordSentenceReading();
-  }, 80);
 }
 
 function renderReadChallenge() {
@@ -1473,7 +1466,6 @@ function renderReadChallenge() {
           <span>${escapeHtml(attempt.text || "未识别到内容")}</span>
           <div class="read-attempt-actions">
             <button class="text-button" data-read-play="${index}">播放</button>
-            <button class="text-button" data-read-rerun="${index}">重录</button>
           </div>
         </div>
       `
@@ -1482,11 +1474,6 @@ function renderReadChallenge() {
   els.readAttempts.querySelectorAll("[data-read-play]").forEach((button) => {
     button.addEventListener("click", () => {
       playReadAttempt(Number(button.dataset.readPlay || 0));
-    });
-  });
-  els.readAttempts.querySelectorAll("[data-read-rerun]").forEach((button) => {
-    button.addEventListener("click", () => {
-      rerunReadAttempt(Number(button.dataset.readRerun || 0));
     });
   });
 }
@@ -1552,6 +1539,8 @@ async function recordSentenceReading() {
   const item = activeSentenceChallenge();
   if (!item) return;
   cancelActiveReadSession();
+  const startProgress = activeSentenceProgress(item);
+  startProgress.activeAttemptIndex = startProgress.attempts.length;
   const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
   if (!SpeechRecognition) {
     els.readFeedback.textContent = "当前浏览器不支持语音识别，请使用 Chrome 或 Edge。";
@@ -1602,8 +1591,7 @@ async function recordSentenceReading() {
       return;
     }
     const sentenceProgress = activeSentenceProgress(item);
-    const requestedIndex = Number(sentenceProgress.activeAttemptIndex || 0);
-    const activeIndex = Math.max(0, Math.min(requestedIndex, sentenceProgress.attempts.length));
+    const activeIndex = sentenceProgress.attempts.length;
     let audio = "";
     if (audioChunks.length) {
       try {
