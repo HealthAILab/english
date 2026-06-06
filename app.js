@@ -676,7 +676,7 @@ function completedGroupCount() {
 
 function petRank() {
   const count = completedGroupCount();
-  const rankIndex = Math.min(20, Math.max(1, count));
+  const rankIndex = Math.min(20, Math.max(1, count + 1));
   return {
     growth: Math.floor((rankIndex - 1) / 10) + 1,
     level: ((rankIndex - 1) % 10) + 1,
