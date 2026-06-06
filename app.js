@@ -1333,9 +1333,19 @@ function normalizeSpeechText(text) {
   return String(text || "")
     .toLowerCase()
     .replace(/[’']/g, "")
-    .replace(/[^a-z0-9\\s]/g, " ")
-    .split(/\\s+/)
+    .replace(/[^a-z0-9\s]/g, " ")
+    .split(/\s+/)
     .filter(Boolean);
+}
+
+function speechResultText(event) {
+  const parts = [];
+  for (let index = 0; index < event.results.length; index += 1) {
+    const result = event.results[index];
+    const text = result?.[0]?.transcript || "";
+    if (text.trim()) parts.push(text.trim());
+  }
+  return parts.join(" ").trim();
 }
 
 function scoreReading(target, spoken) {
@@ -1583,8 +1593,8 @@ async function recordSentenceReading() {
     renderReadChallenge();
   };
   recognition.onresult = (event) => {
-    spoken = event.results?.[0]?.[0]?.transcript || "";
-    gotResult = true;
+    spoken = speechResultText(event);
+    gotResult = Boolean(normalizeSpeechText(spoken).length);
     score = scoreReading(item.en, spoken);
   };
   recognition.onerror = () => {
