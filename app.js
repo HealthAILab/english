@@ -1,4 +1,7 @@
-const words = Array.isArray(window.VOCABULARY) ? window.VOCABULARY : [];
+const words = [
+  ...(Array.isArray(window.VOCABULARY) ? window.VOCABULARY : []),
+  ...(Array.isArray(window.FOUR_DOWN_WORDS) ? window.FOUR_DOWN_WORDS : []),
+];
 const sentenceChallenges = Array.isArray(window.SENTENCE_CHALLENGES) ? window.SENTENCE_CHALLENGES : [];
 const fourDownQuestions = Array.isArray(window.FOUR_DOWN_QUESTIONS) ? window.FOUR_DOWN_QUESTIONS : [];
 
@@ -122,13 +125,11 @@ const els = {
   nextSentenceBtn: document.getElementById("nextSentenceBtn"),
   sampleSentenceBtn: document.getElementById("sampleSentenceBtn"),
   recordSentenceBtn: document.getElementById("recordSentenceBtn"),
-  reciteSentenceBtn: document.getElementById("reciteSentenceBtn"),
   finishReadingBtn: document.getElementById("finishReadingBtn"),
 };
 
 const levelLabels = { primary: "小学版", high: "高中版", fourdown: "四下", read: "读句子" };
 const READ_REQUIRED_ATTEMPTS = 10;
-const RECITE_PASS_SCORE = 60;
 const ASSET_VERSION = "51";
 const GROUP_SIZE_BY_LEVEL = { primary: 10, high: 50, fourdown: 10 };
 const petLevelNames = [
@@ -770,12 +771,7 @@ function updateFilter(next) {
   Object.assign(state, next);
   if (state.level === "read") {
     state.mode = "read100";
-  } else if (state.level === "fourdown") {
-    state.mode = "fourDown";
-    if (state.semantic === "all") state.semantic = String(fourDownUnits()[0] || 1);
   } else if (state.mode === "read100") {
-    state.mode = "cards";
-  } else if (state.mode === "fourDown") {
     state.mode = "cards";
   }
   state.index = 0;
@@ -796,51 +792,24 @@ function makeChip(container, label, active, onClick, extraClass = "") {
 function renderFilters() {
   els.levelFilters.innerHTML = "";
   Object.entries(levelLabels).forEach(([value, label]) => {
-    const count = value === "read" ? sentenceChallenges.length : value === "fourdown" ? fourDownQuestions.length : words.filter((item) => item.level === value).length;
+    const count = value === "read" ? sentenceChallenges.length : words.filter((item) => item.level === value).length;
     makeChip(els.levelFilters, `${label} ${count}`, state.level === value, () => updateFilter({ level: value, pos: "all", semantic: "all", group: 1 }));
   });
 
   const readingMode = state.level === "read";
-  const fourDownMode = isFourDownLevel();
   document.querySelectorAll(".word-only-filter").forEach((block) => {
-    block.hidden = readingMode || fourDownMode;
+    block.hidden = readingMode;
   });
-  els.posFilters.closest(".filter-block").hidden = readingMode || fourDownMode;
+  els.posFilters.closest(".filter-block").hidden = readingMode;
   els.semanticFilters.closest(".filter-block").hidden = readingMode;
   els.groupFilters.closest(".filter-block").hidden = readingMode;
-  document.querySelector(".mode-tabs").hidden = readingMode || fourDownMode;
+  document.querySelector(".mode-tabs").hidden = readingMode;
   document.querySelector(".word-list").hidden = readingMode;
-  document.querySelector(".word-list").hidden = readingMode || fourDownMode;
-  document.querySelector(".study-layout").classList.toggle("reading-layout", readingMode || fourDownMode);
+  document.querySelector(".study-layout").classList.toggle("reading-layout", readingMode);
   if (readingMode) {
     els.posFilters.innerHTML = "";
     els.semanticFilters.innerHTML = "";
     els.groupFilters.innerHTML = "";
-    return;
-  }
-
-  if (fourDownMode) {
-    if (els.semanticFilters.previousElementSibling) {
-      els.semanticFilters.previousElementSibling.textContent = "Unit";
-    }
-    els.posFilters.innerHTML = "";
-    els.semanticFilters.innerHTML = "";
-    const units = fourDownUnits();
-    if (state.semantic === "all") state.semantic = String(units[0] || 1);
-    units.forEach((unit) => {
-      const count = fourDownQuestions.filter((item) => item.unit === unit).length;
-      makeChip(els.semanticFilters, `Unit ${unit} ${count}`, Number(state.semantic) === unit, () => updateFilter({ semantic: String(unit), group: 1 }));
-    });
-    const unitQuestions = fourDownUnitQuestions();
-    const groupCount = Math.max(1, Math.ceil(unitQuestions.length / currentGroupSize()));
-    if (state.group > groupCount) state.group = groupCount;
-    els.groupFilters.innerHTML = "";
-    for (let group = 1; group <= groupCount; group += 1) {
-      const groupQuestions = unitQuestions.filter((item) => item.group === group);
-      const start = groupQuestions[0]?.number || 0;
-      const end = groupQuestions[groupQuestions.length - 1]?.number || 0;
-      makeChip(els.groupFilters, `第${group}组 ${start}-${end}`, state.group === group, () => updateFilter({ group }));
-    }
     return;
   }
 
@@ -886,7 +855,7 @@ function renderFilters() {
 }
 
 function updateStats() {
-  const statsLevel = activePetLevel();
+  const statsLevel = state.level === "read" ? activePetLevel() : state.level;
   const levelWords = words.filter((item) => item.level === statsLevel);
   const levelIds = new Set(levelWords.map((item) => item.id));
   els.learnedCount.textContent = [...state.mastered].filter((id) => levelIds.has(id)).length;
@@ -1564,26 +1533,18 @@ function renderReadChallenge() {
     els.readFeedback.textContent = "请先加载句子数据。";
     els.readAttempts.innerHTML = "";
     els.recordSentenceBtn.disabled = false;
-    els.reciteSentenceBtn.disabled = true;
     return;
   }
   const sentenceProgress = activeSentenceProgress(item);
   const attempts = sentenceProgress.attempts;
   const average = attempts.length ? Math.round(attempts.reduce((sum, item) => sum + item.score, 0) / attempts.length) : 0;
-  const readComplete = attempts.length >= READ_REQUIRED_ATTEMPTS;
-  const reciteScore = sentenceProgress.recite?.score;
-  const reciteStatus = sentenceProgress.reciteRewarded
-    ? `背诵通过 ${reciteScore} 分`
-    : readComplete
-      ? "可背诵评分，60分通过"
-      : "完成10遍后可背诵";
+  const readStatus = attempts.length >= READ_REQUIRED_ATTEMPTS ? "已达成，可继续跟读" : `至少跟读 ${READ_REQUIRED_ATTEMPTS} 遍`;
   els.readSentenceNo.textContent = `Sentence ${String(item.number).padStart(2, "0")} / ${sentenceChallenges.length}`;
   els.readEnglish.textContent = item.en;
   els.readChinese.textContent = item.zh;
   els.readAttemptText.textContent = `跟读 ${attempts.length} / ${READ_REQUIRED_ATTEMPTS} · 当前第 ${sentenceProgress.activeAttemptIndex + 1} 遍`;
-  els.readAverageText.textContent = attempts.length ? `平均分 ${average} · ${reciteStatus}` : `平均分 -- · ${reciteStatus}`;
+  els.readAverageText.textContent = attempts.length ? `平均分 ${average} · ${readStatus}` : `平均分 -- · ${readStatus}`;
   els.readScoreProgress.style.width = `${Math.min(100, (attempts.length / READ_REQUIRED_ATTEMPTS) * 100)}%`;
-  els.reciteSentenceBtn.disabled = !readComplete;
   els.readAttempts.innerHTML = attempts
     .map(
       (attempt, index) => `
@@ -1674,7 +1635,6 @@ async function recordSentenceReading() {
   }
   try {
     els.recordSentenceBtn.disabled = true;
-    els.reciteSentenceBtn.disabled = true;
     els.readFeedback.textContent = "正在准备麦克风。";
     await ensureMicrophoneReady();
   } catch {
@@ -1872,172 +1832,6 @@ function finishSentenceReading() {
   }
 }
 
-async function recordSentenceRecite() {
-  const item = activeSentenceChallenge();
-  if (!item) return;
-  const sentenceProgress = activeSentenceProgress(item);
-  if (sentenceProgress.attempts.length < READ_REQUIRED_ATTEMPTS) {
-    els.readFeedback.textContent = `请先完成 ${READ_REQUIRED_ATTEMPTS} 遍跟读，再进行背诵评分。`;
-    return;
-  }
-  cancelActiveReadSession();
-  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
-  if (!SpeechRecognition) {
-    els.readFeedback.textContent = "当前浏览器不支持语音识别，请使用 Chrome 或 Edge。";
-    return;
-  }
-  try {
-    els.recordSentenceBtn.disabled = true;
-    els.reciteSentenceBtn.disabled = true;
-    els.readFeedback.textContent = "正在准备麦克风。";
-    await ensureMicrophoneReady();
-  } catch {
-    els.recordSentenceBtn.disabled = false;
-    renderReadChallenge();
-    els.readFeedback.textContent = "麦克风未授权，无法背诵评分。请在浏览器地址栏允许麦克风。";
-    return;
-  }
-
-  const recognition = new SpeechRecognition();
-  recognition.lang = "en-US";
-  recognition.continuous = true;
-  recognition.interimResults = false;
-  recognition.maxAlternatives = 1;
-  setReadReciteActive(true);
-  els.readFeedback.textContent = "正在听背诵，请背完后点“已读完”。";
-
-  let spoken = "";
-  let score = 0;
-  let gotResult = false;
-  let finished = false;
-  let cancelled = false;
-  let userFinished = false;
-  let restartCount = 0;
-  let listenTimer = null;
-
-  const saveRecite = () => {
-    setReadReciteActive(false);
-    if (!gotResult) {
-      els.readFeedback.textContent = "没有识别到背诵内容，请靠近麦克风再试。";
-      renderReadChallenge();
-      return;
-    }
-    const latestProgress = activeSentenceProgress(item);
-    latestProgress.recite = { score, text: spoken, at: Date.now() };
-    if (score >= RECITE_PASS_SCORE && !latestProgress.reciteRewarded) {
-      latestProgress.reciteRewarded = true;
-      addLevelGroup("recite100", "primary");
-      els.readFeedback.textContent = `背诵通过，${score} 分，升级成功。`;
-    } else if (score >= RECITE_PASS_SCORE) {
-      els.readFeedback.textContent = `背诵通过，${score} 分。`;
-    } else {
-      els.readFeedback.textContent = `背诵 ${score} 分，未达 ${RECITE_PASS_SCORE} 分，请再试。`;
-    }
-    saveProgress();
-    renderReadChallenge();
-  };
-
-  recognition.onresult = (event) => {
-    spoken = speechResultText(event);
-    gotResult = Boolean(normalizeSpeechText(spoken).length);
-    score = scoreReading(item.en, spoken);
-  };
-  recognition.onerror = () => {
-    if (cancelled) return;
-    gotResult = false;
-    els.readFeedback.textContent = "背诵识别失败，请再试一次。";
-  };
-  const finishListening = () => {
-    if (finished) return;
-    if (!cancelled && !userFinished && !gotResult && restartCount < 3) {
-      restartCount += 1;
-      els.readFeedback.textContent = "正在听背诵，请继续背，背完后点“已读完”。";
-      setTimeout(() => {
-        try {
-          recognition.start();
-        } catch {
-          userFinished = true;
-          finishListening();
-        }
-      }, 200);
-      return;
-    }
-    finished = true;
-    if (listenTimer) {
-      clearTimeout(listenTimer);
-      listenTimer = null;
-    }
-    if (activeReadRecognition === recognition) activeReadRecognition = null;
-    if (activeReadCancel === cancelThisSession) activeReadCancel = null;
-    if (activeReadFinish === finishThisSession) activeReadFinish = null;
-    els.finishReadingBtn.disabled = true;
-    if (cancelled) {
-      setReadReciteActive(false);
-      els.recordSentenceBtn.disabled = false;
-      renderReadChallenge();
-      return;
-    }
-    els.recordSentenceBtn.disabled = false;
-    saveRecite();
-  };
-  const cancelThisSession = () => {
-    cancelled = true;
-    if (listenTimer) {
-      clearTimeout(listenTimer);
-      listenTimer = null;
-    }
-    els.finishReadingBtn.disabled = true;
-    setReadReciteActive(false);
-    els.recordSentenceBtn.disabled = false;
-    renderReadChallenge();
-    try {
-      recognition.abort?.();
-    } catch {
-      try {
-        recognition.stop?.();
-      } catch {
-        // Ignore stale browser speech-recognition sessions.
-      }
-    }
-  };
-  const finishThisSession = () => {
-    userFinished = true;
-    try {
-      recognition.stop();
-    } catch {
-      finishListening();
-    }
-  };
-  recognition.onend = finishListening;
-  activeReadRecognition = recognition;
-  activeReadCancel = cancelThisSession;
-  activeReadFinish = finishThisSession;
-  els.finishReadingBtn.disabled = false;
-  try {
-    recognition.start();
-  } catch {
-    activeReadRecognition = null;
-    activeReadCancel = null;
-    activeReadFinish = null;
-    els.finishReadingBtn.disabled = true;
-    setReadReciteActive(false);
-    els.recordSentenceBtn.disabled = false;
-    renderReadChallenge();
-    els.readFeedback.textContent = "背诵识别启动失败，请重新点击背诵评分。";
-    return;
-  }
-  listenTimer = setTimeout(() => {
-    if (finished || cancelled) return;
-    userFinished = true;
-    els.readFeedback.textContent = "已自动停止，正在识别背诵。";
-    try {
-      recognition.stop();
-    } catch {
-      finishListening();
-    }
-  }, 30000);
-}
-
 function refreshPractice() {
   if (state.mode === "choice") newChoiceQuestion();
   if (state.mode === "sentence") newSentenceQuestion();
@@ -2070,7 +1864,7 @@ function speak(text) {
 
 function render() {
   renderFilters();
-  if (state.level !== "read" && state.level !== "fourdown") {
+  if (state.level !== "read") {
     renderCard();
     renderWordList();
     renderWrongList();
@@ -2156,7 +1950,6 @@ els.prevSentenceBtn.addEventListener("click", () => changeReadSentence(-1));
 els.nextSentenceBtn.addEventListener("click", () => changeReadSentence(1));
 els.sampleSentenceBtn.addEventListener("click", speakSentenceExample);
 els.recordSentenceBtn.addEventListener("click", recordSentenceReading);
-els.reciteSentenceBtn.addEventListener("click", recordSentenceRecite);
 els.finishReadingBtn.addEventListener("click", finishSentenceReading);
 
 els.petTouchBtn.addEventListener("click", touchPet);
