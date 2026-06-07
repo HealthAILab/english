@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>英语单词分级记忆</title>
-    <link rel="stylesheet" href="./styles.css?v=47" />
+    <link rel="stylesheet" href="./styles.css?v=48" />
   </head>
   <body>
     <main class="app-shell">
@@ -12,7 +12,7 @@
         <div class="title-block">
           <p class="eyebrow">Primary & High School Vocabulary</p>
           <h1>英语单词分级记忆</h1>
-          <p class="subtitle">按小学版/高中版、词性和分类筛选，用单词卡、中选英和单选题练习。</p>
+          <p class="subtitle">按小学版/高中版/四下题库、词性和分类筛选，用单词卡、中选英和单选题练习。</p>
         </div>
         <div class="scene" aria-hidden="true">
           <div class="sun"></div>
@@ -137,6 +137,14 @@
             <p class="feedback" id="sentenceFeedback"></p>
           </div>
 
+          <div class="quiz-mode panel fourdown-mode" id="fourDownMode">
+            <p class="question-label" id="fourDownLabel">四下单选</p>
+            <h2 id="fourDownPrompt">请选择正确答案。</h2>
+            <p class="sentence-hint" id="fourDownHint">Unit 1 · 第1组</p>
+            <div class="option-grid" id="fourDownOptions"></div>
+            <p class="feedback" id="fourDownFeedback"></p>
+          </div>
+
           <div class="wrong-mode panel" id="wrongMode">
             <div class="list-header">
               <strong>错词复习</strong>
@@ -186,6 +194,7 @@
     </main>
     <script src="./vocabulary-data.js?v=30"></script>
     <script src="./sentences-data.js?v=1"></script>
-    <script src="./app.js?v=50"></script>
+    <script src="./fourdown-data.js?v=1"></script>
+    <script src="./app.js?v=52"></script>
   </body>
 </html>

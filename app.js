@@ -1,5 +1,6 @@
 const words = Array.isArray(window.VOCABULARY) ? window.VOCABULARY : [];
 const sentenceChallenges = Array.isArray(window.SENTENCE_CHALLENGES) ? window.SENTENCE_CHALLENGES : [];
+const fourDownQuestions = Array.isArray(window.FOUR_DOWN_QUESTIONS) ? window.FOUR_DOWN_QUESTIONS : [];
 
 function readJsonStorage(key, fallback) {
   try {
@@ -47,15 +48,16 @@ const state = {
   pets: initialPets(),
   petProgress: initialPetProgress(),
   currentQuiz: null,
-  queues: { choice: [], sentence: [], wrongChoice: [], wrongSentence: [] },
-  batchDone: { choice: false, sentence: false, wrongChoice: false, wrongSentence: false },
-  batchStarted: { choice: false, sentence: false, wrongChoice: false, wrongSentence: false },
-  batchRewarded: { choice: false, sentence: false, wrongChoice: false, wrongSentence: false },
+  queues: { choice: [], sentence: [], wrongChoice: [], wrongSentence: [], fourDown: [] },
+  batchDone: { choice: false, sentence: false, wrongChoice: false, wrongSentence: false, fourDown: false },
+  batchStarted: { choice: false, sentence: false, wrongChoice: false, wrongSentence: false, fourDown: false },
+  batchRewarded: { choice: false, sentence: false, wrongChoice: false, wrongSentence: false, fourDown: false },
   batchStats: {
     choice: { total: 0, correct: 0, wrong: 0 },
     sentence: { total: 0, correct: 0, wrong: 0 },
     wrongChoice: { total: 0, correct: 0, wrong: 0 },
     wrongSentence: { total: 0, correct: 0, wrong: 0 },
+    fourDown: { total: 0, correct: 0, wrong: 0 },
   },
 };
 
@@ -92,6 +94,11 @@ const els = {
   sentenceHint: document.getElementById("sentenceHint"),
   sentenceOptions: document.getElementById("sentenceOptions"),
   sentenceFeedback: document.getElementById("sentenceFeedback"),
+  fourDownLabel: document.getElementById("fourDownLabel"),
+  fourDownPrompt: document.getElementById("fourDownPrompt"),
+  fourDownHint: document.getElementById("fourDownHint"),
+  fourDownOptions: document.getElementById("fourDownOptions"),
+  fourDownFeedback: document.getElementById("fourDownFeedback"),
   wrongList: document.getElementById("wrongList"),
   clearWrong: document.getElementById("clearWrong"),
   wrongChoiceBtn: document.getElementById("wrongChoiceBtn"),
@@ -119,11 +126,11 @@ const els = {
   finishReadingBtn: document.getElementById("finishReadingBtn"),
 };
 
-const levelLabels = { primary: "小学版", high: "高中版", read: "读句子" };
+const levelLabels = { primary: "小学版", high: "高中版", fourdown: "四下", read: "读句子" };
 const READ_REQUIRED_ATTEMPTS = 10;
 const RECITE_PASS_SCORE = 60;
 const ASSET_VERSION = "51";
-const GROUP_SIZE_BY_LEVEL = { primary: 10, high: 50 };
+const GROUP_SIZE_BY_LEVEL = { primary: 10, high: 50, fourdown: 10 };
 const petLevelNames = [
   "小奶狗",
   "萌萌狗",
@@ -157,7 +164,7 @@ function baseLevelWords() {
 }
 
 function activePetLevel() {
-  return state.level === "read" ? "primary" : state.level;
+  return state.level === "read" || state.level === "fourdown" ? "primary" : state.level;
 }
 
 function currentGroupSize(level = state.level) {
@@ -166,6 +173,23 @@ function currentGroupSize(level = state.level) {
 
 function isHighLevel(level = state.level) {
   return level === "high";
+}
+
+function isFourDownLevel(level = state.level) {
+  return level === "fourdown";
+}
+
+function fourDownUnits() {
+  return [...new Set(fourDownQuestions.map((item) => item.unit))].sort((a, b) => a - b);
+}
+
+function fourDownUnitQuestions() {
+  const unit = state.semantic === "all" ? fourDownUnits()[0] : Number(state.semantic);
+  return fourDownQuestions.filter((item) => item.unit === unit);
+}
+
+function filteredFourDownQuestions() {
+  return fourDownUnitQuestions().filter((item) => item.group === state.group);
 }
 
 function wordsAfterPos() {
@@ -732,8 +756,13 @@ function resetQuizBatches() {
   state.batchStarted.sentence = false;
   state.batchRewarded.choice = false;
   state.batchRewarded.sentence = false;
+  state.batchRewarded.fourDown = false;
   state.batchStats.choice = { total: 0, correct: 0, wrong: 0 };
   state.batchStats.sentence = { total: 0, correct: 0, wrong: 0 };
+  state.queues.fourDown = [];
+  state.batchDone.fourDown = false;
+  state.batchStarted.fourDown = false;
+  state.batchStats.fourDown = { total: 0, correct: 0, wrong: 0 };
   state.currentQuiz = null;
 }
 
@@ -741,7 +770,12 @@ function updateFilter(next) {
   Object.assign(state, next);
   if (state.level === "read") {
     state.mode = "read100";
+  } else if (state.level === "fourdown") {
+    state.mode = "fourDown";
+    if (state.semantic === "all") state.semantic = String(fourDownUnits()[0] || 1);
   } else if (state.mode === "read100") {
+    state.mode = "cards";
+  } else if (state.mode === "fourDown") {
     state.mode = "cards";
   }
   state.index = 0;
@@ -762,20 +796,51 @@ function makeChip(container, label, active, onClick, extraClass = "") {
 function renderFilters() {
   els.levelFilters.innerHTML = "";
   Object.entries(levelLabels).forEach(([value, label]) => {
-    const count = value === "read" ? sentenceChallenges.length : words.filter((item) => item.level === value).length;
+    const count = value === "read" ? sentenceChallenges.length : value === "fourdown" ? fourDownQuestions.length : words.filter((item) => item.level === value).length;
     makeChip(els.levelFilters, `${label} ${count}`, state.level === value, () => updateFilter({ level: value, pos: "all", semantic: "all", group: 1 }));
   });
 
   const readingMode = state.level === "read";
+  const fourDownMode = isFourDownLevel();
   document.querySelectorAll(".word-only-filter").forEach((block) => {
-    block.hidden = readingMode;
+    block.hidden = readingMode || fourDownMode;
   });
+  els.posFilters.closest(".filter-block").hidden = readingMode || fourDownMode;
+  els.semanticFilters.closest(".filter-block").hidden = readingMode;
+  els.groupFilters.closest(".filter-block").hidden = readingMode;
+  document.querySelector(".mode-tabs").hidden = readingMode || fourDownMode;
   document.querySelector(".word-list").hidden = readingMode;
-  document.querySelector(".study-layout").classList.toggle("reading-layout", readingMode);
+  document.querySelector(".word-list").hidden = readingMode || fourDownMode;
+  document.querySelector(".study-layout").classList.toggle("reading-layout", readingMode || fourDownMode);
   if (readingMode) {
     els.posFilters.innerHTML = "";
     els.semanticFilters.innerHTML = "";
     els.groupFilters.innerHTML = "";
+    return;
+  }
+
+  if (fourDownMode) {
+    if (els.semanticFilters.previousElementSibling) {
+      els.semanticFilters.previousElementSibling.textContent = "Unit";
+    }
+    els.posFilters.innerHTML = "";
+    els.semanticFilters.innerHTML = "";
+    const units = fourDownUnits();
+    if (state.semantic === "all") state.semantic = String(units[0] || 1);
+    units.forEach((unit) => {
+      const count = fourDownQuestions.filter((item) => item.unit === unit).length;
+      makeChip(els.semanticFilters, `Unit ${unit} ${count}`, Number(state.semantic) === unit, () => updateFilter({ semantic: String(unit), group: 1 }));
+    });
+    const unitQuestions = fourDownUnitQuestions();
+    const groupCount = Math.max(1, Math.ceil(unitQuestions.length / currentGroupSize()));
+    if (state.group > groupCount) state.group = groupCount;
+    els.groupFilters.innerHTML = "";
+    for (let group = 1; group <= groupCount; group += 1) {
+      const groupQuestions = unitQuestions.filter((item) => item.group === group);
+      const start = groupQuestions[0]?.number || 0;
+      const end = groupQuestions[groupQuestions.length - 1]?.number || 0;
+      makeChip(els.groupFilters, `第${group}组 ${start}-${end}`, state.group === group, () => updateFilter({ group }));
+    }
     return;
   }
 
@@ -1119,6 +1184,7 @@ function upgradeTaskForMode(mode) {
 function quizElements(mode) {
   if (mode === "choice") return { prompt: els.choicePrompt, options: els.choiceOptions, feedback: els.choiceFeedback };
   if (mode === "sentence") return { prompt: els.sentencePrompt, hint: els.sentenceHint, options: els.sentenceOptions, feedback: els.sentenceFeedback };
+  if (mode === "fourDown") return { prompt: els.fourDownPrompt, hint: els.fourDownHint, options: els.fourDownOptions, feedback: els.fourDownFeedback };
   return { prompt: els.wrongPrompt, hint: els.wrongHint, options: els.wrongOptions, feedback: els.wrongFeedback };
 }
 
@@ -1127,6 +1193,15 @@ function wrongLevelWords() {
 }
 
 function resetBatch(mode) {
+  if (mode === "fourDown") {
+    const sourceQuestions = filteredFourDownQuestions();
+    state.queues.fourDown = sourceQuestions.map((item) => ({ id: item.id })).sort(() => Math.random() - 0.5);
+    state.batchDone.fourDown = false;
+    state.batchStarted.fourDown = true;
+    state.batchRewarded.fourDown = false;
+    state.batchStats.fourDown = { total: state.queues.fourDown.length, correct: 0, wrong: 0 };
+    return;
+  }
   const sourceWords = mode.startsWith("wrong") ? wrongLevelWords() : filteredWords();
   const ids = sourceWords.map((item) => item.id);
   const variantsPerWord = isHighLevel() && ["choice", "sentence"].includes(mode) ? 1 : 2;
@@ -1149,6 +1224,7 @@ function takeQuestionWord(mode) {
   }
   const entry = state.queues[mode].shift();
   state.currentQuizVariant = Number(entry.variant || 0);
+  if (mode === "fourDown") return fourDownQuestions.find((item) => item.id === entry.id) || null;
   return words.find((item) => item.id === entry.id) || null;
 }
 
@@ -1159,7 +1235,11 @@ function showBatchDone(mode) {
   const score = attempts ? Math.round((batch.correct / attempts) * 100) : 0;
   if (!state.batchRewarded[mode] && batch.total > 0) {
     state.batchRewarded[mode] = true;
-    markGroupTask(upgradeTaskForMode(mode), score);
+    if (mode === "fourDown") {
+      if (score >= 60) addLevelGroup(`fourdown-u${state.semantic}-g${state.group}`, "primary");
+    } else {
+      markGroupTask(upgradeTaskForMode(mode), score);
+    }
   }
   prompt.textContent = "本批次已完成";
   options.innerHTML = "";
@@ -1170,13 +1250,14 @@ function showBatchDone(mode) {
     resetBatch(mode);
     if (mode === "choice") newChoiceQuestion();
     if (mode === "sentence") newSentenceQuestion();
+    if (mode === "fourDown") newFourDownQuestion();
     if (mode === "wrongChoice") newWrongQuestion("wrongChoice");
     if (mode === "wrongSentence") newWrongQuestion("wrongSentence");
   });
   options.appendChild(button);
   feedback.innerHTML = `
     <span class="score-line">得分：${score} 分</span>
-    <span>本批次 ${batch.total} 个词，答对 ${batch.correct} 次，答错 ${batch.wrong} 次。${score >= 60 ? "本轮达标。" : "未达 60 分，本轮不计入升级。"}</span>
+    <span>本批次 ${batch.total} 题，答对 ${batch.correct} 次，答错 ${batch.wrong} 次。${score >= 60 ? "本轮达标，已计入小学版升级。" : "未达 60 分，本轮不计入升级。"}</span>
   `;
 }
 
@@ -1253,6 +1334,51 @@ function newWrongQuestion(mode) {
     button.addEventListener("click", () => checkAnswer(button, item, answer, mode));
     els.wrongOptions.appendChild(button);
   });
+}
+
+function newFourDownQuestion() {
+  const question = takeQuestionWord("fourDown");
+  if (!question) {
+    state.batchDone.fourDown = true;
+    showBatchDone("fourDown");
+    return;
+  }
+  const batch = state.batchStats.fourDown;
+  const answered = batch.correct + batch.wrong + 1;
+  state.currentQuiz = question;
+  els.fourDownLabel.textContent = `${question.module} · 第 ${question.number} 题`;
+  els.fourDownPrompt.textContent = `${question.number}. ${question.prompt}`;
+  els.fourDownHint.textContent = `Unit ${question.unit} · 第${question.group}组 · 本轮 ${answered}/${batch.total}`;
+  els.fourDownFeedback.textContent = "";
+  els.fourDownOptions.innerHTML = "";
+  question.options.forEach((option) => {
+    const button = document.createElement("button");
+    button.className = "option fourdown-option";
+    button.textContent = `${option.label}. ${option.text}`;
+    button.addEventListener("click", () => checkFourDownAnswer(button, option.label, question));
+    els.fourDownOptions.appendChild(button);
+  });
+}
+
+function checkFourDownAnswer(button, selected, question) {
+  const correct = selected === question.answer;
+  button.classList.add(correct ? "correct" : "wrong");
+  els.fourDownOptions.querySelectorAll("button").forEach((optionButton) => {
+    optionButton.disabled = true;
+    if (optionButton.textContent.startsWith(`${question.answer}.`)) optionButton.classList.add("correct");
+  });
+  if (correct) {
+    state.batchStats.fourDown.correct += 1;
+    els.fourDownFeedback.textContent = "正确。";
+  } else {
+    state.batchStats.fourDown.wrong += 1;
+    const answerText = question.options.find((option) => option.label === question.answer)?.text || "";
+    els.fourDownFeedback.textContent = `正确答案：${question.answer}. ${answerText}`;
+  }
+  saveProgress();
+  updateStats();
+  renderPet();
+  setTimeout(newFourDownQuestion, 900);
 }
 
 function checkAnswer(button, item, answer, mode) {
@@ -1915,6 +2041,7 @@ async function recordSentenceRecite() {
 function refreshPractice() {
   if (state.mode === "choice") newChoiceQuestion();
   if (state.mode === "sentence") newSentenceQuestion();
+  if (state.mode === "fourDown") newFourDownQuestion();
   if (state.mode === "wrong") {
     els.wrongPractice.hidden = true;
     renderWrongList();
@@ -1943,7 +2070,7 @@ function speak(text) {
 
 function render() {
   renderFilters();
-  if (state.level !== "read") {
+  if (state.level !== "read" && state.level !== "fourdown") {
     renderCard();
     renderWordList();
     renderWrongList();

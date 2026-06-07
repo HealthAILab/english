@@ -850,6 +850,24 @@ h1 {
   letter-spacing: 0;
 }
 
+.fourdown-mode {
+  max-width: 860px;
+}
+
+.fourdown-mode h2 {
+  font-size: 30px;
+  line-height: 1.35;
+}
+
+.fourdown-option {
+  min-height: 72px;
+  height: auto;
+  padding: 12px 16px;
+  text-align: left;
+  line-height: 1.35;
+  white-space: normal;
+}
+
 .option-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -950,5 +968,9 @@ h1 {
 
   .option-grid {
     grid-template-columns: 1fr;
+  }
+
+  .fourdown-mode h2 {
+    font-size: 24px;
   }
 }
