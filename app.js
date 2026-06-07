@@ -34,9 +34,13 @@ function initialPetProgress() {
 
 const state = {
   level: "primary",
+  book: "四下",
   pos: "all",
   semantic: "all",
   group: 1,
+  fourDownBook: "四下",
+  fourDownUnit: 1,
+  fourDownGroup: 1,
   mode: "cards",
   index: 0,
   currentCardId: null,
@@ -71,6 +75,7 @@ const els = {
   wordTotal: document.getElementById("wordTotal"),
   wordList: document.getElementById("wordList"),
   levelFilters: document.getElementById("levelFilters"),
+  bookFilters: document.getElementById("bookFilters"),
   posFilters: document.getElementById("posFilters"),
   semanticFilters: document.getElementById("semanticFilters"),
   groupFilters: document.getElementById("groupFilters"),
@@ -102,6 +107,9 @@ const els = {
   fourDownHint: document.getElementById("fourDownHint"),
   fourDownOptions: document.getElementById("fourDownOptions"),
   fourDownFeedback: document.getElementById("fourDownFeedback"),
+  fourDownBookFilters: document.getElementById("fourDownBookFilters"),
+  fourDownUnitFilters: document.getElementById("fourDownUnitFilters"),
+  fourDownGroupFilters: document.getElementById("fourDownGroupFilters"),
   wrongList: document.getElementById("wrongList"),
   clearWrong: document.getElementById("clearWrong"),
   wrongChoiceBtn: document.getElementById("wrongChoiceBtn"),
@@ -128,7 +136,9 @@ const els = {
   finishReadingBtn: document.getElementById("finishReadingBtn"),
 };
 
-const levelLabels = { primary: "小学版", high: "高中版", fourdown: "四下", read: "读句子" };
+const levelLabels = { primary: "小学版", fourdown: "外研词汇", waiyanQuiz: "外研单选", read: "读句子", high: "高中版" };
+const waiyanQuizBooks = ["四下", "五上", "五下", "六上", "六下"];
+const waiyanWordBooks = ["四下", "五上", "五下", "六上", "六下"];
 const READ_REQUIRED_ATTEMPTS = 10;
 const ASSET_VERSION = "51";
 const GROUP_SIZE_BY_LEVEL = { primary: 10, high: 50, fourdown: 10 };
@@ -161,11 +171,13 @@ function saveProgress() {
 }
 
 function baseLevelWords() {
-  return words.filter((item) => item.level === state.level);
+  const list = words.filter((item) => item.level === state.level);
+  if (state.level !== "fourdown") return list;
+  return list.filter((item) => (item.book || "四下") === state.book);
 }
 
 function activePetLevel() {
-  return state.level === "read" || state.level === "fourdown" ? "primary" : state.level;
+  return state.level === "read" || state.level === "fourdown" || state.level === "waiyanQuiz" ? "primary" : state.level;
 }
 
 function currentGroupSize(level = state.level) {
@@ -180,17 +192,23 @@ function isFourDownLevel(level = state.level) {
   return level === "fourdown";
 }
 
+function isWaiyanQuizLevel(level = state.level) {
+  return level === "waiyanQuiz";
+}
+
 function fourDownUnits() {
+  if (state.fourDownBook !== "四下") return [];
   return [...new Set(fourDownQuestions.map((item) => item.unit))].sort((a, b) => a - b);
 }
 
 function fourDownUnitQuestions() {
-  const unit = state.semantic === "all" ? fourDownUnits()[0] : Number(state.semantic);
+  if (state.fourDownBook !== "四下") return [];
+  const unit = Number(state.fourDownUnit || fourDownUnits()[0] || 1);
   return fourDownQuestions.filter((item) => item.unit === unit);
 }
 
 function filteredFourDownQuestions() {
-  return fourDownUnitQuestions().filter((item) => item.group === state.group);
+  return fourDownUnitQuestions().filter((item) => item.group === Number(state.fourDownGroup || 1));
 }
 
 function wordsAfterPos() {
@@ -771,7 +789,11 @@ function updateFilter(next) {
   Object.assign(state, next);
   if (state.level === "read") {
     state.mode = "read100";
+  } else if (state.level === "waiyanQuiz") {
+    state.mode = "fourDown";
   } else if (state.mode === "read100") {
+    state.mode = "cards";
+  } else if (state.mode === "fourDown") {
     state.mode = "cards";
   }
   state.index = 0;
@@ -789,24 +811,81 @@ function makeChip(container, label, active, onClick, extraClass = "") {
   container.appendChild(button);
 }
 
+function renderFourDownControls() {
+  if (!els.fourDownBookFilters || !els.fourDownUnitFilters || !els.fourDownGroupFilters) return;
+  if (!waiyanQuizBooks.includes(state.fourDownBook)) state.fourDownBook = waiyanQuizBooks[0];
+
+  els.fourDownBookFilters.innerHTML = "";
+  waiyanQuizBooks.forEach((book) => {
+    const count = book === "四下" ? fourDownQuestions.length : 0;
+    makeChip(els.fourDownBookFilters, `${book} ${count}`, state.fourDownBook === book, () => {
+      state.fourDownBook = book;
+      state.fourDownUnit = 1;
+      state.fourDownGroup = 1;
+      resetBatch("fourDown");
+      renderFourDownControls();
+      newFourDownQuestion();
+    });
+  });
+
+  const units = fourDownUnits();
+  if (!units.length) {
+    els.fourDownUnitFilters.innerHTML = `<div class="empty-state compact">暂无 Unit</div>`;
+    els.fourDownGroupFilters.innerHTML = `<div class="empty-state compact">暂无题组</div>`;
+    return;
+  }
+  if (!units.includes(Number(state.fourDownUnit))) state.fourDownUnit = units[0] || 1;
+  const unitQuestions = fourDownUnitQuestions();
+  const groups = [...new Set(unitQuestions.map((item) => item.group))].sort((a, b) => a - b);
+  if (!groups.includes(Number(state.fourDownGroup))) state.fourDownGroup = groups[0] || 1;
+
+  els.fourDownUnitFilters.innerHTML = "";
+  units.forEach((unit) => {
+    const count = fourDownQuestions.filter((item) => item.unit === unit).length;
+    makeChip(els.fourDownUnitFilters, `Unit ${unit} ${count}`, Number(state.fourDownUnit) === unit, () => {
+      state.fourDownUnit = unit;
+      state.fourDownGroup = 1;
+      resetBatch("fourDown");
+      renderFourDownControls();
+      newFourDownQuestion();
+    });
+  });
+
+  els.fourDownGroupFilters.innerHTML = "";
+  groups.forEach((group) => {
+    const groupQuestions = unitQuestions.filter((item) => item.group === group);
+    const start = groupQuestions[0]?.number || 0;
+    const end = groupQuestions[groupQuestions.length - 1]?.number || 0;
+    makeChip(els.fourDownGroupFilters, `第${group}组 ${start}-${end}`, Number(state.fourDownGroup) === group, () => {
+      state.fourDownGroup = group;
+      resetBatch("fourDown");
+      renderFourDownControls();
+      newFourDownQuestion();
+    });
+  });
+}
+
 function renderFilters() {
   els.levelFilters.innerHTML = "";
   Object.entries(levelLabels).forEach(([value, label]) => {
-    const count = value === "read" ? sentenceChallenges.length : words.filter((item) => item.level === value).length;
-    makeChip(els.levelFilters, `${label} ${count}`, state.level === value, () => updateFilter({ level: value, pos: "all", semantic: "all", group: 1 }));
+    const count = value === "read" ? sentenceChallenges.length : value === "waiyanQuiz" ? fourDownQuestions.length : words.filter((item) => item.level === value).length;
+    makeChip(els.levelFilters, `${label} ${count}`, state.level === value, () => updateFilter({ level: value, book: "四下", pos: "all", semantic: "all", group: 1 }));
   });
 
   const readingMode = state.level === "read";
+  const waiyanQuizMode = isWaiyanQuizLevel();
+  const waiyanWordMode = state.level === "fourdown";
   document.querySelectorAll(".word-only-filter").forEach((block) => {
-    block.hidden = readingMode;
+    block.hidden = readingMode || waiyanQuizMode;
   });
-  els.posFilters.closest(".filter-block").hidden = readingMode;
-  els.semanticFilters.closest(".filter-block").hidden = readingMode;
-  els.groupFilters.closest(".filter-block").hidden = readingMode;
-  document.querySelector(".mode-tabs").hidden = readingMode;
-  document.querySelector(".word-list").hidden = readingMode;
-  document.querySelector(".study-layout").classList.toggle("reading-layout", readingMode);
-  if (readingMode) {
+  els.posFilters.closest(".filter-block").hidden = readingMode || waiyanQuizMode;
+  els.semanticFilters.closest(".filter-block").hidden = readingMode || waiyanQuizMode || waiyanWordMode;
+  els.groupFilters.closest(".filter-block").hidden = readingMode || waiyanQuizMode;
+  document.querySelector(".waiyan-word-filter").hidden = !waiyanWordMode || readingMode || waiyanQuizMode;
+  document.querySelector(".mode-tabs").hidden = readingMode || waiyanQuizMode;
+  document.querySelector(".word-list").hidden = readingMode || waiyanQuizMode;
+  document.querySelector(".study-layout").classList.toggle("reading-layout", readingMode || waiyanQuizMode);
+  if (readingMode || waiyanQuizMode) {
     els.posFilters.innerHTML = "";
     els.semanticFilters.innerHTML = "";
     els.groupFilters.innerHTML = "";
@@ -814,6 +893,15 @@ function renderFilters() {
   }
 
   const levelWords = baseLevelWords();
+  if (waiyanWordMode) {
+    els.bookFilters.innerHTML = "";
+    waiyanWordBooks.forEach((book) => {
+      const count = words.filter((item) => item.level === "fourdown" && (item.book || "四下") === book).length;
+      makeChip(els.bookFilters, `${book} ${count}`, state.book === book, () => updateFilter({ book, pos: "all", semantic: "all", group: 1 }));
+    });
+  } else if (els.bookFilters) {
+    els.bookFilters.innerHTML = "";
+  }
   if (els.semanticFilters.previousElementSibling) {
     els.semanticFilters.previousElementSibling.textContent = isHighLevel() ? "频次" : "语义分类";
   }
@@ -824,9 +912,11 @@ function renderFilters() {
     makeChip(els.posFilters, `${pos} ${count}`, state.pos === pos, () => updateFilter({ pos, semantic: "all", group: 1 }));
   });
 
-  const posWords = wordsAfterPos();
   els.semanticFilters.innerHTML = "";
-  if (isHighLevel()) {
+  const posWords = wordsAfterPos();
+  if (waiyanWordMode) {
+    // 外研词汇只按册别、词性和分组筛选。
+  } else if (isHighLevel()) {
     makeChip(els.semanticFilters, "全部频次", state.semantic === "all", () => updateFilter({ semantic: "all", group: 1 }));
     ["高频词", "中频词", "低频词"].filter((frequency) => posWords.some((item) => item.frequency === frequency)).forEach((frequency) => {
       const count = posWords.filter((item) => item.frequency === frequency).length;
@@ -855,7 +945,7 @@ function renderFilters() {
 }
 
 function updateStats() {
-  const statsLevel = state.level === "read" ? activePetLevel() : state.level;
+  const statsLevel = state.level === "read" || state.level === "waiyanQuiz" ? activePetLevel() : state.level;
   const levelWords = words.filter((item) => item.level === statsLevel);
   const levelIds = new Set(levelWords.map((item) => item.id));
   els.learnedCount.textContent = [...state.mastered].filter((id) => levelIds.has(id)).length;
@@ -1205,7 +1295,7 @@ function showBatchDone(mode) {
   if (!state.batchRewarded[mode] && batch.total > 0) {
     state.batchRewarded[mode] = true;
     if (mode === "fourDown") {
-      if (score >= 60) addLevelGroup(`fourdown-u${state.semantic}-g${state.group}`, "primary");
+      if (score >= 60) addLevelGroup(`fourdown-u${state.fourDownUnit}-g${state.fourDownGroup}`, "primary");
     } else {
       markGroupTask(upgradeTaskForMode(mode), score);
     }
@@ -1306,6 +1396,18 @@ function newWrongQuestion(mode) {
 }
 
 function newFourDownQuestion() {
+  renderFourDownControls();
+  if (!filteredFourDownQuestions().length) {
+    state.batchDone.fourDown = false;
+    state.batchStarted.fourDown = false;
+    state.batchStats.fourDown = { total: 0, correct: 0, wrong: 0 };
+    els.fourDownLabel.textContent = `外研单选 · ${state.fourDownBook}`;
+    els.fourDownPrompt.textContent = "暂无题目";
+    els.fourDownHint.textContent = `${state.fourDownBook} 内容暂时为空。`;
+    els.fourDownFeedback.textContent = "";
+    els.fourDownOptions.innerHTML = "";
+    return;
+  }
   const question = takeQuestionWord("fourDown");
   if (!question) {
     state.batchDone.fourDown = true;
@@ -1315,8 +1417,8 @@ function newFourDownQuestion() {
   const batch = state.batchStats.fourDown;
   const answered = batch.correct + batch.wrong + 1;
   state.currentQuiz = question;
-  els.fourDownLabel.textContent = `${question.module} · 第 ${question.number} 题`;
-  els.fourDownPrompt.textContent = `${question.number}. ${question.prompt}`;
+  els.fourDownLabel.textContent = question.module;
+  els.fourDownPrompt.textContent = question.prompt;
   els.fourDownHint.textContent = `Unit ${question.unit} · 第${question.group}组 · 本轮 ${answered}/${batch.total}`;
   els.fourDownFeedback.textContent = "";
   els.fourDownOptions.innerHTML = "";
@@ -1844,6 +1946,7 @@ function refreshPractice() {
 }
 
 function switchMode(mode) {
+  if (mode === "fourDown" && state.level !== "fourdown") return;
   state.mode = mode;
   document.querySelectorAll(".tab").forEach((button) => {
     button.classList.toggle("active", button.dataset.mode === mode);
@@ -1864,7 +1967,7 @@ function speak(text) {
 
 function render() {
   renderFilters();
-  if (state.level !== "read") {
+  if (state.level !== "read" && state.level !== "waiyanQuiz") {
     renderCard();
     renderWordList();
     renderWrongList();
@@ -1875,6 +1978,7 @@ function render() {
     button.classList.toggle("active", button.dataset.mode === state.mode);
   });
   if (state.mode === "read100") renderReadChallenge();
+  if (state.mode === "fourDown") renderFourDownControls();
   updateStats();
   renderPet();
 }

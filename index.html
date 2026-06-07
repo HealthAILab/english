@@ -12,7 +12,7 @@
         <div class="title-block">
           <p class="eyebrow">Primary & High School Vocabulary</p>
           <h1>英语单词分级记忆</h1>
-          <p class="subtitle">按小学版/高中版/四下题库、词性和分类筛选，用单词卡、中选英和单选题练习。</p>
+          <p class="subtitle">按小学版、外研词汇、外研单选、读句子和高中版练习，支持单词卡、中选英、单选题和跟读。</p>
         </div>
         <div class="scene" aria-hidden="true">
           <div class="sun"></div>
@@ -77,6 +77,10 @@
           <div class="filter-title">学段</div>
           <div class="control-group" id="levelFilters" aria-label="学段筛选"></div>
         </div>
+        <div class="filter-block waiyan-word-filter" hidden>
+          <div class="filter-title">册别</div>
+          <div class="control-group" id="bookFilters" aria-label="外研词汇册别筛选"></div>
+        </div>
         <div class="filter-block word-only-filter">
           <div class="filter-title">词性</div>
           <div class="control-group" id="posFilters" aria-label="词性筛选"></div>
@@ -138,7 +142,21 @@
           </div>
 
           <div class="quiz-mode panel fourdown-mode" id="fourDownMode">
-            <p class="question-label" id="fourDownLabel">四下单选</p>
+            <div class="fourdown-controls">
+              <div>
+                <span>册别</span>
+                <div class="control-group" id="fourDownBookFilters"></div>
+              </div>
+              <div>
+                <span>Unit</span>
+                <div class="control-group" id="fourDownUnitFilters"></div>
+              </div>
+              <div>
+                <span>题组</span>
+                <div class="control-group" id="fourDownGroupFilters"></div>
+              </div>
+            </div>
+            <p class="question-label" id="fourDownLabel">外研单选</p>
             <h2 id="fourDownPrompt">请选择正确答案。</h2>
             <p class="sentence-hint" id="fourDownHint">Unit 1 · 第1组</p>
             <div class="option-grid" id="fourDownOptions"></div>
@@ -192,9 +210,9 @@
       </section>
     </main>
     <script src="./vocabulary-data.js?v=30"></script>
-    <script src="./fourdown-words-data.js?v=1"></script>
+    <script src="./fourdown-words-data.js?v=2"></script>
     <script src="./sentences-data.js?v=1"></script>
     <script src="./fourdown-data.js?v=2"></script>
-    <script src="./app.js?v=53"></script>
+    <script src="./app.js?v=54"></script>
   </body>
 </html>
